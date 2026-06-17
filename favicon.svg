@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#07080C"/>
+  <!-- Twin prime dots connected by line -->
+  <circle cx="9" cy="16" r="4" fill="#2DD4BF"/>
+  <circle cx="23" cy="16" r="4" fill="#2DD4BF"/>
+  <line x1="13" y1="16" x2="19" y2="16" stroke="#1A7A6E" stroke-width="1.5"/>
+  <!-- Small p, p+2 label -->
+  <text x="16" y="28" text-anchor="middle" font-family="monospace" font-size="5" fill="#3A3F55" letter-spacing="0.5">p · p+2</text>
+</svg>
