@@ -1,83 +1,110 @@
-
 [
   {
-    "id": "euclid",
-    "name": "Euclid",
-    "years": "c. 300 BC",
-    "nationality": "Greek",
-    "role": "Founder of prime number theory",
-    "contribution": "Proved that there are infinitely many prime numbers — one of the oldest proofs in mathematics. His proof by contradiction remains elegant and airtight after 2,300 years. While he did not study twin primes specifically, his infinitude proof is the template every mathematician reaches for when asking whether a subset of primes might also be infinite.",
-    "quote": "There are more primes than any assigned multitude of prime numbers.",
-    "milestone": "Infinitude of primes (~300 BC)"
+    "title": "The Riemann Hypothesis – interactive explanation",
+    "description": "An interactive journey from 'what is a prime number?' to a genuine understanding of the most important unsolved problem in mathematics.",
+    "url": "https://riemann.adilmoujahid.com",
+    "source": {
+      "name": "Adilmoujahid.com"
+    },
+    "publishedAt": "2026-06-11T11:50:45Z"
   },
   {
-    "id": "depolignac",
-    "name": "Alphonse de Polignac",
-    "years": "1826 – 1863",
-    "nationality": "French",
-    "role": "First to state the conjecture",
-    "contribution": "In 1849, de Polignac conjectured that for every even number k, there are infinitely many prime pairs (p, p+k). Setting k=2 gives the Twin Prime Conjecture. He had no proof — only intuition and pattern recognition. The conjecture bearing his name in its general form is still unproven for every value of k.",
-    "quote": null,
-    "milestone": "Twin Prime Conjecture stated (1849)"
+    "title": "Periodical cicadas in the eastern United States emerge from the ground every 13 or 17 years — both prime numbers, not by coincidence — because their long, indivisible cycles make it nearly impossible for any predator with a shorter life cycle to evolve to feed on them, in one of the most mathematically elegant defenses in the natural world",
+    "description": "In the spring of 2024, two enormous populations of periodical cicadas emerged simultaneously from the soil across the eastern and midwestern United States for the first time since 1803. Brood XIX, a 13-year cicada population concentrated across the Southeast,…",
+    "url": "https://spacedaily.com/d-periodical-cicadas-in-the-eastern-united-states-emerge-from-the-ground-every-13-or-17-years-both-prime-numbers-not-by-coincidence-because-their-long-indivisible-cycles-make-it-ne/",
+    "source": {
+      "name": "Space Daily"
+    },
+    "publishedAt": "2026-06-10T04:15:48Z"
   },
   {
-    "id": "brun",
-    "name": "Viggo Brun",
-    "years": "1885 – 1978",
-    "nationality": "Norwegian",
-    "role": "Proved Brun's theorem",
-    "contribution": "In 1919, Brun proved that the sum of the reciprocals of all twin primes converges to a finite value — now known as Brun's constant (B₂ ≈ 1.9021605832...). This was the first major analytic result about twin primes. Ironically, his theorem is consistent with both a finite and an infinite number of twin primes — it cannot distinguish between the two.",
-    "quote": null,
-    "milestone": "Brun's constant proven (1919)"
+    "title": "How Terry Tao Became an Evangelist for AI in Math",
+    "description": "With automated proof-checkers, a problem can be broken up into small chunks, solved bit-by-bit, then reassembled with confidence that every piece is correct. For some, this heralds a new area in mathematical research. The post How Terry Tao Became an Evangeli…",
+    "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-06-08T15:17:08Z"
   },
   {
-    "id": "hardy-littlewood",
-    "name": "Hardy & Littlewood",
-    "years": "1877–1947 / 1885–1977",
-    "nationality": "British",
-    "role": "Quantified the expected density",
-    "contribution": "G.H. Hardy and John Edensor Littlewood's 1923 Conjecture B gives an asymptotic formula predicting how many twin prime pairs exist below a given number N. Their prediction has been verified computationally to extraordinary precision. The formula does not prove twin primes are infinite — but it provides overwhelming heuristic evidence that they are.",
-    "quote": null,
-    "milestone": "Hardy–Littlewood Conjecture B (1923)"
+    "title": "How AI is reshaping discovery in maths and physics",
+    "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
+    "url": "https://www.nature.com/articles/d41586-026-01820-1",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-06-08T00:00:00Z"
   },
   {
-    "id": "chen",
-    "name": "Jingrun Chen",
-    "years": "1933 – 1996",
-    "nationality": "Chinese",
-    "role": "Proved Chen's theorem",
-    "contribution": "In 1966 (published fully in 1973), Chen proved that every sufficiently large even number is the sum of a prime and a number with at most two prime factors. As a corollary, there are infinitely many primes p such that p+2 is either prime or a semiprime. This is the closest anyone has come to proving the Twin Prime Conjecture using classical sieve methods.",
-    "quote": null,
-    "milestone": "Chen's theorem (1966 / 1973)"
+    "title": "Humans Solve Erdos Problem!!",
+    "description": "(In 2008 I wrote a survey of some of the known sum-product theorems, see  here . Avi Wigderson has a great slide-set on sum-product theorems...",
+    "url": "https://blog.computationalcomplexity.org/2026/06/humans-solve-erdos-problem.html",
+    "source": {
+      "name": "Computationalcomplexity.org"
+    },
+    "publishedAt": "2026-06-07T19:29:06Z"
   },
   {
-    "id": "zhang",
-    "name": "Yitang Zhang",
-    "years": "1955 –",
-    "nationality": "Chinese-American",
-    "role": "Proved the first finite bounded gap",
-    "contribution": "In April 2013, Zhang — then a largely unknown lecturer at the University of New Hampshire — submitted a paper proving that there are infinitely many prime pairs separated by at most 70 million. It was the first time anyone had proven a finite bound on prime gaps. The mathematical world was stunned. Annals of Mathematics accepted it in three weeks. Zhang became one of the most celebrated mathematicians of the century overnight.",
-    "quote": "I never give up.",
-    "milestone": "Bounded gap ≤ 70,000,000 proven (2013)"
+    "title": "A Branch-Switch Obstruction Phenomenon in Primitive Euler Bricks: Computational Through 1 Billion",
+    "description": "I'mThe perfect cuboid problem asks whether there exists a rectangular box whose three edge\r\nlengths, three face diagonals, and space diagonal are all integers. Although many Euler bricks\r\nare known, no perfect cuboid has been discovered, and no impossibility …",
+    "url": "https://community.wolfram.com/groups/-/m/t/3727003",
+    "source": {
+      "name": "Wolfram.com"
+    },
+    "publishedAt": "2026-06-04T02:21:06Z"
   },
   {
-    "id": "maynard",
-    "name": "James Maynard",
-    "years": "1987 –",
-    "nationality": "British",
-    "role": "Reduced the bound to 600, then 246",
-    "contribution": "Within months of Zhang's breakthrough, James Maynard — then a postdoctoral researcher — independently developed a different method and reduced the prime gap bound to 600. The collaborative Polymath Project, building on both Zhang and Maynard, subsequently reduced the bound to 246. In 2022, Maynard was awarded the Fields Medal, mathematics' highest honor, in part for this work.",
-    "quote": null,
-    "milestone": "Bounded gap ≤ 246 (Polymath, 2014) · Fields Medal (2022)"
+    "title": "Mathematicians Puzzled Over a Famous Problem for 80 Years. Now, They've Used A.I. to Identify a Clever Solution",
+    "description": "In 1946, the mathematician Paul Erdős posed the unit distance problem—and suggested a winning strategy. An A.I. model has now landed on a better one. Why didn't humans get there first?",
+    "url": "https://www.smithsonianmag.com/smart-news/mathematicians-puzzled-over-a-famous-problem-for-80-years-now-theyve-used-ai-to-identify-a-clever-solution-180988889/",
+    "source": {
+      "name": "Smithsonian.com"
+    },
+    "publishedAt": "2026-06-03T16:14:17Z"
   },
   {
-    "id": "tao",
-    "name": "Terence Tao",
-    "years": "1975 –",
-    "nationality": "Australian-American",
-    "role": "Polymath Project leader",
-    "contribution": "Widely regarded as the greatest living mathematician, Tao coordinated the Polymath Project that drove the prime gap bound from Zhang's 70 million down to 246. He has made foundational contributions across number theory, harmonic analysis, and combinatorics. His 2004 proof with Ben Green that the primes contain arbitrarily long arithmetic progressions (Green–Tao theorem) is among the most celebrated results of the century.",
-    "quote": "The beauty of mathematics only shows itself to more patient followers.",
-    "milestone": "Green–Tao theorem (2004) · Polymath coordination (2013–2014)"
+    "title": "Start-ups are racing to revolutionise mathematics with AI",
+    "description": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will not only solve mathematics, but also build more intelligent AI",
+    "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
+    "source": {
+      "name": "New Scientist"
+    },
+    "publishedAt": "2026-05-28T13:00:09Z"
+  },
+  {
+    "title": "Dispatches from the possibly last days of human relevance",
+    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry—has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
+    "url": "https://scottaaronson.blog/?p=9782",
+    "source": {
+      "name": "Scottaaronson.blog"
+    },
+    "publishedAt": "2026-05-28T04:36:07Z"
+  },
+  {
+    "title": "Google DeepMind claims AI progress after AlphaProof Nexus solves 9 Erdos math problems",
+    "description": "Google’s latest milestone comes just days after OpenAI said one of its AI models cracked the famous “planar unit distance problem”, which had been unsolved for the last 80 years.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-ai-solves-erdos-math-problems-10708913/",
+    "source": {
+      "name": "The Indian Express"
+    },
+    "publishedAt": "2026-05-26T11:24:58Z"
+  },
+  {
+    "title": "AI just solved an 80-year-old ‘Erdős problem,’ and mathematicians are amazed",
+    "description": "A chatbot’s result for the 80-year-old “unit distance” conjecture is the first AI proof that would likely be published in math’s top journal if humans had done it alone",
+    "url": "https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-05-21T14:47:00Z"
+  },
+  {
+    "title": "The Riemann hypothesis is a million-dollar math problem hardly anyone is trying to solve",
+    "description": "The intimidating legacy of the scariest problem in mathematics",
+    "url": "https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-05-19T10:00:00Z"
   }
 ]
