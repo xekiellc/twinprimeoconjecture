@@ -1,1 +1,279 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Conjecture — Twin Prime Conjecture</title>
+  <meta name="description" content="A deep dive into the Twin Prime Conjecture — its history, the mathematics behind it, major breakthroughs, and why it remains unsolved after 175 years." />
+  <link rel="canonical" href="https://twinprimeconjecture.com/conjecture.html" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p, p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html" class="active">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">Number Theory · Open Since 1849</p>
+        <h1 class="page-title">The Twin Prime<br /><em>Conjecture</em></h1>
+        <p class="page-lead">A question simple enough for a child, unsolved long enough to outlast every mathematician who has ever tried.</p>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- STATUS -->
+    <section class="section" style="padding-top: 3rem; padding-bottom: 3rem;">
+      <div class="container">
+        <div class="status-banner">
+          <span class="status-badge status-badge--unsolved">Unsolved</span>
+          <p class="status-text">
+            <strong>No proof exists as of 2026.</strong> The best known result is a bounded prime gap of 246, proven by James Maynard and the Polymath Project in 2014. The conjecture requires a gap of exactly 2. The remaining distance is unknown.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- THE STATEMENT -->
+    <section class="section">
+      <div class="container">
+        <p class="section-label">The Statement</p>
+        <h2 class="section-title">What the conjecture <em>actually says</em></h2>
+        <div class="section-body">
+          <p>The Twin Prime Conjecture states that there are infinitely many prime numbers p such that p+2 is also prime. In other words, the sequence of twin prime pairs — (3,5), (11,13), (17,19), (29,31) — never ends.</p>
+          <p>This is a special case of Polignac's conjecture, which proposes that for every even positive integer k, there are infinitely many prime pairs separated by exactly k. The Twin Prime Conjecture corresponds to k=2.</p>
+        </div>
+
+        <div class="formula-block" style="margin-top: 2rem;">
+          There exist infinitely many primes p such that p + 2 is also prime.
+          <p class="formula-caption">The Twin Prime Conjecture — formally stated by Alphonse de Polignac, 1849.</p>
+        </div>
+
+        <div class="section-body" style="margin-top: 2rem;">
+          <p>The conjecture is widely believed to be true. The heuristic evidence is overwhelming — twin primes appear with remarkable regularity deep into the number line, and the Hardy–Littlewood conjecture gives an asymptotic formula predicting exactly how many pairs should exist below any given number N. That formula has been verified computationally to extraordinary precision.</p>
+          <p>Belief, however, is not proof. And in mathematics, only proof counts.</p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- WHY IT'S HARD -->
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-label">The Difficulty</p>
+        <h2 class="section-title">Why it has never been <em>proven</em></h2>
+        <div class="section-body">
+          <p>Prime numbers are distributed irregularly. There is no simple formula that generates them. The gaps between consecutive primes grow on average — by the prime number theorem, the average gap near a number N is approximately ln(N). Twin primes are pairs where this gap collapses to its minimum possible value of 2.</p>
+          <p>The core difficulty is that existing analytic tools — sieve methods, zeta functions, exponential sums — are powerful enough to prove results about almost all primes, or about primes in aggregate. But proving that a specific pattern (gap of exactly 2) recurs infinitely often requires a precision these tools have not yet achieved.</p>
+          <p>Sieve methods in particular hit a fundamental obstacle called the parity problem, first identified by Atle Selberg. Sieves naturally distinguish between numbers with an odd versus even number of prime factors — but twin primes require controlling parity in a way that current sieves cannot do.</p>
+        </div>
+
+        <div class="status-banner" style="margin-top: 2.5rem;">
+          <span class="status-badge" style="background: var(--gold); color: var(--void);">Parity Problem</span>
+          <p class="status-text">
+            <strong>The fundamental obstacle.</strong> Sieve methods — the main tool for problems like this — cannot distinguish between numbers with an odd or even number of prime factors. Twin primes require precisely this distinction. No one has found a way around it.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- HISTORY TIMELINE -->
+    <section class="section">
+      <div class="container">
+        <p class="section-label">History</p>
+        <h2 class="section-title">175 years of <em>attempts</em></h2>
+
+        <div class="timeline">
+
+          <div class="timeline-item">
+            <p class="timeline-year">~300 BC</p>
+            <p class="timeline-title">Euclid proves infinitely many primes</p>
+            <p class="timeline-body">Euclid's proof by contradiction establishes that the primes never end. This is the template — prove a subset infinite by assuming it finite and deriving a contradiction. No one has successfully applied this logic to twin primes.</p>
+            <p class="timeline-person">Euclid of Alexandria</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1849</p>
+            <p class="timeline-title">The conjecture is formally stated</p>
+            <p class="timeline-body">Alphonse de Polignac conjectures that for every even k, there are infinitely many prime pairs (p, p+k). For k=2 this is the Twin Prime Conjecture. He had no proof — only pattern recognition from computed examples.</p>
+            <p class="timeline-person">Alphonse de Polignac</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1919</p>
+            <p class="timeline-title">Brun's theorem — the first hard result</p>
+            <p class="timeline-body">Viggo Brun proves that the sum of reciprocals of twin primes converges to a finite value (Brun's constant, B₂ ≈ 1.9021…). This is the first analytic constraint on twin prime distribution. It is consistent with both finite and infinite twin primes.</p>
+            <p class="timeline-person">Viggo Brun</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1923</p>
+            <p class="timeline-title">Hardy–Littlewood conjecture B</p>
+            <p class="timeline-body">Hardy and Littlewood formulate an asymptotic estimate predicting the number of twin prime pairs below N: π₂(N) ≈ 2C₂ · N/(ln N)², where C₂ ≈ 0.6602 is the twin prime constant. Verified computationally to high precision — but unproven.</p>
+            <p class="timeline-person">G.H. Hardy · J.E. Littlewood</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1966 / 1973</p>
+            <p class="timeline-title">Chen's theorem — the closest classical result</p>
+            <p class="timeline-body">Jingrun Chen proves that every sufficiently large even number is the sum of a prime and a number with at most two prime factors. As a corollary, there are infinitely many primes p where p+2 is either prime or a product of exactly two primes (a semiprime). This is tantalizingly close — but "prime or semiprime" is not the same as "prime."</p>
+            <p class="timeline-person">Jingrun Chen</p>
+          </div>
+
+          <div class="timeline-item highlight">
+            <p class="timeline-year">2013 — April</p>
+            <p class="timeline-title">Zhang proves the first finite bounded gap</p>
+            <p class="timeline-body">Yitang Zhang, a then-obscure lecturer at the University of New Hampshire, submits a paper proving there are infinitely many prime pairs separated by at most 70 million. It is the first time anyone has proven any finite bound on prime gaps. Annals of Mathematics accepts it in three weeks. The mathematical world is stunned.</p>
+            <p class="timeline-person">Yitang Zhang</p>
+          </div>
+
+          <div class="timeline-item highlight">
+            <p class="timeline-year">2013 — November</p>
+            <p class="timeline-title">Maynard reduces the bound to 600</p>
+            <p class="timeline-body">James Maynard, independently of Zhang, develops a new multidimensional sieve method and reduces the prime gap bound to 600. His approach is simpler and more powerful than Zhang's. It opens a new front in the attack on twin primes.</p>
+            <p class="timeline-person">James Maynard</p>
+          </div>
+
+          <div class="timeline-item highlight">
+            <p class="timeline-year">2014</p>
+            <p class="timeline-title">Polymath Project reduces the bound to 246</p>
+            <p class="timeline-body">The collaborative Polymath8 project, coordinated by Terence Tao and building on both Zhang and Maynard, drives the proven prime gap bound down to 246. This is where the record stands today. The target is 2.</p>
+            <p class="timeline-person">Polymath Project · Terence Tao</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">2022</p>
+            <p class="timeline-title">Maynard awarded the Fields Medal</p>
+            <p class="timeline-body">James Maynard receives the Fields Medal — mathematics' highest honor — at the International Congress of Mathematicians. His prime gap work is cited as a central contribution.</p>
+            <p class="timeline-person">James Maynard</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">2026</p>
+            <p class="timeline-title">The conjecture remains open</p>
+            <p class="timeline-body">No proof exists. No refutation exists. The bounded gap of 246 stands as the frontier. The distance from 246 to 2 is not merely arithmetic — it may require mathematical tools that do not yet exist.</p>
+            <p class="timeline-person">—</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- HARDY LITTLEWOOD -->
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-label">Heuristics</p>
+        <h2 class="section-title">How many twin primes <em>should</em> exist?</h2>
+        <div class="section-body">
+          <p>The Hardy–Littlewood conjecture B gives a precise asymptotic estimate for the number of twin prime pairs below N. The formula involves the twin prime constant C₂, an infinite product over all primes greater than 2.</p>
+        </div>
+
+        <div class="formula-block" style="margin-top: 2rem;">
+          π₂(N) ≈ 2C₂ · N / (ln N)²
+          <br /><br />
+          C₂ = ∏(p≥3) [ p(p−2) / (p−1)² ] ≈ 0.6601618…
+          <p class="formula-caption">Hardy–Littlewood Conjecture B (1923) — predicts the count of twin prime pairs below N. Verified computationally but unproven.</p>
+        </div>
+
+        <div class="section-body" style="margin-top: 2rem;">
+          <p>For N = 1,000,000, this formula predicts approximately 1,224 twin prime pairs. The actual count is 1,224. The agreement between prediction and reality is extraordinary — which is why most mathematicians are confident the conjecture is true, even without a proof.</p>
+        </div>
+
+        <div style="margin-top: 2.5rem;">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Limit (N)</th>
+                <th>Actual Twin Pairs</th>
+                <th>H–L Estimate</th>
+                <th>Error</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>1,000</td><td>35</td><td>35</td><td>&lt; 1%</td></tr>
+              <tr><td>10,000</td><td>205</td><td>214</td><td>4%</td></tr>
+              <tr><td>100,000</td><td>1,224</td><td>1,249</td><td>2%</td></tr>
+              <tr><td>1,000,000</td><td>8,169</td><td>8,248</td><td>1%</td></tr>
+              <tr><td>10,000,000</td><td>58,980</td><td>59,874</td><td>1.5%</td></tr>
+              <tr><td>100,000,000</td><td>440,312</td><td>451,142</td><td>2.5%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- WHAT WOULD A PROOF REQUIRE -->
+    <section class="section">
+      <div class="container">
+        <p class="section-label">The Road Ahead</p>
+        <h2 class="section-title">What a proof would <em>require</em></h2>
+        <div class="section-body">
+          <p>Most number theorists believe that proving the Twin Prime Conjecture will require genuinely new mathematics — not just refinements of existing techniques. The bounded gap work of Zhang and Maynard is remarkable, but driving a gap from 246 down to 2 may demand tools that do not yet exist.</p>
+          <p>Three approaches are actively being explored. First, further refinements of Maynard's multidimensional sieve — though most experts believe this cannot reach a gap of 2 without a fundamentally new idea. Second, methods from algebraic geometry and the Langlands program, which have proven powerful in other contexts but have not yet been aimed squarely at twin primes. Third, entirely new frameworks — potentially inspired by connections between prime gaps and the eigenvalues of random matrices, a mysterious link discovered in the 1970s that remains unexplained.</p>
+          <p>There is no roadmap. There is no deadline. There is only the problem.</p>
+        </div>
+        <div style="margin-top: 2.5rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+          <a href="mathematicians.html" class="btn-primary">Meet the mathematicians</a>
+          <a href="tools.html" class="btn-secondary">Explore the primes yourself</a>
+        </div>
+      </div>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+</body>
+</html>
