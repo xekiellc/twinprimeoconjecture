@@ -1,1 +1,45 @@
 
+# ================================================================
+# fetch-news.yml — Twin Prime Conjecture
+# Runs fetch-news.js on a schedule to refresh news.json
+# Requires secrets: NEWS_API_KEY, ANTHROPIC_API_KEY
+# ================================================================
+
+name: Fetch Mathematics News
+
+on:
+  schedule:
+    # Runs 4x per day: midnight, 6am, noon, 6pm UTC
+    - cron: '0 0 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run news fetcher
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node fetch-news.js
+
+      - name: Commit updated news.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "chore: refresh news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
