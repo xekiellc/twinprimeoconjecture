@@ -1,1 +1,384 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News — Twin Prime Conjecture</title>
+  <meta name="description" content="The latest news and breakthroughs in prime number research, number theory, and mathematics — sourced and updated automatically." />
+  <link rel="canonical" href="https://twinprimeconjecture.com/news.html" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+
+  <style>
+    .news-full-item {
+      padding: 2rem 0;
+      border-bottom: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 2rem;
+      align-items: start;
+      transition: background 0.15s;
+      cursor: pointer;
+    }
+    .news-full-item:hover { background: var(--surface); margin: 0 -2rem; padding: 2rem; }
+    .news-full-item:last-child { border-bottom: none; }
+    .news-full-date {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      line-height: 1.6;
+      padding-top: 0.2rem;
+    }
+    .news-full-date .month-year {
+      display: block;
+      color: var(--teal);
+      font-size: 0.6rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 0.2rem;
+    }
+    .news-full-title {
+      font-family: var(--ff-display);
+      font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+      color: var(--bright);
+      line-height: 1.3;
+      margin-bottom: 0.5rem;
+      transition: color 0.2s;
+    }
+    .news-full-item:hover .news-full-title { color: var(--teal); }
+    .news-full-source {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--teal);
+      letter-spacing: 0.08em;
+      margin-bottom: 0.6rem;
+    }
+    .news-full-desc {
+      font-size: 0.9rem;
+      line-height: 1.7;
+      color: var(--dim);
+    }
+    .news-full-link {
+      display: inline-block;
+      margin-top: 0.75rem;
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      color: var(--teal);
+      text-transform: uppercase;
+      border-bottom: 1px solid var(--teal-dim);
+      padding-bottom: 1px;
+    }
+    .news-full-link:hover { border-color: var(--teal); }
+
+    .filter-row {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 2.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .filter-chip {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--dim);
+      background: transparent;
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.9rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .filter-chip:hover,
+    .filter-chip.active {
+      color: var(--teal);
+      border-color: var(--teal-dim);
+    }
+
+    .news-count {
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      margin-bottom: 2rem;
+    }
+    .news-count span { color: var(--teal); }
+
+    .pipeline-note {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 1rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      margin-bottom: 2.5rem;
+    }
+    .pipeline-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--teal);
+      border-radius: 50%;
+      flex-shrink: 0;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    .pipeline-text {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--dim);
+      letter-spacing: 0.08em;
+    }
+    .pipeline-text strong { color: var(--text); }
+
+    .empty-state {
+      padding: 4rem 2rem;
+      text-align: center;
+      border: 1px solid var(--border);
+    }
+    .empty-state p {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      margin-bottom: 1rem;
+    }
+
+    @media (max-width: 600px) {
+      .news-full-item {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+      }
+      .news-full-item:hover {
+        margin: 0 -1.25rem;
+        padding: 2rem 1.25rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p, p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html" class="active">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">Mathematics · Number Theory · Prime Research</p>
+        <h1 class="page-title">From the<br /><em>Field</em></h1>
+        <p class="page-lead">The latest developments in prime number research, number theory breakthroughs, and mathematics news — curated and updated four times daily.</p>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- NEWS BODY -->
+    <section class="section">
+      <div class="container">
+
+        <!-- Pipeline status -->
+        <div class="pipeline-note">
+          <div class="pipeline-dot"></div>
+          <p class="pipeline-text">
+            <strong>Live pipeline</strong> — Updated 4× daily via NewsAPI + Claude curation.
+            Articles are selected for relevance to prime numbers, number theory, and mathematics.
+          </p>
+        </div>
+
+        <!-- Filters -->
+        <div class="filter-row">
+          <button class="filter-chip active" onclick="filterNews('all', this)">All</button>
+          <button class="filter-chip" onclick="filterNews('primes', this)">Primes</button>
+          <button class="filter-chip" onclick="filterNews('proof', this)">Proofs</button>
+          <button class="filter-chip" onclick="filterNews('people', this)">Mathematicians</button>
+          <button class="filter-chip" onclick="filterNews('computation', this)">Computation</button>
+        </div>
+
+        <!-- Count -->
+        <p class="news-count" id="news-count">Loading articles…</p>
+
+        <!-- Articles -->
+        <div id="news-list"></div>
+
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- LANDMARK COVERAGE -->
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-label">Essential Reading</p>
+        <h2 class="section-title">The stories that <em>mattered</em></h2>
+        <div class="section-body">
+          <p>Some mathematical results deserve their own moment. These are the landmark articles from when the twin prime problem changed — or nearly changed.</p>
+        </div>
+
+        <div class="card-grid" style="margin-top: 2.5rem;">
+          <a href="https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/" target="_blank" rel="noopener" class="card" style="display: block;">
+            <p class="card-eyebrow">Quanta Magazine · 2016</p>
+            <p class="card-title">Mathematicians Discover Prime Conspiracy</p>
+            <p class="card-body">Primes ending in certain digits are less likely to be followed by primes ending in the same digit — a stunning bias nobody expected to find.</p>
+            <p class="card-link" style="margin-top: 1rem;">Read at Quanta →</p>
+          </a>
+
+          <a href="https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty" target="_blank" rel="noopener" class="card" style="display: block;">
+            <p class="card-eyebrow">The New Yorker · 2015</p>
+            <p class="card-title">The Pursuit of Beauty</p>
+            <p class="card-body">Alec Wilkinson's profile of Yitang Zhang — the most celebrated mathematics story of the decade. Required reading for anyone interested in the bounded gap result.</p>
+            <p class="card-link" style="margin-top: 1rem;">Read at The New Yorker →</p>
+          </a>
+
+          <a href="https://www.quantamagazine.org/together-and-alone-closing-the-prime-gap-20131119/" target="_blank" rel="noopener" class="card" style="display: block;">
+            <p class="card-eyebrow">Quanta Magazine · 2013</p>
+            <p class="card-title">Together and Alone: Closing the Prime Gap</p>
+            <p class="card-body">How Zhang's result and Maynard's independent breakthrough combined with the Polymath Project to drive the prime gap from 70 million to 246 in under a year.</p>
+            <p class="card-link" style="margin-top: 1rem;">Read at Quanta →</p>
+          </a>
+
+          <a href="https://annals.math.princeton.edu/2014/179-3/p07" target="_blank" rel="noopener" class="card" style="display: block;">
+            <p class="card-eyebrow">Annals of Mathematics · 2014</p>
+            <p class="card-title">Bounded Gaps Between Primes — Zhang's Paper</p>
+            <p class="card-body">The original. Yitang Zhang's proof that there are infinitely many prime pairs separated by at most 70 million. The paper that broke open the problem.</p>
+            <p class="card-link" style="margin-top: 1rem;">Read at Annals →</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+  <script>
+    let allArticles = [];
+
+    /* ── KEYWORD CATEGORIES ── */
+    const categories = {
+      primes: ['prime', 'twin', 'gap', 'sieve', 'goldbach', 'riemann', 'conjecture'],
+      proof:  ['proof', 'proven', 'theorem', 'conjecture', 'solved', 'disprove', 'result'],
+      people: ['tao', 'maynard', 'zhang', 'euler', 'erdős', 'mathematician', 'fields medal'],
+      computation: ['compute', 'algorithm', 'record', 'digits', 'primegrid', 'distributed', 'verify']
+    };
+
+    function matchesCategory(article, cat) {
+      if (cat === 'all') return true;
+      const keywords = categories[cat] || [];
+      const text = (article.title + ' ' + (article.description || '')).toLowerCase();
+      return keywords.some(k => text.includes(k));
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return { monthYear: '—', day: '' };
+      const d = new Date(dateStr);
+      return {
+        monthYear: d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' }),
+        day: d.toLocaleDateString('en-US', { day: 'numeric' })
+      };
+    }
+
+    function renderArticles(articles) {
+      const list = document.getElementById('news-list');
+      const count = document.getElementById('news-count');
+
+      if (!articles || articles.length === 0) {
+        list.innerHTML = `
+          <div class="empty-state">
+            <p>No articles found in this category.</p>
+            <p>The pipeline refreshes 4× daily — check back soon.</p>
+          </div>`;
+        count.innerHTML = `Showing <span>0</span> articles`;
+        return;
+      }
+
+      count.innerHTML = `Showing <span>${articles.length}</span> article${articles.length !== 1 ? 's' : ''}`;
+
+      list.innerHTML = articles.map(a => {
+        const { monthYear, day } = formatDate(a.publishedAt);
+        return `
+          <a href="${a.url || '#'}" target="_blank" rel="noopener" class="news-full-item">
+            <div class="news-full-date">
+              <span class="month-year">${monthYear}</span>
+              ${day}
+            </div>
+            <div>
+              <p class="news-full-title">${a.title}</p>
+              <p class="news-full-source">${a.source?.name || a.source || ''}</p>
+              ${a.description ? `<p class="news-full-desc">${a.description}</p>` : ''}
+              <span class="news-full-link">Read article →</span>
+            </div>
+          </a>`;
+      }).join('');
+    }
+
+    function filterNews(cat, btn) {
+      document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filtered = allArticles.filter(a => matchesCategory(a, cat));
+      renderArticles(filtered);
+    }
+
+    /* ── LOAD NEWS ── */
+    fetch('news.json')
+      .then(r => r.json())
+      .then(data => {
+        allArticles = data || [];
+        renderArticles(allArticles);
+      })
+      .catch(() => {
+        document.getElementById('news-list').innerHTML = `
+          <div class="empty-state">
+            <p>Pipeline initializing — articles will appear after the first scheduled run.</p>
+            <p>Check back in a few hours.</p>
+          </div>`;
+        document.getElementById('news-count').innerHTML = `Showing <span>0</span> articles`;
+      });
+  </script>
+
+</body>
+</html>
