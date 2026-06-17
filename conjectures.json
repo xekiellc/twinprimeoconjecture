@@ -1,1 +1,89 @@
 
+[
+  {
+    "id": "twin-prime",
+    "name": "Twin Prime Conjecture",
+    "status": "Unsolved",
+    "year_stated": 1849,
+    "stated_by": "Alphonse de Polignac",
+    "summary": "There are infinitely many pairs of prime numbers separated by exactly two. We have found hundreds of millions of such pairs. No one has proven they never stop.",
+    "detail": "The conjecture formally states that there are infinitely many primes p such that p+2 is also prime. Despite centuries of effort and major computational advances, no proof exists. The closest result is the 2013 bounded gap theorem by Yitang Zhang, later improved to a gap of 246 by James Maynard and the Polymath Project.",
+    "milestone": "Bounded gap of 246 proven (2013–2014)",
+    "prize": null,
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Twin_prime" }
+    ]
+  },
+  {
+    "id": "riemann",
+    "name": "Riemann Hypothesis",
+    "status": "Unsolved",
+    "year_stated": 1859,
+    "stated_by": "Bernhard Riemann",
+    "summary": "All non-trivial zeros of the Riemann zeta function have a real part equal to one-half. It governs the distribution of prime numbers and is one of the Millennium Prize Problems.",
+    "detail": "First stated by Bernhard Riemann in 1859, this hypothesis connects the distribution of prime numbers to the behavior of the zeta function in the complex plane. Over 10 trillion zeros have been verified computationally — all on the critical line. A proof or disproof would revolutionize number theory.",
+    "milestone": "10 trillion zeros verified on the critical line",
+    "prize": "$1,000,000 — Clay Millennium Prize",
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis" },
+      { "label": "Clay Institute", "url": "https://www.claymath.org/millennium/riemann-hypothesis/" }
+    ]
+  },
+  {
+    "id": "goldbach",
+    "name": "Goldbach's Conjecture",
+    "status": "Unsolved",
+    "year_stated": 1742,
+    "stated_by": "Christian Goldbach",
+    "summary": "Every even integer greater than two can be expressed as the sum of two prime numbers. Simple to state, verified into the quintillions, unproven for nearly 300 years.",
+    "detail": "Goldbach wrote to Euler in 1742 proposing that every even number greater than 2 is the sum of two primes. For example: 4=2+2, 6=3+3, 8=3+5, 100=3+97. Verified computationally to 4×10^18. The weak Goldbach conjecture (every odd number greater than 5 is the sum of three primes) was proven by Harald Helfgott in 2013.",
+    "milestone": "Verified to 4 × 10¹⁸ by computational search",
+    "prize": null,
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Goldbach%27s_conjecture" }
+    ]
+  },
+  {
+    "id": "collatz",
+    "name": "Collatz Conjecture",
+    "status": "Unsolved",
+    "year_stated": 1937,
+    "stated_by": "Lothar Collatz",
+    "summary": "Take any positive integer. If even, divide by two. If odd, multiply by three and add one. Repeat. The conjecture holds that you will always eventually reach one.",
+    "detail": "Proposed by Lothar Collatz in 1937, this deceptively simple rule has resisted proof for nearly 90 years. Paul Erdős said of it: 'Mathematics is not yet ready for such problems.' Terence Tao made significant progress in 2019, proving the conjecture holds for almost all positive integers in a density sense.",
+    "milestone": "Tao (2019): true for almost all positive integers",
+    "prize": null,
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Collatz_conjecture" }
+    ]
+  },
+  {
+    "id": "p-vs-np",
+    "name": "P versus NP",
+    "status": "Unsolved",
+    "year_stated": 1971,
+    "stated_by": "Stephen Cook",
+    "summary": "If a solution to a problem can be verified quickly, can it also be found quickly? The answer would reshape cryptography, artificial intelligence, and the foundations of computer science.",
+    "detail": "Formally posed by Stephen Cook in 1971, P vs NP asks whether every problem whose solution can be verified in polynomial time can also be solved in polynomial time. Most computer scientists believe P ≠ NP, but no proof exists. A solution — in either direction — would be one of the most consequential results in intellectual history.",
+    "milestone": "One of the seven Millennium Prize Problems",
+    "prize": "$1,000,000 — Clay Millennium Prize",
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/P_versus_NP_problem" },
+      { "label": "Clay Institute", "url": "https://www.claymath.org/millennium/p-vs-np/" }
+    ]
+  },
+  {
+    "id": "abc",
+    "name": "abc Conjecture",
+    "status": "Disputed",
+    "year_stated": 1985,
+    "stated_by": "Oesterlé and Masser",
+    "summary": "A proposed relationship between addition and multiplication of integers that would imply several major theorems as corollaries — including a proof of Fermat's Last Theorem in a few lines.",
+    "detail": "Proposed independently by Joseph Oesterlé and David Masser in 1985, the abc conjecture relates the prime factors of three integers a, b, c where a+b=c. In 2012, Shinichi Mochizuki published a 500-page claimed proof using his Inter-universal Teichmüller theory. As of 2026, the mathematical community remains divided — the proof has not been accepted or refuted by consensus.",
+    "milestone": "Mochizuki's claimed proof (2012) — still under review",
+    "prize": null,
+    "links": [
+      { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Abc_conjecture" }
+    ]
+  }
+]
