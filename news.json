@@ -1,1 +1,83 @@
 
+[
+  {
+    "id": "euclid",
+    "name": "Euclid",
+    "years": "c. 300 BC",
+    "nationality": "Greek",
+    "role": "Founder of prime number theory",
+    "contribution": "Proved that there are infinitely many prime numbers — one of the oldest proofs in mathematics. His proof by contradiction remains elegant and airtight after 2,300 years. While he did not study twin primes specifically, his infinitude proof is the template every mathematician reaches for when asking whether a subset of primes might also be infinite.",
+    "quote": "There are more primes than any assigned multitude of prime numbers.",
+    "milestone": "Infinitude of primes (~300 BC)"
+  },
+  {
+    "id": "depolignac",
+    "name": "Alphonse de Polignac",
+    "years": "1826 – 1863",
+    "nationality": "French",
+    "role": "First to state the conjecture",
+    "contribution": "In 1849, de Polignac conjectured that for every even number k, there are infinitely many prime pairs (p, p+k). Setting k=2 gives the Twin Prime Conjecture. He had no proof — only intuition and pattern recognition. The conjecture bearing his name in its general form is still unproven for every value of k.",
+    "quote": null,
+    "milestone": "Twin Prime Conjecture stated (1849)"
+  },
+  {
+    "id": "brun",
+    "name": "Viggo Brun",
+    "years": "1885 – 1978",
+    "nationality": "Norwegian",
+    "role": "Proved Brun's theorem",
+    "contribution": "In 1919, Brun proved that the sum of the reciprocals of all twin primes converges to a finite value — now known as Brun's constant (B₂ ≈ 1.9021605832...). This was the first major analytic result about twin primes. Ironically, his theorem is consistent with both a finite and an infinite number of twin primes — it cannot distinguish between the two.",
+    "quote": null,
+    "milestone": "Brun's constant proven (1919)"
+  },
+  {
+    "id": "hardy-littlewood",
+    "name": "Hardy & Littlewood",
+    "years": "1877–1947 / 1885–1977",
+    "nationality": "British",
+    "role": "Quantified the expected density",
+    "contribution": "G.H. Hardy and John Edensor Littlewood's 1923 Conjecture B gives an asymptotic formula predicting how many twin prime pairs exist below a given number N. Their prediction has been verified computationally to extraordinary precision. The formula does not prove twin primes are infinite — but it provides overwhelming heuristic evidence that they are.",
+    "quote": null,
+    "milestone": "Hardy–Littlewood Conjecture B (1923)"
+  },
+  {
+    "id": "chen",
+    "name": "Jingrun Chen",
+    "years": "1933 – 1996",
+    "nationality": "Chinese",
+    "role": "Proved Chen's theorem",
+    "contribution": "In 1966 (published fully in 1973), Chen proved that every sufficiently large even number is the sum of a prime and a number with at most two prime factors. As a corollary, there are infinitely many primes p such that p+2 is either prime or a semiprime. This is the closest anyone has come to proving the Twin Prime Conjecture using classical sieve methods.",
+    "quote": null,
+    "milestone": "Chen's theorem (1966 / 1973)"
+  },
+  {
+    "id": "zhang",
+    "name": "Yitang Zhang",
+    "years": "1955 –",
+    "nationality": "Chinese-American",
+    "role": "Proved the first finite bounded gap",
+    "contribution": "In April 2013, Zhang — then a largely unknown lecturer at the University of New Hampshire — submitted a paper proving that there are infinitely many prime pairs separated by at most 70 million. It was the first time anyone had proven a finite bound on prime gaps. The mathematical world was stunned. Annals of Mathematics accepted it in three weeks. Zhang became one of the most celebrated mathematicians of the century overnight.",
+    "quote": "I never give up.",
+    "milestone": "Bounded gap ≤ 70,000,000 proven (2013)"
+  },
+  {
+    "id": "maynard",
+    "name": "James Maynard",
+    "years": "1987 –",
+    "nationality": "British",
+    "role": "Reduced the bound to 600, then 246",
+    "contribution": "Within months of Zhang's breakthrough, James Maynard — then a postdoctoral researcher — independently developed a different method and reduced the prime gap bound to 600. The collaborative Polymath Project, building on both Zhang and Maynard, subsequently reduced the bound to 246. In 2022, Maynard was awarded the Fields Medal, mathematics' highest honor, in part for this work.",
+    "quote": null,
+    "milestone": "Bounded gap ≤ 246 (Polymath, 2014) · Fields Medal (2022)"
+  },
+  {
+    "id": "tao",
+    "name": "Terence Tao",
+    "years": "1975 –",
+    "nationality": "Australian-American",
+    "role": "Polymath Project leader",
+    "contribution": "Widely regarded as the greatest living mathematician, Tao coordinated the Polymath Project that drove the prime gap bound from Zhang's 70 million down to 246. He has made foundational contributions across number theory, harmonic analysis, and combinatorics. His 2004 proof with Ben Green that the primes contain arbitrarily long arithmetic progressions (Green–Tao theorem) is among the most celebrated results of the century.",
+    "quote": "The beauty of mathematics only shows itself to more patient followers.",
+    "milestone": "Green–Tao theorem (2004) · Polymath coordination (2013–2014)"
+  }
+]
