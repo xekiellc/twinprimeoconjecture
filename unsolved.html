@@ -1,1 +1,437 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Unsolved Problems — Twin Prime Conjecture</title>
+  <meta name="description" content="The greatest unsolved problems in mathematics — Riemann Hypothesis, Goldbach's Conjecture, Collatz, P vs NP, and more. Simple to state, impossible to solve." />
+  <link rel="canonical" href="https://twinprimeconjecture.com/unsolved.html" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+
+  <style>
+    .problem-block {
+      padding: 3rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .problem-block:last-child { border-bottom: none; }
+    .problem-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 2rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .problem-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .problem-number {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+    .problem-name {
+      font-family: var(--ff-display);
+      font-size: clamp(1.6rem, 4vw, 2.8rem);
+      font-weight: 500;
+      color: var(--bright);
+      line-height: 1.1;
+    }
+    .problem-name em {
+      font-style: italic;
+      color: var(--teal);
+    }
+    .problem-stated {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      margin-top: 0.25rem;
+    }
+    .problem-badges {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      align-items: flex-end;
+      flex-shrink: 0;
+    }
+    .problem-status {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.8rem;
+    }
+    .problem-status.unsolved {
+      color: var(--teal);
+      border: 1px solid var(--teal-dim);
+    }
+    .problem-status.disputed {
+      color: var(--blue);
+      border: 1px solid rgba(77, 157, 224, 0.4);
+    }
+    .problem-status.partial {
+      color: var(--gold);
+      border: 1px solid rgba(244, 197, 66, 0.3);
+    }
+    .prize-tag {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      color: var(--gold);
+      border: 1px solid rgba(244, 197, 66, 0.3);
+      padding: 0.2rem 0.6rem;
+    }
+    .problem-statement {
+      font-family: var(--ff-display);
+      font-size: clamp(1rem, 2vw, 1.3rem);
+      font-style: italic;
+      color: var(--text);
+      line-height: 1.5;
+      margin-bottom: 1.5rem;
+      max-width: 700px;
+    }
+    .problem-body {
+      font-size: 0.95rem;
+      line-height: 1.8;
+      color: var(--dim);
+      max-width: 700px;
+    }
+    .problem-body p + p { margin-top: 1rem; }
+    .problem-milestone {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-top: 1.5rem;
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--teal);
+      letter-spacing: 0.08em;
+    }
+    .problem-milestone::before {
+      content: '';
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background: var(--teal);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .examples-row {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin: 1.25rem 0;
+    }
+    .example-chip {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      color: var(--teal);
+      background: rgba(45, 212, 191, 0.06);
+      border: 1px solid var(--teal-dim);
+      padding: 0.3rem 0.75rem;
+      border-radius: 2px;
+    }
+    .filter-bar {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 3rem;
+    }
+    .filter-btn {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--dim);
+      background: transparent;
+      border: 1px solid var(--border);
+      padding: 0.4rem 1rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .filter-btn:hover,
+    .filter-btn.active {
+      color: var(--teal);
+      border-color: var(--teal-dim);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p, p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html" class="active">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">Open Problems · Number Theory & Beyond</p>
+        <h1 class="page-title">Unsolved<br /><em>Problems</em></h1>
+        <p class="page-lead">The questions mathematics cannot yet answer. Simple to state. Centuries old. Still open.</p>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- INTRO -->
+    <section class="section" style="padding-bottom: 2rem;">
+      <div class="container">
+        <div class="section-body">
+          <p>The Twin Prime Conjecture is one of dozens of famous problems that remain unproven despite decades or centuries of effort by the greatest mathematical minds alive. What unites them is a paradox: they are easy to understand and apparently impossible to resolve. The gap between statement and proof is where mathematics lives.</p>
+        </div>
+        <div class="filter-bar" style="margin-top: 2rem;">
+          <button class="filter-btn active" onclick="filterProblems('all', this)">All Problems</button>
+          <button class="filter-btn" onclick="filterProblems('unsolved', this)">Unsolved</button>
+          <button class="filter-btn" onclick="filterProblems('partial', this)">Partial Progress</button>
+          <button class="filter-btn" onclick="filterProblems('disputed', this)">Disputed</button>
+          <button class="filter-btn" onclick="filterProblems('prize', this)">Prize Problems</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROBLEMS -->
+    <section class="section" style="padding-top: 0;">
+      <div class="container" id="problems-container">
+
+        <!-- TWIN PRIME -->
+        <div class="problem-block" id="twin-prime" data-status="unsolved" data-prize="false">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">01 · Number Theory</p>
+              <p class="problem-name">Twin Prime <em>Conjecture</em></p>
+              <p class="problem-stated">Stated 1849 · Alphonse de Polignac</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status unsolved">Unsolved</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Are there infinitely many pairs of prime numbers separated by exactly two?"</p>
+          <div class="examples-row">
+            <span class="example-chip">(3, 5)</span>
+            <span class="example-chip">(11, 13)</span>
+            <span class="example-chip">(17, 19)</span>
+            <span class="example-chip">(29, 31)</span>
+            <span class="example-chip">(41, 43)</span>
+            <span class="example-chip">∞ · ?</span>
+          </div>
+          <div class="problem-body">
+            <p>We have found hundreds of millions of twin prime pairs and verified the largest known pair at 388,342 digits each. The Hardy–Littlewood conjecture predicts exactly how many pairs should exist below any given N, and the prediction matches reality to extraordinary precision. And yet no proof exists that they never stop.</p>
+            <p>The 2013 breakthrough by Yitang Zhang — proving a bounded prime gap of 70 million — and subsequent reductions by James Maynard and the Polymath Project (now at 246) represent the closest anyone has come. The target is 2. The remaining distance may require mathematics that does not yet exist.</p>
+          </div>
+          <p class="problem-milestone">Best result: bounded gap of 246 (Polymath, 2014)</p>
+        </div>
+
+        <!-- RIEMANN -->
+        <div class="problem-block" id="riemann" data-status="unsolved" data-prize="true">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">02 · Complex Analysis · Number Theory</p>
+              <p class="problem-name">Riemann <em>Hypothesis</em></p>
+              <p class="problem-stated">Stated 1859 · Bernhard Riemann</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status unsolved">Unsolved</span>
+              <span class="prize-tag">$1,000,000 Prize</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Do all non-trivial zeros of the Riemann zeta function have real part equal to one-half?"</p>
+          <div class="problem-body">
+            <p>The Riemann zeta function ζ(s) is defined for complex numbers s and has deep connections to the distribution of prime numbers. Riemann's 1859 paper conjectured that all non-trivial zeros of this function lie on the "critical line" where the real part of s equals 1/2.</p>
+            <p>A proof would resolve the deepest open question about how prime numbers are distributed. Over 10 trillion zeros have been verified computationally — every single one on the critical line. The pattern is perfect. The proof remains elusive.</p>
+            <p>The Riemann Hypothesis is one of the seven Millennium Prize Problems designated by the Clay Mathematics Institute. A correct proof carries a $1,000,000 prize.</p>
+          </div>
+          <div class="formula-block" style="margin-top: 1.5rem;">
+            ζ(s) = 1 + 1/2ˢ + 1/3ˢ + 1/4ˢ + … = 0  →  Re(s) = 1/2 ?
+            <p class="formula-caption">The Riemann zeta function — its non-trivial zeros are conjectured to all lie on the line Re(s) = 1/2.</p>
+          </div>
+          <p class="problem-milestone">Verified: 10 trillion+ zeros on the critical line (computational)</p>
+        </div>
+
+        <!-- GOLDBACH -->
+        <div class="problem-block" id="goldbach" data-status="partial" data-prize="false">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">03 · Number Theory</p>
+              <p class="problem-name">Goldbach's <em>Conjecture</em></p>
+              <p class="problem-stated">Stated 1742 · Christian Goldbach</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status partial">Partial Progress</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Can every even integer greater than two be expressed as the sum of two prime numbers?"</p>
+          <div class="examples-row">
+            <span class="example-chip">4 = 2+2</span>
+            <span class="example-chip">6 = 3+3</span>
+            <span class="example-chip">8 = 3+5</span>
+            <span class="example-chip">100 = 3+97</span>
+            <span class="example-chip">1000 = 3+997</span>
+          </div>
+          <div class="problem-body">
+            <p>In a letter to Leonhard Euler in 1742, Christian Goldbach proposed that every even number greater than 2 is the sum of two primes. Euler called it "a completely certain theorem, although I cannot prove it." Nearly 300 years later, neither can anyone else.</p>
+            <p>The conjecture has been verified computationally to 4 × 10¹⁸ — four quintillion. The weak Goldbach conjecture (every odd number greater than 5 is the sum of three primes) was proven by Harald Helfgott in 2013. The strong version (two primes) remains open.</p>
+            <p>Chen's theorem (1966/1973) is the closest classical result: every sufficiently large even number is the sum of a prime and a number with at most two prime factors.</p>
+          </div>
+          <p class="problem-milestone">Weak conjecture proven (Helfgott, 2013) · Strong conjecture verified to 4×10¹⁸</p>
+        </div>
+
+        <!-- COLLATZ -->
+        <div class="problem-block" id="collatz" data-status="partial" data-prize="false">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">04 · Dynamical Systems</p>
+              <p class="problem-name">Collatz <em>Conjecture</em></p>
+              <p class="problem-stated">Stated 1937 · Lothar Collatz</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status partial">Partial Progress</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Take any positive integer. If even, divide by two. If odd, multiply by three and add one. Does every starting number eventually reach one?"</p>
+          <div class="examples-row">
+            <span class="example-chip">6→3→10→5→16→8→4→2→1</span>
+            <span class="example-chip">27 takes 111 steps</span>
+          </div>
+          <div class="problem-body">
+            <p>The rule is trivially simple. The proof is apparently beyond reach. Paul Erdős said of the Collatz conjecture: "Mathematics is not yet ready for such problems." It has been verified for all starting numbers up to approximately 2⁶⁸ — a number with 20 digits.</p>
+            <p>In 2019, Terence Tao proved that the Collatz conjecture holds for "almost all" positive integers in a logarithmic density sense — the most significant progress in decades. But "almost all" is not "all," and the full conjecture remains open.</p>
+            <p>What makes it hard is that there is no known invariant, no conserved quantity, no pattern that would force the sequence to always descend. The dynamics appear chaotic at local scales while converging globally — a combination that resists every known technique.</p>
+          </div>
+          <p class="problem-milestone">Tao (2019): true for almost all positive integers in logarithmic density</p>
+        </div>
+
+        <!-- P VS NP -->
+        <div class="problem-block" id="p-vs-np" data-status="unsolved" data-prize="true">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">05 · Theoretical Computer Science</p>
+              <p class="problem-name">P versus <em>NP</em></p>
+              <p class="problem-stated">Stated 1971 · Stephen Cook</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status unsolved">Unsolved</span>
+              <span class="prize-tag">$1,000,000 Prize</span>
+            </div>
+          </div>
+          <p class="problem-statement">"If a solution to a problem can be verified quickly, can it also be found quickly?"</p>
+          <div class="problem-body">
+            <p>P is the class of problems solvable in polynomial time. NP is the class of problems whose solutions can be verified in polynomial time. The question is whether these two classes are the same — whether every problem whose answer can be checked quickly can also be solved quickly.</p>
+            <p>Most computer scientists believe P ≠ NP — that checking is fundamentally easier than solving. But no one has proven it. A proof in either direction would be one of the most consequential results in intellectual history. If P = NP, most modern cryptography would collapse overnight. If P ≠ NP, we would have a rigorous explanation for why some computational problems are inherently hard.</p>
+            <p>The problem is a Millennium Prize Problem carrying a $1,000,000 reward.</p>
+          </div>
+          <p class="problem-milestone">No meaningful progress toward proof in either direction since 1971</p>
+        </div>
+
+        <!-- ABC -->
+        <div class="problem-block" id="abc" data-status="disputed" data-prize="false">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">06 · Number Theory</p>
+              <p class="problem-name">The abc <em>Conjecture</em></p>
+              <p class="problem-stated">Stated 1985 · Oesterlé and Masser</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status disputed">Disputed</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Is there a fundamental relationship between the prime factors of three integers a, b, c where a + b = c?"</p>
+          <div class="problem-body">
+            <p>The abc conjecture relates the prime factors of three integers a, b, and c satisfying a+b=c. Roughly speaking, it says that if a and b have many small prime factors, then c tends to be large relative to those factors. The conjecture would imply Fermat's Last Theorem as an almost immediate corollary — among dozens of other deep results.</p>
+            <p>In 2012, Shinichi Mochizuki published a claimed proof spanning over 500 pages, using a new framework he called Inter-universal Teichmüller theory (IUT). The proof is so novel and technically demanding that only a handful of mathematicians worldwide have been able to study it in depth.</p>
+            <p>As of 2026, the mathematical community remains divided. Peter Scholze and Jakob Stix identified what they believe is a flaw in a key lemma. Mochizuki maintains the proof is correct. No consensus has been reached. The abc conjecture is simultaneously claimed-proven and unresolved — a status unique in modern mathematics.</p>
+          </div>
+          <p class="problem-milestone">Mochizuki's claimed proof (2012) — under review, no consensus as of 2026</p>
+        </div>
+
+        <!-- NAVIER STOKES -->
+        <div class="problem-block" id="navier-stokes" data-status="unsolved" data-prize="true">
+          <div class="problem-header">
+            <div class="problem-meta">
+              <p class="problem-number">07 · Mathematical Physics</p>
+              <p class="problem-name">Navier–Stokes <em>Existence</em></p>
+              <p class="problem-stated">Stated formally 2000 · Clay Institute</p>
+            </div>
+            <div class="problem-badges">
+              <span class="problem-status unsolved">Unsolved</span>
+              <span class="prize-tag">$1,000,000 Prize</span>
+            </div>
+          </div>
+          <p class="problem-statement">"Do smooth solutions to the Navier–Stokes equations always exist, or can they break down in finite time?"</p>
+          <div class="problem-body">
+            <p>The Navier–Stokes equations describe the motion of fluids — from air over a wing to water through a pipe. They are used in every fluid dynamics simulation ever run. But mathematicians have never proven that smooth solutions to these equations always exist in three dimensions, or that they cannot develop singularities (breakdowns) in finite time.</p>
+            <p>The problem is not about whether the equations are useful — they clearly are. It is about whether they are mathematically well-posed: whether the mathematical objects they describe are guaranteed to exist and behave predictably. Proving existence and smoothness (or finding a counterexample) is a Millennium Prize Problem.</p>
+          </div>
+          <p class="problem-milestone">Millennium Prize Problem — no resolution as of 2026</p>
+        </div>
+
+      </div>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+  <script>
+    function filterProblems(type, btn) {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      document.querySelectorAll('.problem-block').forEach(block => {
+        if (type === 'all') {
+          block.style.display = '';
+        } else if (type === 'prize') {
+          block.style.display = block.dataset.prize === 'true' ? '' : 'none';
+        } else {
+          block.style.display = block.dataset.status === type ? '' : 'none';
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>
