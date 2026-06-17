@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>News — Twin Prime Conjecture</title>
   <meta name="description" content="The latest news and breakthroughs in prime number research, number theory, and mathematics — sourced and updated automatically." />
+  <meta property="og:title" content="Mathematics News — Twin Prime Conjecture" />
+  <meta property="og:description" content="The latest developments in prime number research, number theory breakthroughs, and mathematics news — curated and updated four times daily." />
+  <meta property="og:url" content="https://twinprimeconjecture.com/news.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://twinprimeconjecture.com/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Mathematics News — Twin Prime Conjecture" />
+  <meta name="twitter:description" content="Prime number research and number theory breakthroughs — updated four times daily." />
+  <meta name="twitter:image" content="https://twinprimeconjecture.com/og-image.png" />
   <link rel="canonical" href="https://twinprimeconjecture.com/news.html" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -204,7 +213,6 @@
     <section class="section">
       <div class="container">
 
-        <!-- Pipeline status -->
         <div class="pipeline-note">
           <div class="pipeline-dot"></div>
           <p class="pipeline-text">
@@ -213,7 +221,6 @@
           </p>
         </div>
 
-        <!-- Filters -->
         <div class="filter-row">
           <button class="filter-chip active" onclick="filterNews('all', this)">All</button>
           <button class="filter-chip" onclick="filterNews('primes', this)">Primes</button>
@@ -222,10 +229,7 @@
           <button class="filter-chip" onclick="filterNews('computation', this)">Computation</button>
         </div>
 
-        <!-- Count -->
         <p class="news-count" id="news-count">Loading articles…</p>
-
-        <!-- Articles -->
         <div id="news-list"></div>
 
       </div>
@@ -298,7 +302,6 @@
   <script>
     let allArticles = [];
 
-    /* ── KEYWORD CATEGORIES ── */
     const categories = {
       primes: ['prime', 'twin', 'gap', 'sieve', 'goldbach', 'riemann', 'conjecture'],
       proof:  ['proof', 'proven', 'theorem', 'conjecture', 'solved', 'disprove', 'result'],
@@ -363,7 +366,6 @@
       renderArticles(filtered);
     }
 
-    /* ── LOAD NEWS ── */
     fetch('news.json')
       .then(r => r.json())
       .then(data => {
