@@ -1,1 +1,1028 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Twin Prime Conjecture — One of Mathematics' Oldest Unsolved Mysteries</title>
+  <meta name="description" content="Are there infinitely many prime pairs separated by two? Explore the Twin Prime Conjecture — a mystery open since antiquity that the greatest mathematical minds have yet to solve." />
+  <meta property="og:title" content="Twin Prime Conjecture" />
+  <meta property="og:description" content="Are there infinitely many prime pairs separated by two? Explore mathematics' most elegant unsolved problem." />
+  <meta property="og:url" content="https://twinprimeconjecture.com" />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="https://twinprimeconjecture.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+
+  <style>
+    /* ── TOKENS ────────────────────────────────────────────── */
+    :root {
+      --void:     #07080C;
+      --deep:     #0D0F15;
+      --surface:  #13151D;
+      --border:   #1E2130;
+      --muted:    #3A3F55;
+      --dim:      #7A8099;
+      --text:     #E8EAF0;
+      --bright:   #F5F6FA;
+      --teal:     #2DD4BF;
+      --teal-dim: #1A7A6E;
+      --gold:     #F4C542;
+      --blue:     #4D9DE0;
+
+      --ff-display: 'EB Garamond', Georgia, serif;
+      --ff-mono:    'JetBrains Mono', 'Courier New', monospace;
+      --ff-body:    'Inter', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--void);
+      color: var(--text);
+      font-family: var(--ff-body);
+      font-size: 16px;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; }
+
+    /* ── NAV ───────────────────────────────────────────────── */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      background: rgba(7, 8, 12, 0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      color: var(--teal);
+      text-transform: uppercase;
+    }
+    .nav-links {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+    }
+    .nav-links a {
+      font-family: var(--ff-body);
+      font-size: 0.8rem;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      color: var(--dim);
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── HERO ──────────────────────────────────────────────── */
+    #hero {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    #prime-canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 2rem;
+      max-width: 800px;
+    }
+    .hero-eyebrow {
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      color: var(--teal);
+      text-transform: uppercase;
+      margin-bottom: 2rem;
+    }
+    .hero-title {
+      font-family: var(--ff-display);
+      font-size: clamp(3rem, 8vw, 7rem);
+      font-weight: 500;
+      line-height: 1.0;
+      color: var(--bright);
+      margin-bottom: 1.5rem;
+      letter-spacing: -0.01em;
+    }
+    .hero-title em {
+      font-style: italic;
+      color: var(--teal);
+    }
+    .hero-question {
+      font-family: var(--ff-display);
+      font-size: clamp(1rem, 2.5vw, 1.4rem);
+      font-style: italic;
+      color: var(--dim);
+      margin-bottom: 3rem;
+      line-height: 1.5;
+    }
+    .hero-pairs {
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 3rem;
+    }
+    .prime-pair {
+      font-family: var(--ff-mono);
+      font-size: 0.85rem;
+      color: var(--teal-dim);
+      letter-spacing: 0.05em;
+      padding: 0.3rem 0.8rem;
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      transition: color 0.2s, border-color 0.2s;
+    }
+    .prime-pair:hover {
+      color: var(--teal);
+      border-color: var(--teal-dim);
+    }
+    .hero-cta {
+      display: inline-flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn-primary {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--void);
+      background: var(--teal);
+      padding: 0.85rem 2rem;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s;
+      display: inline-block;
+    }
+    .btn-primary:hover { background: #25b5a3; }
+    .btn-secondary {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--teal);
+      background: transparent;
+      padding: 0.85rem 2rem;
+      border: 1px solid var(--teal-dim);
+      cursor: pointer;
+      transition: border-color 0.2s, color 0.2s;
+      display: inline-block;
+    }
+    .btn-secondary:hover { border-color: var(--teal); color: var(--bright); }
+
+    /* ── SCROLL INDICATOR ──────────────────────────────────── */
+    .scroll-hint {
+      position: absolute;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      z-index: 2;
+    }
+    .scroll-hint span {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.2em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+    .scroll-line {
+      width: 1px;
+      height: 40px;
+      background: linear-gradient(to bottom, var(--muted), transparent);
+      animation: scrollPulse 2s ease-in-out infinite;
+    }
+    @keyframes scrollPulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+
+    /* ── SECTIONS ──────────────────────────────────────────── */
+    section { padding: 6rem 2rem; }
+    .container { max-width: 900px; margin: 0 auto; }
+    .section-label {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      color: var(--teal);
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+    }
+    .section-title {
+      font-family: var(--ff-display);
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 500;
+      line-height: 1.15;
+      color: var(--bright);
+      margin-bottom: 1.5rem;
+    }
+    .section-title em { font-style: italic; color: var(--teal); }
+    .section-body {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--dim);
+      max-width: 680px;
+    }
+    .section-body p + p { margin-top: 1rem; }
+    .divider { border: none; border-top: 1px solid var(--border); margin: 0; }
+
+    /* ── STATUS BANNER ─────────────────────────────────────── */
+    .status-banner {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--teal);
+      padding: 1.25rem 1.5rem;
+      margin-top: 2.5rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1.25rem;
+    }
+    .status-badge {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--void);
+      background: var(--teal);
+      padding: 0.25rem 0.6rem;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.15rem;
+    }
+    .status-text {
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: var(--dim);
+    }
+    .status-text strong { color: var(--text); font-weight: 500; }
+
+    /* ── WHAT IS IT ────────────────────────────────────────── */
+    #what { background: var(--deep); }
+    .what-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+    .definition-block {
+      padding: 2rem;
+      border: 1px solid var(--border);
+      background: var(--surface);
+    }
+    .definition-label {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      color: var(--gold);
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+    }
+    .definition-term {
+      font-family: var(--ff-display);
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: var(--bright);
+      margin-bottom: 0.75rem;
+    }
+    .definition-text {
+      font-size: 0.9rem;
+      line-height: 1.7;
+      color: var(--dim);
+    }
+
+    /* ── THE MYSTERY ───────────────────────────────────────── */
+    #mystery { text-align: center; }
+    .mystery-statement {
+      font-family: var(--ff-display);
+      font-size: clamp(1.2rem, 3vw, 2rem);
+      font-style: italic;
+      font-weight: 400;
+      line-height: 1.4;
+      color: var(--text);
+      max-width: 680px;
+      margin: 2.5rem auto;
+    }
+    .mystery-infinity {
+      font-family: var(--ff-display);
+      font-size: clamp(5rem, 15vw, 12rem);
+      line-height: 1;
+      color: transparent;
+      -webkit-text-stroke: 1px var(--teal-dim);
+      letter-spacing: -0.05em;
+      margin: 2rem 0;
+      transition: -webkit-text-stroke 0.5s;
+      cursor: default;
+    }
+    .mystery-infinity:hover { -webkit-text-stroke-color: var(--teal); }
+    .mystery-note {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+    }
+
+    /* ── PRIME VISUALIZER ──────────────────────────────────── */
+    #visualizer { background: var(--deep); }
+    .viz-wrapper {
+      margin-top: 2.5rem;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      padding: 2rem;
+    }
+    .viz-controls {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .viz-label {
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      color: var(--dim);
+      letter-spacing: 0.1em;
+      white-space: nowrap;
+    }
+    #range-slider { flex: 1; min-width: 150px; accent-color: var(--teal); }
+    #range-value {
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      color: var(--teal);
+      min-width: 60px;
+      text-align: right;
+    }
+    #prime-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    .prime-dot {
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--ff-mono);
+      font-size: 0.55rem;
+      color: var(--muted);
+      background: var(--border);
+      border-radius: 2px;
+      transition: background 0.15s, color 0.15s;
+    }
+    .prime-dot.is-prime {
+      background: var(--surface);
+      color: var(--dim);
+      border: 1px solid var(--muted);
+    }
+    .prime-dot.is-twin {
+      background: rgba(45, 212, 191, 0.12);
+      color: var(--teal);
+      border: 1px solid var(--teal-dim);
+    }
+    .viz-legend {
+      display: flex;
+      gap: 2rem;
+      margin-top: 1.25rem;
+      flex-wrap: wrap;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--dim);
+      letter-spacing: 0.08em;
+    }
+    .legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .legend-dot.composite { background: var(--border); }
+    .legend-dot.prime { background: var(--surface); border: 1px solid var(--muted); }
+    .legend-dot.twin { background: rgba(45,212,191,0.15); border: 1px solid var(--teal-dim); }
+
+    /* ── KNOWN PAIRS ───────────────────────────────────────── */
+    #pairs { padding: 6rem 2rem; }
+    .pairs-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 2.5rem;
+      font-family: var(--ff-mono);
+      font-size: 0.8rem;
+    }
+    .pairs-table th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      font-weight: 400;
+      font-size: 0.65rem;
+      border-bottom: 1px solid var(--border);
+      text-transform: uppercase;
+    }
+    .pairs-table td {
+      padding: 0.75rem 1rem;
+      color: var(--dim);
+      border-bottom: 1px solid var(--border);
+    }
+    .pairs-table td:first-child { color: var(--teal); }
+    .pairs-table tr:hover td { background: var(--surface); }
+    .record-badge {
+      display: inline-block;
+      font-size: 0.6rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      border: 1px solid rgba(244, 197, 66, 0.3);
+      padding: 0.15rem 0.5rem;
+      margin-left: 0.5rem;
+    }
+
+    /* ── RELATED ───────────────────────────────────────────── */
+    #related { background: var(--deep); }
+    .conjecture-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+    .conjecture-card {
+      padding: 1.75rem;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      transition: border-color 0.2s;
+    }
+    .conjecture-card:hover { border-color: var(--teal-dim); }
+    .card-status {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 0.75rem;
+    }
+    .card-status.unsolved { color: var(--teal); }
+    .card-title {
+      font-family: var(--ff-display);
+      font-size: 1.25rem;
+      font-weight: 500;
+      color: var(--bright);
+      margin-bottom: 0.6rem;
+    }
+    .card-body {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: var(--dim);
+    }
+    .card-link {
+      display: inline-block;
+      margin-top: 1rem;
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      color: var(--teal);
+      text-transform: uppercase;
+    }
+    .card-link:hover { text-decoration: underline; }
+
+    /* ── NEWS ──────────────────────────────────────────────── */
+    #latest { padding: 6rem 2rem; }
+    .news-grid {
+      display: grid;
+      gap: 1px;
+      background: var(--border);
+      margin-top: 2.5rem;
+      border: 1px solid var(--border);
+    }
+    .news-item {
+      background: var(--void);
+      padding: 1.5rem;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1.5rem;
+      align-items: start;
+      transition: background 0.15s;
+    }
+    .news-item:hover { background: var(--surface); }
+    .news-date {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+      padding-top: 0.15rem;
+    }
+    .news-title {
+      font-family: var(--ff-display);
+      font-size: 1.1rem;
+      color: var(--text);
+      line-height: 1.4;
+      margin-bottom: 0.4rem;
+    }
+    .news-source {
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--teal);
+      letter-spacing: 0.08em;
+    }
+    .news-empty {
+      padding: 3rem;
+      text-align: center;
+      font-family: var(--ff-mono);
+      font-size: 0.75rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+    }
+    .view-all {
+      display: inline-block;
+      margin-top: 1.5rem;
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.12em;
+      color: var(--teal);
+      text-transform: uppercase;
+      border-bottom: 1px solid var(--teal-dim);
+      padding-bottom: 2px;
+      transition: border-color 0.2s;
+    }
+    .view-all:hover { border-color: var(--teal); }
+
+    /* ── FOOTER ────────────────────────────────────────────── */
+    footer {
+      padding: 4rem 2rem 3rem;
+      border-top: 1px solid var(--border);
+      background: var(--deep);
+    }
+    .footer-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 2rem;
+      align-items: end;
+    }
+    .footer-motto {
+      font-family: var(--ff-display);
+      font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+      font-style: italic;
+      color: var(--dim);
+      max-width: 500px;
+      line-height: 1.4;
+    }
+    .footer-nav {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      text-align: right;
+    }
+    .footer-nav a {
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .footer-nav a:hover { color: var(--teal); }
+    .footer-copy {
+      max-width: 900px;
+      margin: 2rem auto 0;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    /* ── RESPONSIVE ────────────────────────────────────────── */
+    @media (max-width: 700px) {
+      nav { padding: 1rem; }
+      .nav-links { gap: 1rem; }
+      .nav-links a { font-size: 0.7rem; }
+      .what-grid { grid-template-columns: 1fr; }
+      .footer-inner { grid-template-columns: 1fr; }
+      .footer-nav { text-align: left; }
+      section { padding: 4rem 1.25rem; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .scroll-line { animation: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <span class="nav-logo">p, p+2</span>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <canvas id="prime-canvas"></canvas>
+    <div class="hero-content">
+      <p class="hero-eyebrow">Unsolved since antiquity</p>
+      <h1 class="hero-title">Twin Prime<br /><em>Conjecture</em></h1>
+      <p class="hero-question">Are there infinitely many prime pairs separated by exactly two?</p>
+      <div class="hero-pairs">
+        <span class="prime-pair">3 · 5</span>
+        <span class="prime-pair">11 · 13</span>
+        <span class="prime-pair">17 · 19</span>
+        <span class="prime-pair">29 · 31</span>
+        <span class="prime-pair">41 · 43</span>
+        <span class="prime-pair">∞ · ?</span>
+      </div>
+      <div class="hero-cta">
+        <a href="conjecture.html" class="btn-primary">Explore the Mystery</a>
+        <a href="#visualizer" class="btn-secondary">Visualize the Primes</a>
+      </div>
+    </div>
+    <div class="scroll-hint">
+      <span>Scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- STATUS BANNER -->
+  <section style="padding: 2rem;">
+    <div class="container">
+      <div class="status-banner">
+        <span class="status-badge">Current Status</span>
+        <p class="status-text">
+          <strong>Unproven — but closer than ever.</strong> In 2013, Yitang Zhang proved there are infinitely many prime pairs separated by at most 70 million. James Maynard and the Polymath Project subsequently reduced that bound to <strong>246</strong>. The target is 2. We are not there yet.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- WHAT IS IT -->
+  <section id="what">
+    <div class="container">
+      <p class="section-label">The Fundamentals</p>
+      <h2 class="section-title">A question hiding<br />in plain <em>sight</em></h2>
+      <div class="section-body">
+        <p>Prime numbers — integers divisible only by 1 and themselves — are the atoms of arithmetic. Among them, twin primes appear as pairs separated by just two: neighboring primes with one even number between them.</p>
+        <p>The conjecture, open since Alphonse de Polignac first stated it formally in 1849, asks whether these pairs go on forever. We have found hundreds of millions of them. We still cannot prove they never stop.</p>
+      </div>
+      <div class="what-grid">
+        <div class="definition-block">
+          <p class="definition-label">Definition</p>
+          <p class="definition-term">Prime Number</p>
+          <p class="definition-text">A natural number greater than 1 with no positive divisors other than 1 and itself. The sequence begins: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29…</p>
+        </div>
+        <div class="definition-block">
+          <p class="definition-label">Definition</p>
+          <p class="definition-term">Twin Prime</p>
+          <p class="definition-text">A pair of primes (p, p+2) separated by exactly two. Examples: (3,5), (11,13), (17,19), (29,31), (41,43), (59,61)…</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- THE MYSTERY -->
+  <section id="mystery">
+    <div class="container">
+      <p class="section-label">The Open Question</p>
+      <p class="mystery-statement">"We have found hundreds of millions of twin prime pairs. We have no proof they ever stop. We have no proof they never stop."</p>
+      <div class="mystery-infinity">∞?</div>
+      <p class="mystery-note">No proof exists. No deadline for one.</p>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- VISUALIZER -->
+  <section id="visualizer">
+    <div class="container">
+      <p class="section-label">Interactive</p>
+      <h2 class="section-title">See them <em>appear</em></h2>
+      <div class="section-body">
+        <p>Drag the slider to explore primes up to any limit. Twin primes glow teal. Notice how they thin out — but never seem to disappear entirely.</p>
+      </div>
+      <div class="viz-wrapper">
+        <div class="viz-controls">
+          <span class="viz-label">Show primes up to:</span>
+          <input type="range" id="range-slider" min="50" max="500" value="100" step="10" />
+          <span id="range-value">100</span>
+        </div>
+        <div id="prime-grid"></div>
+        <div class="viz-legend">
+          <div class="legend-item"><div class="legend-dot composite"></div> Composite</div>
+          <div class="legend-item"><div class="legend-dot prime"></div> Prime</div>
+          <div class="legend-item"><div class="legend-dot twin"></div> Twin Prime</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- KNOWN TWIN PRIMES -->
+  <section id="pairs">
+    <div class="container">
+      <p class="section-label">Record Holders</p>
+      <h2 class="section-title">The <em>largest</em> known pairs</h2>
+      <div class="section-body">
+        <p>Finding large twin primes requires distributed computing projects running for months. Each record holder stands as the frontier of what humanity has verified.</p>
+      </div>
+      <table class="pairs-table">
+        <thead>
+          <tr>
+            <th>Twin Prime Pair (p, p+2)</th>
+            <th>Digits</th>
+            <th>Year</th>
+            <th>Discoverer</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2996863034895 · 2<sup>1290000</sup> ± 1 <span class="record-badge">Record</span></td>
+            <td>388,342</td>
+            <td>2016</td>
+            <td>PrimeGrid</td>
+          </tr>
+          <tr>
+            <td>3756801695685 · 2<sup>666669</sup> ± 1</td>
+            <td>200,700</td>
+            <td>2011</td>
+            <td>PrimeGrid</td>
+          </tr>
+          <tr>
+            <td>65516468355 · 2<sup>333333</sup> ± 1</td>
+            <td>100,355</td>
+            <td>2009</td>
+            <td>PrimeGrid</td>
+          </tr>
+          <tr>
+            <td>2003663613 · 2<sup>195000</sup> ± 1</td>
+            <td>58,711</td>
+            <td>2007</td>
+            <td>Vautier, McKibbon et al.</td>
+          </tr>
+          <tr>
+            <td>100314512544015 · 2<sup>171960</sup> ± 1</td>
+            <td>51,780</td>
+            <td>2006</td>
+            <td>PrimeGrid</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- RELATED CONJECTURES -->
+  <section id="related">
+    <div class="container">
+      <p class="section-label">The Neighborhood</p>
+      <h2 class="section-title">Other open <em>mysteries</em></h2>
+      <div class="section-body">
+        <p>The Twin Prime Conjecture sits in good company. Mathematics is full of questions that are simple to state, impossible to answer, and centuries old.</p>
+      </div>
+      <div class="conjecture-grid" id="conjecture-cards"></div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- LATEST NEWS -->
+  <section id="latest">
+    <div class="container">
+      <p class="section-label">Latest</p>
+      <h2 class="section-title">From the <em>field</em></h2>
+      <div id="news-container" class="news-grid">
+        <div class="news-empty">Pipeline initializing — check back shortly.</div>
+      </div>
+      <a href="news.html" class="view-all">All mathematics news →</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+  <!-- SCRIPTS -->
+  <script>
+    /* ── CANVAS: floating prime numbers ── */
+    (function () {
+      const canvas = document.getElementById('prime-canvas');
+      const ctx = canvas.getContext('2d');
+      let W, H, particles = [];
+
+      function isPrime(n) {
+        if (n < 2) return false;
+        if (n < 4) return true;
+        if (n % 2 === 0 || n % 3 === 0) return false;
+        for (let i = 5; i * i <= n; i += 6)
+          if (n % i === 0 || n % (i + 2) === 0) return false;
+        return true;
+      }
+
+      function isTwinPrime(n) {
+        return isPrime(n) && (isPrime(n - 2) || isPrime(n + 2));
+      }
+
+      function resize() {
+        W = canvas.width = canvas.offsetWidth;
+        H = canvas.height = canvas.offsetHeight;
+      }
+
+      function randomPrime() {
+        let n;
+        do { n = Math.floor(Math.random() * 200) + 2; } while (!isPrime(n));
+        return n;
+      }
+
+      function createParticle() {
+        const n = randomPrime();
+        const twin = isTwinPrime(n);
+        return {
+          n, twin,
+          x: Math.random() * W,
+          y: Math.random() * H,
+          vx: (Math.random() - 0.5) * 0.3,
+          vy: (Math.random() - 0.5) * 0.3,
+          alpha: Math.random() * 0.3 + 0.05,
+          size: twin ? 13 : 10,
+        };
+      }
+
+      function init() {
+        resize();
+        particles = Array.from({ length: 80 }, createParticle);
+      }
+
+      function draw() {
+        ctx.clearRect(0, 0, W, H);
+        particles.forEach(p => {
+          ctx.save();
+          ctx.globalAlpha = p.alpha;
+          ctx.font = `${p.size}px 'JetBrains Mono', monospace`;
+          ctx.fillStyle = p.twin ? '#2DD4BF' : '#3A3F55';
+          ctx.fillText(p.n, p.x, p.y);
+          ctx.restore();
+          p.x += p.vx;
+          p.y += p.vy;
+          if (p.x < -30) p.x = W + 10;
+          if (p.x > W + 30) p.x = -10;
+          if (p.y < -10) p.y = H + 10;
+          if (p.y > H + 10) p.y = -10;
+        });
+        requestAnimationFrame(draw);
+      }
+
+      window.addEventListener('resize', resize);
+      init();
+      draw();
+    })();
+
+    /* ── PRIME VISUALIZER ── */
+    (function () {
+      const slider = document.getElementById('range-slider');
+      const rangeVal = document.getElementById('range-value');
+      const grid = document.getElementById('prime-grid');
+
+      function sieve(limit) {
+        const isP = new Array(limit + 1).fill(true);
+        isP[0] = isP[1] = false;
+        for (let i = 2; i * i <= limit; i++)
+          if (isP[i]) for (let j = i * i; j <= limit; j += i) isP[j] = false;
+        return isP;
+      }
+
+      function render(limit) {
+        rangeVal.textContent = limit;
+        const isP = sieve(limit);
+        const twins = new Set();
+        for (let i = 2; i <= limit - 2; i++)
+          if (isP[i] && isP[i + 2]) { twins.add(i); twins.add(i + 2); }
+        grid.innerHTML = '';
+        for (let i = 2; i <= limit; i++) {
+          const div = document.createElement('div');
+          div.className = 'prime-dot' +
+            (twins.has(i) ? ' is-twin' : isP[i] ? ' is-prime' : '');
+          div.textContent = i;
+          div.title = twins.has(i) ? `${i} — twin prime` : isP[i] ? `${i} — prime` : `${i}`;
+          grid.appendChild(div);
+        }
+      }
+
+      slider.addEventListener('input', () => render(Number(slider.value)));
+      render(100);
+    })();
+
+    /* ── CONJECTURE CARDS from conjectures.json ── */
+    fetch('conjectures.json')
+      .then(r => r.json())
+      .then(data => {
+        const container = document.getElementById('conjecture-cards');
+        container.innerHTML = '';
+        data.slice(0, 6).forEach(c => {
+          container.innerHTML += `
+            <div class="conjecture-card">
+              <p class="card-status unsolved">${c.status || 'Unsolved'}</p>
+              <p class="card-title">${c.name}</p>
+              <p class="card-body">${c.summary}</p>
+              <a href="unsolved.html#${c.id}" class="card-link">Read more →</a>
+            </div>`;
+        });
+      })
+      .catch(() => {});
+
+    /* ── NEWS from news.json ── */
+    fetch('news.json')
+      .then(r => r.json())
+      .then(articles => {
+        if (!articles || articles.length === 0) return;
+        const container = document.getElementById('news-container');
+        container.innerHTML = '';
+        articles.slice(0, 5).forEach(a => {
+          const date = a.publishedAt
+            ? new Date(a.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+            : '';
+          container.innerHTML += `
+            <a href="${a.url || '#'}" target="_blank" rel="noopener" class="news-item">
+              <span class="news-date">${date}</span>
+              <div>
+                <p class="news-title">${a.title}</p>
+                <p class="news-source">${a.source?.name || a.source || ''}</p>
+              </div>
+            </a>`;
+        });
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>
