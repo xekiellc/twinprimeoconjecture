@@ -1,1 +1,14 @@
 
+# Redirect www to apex
+https://www.twinprimeconjecture.com/* https://twinprimeconjecture.com/:splat 301!
+
+# Clean URL fallbacks
+/conjecture     /conjecture.html     301
+/unsolved       /unsolved.html       301
+/mathematicians /mathematicians.html 301
+/tools          /tools.html          301
+/news           /news.html           301
+/about          /about.html          301
+
+# 404 fallback
+/*              /index.html          200
