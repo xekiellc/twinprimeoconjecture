@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Unsolved Problems — Twin Prime Conjecture</title>
   <meta name="description" content="The greatest unsolved problems in mathematics — Riemann Hypothesis, Goldbach's Conjecture, Collatz, P vs NP, and more. Simple to state, impossible to solve." />
+  <meta property="og:title" content="Unsolved Problems in Mathematics" />
+  <meta property="og:description" content="The greatest unsolved problems in mathematics — Riemann Hypothesis, Goldbach's Conjecture, Collatz, P vs NP, and more. Simple to state, impossible to solve." />
+  <meta property="og:url" content="https://twinprimeconjecture.com/unsolved.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://twinprimeconjecture.com/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Unsolved Problems in Mathematics" />
+  <meta name="twitter:description" content="Simple to state. Centuries old. Still open." />
+  <meta name="twitter:image" content="https://twinprimeconjecture.com/og-image.png" />
   <link rel="canonical" href="https://twinprimeconjecture.com/unsolved.html" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -420,7 +429,6 @@
     function filterProblems(type, btn) {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-
       document.querySelectorAll('.problem-block').forEach(block => {
         if (type === 'all') {
           block.style.display = '';
