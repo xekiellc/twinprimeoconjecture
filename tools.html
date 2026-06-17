@@ -1,1 +1,616 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tools — Twin Prime Conjecture</title>
+  <meta name="description" content="Interactive prime number tools — prime checker, twin prime finder, Ulam spiral visualizer, prime gap analysis, and Hardy-Littlewood estimator." />
+  <link rel="canonical" href="https://twinprimeconjecture.com/tools.html" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+
+  <style>
+    .tools-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+    }
+    .tool-section {
+      padding: 4rem 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .tool-section:last-child { border-bottom: none; }
+    .tool-section--alt { background: var(--deep); }
+
+    /* Ulam canvas */
+    #ulam-canvas {
+      display: block;
+      width: 100%;
+      max-width: 500px;
+      height: 500px;
+      background: var(--void);
+      border: 1px solid var(--border);
+      margin: 1.5rem 0;
+      cursor: crosshair;
+    }
+    .ulam-controls {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+      align-items: center;
+    }
+    .ulam-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      color: var(--dim);
+      cursor: pointer;
+      letter-spacing: 0.08em;
+    }
+    .ulam-toggle input[type="checkbox"] {
+      accent-color: var(--teal);
+      width: 14px;
+      height: 14px;
+    }
+
+    /* Gap chart */
+    #gap-canvas {
+      display: block;
+      width: 100%;
+      height: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      margin-top: 1.5rem;
+    }
+
+    /* Density chart */
+    #density-canvas {
+      display: block;
+      width: 100%;
+      height: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      margin-top: 1.5rem;
+    }
+
+    .result-twins {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1rem;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    .twin-chip {
+      font-family: var(--ff-mono);
+      font-size: 0.7rem;
+      color: var(--teal);
+      background: rgba(45, 212, 191, 0.06);
+      border: 1px solid var(--teal-dim);
+      padding: 0.25rem 0.6rem;
+      border-radius: 2px;
+      white-space: nowrap;
+    }
+    .stat-row {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin-top: 1.25rem;
+    }
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+    .stat-value {
+      font-family: var(--ff-mono);
+      font-size: 1.4rem;
+      color: var(--teal);
+      letter-spacing: -0.02em;
+    }
+    .stat-label {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    @media (max-width: 700px) {
+      .tools-grid { grid-template-columns: 1fr; }
+      #ulam-canvas { height: 300px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p, p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html" class="active">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">Interactive · Explore the Primes</p>
+        <h1 class="page-title">Prime<br /><em>Tools</em></h1>
+        <p class="page-lead">Don't just read about prime numbers. Find them, check them, visualize them, and see the patterns that have fascinated mathematicians for centuries.</p>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 1: PRIME CHECKER -->
+    <div class="tool-section">
+      <div class="container">
+        <p class="section-label">Tool 01</p>
+        <h2 class="section-title">Prime <em>Checker</em></h2>
+        <div class="section-body">
+          <p>Enter any positive integer to check whether it is prime, part of a twin prime pair, and see its prime factorization.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Prime Checker</p>
+          <div class="tool-input-row">
+            <input
+              type="number"
+              id="checker-input"
+              class="tool-input"
+              placeholder="Enter a number (e.g. 17)"
+              min="2"
+              max="999999999"
+            />
+            <button class="btn-primary" onclick="checkPrime()">Check</button>
+          </div>
+          <div id="checker-result" class="tool-result">
+            Enter a number above and press Check.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 2: TWIN PRIME FINDER -->
+    <div class="tool-section tool-section--alt">
+      <div class="container">
+        <p class="section-label">Tool 02</p>
+        <h2 class="section-title">Twin Prime <em>Finder</em></h2>
+        <div class="section-body">
+          <p>Find all twin prime pairs up to any limit. Watch the pairs appear — and notice how they thin out but never disappear.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Twin Prime Finder</p>
+          <div class="tool-input-row">
+            <input
+              type="number"
+              id="finder-input"
+              class="tool-input"
+              placeholder="Find twins up to (e.g. 1000)"
+              min="5"
+              max="100000"
+            />
+            <button class="btn-primary" onclick="findTwins()">Find Pairs</button>
+          </div>
+          <div id="finder-stats" class="stat-row" style="display: none;">
+            <div class="stat-item">
+              <span class="stat-value" id="stat-pairs">—</span>
+              <span class="stat-label">Twin Pairs Found</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value" id="stat-hl">—</span>
+              <span class="stat-label">H–L Estimate</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value" id="stat-density">—</span>
+              <span class="stat-label">Pairs per 1000</span>
+            </div>
+          </div>
+          <div id="finder-result" class="result-twins" style="margin-top: 1rem;"></div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 3: ULAM SPIRAL -->
+    <div class="tool-section">
+      <div class="container">
+        <p class="section-label">Tool 03</p>
+        <h2 class="section-title">Ulam <em>Spiral</em></h2>
+        <div class="section-body">
+          <p>In 1963, mathematician Stanisław Ulam doodled a spiral of integers during a boring meeting and noticed that prime numbers tend to cluster on diagonal lines. Twin primes glow teal. The pattern has never been fully explained.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Ulam Spiral Visualizer</p>
+          <div class="ulam-controls">
+            <label class="ulam-toggle">
+              <input type="checkbox" id="show-twins" checked onchange="renderUlam()" />
+              Twin Primes (teal)
+            </label>
+            <label class="ulam-toggle">
+              <input type="checkbox" id="show-primes" checked onchange="renderUlam()" />
+              All Primes (dim)
+            </label>
+            <label class="ulam-toggle">
+              <input type="checkbox" id="show-composite" onchange="renderUlam()" />
+              Composite (subtle)
+            </label>
+            <div style="margin-left: auto; display: flex; align-items: center; gap: 0.75rem;">
+              <span class="viz-label" style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--dim);">Size:</span>
+              <input type="range" id="ulam-size" min="21" max="101" value="51" step="10"
+                style="accent-color: var(--teal); width: 100px;" onchange="renderUlam()" />
+              <span id="ulam-size-val" style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--teal);">51×51</span>
+            </div>
+          </div>
+          <canvas id="ulam-canvas"></canvas>
+          <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-top: 0.75rem;">
+            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+              <div style="width: 12px; height: 12px; background: rgba(45,212,191,0.85); border-radius: 2px;"></div>
+              Twin Prime
+            </div>
+            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+              <div style="width: 12px; height: 12px; background: rgba(122,128,153,0.6); border-radius: 2px;"></div>
+              Prime
+            </div>
+            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+              <div style="width: 12px; height: 12px; background: var(--gold); border-radius: 2px;"></div>
+              Center (1)
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 4: PRIME GAP CHART -->
+    <div class="tool-section tool-section--alt">
+      <div class="container">
+        <p class="section-label">Tool 04</p>
+        <h2 class="section-title">Prime Gap <em>Chart</em></h2>
+        <div class="section-body">
+          <p>The gap between consecutive primes varies wildly. Twin primes are gaps of exactly 2 — the minimum possible. This chart shows every gap between primes up to your chosen limit. Spikes of height 2 are twin primes.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Prime Gap Visualizer</p>
+          <div class="tool-input-row">
+            <span style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--dim);">Show gaps between primes up to:</span>
+            <input type="range" id="gap-slider" min="100" max="5000" value="500" step="100"
+              style="flex: 1; accent-color: var(--teal);" oninput="updateGapChart()" />
+            <span id="gap-slider-val" style="font-family: var(--ff-mono); font-size: 0.75rem; color: var(--teal); min-width: 50px;">500</span>
+          </div>
+          <canvas id="gap-canvas"></canvas>
+          <div style="display: flex; gap: 2rem; margin-top: 0.75rem; flex-wrap: wrap;">
+            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+              <div style="width: 12px; height: 3px; background: var(--teal);"></div>
+              Gap = 2 (Twin Prime)
+            </div>
+            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+              <div style="width: 12px; height: 3px; background: var(--muted);"></div>
+              Larger Gap
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 5: TWIN PRIME DENSITY -->
+    <div class="tool-section">
+      <div class="container">
+        <p class="section-label">Tool 05</p>
+        <h2 class="section-title">Twin Prime <em>Density</em></h2>
+        <div class="section-body">
+          <p>Twin primes become rarer as numbers grow larger — but do they thin to zero? This chart shows how many twin prime pairs appear in each block of 500 integers. The density decreases but the pairs keep appearing.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Twin Prime Density by Range</p>
+          <div class="tool-input-row">
+            <span style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--dim);">Analyze up to:</span>
+            <input type="range" id="density-slider" min="2000" max="50000" value="10000" step="1000"
+              style="flex: 1; accent-color: var(--teal);" oninput="updateDensityChart()" />
+            <span id="density-slider-val" style="font-family: var(--ff-mono); font-size: 0.75rem; color: var(--teal); min-width: 70px;">10,000</span>
+          </div>
+          <canvas id="density-canvas"></canvas>
+          <p style="font-family: var(--ff-mono); font-size: 0.65rem; color: var(--muted); margin-top: 0.75rem; letter-spacing: 0.08em;">
+            Each bar = twin prime pairs found in a block of 500 integers. Bars never reach zero.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- TOOL 6: FACTORIZER -->
+    <div class="tool-section tool-section--alt">
+      <div class="container">
+        <p class="section-label">Tool 06</p>
+        <h2 class="section-title">Prime <em>Factorizer</em></h2>
+        <div class="section-body">
+          <p>Every integer greater than 1 is either prime or can be expressed as a unique product of primes. This is the Fundamental Theorem of Arithmetic — find the prime factorization of any number.</p>
+        </div>
+        <div class="tool-panel">
+          <p class="tool-panel-title">Prime Factorization</p>
+          <div class="tool-input-row">
+            <input
+              type="number"
+              id="factor-input"
+              class="tool-input"
+              placeholder="Enter a number (e.g. 360)"
+              min="2"
+              max="999999999"
+            />
+            <button class="btn-primary" onclick="factorizeNumber()">Factorize</button>
+          </div>
+          <div id="factor-result" class="tool-result">
+            Enter a number above and press Factorize.
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /page-wrap -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+  <script src="primes.js"></script>
+  <script>
+    /* ── PRIME CHECKER ── */
+    function checkPrime() {
+      const val = parseInt(document.getElementById('checker-input').value);
+      const result = document.getElementById('checker-result');
+      if (isNaN(val) || val < 2) {
+        result.innerHTML = '<span class="error">Please enter an integer of 2 or greater.</span>';
+        return;
+      }
+      const prime = isPrime(val);
+      const twin = isTwinPrime(val);
+      const factors = factorize(val);
+      const factorStr = prime
+        ? `<span class="highlight">${val}</span> (prime)`
+        : factors.join(' × ');
+
+      let html = '';
+      if (prime) {
+        html += `<span class="highlight">${val} is prime.</span><br />`;
+        if (twin) {
+          const partner = isPrime(val - 2) ? val - 2 : val + 2;
+          html += `It is a twin prime. Its pair is <span class="highlight">(${Math.min(val, partner)}, ${Math.max(val, partner)})</span>.<br />`;
+        } else {
+          html += `It is <em>not</em> part of a twin prime pair.<br />`;
+        }
+      } else {
+        html += `<span style="color: var(--dim)">${val} is not prime.</span><br />`;
+        html += `Prime factorization: <span class="highlight">${factorStr}</span><br />`;
+      }
+      result.innerHTML = html;
+    }
+
+    document.getElementById('checker-input').addEventListener('keydown', e => {
+      if (e.key === 'Enter') checkPrime();
+    });
+
+    /* ── TWIN FINDER ── */
+    function findTwins() {
+      const val = parseInt(document.getElementById('finder-input').value);
+      const resultEl = document.getElementById('finder-result');
+      const statsEl = document.getElementById('finder-stats');
+
+      if (isNaN(val) || val < 5) {
+        resultEl.innerHTML = '<span style="font-family: var(--ff-mono); font-size: 0.75rem; color: var(--dim);">Please enter a number of 5 or greater.</span>';
+        return;
+      }
+      if (val > 100000) {
+        resultEl.innerHTML = '<span style="font-family: var(--ff-mono); font-size: 0.75rem; color: var(--dim);">Limit is 100,000 for browser performance.</span>';
+        return;
+      }
+
+      const pairs = getTwinPairs(val);
+      const hlEst = hardyLittlewoodEstimate(val);
+      const density = ((pairs.length / (val / 1000))).toFixed(1);
+
+      document.getElementById('stat-pairs').textContent = pairs.length.toLocaleString();
+      document.getElementById('stat-hl').textContent = hlEst.toLocaleString();
+      document.getElementById('stat-density').textContent = density;
+      statsEl.style.display = 'flex';
+
+      resultEl.innerHTML = '';
+      pairs.forEach(([a, b]) => {
+        resultEl.innerHTML += `<span class="twin-chip">(${a}, ${b})</span>`;
+      });
+
+      if (pairs.length === 0) {
+        resultEl.innerHTML = '<span style="font-family: var(--ff-mono); font-size: 0.75rem; color: var(--dim);">No twin primes found in this range.</span>';
+      }
+    }
+
+    document.getElementById('finder-input').addEventListener('keydown', e => {
+      if (e.key === 'Enter') findTwins();
+    });
+
+    /* ── ULAM SPIRAL ── */
+    function renderUlam() {
+      const canvas = document.getElementById('ulam-canvas');
+      const sizeSlider = document.getElementById('ulam-size');
+      const sizeVal = document.getElementById('ulam-size-val');
+      const size = parseInt(sizeSlider.value);
+      sizeVal.textContent = `${size}×${size}`;
+
+      const rect = canvas.getBoundingClientRect();
+      canvas.width = rect.width || 500;
+      canvas.height = canvas.width;
+
+      drawUlamSpiral(canvas, size, {
+        showTwins: document.getElementById('show-twins').checked,
+        showPrimes: document.getElementById('show-primes').checked,
+        showComposite: document.getElementById('show-composite').checked,
+      });
+    }
+
+    /* ── GAP CHART ── */
+    function updateGapChart() {
+      const slider = document.getElementById('gap-slider');
+      const valEl = document.getElementById('gap-slider-val');
+      const limit = parseInt(slider.value);
+      valEl.textContent = limit.toLocaleString();
+
+      const canvas = document.getElementById('gap-canvas');
+      const ctx = canvas.getContext('2d');
+      const W = canvas.width = canvas.offsetWidth;
+      const H = canvas.height = 200;
+
+      const primes = getPrimes(limit);
+      const gaps = [];
+      for (let i = 1; i < primes.length; i++) {
+        gaps.push({ gap: primes[i] - primes[i - 1], prime: primes[i] });
+      }
+
+      const maxGap = Math.max(...gaps.map(g => g.gap), 1);
+      const barW = Math.max(1, W / gaps.length);
+
+      ctx.fillStyle = '#13151D';
+      ctx.fillRect(0, 0, W, H);
+
+      gaps.forEach((g, i) => {
+        const barH = (g.gap / maxGap) * (H - 20);
+        const x = i * barW;
+        const y = H - barH;
+        ctx.fillStyle = g.gap === 2 ? '#2DD4BF' : '#3A3F55';
+        ctx.fillRect(x, y, Math.max(barW - 1, 1), barH);
+      });
+
+      // Axis label
+      ctx.fillStyle = '#3A3F55';
+      ctx.font = '10px JetBrains Mono, monospace';
+      ctx.fillText('gap = 2 (twin prime)', 8, H - 6);
+    }
+
+    /* ── DENSITY CHART ── */
+    function updateDensityChart() {
+      const slider = document.getElementById('density-slider');
+      const valEl = document.getElementById('density-slider-val');
+      const limit = parseInt(slider.value);
+      valEl.textContent = limit.toLocaleString();
+
+      const canvas = document.getElementById('density-canvas');
+      const ctx = canvas.getContext('2d');
+      const W = canvas.width = canvas.offsetWidth;
+      const H = canvas.height = 200;
+
+      const buckets = twinDensity(limit, 500);
+      const maxCount = Math.max(...buckets.map(b => b.count), 1);
+      const barW = W / buckets.length;
+
+      ctx.fillStyle = '#13151D';
+      ctx.fillRect(0, 0, W, H);
+
+      buckets.forEach((b, i) => {
+        const barH = (b.count / maxCount) * (H - 24);
+        const x = i * barW;
+        const y = H - barH - 4;
+        const alpha = 0.4 + (0.6 * b.count / maxCount);
+        ctx.fillStyle = `rgba(45, 212, 191, ${alpha})`;
+        ctx.fillRect(x + 1, y, Math.max(barW - 2, 1), barH);
+      });
+
+      // X axis labels
+      ctx.fillStyle = '#3A3F55';
+      ctx.font = '9px JetBrains Mono, monospace';
+      ctx.fillText('0', 4, H - 2);
+      ctx.fillText(limit.toLocaleString(), W - 50, H - 2);
+    }
+
+    /* ── FACTORIZER ── */
+    function factorizeNumber() {
+      const val = parseInt(document.getElementById('factor-input').value);
+      const result = document.getElementById('factor-result');
+
+      if (isNaN(val) || val < 2) {
+        result.innerHTML = '<span class="error">Please enter an integer of 2 or greater.</span>';
+        return;
+      }
+
+      const factors = factorize(val);
+
+      if (factors.length === 1) {
+        result.innerHTML = `<span class="highlight">${val}</span> is prime — it cannot be factored further.`;
+        return;
+      }
+
+      // Group factors
+      const counts = {};
+      factors.forEach(f => counts[f] = (counts[f] || 0) + 1);
+      const parts = Object.entries(counts).map(([base, exp]) =>
+        exp > 1 ? `${base}<sup>${exp}</sup>` : base
+      );
+
+      result.innerHTML = `
+        <span class="highlight">${val}</span> = ${parts.join(' × ')}
+        <br /><span style="color: var(--muted); font-size: 0.75rem;">
+          Prime factors: ${[...new Set(factors)].join(', ')}
+        </span>`;
+    }
+
+    document.getElementById('factor-input').addEventListener('keydown', e => {
+      if (e.key === 'Enter') factorizeNumber();
+    });
+
+    /* ── INIT ── */
+    window.addEventListener('load', () => {
+      renderUlam();
+      updateGapChart();
+      updateDensityChart();
+    });
+
+    window.addEventListener('resize', () => {
+      renderUlam();
+      updateGapChart();
+      updateDensityChart();
+    });
+  </script>
+
+</body>
+</html>
