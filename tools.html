@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tools — Twin Prime Conjecture</title>
   <meta name="description" content="Interactive prime number tools — prime checker, twin prime finder, Ulam spiral visualizer, prime gap analysis, and Hardy-Littlewood estimator." />
+  <meta property="og:title" content="Prime Number Tools — Twin Prime Conjecture" />
+  <meta property="og:description" content="Interactive prime number tools — prime checker, twin prime finder, Ulam spiral visualizer, prime gap analysis, and more." />
+  <meta property="og:url" content="https://twinprimeconjecture.com/tools.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://twinprimeconjecture.com/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Prime Number Tools — Twin Prime Conjecture" />
+  <meta name="twitter:description" content="Check primes, find twin pairs, visualize the Ulam spiral, and more." />
+  <meta name="twitter:image" content="https://twinprimeconjecture.com/og-image.png" />
   <link rel="canonical" href="https://twinprimeconjecture.com/tools.html" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -22,12 +31,6 @@
   </script>
 
   <style>
-    .tools-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.5rem;
-      margin-top: 2.5rem;
-    }
     .tool-section {
       padding: 4rem 2rem;
       border-bottom: 1px solid var(--border);
@@ -35,7 +38,6 @@
     .tool-section:last-child { border-bottom: none; }
     .tool-section--alt { background: var(--deep); }
 
-    /* Ulam canvas */
     #ulam-canvas {
       display: block;
       width: 100%;
@@ -69,7 +71,6 @@
       height: 14px;
     }
 
-    /* Gap chart */
     #gap-canvas {
       display: block;
       width: 100%;
@@ -79,7 +80,6 @@
       margin-top: 1.5rem;
     }
 
-    /* Density chart */
     #density-canvas {
       display: block;
       width: 100%;
@@ -133,7 +133,6 @@
     }
 
     @media (max-width: 700px) {
-      .tools-grid { grid-template-columns: 1fr; }
       #ulam-canvas { height: 300px; }
     }
   </style>
@@ -261,7 +260,7 @@
               Composite (subtle)
             </label>
             <div style="margin-left: auto; display: flex; align-items: center; gap: 0.75rem;">
-              <span class="viz-label" style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--dim);">Size:</span>
+              <span style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--dim);">Size:</span>
               <input type="range" id="ulam-size" min="21" max="101" value="51" step="10"
                 style="accent-color: var(--teal); width: 100px;" onchange="renderUlam()" />
               <span id="ulam-size-val" style="font-family: var(--ff-mono); font-size: 0.7rem; color: var(--teal);">51×51</span>
@@ -269,15 +268,15 @@
           </div>
           <canvas id="ulam-canvas"></canvas>
           <div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-top: 0.75rem;">
-            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+            <div style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
               <div style="width: 12px; height: 12px; background: rgba(45,212,191,0.85); border-radius: 2px;"></div>
               Twin Prime
             </div>
-            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+            <div style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
               <div style="width: 12px; height: 12px; background: rgba(122,128,153,0.6); border-radius: 2px;"></div>
               Prime
             </div>
-            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+            <div style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
               <div style="width: 12px; height: 12px; background: var(--gold); border-radius: 2px;"></div>
               Center (1)
             </div>
@@ -306,11 +305,11 @@
           </div>
           <canvas id="gap-canvas"></canvas>
           <div style="display: flex; gap: 2rem; margin-top: 0.75rem; flex-wrap: wrap;">
-            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+            <div style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
               <div style="width: 12px; height: 3px; background: var(--teal);"></div>
               Gap = 2 (Twin Prime)
             </div>
-            <div class="legend-item" style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
+            <div style="display: flex; align-items: center; gap: 0.5rem; font-family: var(--ff-mono); font-size: 0.65rem; color: var(--dim);">
               <div style="width: 12px; height: 3px; background: var(--muted);"></div>
               Larger Gap
             </div>
@@ -522,7 +521,6 @@
         ctx.fillRect(x, y, Math.max(barW - 1, 1), barH);
       });
 
-      // Axis label
       ctx.fillStyle = '#3A3F55';
       ctx.font = '10px JetBrains Mono, monospace';
       ctx.fillText('gap = 2 (twin prime)', 8, H - 6);
@@ -556,7 +554,6 @@
         ctx.fillRect(x + 1, y, Math.max(barW - 2, 1), barH);
       });
 
-      // X axis labels
       ctx.fillStyle = '#3A3F55';
       ctx.font = '9px JetBrains Mono, monospace';
       ctx.fillText('0', 4, H - 2);
@@ -580,7 +577,6 @@
         return;
       }
 
-      // Group factors
       const counts = {};
       factors.forEach(f => counts[f] = (counts[f] || 0) + 1);
       const parts = Object.entries(counts).map(([base, exp]) =>
