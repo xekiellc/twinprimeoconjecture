@@ -1,1 +1,204 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mathematicians — Twin Prime Conjecture</title>
+  <meta name="description" content="The mathematicians who shaped our understanding of prime numbers — from Euclid to Terence Tao. Their discoveries, their methods, and how close they came." />
+  <link rel="canonical" href="https://twinprimeconjecture.com/mathematicians.html" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p, p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html" class="active">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">The People Behind the Problem</p>
+        <h1 class="page-title">The<br /><em>Mathematicians</em></h1>
+        <p class="page-lead">From ancient Greece to the present day — the people who have spent their careers chasing prime numbers and what they actually found.</p>
+      </div>
+    </div>
+
+    <hr class="divider" />
+
+    <!-- PROFILES -->
+    <section class="section">
+      <div class="container" id="profiles-container">
+        <!-- populated by mathematicians.json -->
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- TIMELINE SUMMARY -->
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-label">At a Glance</p>
+        <h2 class="section-title">The arc of <em>progress</em></h2>
+        <div class="timeline">
+
+          <div class="timeline-item">
+            <p class="timeline-year">~300 BC</p>
+            <p class="timeline-title">Euclid — Infinitely many primes</p>
+            <p class="timeline-body">The foundation. Proof by contradiction. Still the template.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1849</p>
+            <p class="timeline-title">de Polignac — The conjecture stated</p>
+            <p class="timeline-body">No proof. Just pattern recognition and a question that would outlast him by centuries.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1919</p>
+            <p class="timeline-title">Brun — Convergent reciprocals</p>
+            <p class="timeline-body">B₂ ≈ 1.9021… The first hard analytic result about twin primes. Consistent with both finite and infinite pairs.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1923</p>
+            <p class="timeline-title">Hardy & Littlewood — Density prediction</p>
+            <p class="timeline-body">π₂(N) ≈ 2C₂ · N/(ln N)². Verified to extraordinary precision. Still unproven.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">1973</p>
+            <p class="timeline-title">Chen — Prime or semiprime</p>
+            <p class="timeline-body">Infinitely many p where p+2 is prime or semiprime. One step away. Still one step away.</p>
+          </div>
+
+          <div class="timeline-item highlight">
+            <p class="timeline-year">2013</p>
+            <p class="timeline-title">Zhang — Bounded gap of 70,000,000</p>
+            <p class="timeline-body">The logjam breaks. First finite bound ever proven. The world changes.</p>
+          </div>
+
+          <div class="timeline-item highlight">
+            <p class="timeline-year">2013–2014</p>
+            <p class="timeline-title">Maynard + Polymath — Bounded gap of 246</p>
+            <p class="timeline-body">From 70 million to 246 in under a year. Target: 2.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">2022</p>
+            <p class="timeline-title">Maynard — Fields Medal</p>
+            <p class="timeline-body">Mathematics' highest honor. The prime gap work is cited.</p>
+          </div>
+
+          <div class="timeline-item">
+            <p class="timeline-year">2026</p>
+            <p class="timeline-title">Open</p>
+            <p class="timeline-body">The gap is 246. The target is 2. The proof does not exist.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <hr class="divider" />
+
+    <!-- CTA -->
+    <section class="section">
+      <div class="container">
+        <p class="section-label">Go Deeper</p>
+        <h2 class="section-title">Explore the <em>problem</em></h2>
+        <div class="section-body">
+          <p>The mathematicians above spent careers on this question. You can start understanding it in an afternoon.</p>
+        </div>
+        <div style="margin-top: 2rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+          <a href="conjecture.html" class="btn-primary">Read the full conjecture</a>
+          <a href="tools.html" class="btn-secondary">Try the prime tools</a>
+        </div>
+      </div>
+    </section>
+
+  </div><!-- /page-wrap -->
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+  <script>
+    fetch('mathematicians.json')
+      .then(r => r.json())
+      .then(data => {
+        const container = document.getElementById('profiles-container');
+        container.innerHTML = '';
+
+        data.forEach((m, index) => {
+          const quoteHTML = m.quote
+            ? `<blockquote class="profile-quote">"${m.quote}"</blockquote>`
+            : '';
+
+          container.innerHTML += `
+            <div style="padding: 3rem 0; border-bottom: 1px solid var(--border);">
+              <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+                <div>
+                  <p style="font-family: var(--ff-mono); font-size: 0.65rem; letter-spacing: 0.2em; color: var(--muted); text-transform: uppercase; margin-bottom: 0.5rem;">
+                    ${String(index + 1).padStart(2, '0')} · ${m.nationality}
+                  </p>
+                  <h2 class="profile-name">${m.name}</h2>
+                  <p class="profile-years">${m.years}</p>
+                  <p class="profile-role">${m.role}</p>
+                </div>
+                <div style="text-align: right; flex-shrink: 0;">
+                  <p style="font-family: var(--ff-mono); font-size: 0.6rem; letter-spacing: 0.1em; color: var(--gold); border: 1px solid rgba(244,197,66,0.3); padding: 0.25rem 0.75rem; display: inline-block;">
+                    ${m.milestone}
+                  </p>
+                </div>
+              </div>
+              <p class="profile-bio">${m.contribution}</p>
+              ${quoteHTML}
+            </div>`;
+        });
+      })
+      .catch(() => {
+        document.getElementById('profiles-container').innerHTML =
+          '<p style="color: var(--dim); font-family: var(--ff-mono); font-size: 0.8rem;">Could not load mathematician profiles.</p>';
+      });
+  </script>
+
+</body>
+</html>
