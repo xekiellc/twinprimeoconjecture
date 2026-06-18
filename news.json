@@ -45,15 +45,6 @@
     "publishedAt": "2026-06-07T19:29:06Z"
   },
   {
-    "title": "A Branch-Switch Obstruction Phenomenon in Primitive Euler Bricks: Computational Through 1 Billion",
-    "description": "I'mThe perfect cuboid problem asks whether there exists a rectangular box whose three edge\r\nlengths, three face diagonals, and space diagonal are all integers. Although many Euler bricks\r\nare known, no perfect cuboid has been discovered, and no impossibility …",
-    "url": "https://community.wolfram.com/groups/-/m/t/3727003",
-    "source": {
-      "name": "Wolfram.com"
-    },
-    "publishedAt": "2026-06-04T02:21:06Z"
-  },
-  {
     "title": "Mathematicians Puzzled Over a Famous Problem for 80 Years. Now, They've Used A.I. to Identify a Clever Solution",
     "description": "In 1946, the mathematician Paul Erdős posed the unit distance problem—and suggested a winning strategy. An A.I. model has now landed on a better one. Why didn't humans get there first?",
     "url": "https://www.smithsonianmag.com/smart-news/mathematicians-puzzled-over-a-famous-problem-for-80-years-now-theyve-used-ai-to-identify-a-clever-solution-180988889/",
@@ -88,6 +79,15 @@
       "name": "The Indian Express"
     },
     "publishedAt": "2026-05-26T11:24:58Z"
+  },
+  {
+    "title": "How OpenAI’s Reasoning Model Solved an 80-Year-Old Geometry Problem",
+    "description": "OpenAI's AI model cracked a decades-old geometry problem, showcasing AI's leap into advanced reasoning. This breakthrough signals AI's potential in scientific research.",
+    "url": "https://www.c-sharpcorner.com/article/how-openais-reasoning-model-solved-an-80-year-old-geometry-problem/",
+    "source": {
+      "name": "C-sharpcorner.com"
+    },
+    "publishedAt": "2026-05-22T07:11:59Z"
   },
   {
     "title": "AI just solved an 80-year-old ‘Erdős problem,’ and mathematicians are amazed",
