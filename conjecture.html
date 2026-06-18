@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
@@ -34,7 +34,7 @@
 
   <!-- NAV -->
   <nav class="site-nav">
-    <a href="index.html" class="nav-logo">p, p+2</a>
+    <a href="index.html" class="nav-logo">p · p+2</a>
     <ul class="nav-links">
       <li><a href="conjecture.html" class="active">Conjecture</a></li>
       <li><a href="unsolved.html">Unsolved</a></li>
@@ -55,73 +55,69 @@
       </div>
     </div>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">Current Status</span></div>
 
-    <!-- STATUS -->
-    <section class="section" style="padding-top: 3rem; padding-bottom: 3rem;">
+    <div class="section" style="padding-top: 2.5rem; padding-bottom: 2.5rem;">
       <div class="container">
-        <div class="status-banner">
-          <span class="status-badge status-badge--unsolved">Unsolved</span>
-          <p class="status-text">
+        <div class="status-callout">
+          <span class="status-tag">Unsolved</span>
+          <p class="status-body">
             <strong>No proof exists as of 2026.</strong> The best known result is a bounded prime gap of 246, proven by James Maynard and the Polymath Project in 2014. The conjecture requires a gap of exactly 2. The remaining distance is unknown.
           </p>
         </div>
       </div>
-    </section>
+    </div>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">§ I — The Statement</span></div>
 
-    <!-- THE STATEMENT -->
     <section class="section">
       <div class="container">
-        <p class="section-label">The Statement</p>
-        <h2 class="section-title">What the conjecture <em>actually says</em></h2>
-        <div class="section-body">
+        <p class="section-eyebrow">The Statement</p>
+        <h2 class="section-heading">What the conjecture<br /><em>actually says</em></h2>
+        <div class="prose">
           <p>The Twin Prime Conjecture states that there are infinitely many prime numbers p such that p+2 is also prime. In other words, the sequence of twin prime pairs — (3,5), (11,13), (17,19), (29,31) — never ends.</p>
           <p>This is a special case of Polignac's conjecture, which proposes that for every even positive integer k, there are infinitely many prime pairs separated by exactly k. The Twin Prime Conjecture corresponds to k=2.</p>
         </div>
 
         <div class="formula-block" style="margin-top: 2rem;">
           There exist infinitely many primes p such that p + 2 is also prime.
-          <p class="formula-caption">The Twin Prime Conjecture — formally stated by Alphonse de Polignac, 1849.</p>
+          <span class="formula-caption">The Twin Prime Conjecture — formally stated by Alphonse de Polignac, 1849.</span>
         </div>
 
-        <div class="section-body" style="margin-top: 2rem;">
+        <div class="prose" style="margin-top: 2rem;">
           <p>The conjecture is widely believed to be true. The heuristic evidence is overwhelming — twin primes appear with remarkable regularity deep into the number line, and the Hardy–Littlewood conjecture gives an asymptotic formula predicting exactly how many pairs should exist below any given number N. That formula has been verified computationally to extraordinary precision.</p>
           <p>Belief, however, is not proof. And in mathematics, only proof counts.</p>
         </div>
       </div>
     </section>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">§ II — The Difficulty</span></div>
 
-    <!-- WHY IT'S HARD -->
     <section class="section section--alt">
       <div class="container">
-        <p class="section-label">The Difficulty</p>
-        <h2 class="section-title">Why it has never been <em>proven</em></h2>
-        <div class="section-body">
+        <p class="section-eyebrow">The Difficulty</p>
+        <h2 class="section-heading">Why it has never<br />been <em>proven</em></h2>
+        <div class="prose">
           <p>Prime numbers are distributed irregularly. There is no simple formula that generates them. The gaps between consecutive primes grow on average — by the prime number theorem, the average gap near a number N is approximately ln(N). Twin primes are pairs where this gap collapses to its minimum possible value of 2.</p>
           <p>The core difficulty is that existing analytic tools — sieve methods, zeta functions, exponential sums — are powerful enough to prove results about almost all primes, or about primes in aggregate. But proving that a specific pattern (gap of exactly 2) recurs infinitely often requires a precision these tools have not yet achieved.</p>
           <p>Sieve methods in particular hit a fundamental obstacle called the parity problem, first identified by Atle Selberg. Sieves naturally distinguish between numbers with an odd versus even number of prime factors — but twin primes require controlling parity in a way that current sieves cannot do.</p>
         </div>
 
-        <div class="status-banner" style="margin-top: 2.5rem;">
-          <span class="status-badge" style="background: var(--gold); color: var(--void);">Parity Problem</span>
-          <p class="status-text">
+        <div class="status-callout" style="margin-top: 2.5rem;">
+          <span class="status-tag status-tag--gold">Parity Problem</span>
+          <p class="status-body">
             <strong>The fundamental obstacle.</strong> Sieve methods — the main tool for problems like this — cannot distinguish between numbers with an odd or even number of prime factors. Twin primes require precisely this distinction. No one has found a way around it.
           </p>
         </div>
       </div>
     </section>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">§ III — History</span></div>
 
-    <!-- HISTORY TIMELINE -->
     <section class="section">
       <div class="container">
-        <p class="section-label">History</p>
-        <h2 class="section-title">175 years of <em>attempts</em></h2>
+        <p class="section-eyebrow">History</p>
+        <h2 class="section-heading">175 years of<br /><em>attempts</em></h2>
 
         <div class="timeline">
 
@@ -156,7 +152,7 @@
           <div class="timeline-item">
             <p class="timeline-year">1966 / 1973</p>
             <p class="timeline-title">Chen's theorem — the closest classical result</p>
-            <p class="timeline-body">Jingrun Chen proves that every sufficiently large even number is the sum of a prime and a number with at most two prime factors. As a corollary, there are infinitely many primes p where p+2 is either prime or a product of exactly two primes (a semiprime). This is tantalizingly close — but "prime or semiprime" is not the same as "prime."</p>
+            <p class="timeline-body">Jingrun Chen proves that every sufficiently large even number is the sum of a prime and a number with at most two prime factors. As a corollary, there are infinitely many primes p where p+2 is either prime or a semiprime. This is tantalizingly close — but "prime or semiprime" is not the same as "prime."</p>
             <p class="timeline-person">Jingrun Chen</p>
           </div>
 
@@ -199,14 +195,13 @@
       </div>
     </section>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">§ IV — Heuristics</span></div>
 
-    <!-- HARDY LITTLEWOOD -->
     <section class="section section--alt">
       <div class="container">
-        <p class="section-label">Heuristics</p>
-        <h2 class="section-title">How many twin primes <em>should</em> exist?</h2>
-        <div class="section-body">
+        <p class="section-eyebrow">Heuristics</p>
+        <h2 class="section-heading">How many twin primes<br /><em>should</em> exist?</h2>
+        <div class="prose">
           <p>The Hardy–Littlewood conjecture B gives a precise asymptotic estimate for the number of twin prime pairs below N. The formula involves the twin prime constant C₂, an infinite product over all primes greater than 2.</p>
         </div>
 
@@ -214,14 +209,14 @@
           π₂(N) ≈ 2C₂ · N / (ln N)²
           <br /><br />
           C₂ = ∏(p≥3) [ p(p−2) / (p−1)² ] ≈ 0.6601618…
-          <p class="formula-caption">Hardy–Littlewood Conjecture B (1923) — predicts the count of twin prime pairs below N. Verified computationally but unproven.</p>
+          <span class="formula-caption">Hardy–Littlewood Conjecture B (1923) — predicts the count of twin prime pairs below N. Verified computationally but unproven.</span>
         </div>
 
-        <div class="section-body" style="margin-top: 2rem;">
+        <div class="prose" style="margin-top: 2rem;">
           <p>For N = 1,000,000, this formula predicts approximately 1,224 twin prime pairs. The actual count is 1,224. The agreement between prediction and reality is extraordinary — which is why most mathematicians are confident the conjecture is true, even without a proof.</p>
         </div>
 
-        <div style="margin-top: 2.5rem;">
+        <div style="margin-top: 2.5rem; overflow-x: auto;">
           <table class="data-table">
             <thead>
               <tr>
@@ -244,14 +239,13 @@
       </div>
     </section>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">§ V — The Road Ahead</span></div>
 
-    <!-- WHAT WOULD A PROOF REQUIRE -->
     <section class="section">
       <div class="container">
-        <p class="section-label">The Road Ahead</p>
-        <h2 class="section-title">What a proof would <em>require</em></h2>
-        <div class="section-body">
+        <p class="section-eyebrow">The Road Ahead</p>
+        <h2 class="section-heading">What a proof would<br /><em>require</em></h2>
+        <div class="prose">
           <p>Most number theorists believe that proving the Twin Prime Conjecture will require genuinely new mathematics — not just refinements of existing techniques. The bounded gap work of Zhang and Maynard is remarkable, but driving a gap from 246 down to 2 may demand tools that do not yet exist.</p>
           <p>Three approaches are actively being explored. First, further refinements of Maynard's multidimensional sieve — though most experts believe this cannot reach a gap of 2 without a fundamentally new idea. Second, methods from algebraic geometry and the Langlands program, which have proven powerful in other contexts but have not yet been aimed squarely at twin primes. Third, entirely new frameworks — potentially inspired by connections between prime gaps and the eigenvalues of random matrices, a mysterious link discovered in the 1970s that remains unexplained.</p>
           <p>There is no roadmap. There is no deadline. There is only the problem.</p>
@@ -263,7 +257,7 @@
       </div>
     </section>
 
-  </div><!-- /page-wrap -->
+  </div>
 
   <!-- FOOTER -->
   <footer class="site-footer">
@@ -280,7 +274,7 @@
     </div>
     <div class="footer-copy">
       <span>© 2026 TwinPrimeConjecture.com</span>
-      <span>info@twinprimeconjecture.com</span>
+      <span>Last updated June 2026 · info@twinprimeconjecture.com</span>
     </div>
   </footer>
 
