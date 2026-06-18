@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
@@ -29,165 +29,12 @@
     gtag('js', new Date());
     gtag('config', 'G-EFRN5096B6');
   </script>
-
-  <style>
-    .problem-block {
-      padding: 3rem 0;
-      border-bottom: 1px solid var(--border);
-    }
-    .problem-block:last-child { border-bottom: none; }
-    .problem-header {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 2rem;
-      margin-bottom: 1.5rem;
-      flex-wrap: wrap;
-    }
-    .problem-meta {
-      display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
-    }
-    .problem-number {
-      font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.2em;
-      color: var(--muted);
-      text-transform: uppercase;
-    }
-    .problem-name {
-      font-family: var(--ff-display);
-      font-size: clamp(1.6rem, 4vw, 2.8rem);
-      font-weight: 500;
-      color: var(--bright);
-      line-height: 1.1;
-    }
-    .problem-name em {
-      font-style: italic;
-      color: var(--teal);
-    }
-    .problem-stated {
-      font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      color: var(--muted);
-      letter-spacing: 0.08em;
-      margin-top: 0.25rem;
-    }
-    .problem-badges {
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-      align-items: flex-end;
-      flex-shrink: 0;
-    }
-    .problem-status {
-      font-family: var(--ff-mono);
-      font-size: 0.6rem;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      padding: 0.3rem 0.8rem;
-    }
-    .problem-status.unsolved {
-      color: var(--teal);
-      border: 1px solid var(--teal-dim);
-    }
-    .problem-status.disputed {
-      color: var(--blue);
-      border: 1px solid rgba(77, 157, 224, 0.4);
-    }
-    .problem-status.partial {
-      color: var(--gold);
-      border: 1px solid rgba(244, 197, 66, 0.3);
-    }
-    .prize-tag {
-      font-family: var(--ff-mono);
-      font-size: 0.6rem;
-      letter-spacing: 0.1em;
-      color: var(--gold);
-      border: 1px solid rgba(244, 197, 66, 0.3);
-      padding: 0.2rem 0.6rem;
-    }
-    .problem-statement {
-      font-family: var(--ff-display);
-      font-size: clamp(1rem, 2vw, 1.3rem);
-      font-style: italic;
-      color: var(--text);
-      line-height: 1.5;
-      margin-bottom: 1.5rem;
-      max-width: 700px;
-    }
-    .problem-body {
-      font-size: 0.95rem;
-      line-height: 1.8;
-      color: var(--dim);
-      max-width: 700px;
-    }
-    .problem-body p + p { margin-top: 1rem; }
-    .problem-milestone {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.6rem;
-      margin-top: 1.5rem;
-      font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      color: var(--teal);
-      letter-spacing: 0.08em;
-    }
-    .problem-milestone::before {
-      content: '';
-      display: inline-block;
-      width: 6px;
-      height: 6px;
-      background: var(--teal);
-      border-radius: 50%;
-      flex-shrink: 0;
-    }
-    .examples-row {
-      display: flex;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      margin: 1.25rem 0;
-    }
-    .example-chip {
-      font-family: var(--ff-mono);
-      font-size: 0.75rem;
-      color: var(--teal);
-      background: rgba(45, 212, 191, 0.06);
-      border: 1px solid var(--teal-dim);
-      padding: 0.3rem 0.75rem;
-      border-radius: 2px;
-    }
-    .filter-bar {
-      display: flex;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      margin-bottom: 3rem;
-    }
-    .filter-btn {
-      font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--dim);
-      background: transparent;
-      border: 1px solid var(--border);
-      padding: 0.4rem 1rem;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    .filter-btn:hover,
-    .filter-btn.active {
-      color: var(--teal);
-      border-color: var(--teal-dim);
-    }
-  </style>
 </head>
 <body>
 
   <!-- NAV -->
   <nav class="site-nav">
-    <a href="index.html" class="nav-logo">p, p+2</a>
+    <a href="index.html" class="nav-logo">p · p+2</a>
     <ul class="nav-links">
       <li><a href="conjecture.html">Conjecture</a></li>
       <li><a href="unsolved.html" class="active">Unsolved</a></li>
@@ -208,12 +55,11 @@
       </div>
     </div>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">Introduction</span></div>
 
-    <!-- INTRO -->
     <section class="section" style="padding-bottom: 2rem;">
       <div class="container">
-        <div class="section-body">
+        <div class="prose">
           <p>The Twin Prime Conjecture is one of dozens of famous problems that remain unproven despite decades or centuries of effort by the greatest mathematical minds alive. What unites them is a paradox: they are easy to understand and apparently impossible to resolve. The gap between statement and proof is where mathematics lives.</p>
         </div>
         <div class="filter-bar" style="margin-top: 2rem;">
@@ -226,14 +72,13 @@
       </div>
     </section>
 
-    <!-- PROBLEMS -->
     <section class="section" style="padding-top: 0;">
       <div class="container" id="problems-container">
 
         <!-- TWIN PRIME -->
         <div class="problem-block" id="twin-prime" data-status="unsolved" data-prize="false">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">01 · Number Theory</p>
               <p class="problem-name">Twin Prime <em>Conjecture</em></p>
               <p class="problem-stated">Stated 1849 · Alphonse de Polignac</p>
@@ -261,7 +106,7 @@
         <!-- RIEMANN -->
         <div class="problem-block" id="riemann" data-status="unsolved" data-prize="true">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">02 · Complex Analysis · Number Theory</p>
               <p class="problem-name">Riemann <em>Hypothesis</em></p>
               <p class="problem-stated">Stated 1859 · Bernhard Riemann</p>
@@ -279,7 +124,7 @@
           </div>
           <div class="formula-block" style="margin-top: 1.5rem;">
             ζ(s) = 1 + 1/2ˢ + 1/3ˢ + 1/4ˢ + … = 0  →  Re(s) = 1/2 ?
-            <p class="formula-caption">The Riemann zeta function — its non-trivial zeros are conjectured to all lie on the line Re(s) = 1/2.</p>
+            <span class="formula-caption">The Riemann zeta function — its non-trivial zeros are conjectured to all lie on the line Re(s) = 1/2.</span>
           </div>
           <p class="problem-milestone">Verified: 10 trillion+ zeros on the critical line (computational)</p>
         </div>
@@ -287,7 +132,7 @@
         <!-- GOLDBACH -->
         <div class="problem-block" id="goldbach" data-status="partial" data-prize="false">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">03 · Number Theory</p>
               <p class="problem-name">Goldbach's <em>Conjecture</em></p>
               <p class="problem-stated">Stated 1742 · Christian Goldbach</p>
@@ -315,7 +160,7 @@
         <!-- COLLATZ -->
         <div class="problem-block" id="collatz" data-status="partial" data-prize="false">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">04 · Dynamical Systems</p>
               <p class="problem-name">Collatz <em>Conjecture</em></p>
               <p class="problem-stated">Stated 1937 · Lothar Collatz</p>
@@ -340,7 +185,7 @@
         <!-- P VS NP -->
         <div class="problem-block" id="p-vs-np" data-status="unsolved" data-prize="true">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">05 · Theoretical Computer Science</p>
               <p class="problem-name">P versus <em>NP</em></p>
               <p class="problem-stated">Stated 1971 · Stephen Cook</p>
@@ -362,7 +207,7 @@
         <!-- ABC -->
         <div class="problem-block" id="abc" data-status="disputed" data-prize="false">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">06 · Number Theory</p>
               <p class="problem-name">The abc <em>Conjecture</em></p>
               <p class="problem-stated">Stated 1985 · Oesterlé and Masser</p>
@@ -375,7 +220,7 @@
           <div class="problem-body">
             <p>The abc conjecture relates the prime factors of three integers a, b, and c satisfying a+b=c. Roughly speaking, it says that if a and b have many small prime factors, then c tends to be large relative to those factors. The conjecture would imply Fermat's Last Theorem as an almost immediate corollary — among dozens of other deep results.</p>
             <p>In 2012, Shinichi Mochizuki published a claimed proof spanning over 500 pages, using a new framework he called Inter-universal Teichmüller theory (IUT). The proof is so novel and technically demanding that only a handful of mathematicians worldwide have been able to study it in depth.</p>
-            <p>As of 2026, the mathematical community remains divided. Peter Scholze and Jakob Stix identified what they believe is a flaw in a key lemma. Mochizuki maintains the proof is correct. No consensus has been reached. The abc conjecture is simultaneously claimed-proven and unresolved — a status unique in modern mathematics.</p>
+            <p>As of 2026, the mathematical community remains divided. Peter Scholze and Jakob Stix identified what they believe is a flaw in a key lemma. Mochizuki maintains the proof is correct. No consensus has been reached.</p>
           </div>
           <p class="problem-milestone">Mochizuki's claimed proof (2012) — under review, no consensus as of 2026</p>
         </div>
@@ -383,7 +228,7 @@
         <!-- NAVIER STOKES -->
         <div class="problem-block" id="navier-stokes" data-status="unsolved" data-prize="true">
           <div class="problem-header">
-            <div class="problem-meta">
+            <div>
               <p class="problem-number">07 · Mathematical Physics</p>
               <p class="problem-name">Navier–Stokes <em>Existence</em></p>
               <p class="problem-stated">Stated formally 2000 · Clay Institute</p>
@@ -395,7 +240,7 @@
           </div>
           <p class="problem-statement">"Do smooth solutions to the Navier–Stokes equations always exist, or can they break down in finite time?"</p>
           <div class="problem-body">
-            <p>The Navier–Stokes equations describe the motion of fluids — from air over a wing to water through a pipe. They are used in every fluid dynamics simulation ever run. But mathematicians have never proven that smooth solutions to these equations always exist in three dimensions, or that they cannot develop singularities (breakdowns) in finite time.</p>
+            <p>The Navier–Stokes equations describe the motion of fluids — from air over a wing to water through a pipe. They are used in every fluid dynamics simulation ever run. But mathematicians have never proven that smooth solutions to these equations always exist in three dimensions, or that they cannot develop singularities in finite time.</p>
             <p>The problem is not about whether the equations are useful — they clearly are. It is about whether they are mathematically well-posed: whether the mathematical objects they describe are guaranteed to exist and behave predictably. Proving existence and smoothness (or finding a counterexample) is a Millennium Prize Problem.</p>
           </div>
           <p class="problem-milestone">Millennium Prize Problem — no resolution as of 2026</p>
@@ -404,7 +249,7 @@
       </div>
     </section>
 
-  </div><!-- /page-wrap -->
+  </div>
 
   <!-- FOOTER -->
   <footer class="site-footer">
@@ -421,7 +266,7 @@
     </div>
     <div class="footer-copy">
       <span>© 2026 TwinPrimeConjecture.com</span>
-      <span>info@twinprimeconjecture.com</span>
+      <span>Last updated June 2026 · info@twinprimeconjecture.com</span>
     </div>
   </footer>
 
