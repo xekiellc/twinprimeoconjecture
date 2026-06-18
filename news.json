@@ -81,15 +81,6 @@
     "publishedAt": "2026-05-26T11:24:58Z"
   },
   {
-    "title": "How OpenAI’s Reasoning Model Solved an 80-Year-Old Geometry Problem",
-    "description": "OpenAI's AI model cracked a decades-old geometry problem, showcasing AI's leap into advanced reasoning. This breakthrough signals AI's potential in scientific research.",
-    "url": "https://www.c-sharpcorner.com/article/how-openais-reasoning-model-solved-an-80-year-old-geometry-problem/",
-    "source": {
-      "name": "C-sharpcorner.com"
-    },
-    "publishedAt": "2026-05-22T07:11:59Z"
-  },
-  {
     "title": "AI just solved an 80-year-old ‘Erdős problem,’ and mathematicians are amazed",
     "description": "A chatbot’s result for the 80-year-old “unit distance” conjecture is the first AI proof that would likely be published in math’s top journal if humans had done it alone",
     "url": "https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/",
@@ -106,5 +97,14 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-05-19T10:00:00Z"
+  },
+  {
+    "title": "‘It is incredible’: How AI is transforming mathematics",
+    "description": "Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession.",
+    "url": "https://www.nature.com/articles/d41586-026-01553-1",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-05-19T00:00:00Z"
   }
 ]
