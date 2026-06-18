@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
@@ -32,148 +32,158 @@
 
   <style>
     .news-full-item {
-      padding: 2rem 0;
-      border-bottom: 1px solid var(--border);
       display: grid;
-      grid-template-columns: 120px 1fr;
+      grid-template-columns: 110px 1fr;
       gap: 2rem;
+      padding: 2rem 0;
+      border-bottom: 1px solid var(--rule);
       align-items: start;
-      transition: background 0.15s;
+      transition: background 0.12s;
       cursor: pointer;
     }
-    .news-full-item:hover { background: var(--surface); margin: 0 -2rem; padding: 2rem; }
+    .news-full-item:first-child { border-top: 1px solid var(--rule); }
     .news-full-item:last-child { border-bottom: none; }
+    .news-full-item:hover {
+      background: var(--ghost);
+      margin: 0 -2rem;
+      padding: 2rem;
+    }
     .news-full-date {
       font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      color: var(--muted);
+      font-size: 0.62rem;
+      color: var(--dim);
       letter-spacing: 0.08em;
       line-height: 1.6;
       padding-top: 0.2rem;
     }
     .news-full-date .month-year {
       display: block;
-      color: var(--teal);
-      font-size: 0.6rem;
-      letter-spacing: 0.12em;
+      color: var(--oxblood);
+      font-size: 0.58rem;
+      letter-spacing: 0.14em;
       text-transform: uppercase;
       margin-bottom: 0.2rem;
     }
     .news-full-title {
       font-family: var(--ff-display);
-      font-size: clamp(1.1rem, 2.5vw, 1.4rem);
-      color: var(--bright);
+      font-size: clamp(1.05rem, 2.5vw, 1.35rem);
+      color: var(--ink);
       line-height: 1.3;
-      margin-bottom: 0.5rem;
-      transition: color 0.2s;
+      margin-bottom: 0.45rem;
+      transition: color 0.15s;
     }
-    .news-full-item:hover .news-full-title { color: var(--teal); }
+    .news-full-item:hover .news-full-title { color: var(--oxblood); }
     .news-full-source {
       font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      color: var(--teal);
+      font-size: 0.62rem;
+      color: var(--slate);
       letter-spacing: 0.08em;
-      margin-bottom: 0.6rem;
+      margin-bottom: 0.5rem;
     }
     .news-full-desc {
       font-size: 0.9rem;
       line-height: 1.7;
-      color: var(--dim);
+      color: var(--ink-light);
+      font-family: var(--ff-body);
     }
     .news-full-link {
       display: inline-block;
-      margin-top: 0.75rem;
+      margin-top: 0.6rem;
       font-family: var(--ff-mono);
-      font-size: 0.65rem;
+      font-size: 0.6rem;
       letter-spacing: 0.1em;
-      color: var(--teal);
+      color: var(--slate);
       text-transform: uppercase;
-      border-bottom: 1px solid var(--teal-dim);
+      border-bottom: 1px solid var(--rule);
       padding-bottom: 1px;
+      transition: color 0.15s, border-color 0.15s;
     }
-    .news-full-link:hover { border-color: var(--teal); }
+    .news-full-link:hover { color: var(--oxblood); border-color: var(--oxblood); }
 
     .filter-row {
       display: flex;
-      gap: 0.75rem;
+      gap: 0.6rem;
       flex-wrap: wrap;
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
       padding-bottom: 1.5rem;
-      border-bottom: 1px solid var(--border);
+      border-bottom: 1px solid var(--rule);
     }
     .filter-chip {
       font-family: var(--ff-mono);
-      font-size: 0.65rem;
+      font-size: 0.62rem;
       letter-spacing: 0.1em;
       text-transform: uppercase;
       color: var(--dim);
       background: transparent;
-      border: 1px solid var(--border);
-      padding: 0.35rem 0.9rem;
+      border: 1px solid var(--rule);
+      padding: 0.32rem 0.85rem;
       cursor: pointer;
       transition: all 0.2s;
     }
     .filter-chip:hover,
     .filter-chip.active {
-      color: var(--teal);
-      border-color: var(--teal-dim);
+      color: var(--oxblood);
+      border-color: var(--oxblood);
+      background: rgba(122,28,28,0.04);
     }
 
     .news-count {
       font-family: var(--ff-mono);
-      font-size: 0.7rem;
-      color: var(--muted);
+      font-size: 0.68rem;
+      color: var(--dim);
       letter-spacing: 0.1em;
-      margin-bottom: 2rem;
+      margin-bottom: 1.5rem;
     }
-    .news-count span { color: var(--teal); }
+    .news-count span { color: var(--oxblood); }
 
     .pipeline-note {
       display: flex;
       align-items: center;
       gap: 0.75rem;
       padding: 1rem 1.25rem;
-      background: var(--surface);
-      border: 1px solid var(--border);
+      background: var(--ghost);
+      border: 1px solid var(--rule);
+      border-left: 3px solid var(--slate);
       margin-bottom: 2.5rem;
     }
     .pipeline-dot {
-      width: 8px;
-      height: 8px;
-      background: var(--teal);
+      width: 7px;
+      height: 7px;
+      background: var(--slate);
       border-radius: 50%;
       flex-shrink: 0;
-      animation: pulse 2s ease-in-out infinite;
+      animation: pulse 2.5s ease-in-out infinite;
     }
     @keyframes pulse {
-      0%, 100% { opacity: 0.4; transform: scale(1); }
-      50% { opacity: 1; transform: scale(1.2); }
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
     }
     .pipeline-text {
       font-family: var(--ff-mono);
-      font-size: 0.65rem;
-      color: var(--dim);
-      letter-spacing: 0.08em;
+      font-size: 0.62rem;
+      color: var(--ink-light);
+      letter-spacing: 0.06em;
     }
-    .pipeline-text strong { color: var(--text); }
+    .pipeline-text strong { color: var(--ink); }
 
     .empty-state {
-      padding: 4rem 2rem;
+      padding: 3rem 2rem;
       text-align: center;
-      border: 1px solid var(--border);
+      border: 1px solid var(--rule);
+      background: var(--ghost);
     }
     .empty-state p {
       font-family: var(--ff-mono);
-      font-size: 0.75rem;
-      color: var(--muted);
-      letter-spacing: 0.1em;
-      margin-bottom: 1rem;
+      font-size: 0.72rem;
+      color: var(--dim);
+      letter-spacing: 0.08em;
+      margin-bottom: 0.5rem;
     }
 
     @media (max-width: 600px) {
       .news-full-item {
         grid-template-columns: 1fr;
-        gap: 0.5rem;
+        gap: 0.4rem;
       }
       .news-full-item:hover {
         margin: 0 -1.25rem;
@@ -186,7 +196,7 @@
 
   <!-- NAV -->
   <nav class="site-nav">
-    <a href="index.html" class="nav-logo">p, p+2</a>
+    <a href="index.html" class="nav-logo">p · p+2</a>
     <ul class="nav-links">
       <li><a href="conjecture.html">Conjecture</a></li>
       <li><a href="unsolved.html">Unsolved</a></li>
@@ -207,9 +217,8 @@
       </div>
     </div>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">Latest Articles</span></div>
 
-    <!-- NEWS BODY -->
     <section class="section">
       <div class="container">
 
@@ -217,7 +226,7 @@
           <div class="pipeline-dot"></div>
           <p class="pipeline-text">
             <strong>Live pipeline</strong> — Updated 4× daily via NewsAPI + Claude curation.
-            Articles are selected for relevance to prime numbers, number theory, and mathematics.
+            Articles selected for relevance to prime numbers, number theory, and mathematics.
           </p>
         </div>
 
@@ -235,50 +244,53 @@
       </div>
     </section>
 
-    <hr class="divider" />
+    <div class="chapter-rule"><span class="chapter-rule-label">Essential Reading</span></div>
 
-    <!-- LANDMARK COVERAGE -->
     <section class="section section--alt">
       <div class="container">
-        <p class="section-label">Essential Reading</p>
-        <h2 class="section-title">The stories that <em>mattered</em></h2>
-        <div class="section-body">
+        <p class="section-eyebrow">Landmark Coverage</p>
+        <h2 class="section-heading">The stories that<br /><em>mattered</em></h2>
+        <div class="prose">
           <p>Some mathematical results deserve their own moment. These are the landmark articles from when the twin prime problem changed — or nearly changed.</p>
         </div>
 
         <div class="card-grid" style="margin-top: 2.5rem;">
-          <a href="https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/" target="_blank" rel="noopener" class="card" style="display: block;">
+          <a href="https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/"
+             target="_blank" rel="noopener" class="card" style="display: block;">
             <p class="card-eyebrow">Quanta Magazine · 2016</p>
             <p class="card-title">Mathematicians Discover Prime Conspiracy</p>
             <p class="card-body">Primes ending in certain digits are less likely to be followed by primes ending in the same digit — a stunning bias nobody expected to find.</p>
-            <p class="card-link" style="margin-top: 1rem;">Read at Quanta →</p>
+            <p class="card-link">Read at Quanta →</p>
           </a>
 
-          <a href="https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty" target="_blank" rel="noopener" class="card" style="display: block;">
+          <a href="https://www.newyorker.com/magazine/2015/02/02/pursuit-beauty"
+             target="_blank" rel="noopener" class="card" style="display: block;">
             <p class="card-eyebrow">The New Yorker · 2015</p>
             <p class="card-title">The Pursuit of Beauty</p>
             <p class="card-body">Alec Wilkinson's profile of Yitang Zhang — the most celebrated mathematics story of the decade. Required reading for anyone interested in the bounded gap result.</p>
-            <p class="card-link" style="margin-top: 1rem;">Read at The New Yorker →</p>
+            <p class="card-link">Read at The New Yorker →</p>
           </a>
 
-          <a href="https://www.quantamagazine.org/together-and-alone-closing-the-prime-gap-20131119/" target="_blank" rel="noopener" class="card" style="display: block;">
+          <a href="https://www.quantamagazine.org/together-and-alone-closing-the-prime-gap-20131119/"
+             target="_blank" rel="noopener" class="card" style="display: block;">
             <p class="card-eyebrow">Quanta Magazine · 2013</p>
             <p class="card-title">Together and Alone: Closing the Prime Gap</p>
             <p class="card-body">How Zhang's result and Maynard's independent breakthrough combined with the Polymath Project to drive the prime gap from 70 million to 246 in under a year.</p>
-            <p class="card-link" style="margin-top: 1rem;">Read at Quanta →</p>
+            <p class="card-link">Read at Quanta →</p>
           </a>
 
-          <a href="https://annals.math.princeton.edu/2014/179-3/p07" target="_blank" rel="noopener" class="card" style="display: block;">
+          <a href="https://annals.math.princeton.edu/2014/179-3/p07"
+             target="_blank" rel="noopener" class="card" style="display: block;">
             <p class="card-eyebrow">Annals of Mathematics · 2014</p>
             <p class="card-title">Bounded Gaps Between Primes — Zhang's Paper</p>
             <p class="card-body">The original. Yitang Zhang's proof that there are infinitely many prime pairs separated by at most 70 million. The paper that broke open the problem.</p>
-            <p class="card-link" style="margin-top: 1rem;">Read at Annals →</p>
+            <p class="card-link">Read at Annals →</p>
           </a>
         </div>
       </div>
     </section>
 
-  </div><!-- /page-wrap -->
+  </div>
 
   <!-- FOOTER -->
   <footer class="site-footer">
@@ -295,7 +307,7 @@
     </div>
     <div class="footer-copy">
       <span>© 2026 TwinPrimeConjecture.com</span>
-      <span>info@twinprimeconjecture.com</span>
+      <span>Last updated June 2026 · info@twinprimeconjecture.com</span>
     </div>
   </footer>
 
@@ -303,9 +315,9 @@
     let allArticles = [];
 
     const categories = {
-      primes: ['prime', 'twin', 'gap', 'sieve', 'goldbach', 'riemann', 'conjecture'],
-      proof:  ['proof', 'proven', 'theorem', 'conjecture', 'solved', 'disprove', 'result'],
-      people: ['tao', 'maynard', 'zhang', 'euler', 'erdős', 'mathematician', 'fields medal'],
+      primes:      ['prime', 'twin', 'gap', 'sieve', 'goldbach', 'riemann', 'conjecture'],
+      proof:       ['proof', 'proven', 'theorem', 'conjecture', 'solved', 'disprove', 'result'],
+      people:      ['tao', 'maynard', 'zhang', 'euler', 'erdős', 'mathematician', 'fields medal'],
       computation: ['compute', 'algorithm', 'record', 'digits', 'primegrid', 'distributed', 'verify']
     };
 
@@ -362,8 +374,7 @@
     function filterNews(cat, btn) {
       document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      const filtered = allArticles.filter(a => matchesCategory(a, cat));
-      renderArticles(filtered);
+      renderArticles(allArticles.filter(a => matchesCategory(a, cat)));
     }
 
     fetch('news.json')
