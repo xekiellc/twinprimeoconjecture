@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Claimed Proofs — Twin Prime Conjecture</title>
+  <meta name="description" content="A history of claimed proofs of the Twin Prime Conjecture — why they failed, what they got right, and what a valid proof would need to overcome." />
+  <meta property="og:title" content="Claimed Proofs — Twin Prime Conjecture" />
+  <meta property="og:description" content="A history of claimed proofs — why they failed, what peer review revealed, and what a valid proof would need to overcome." />
+  <meta property="og:url" content="https://twinprimeconjecture.com/claimed-proofs.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://twinprimeconjecture.com/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Claimed Proofs — Twin Prime Conjecture" />
+  <meta name="twitter:description" content="Why claimed proofs of the Twin Prime Conjecture fail — and what a valid proof would need." />
+  <meta name="twitter:image" content="https://twinprimeconjecture.com/og-image.png" />
+  <link rel="canonical" href="https://twinprimeconjecture.com/claimed-proofs.html" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EFRN5096B6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EFRN5096B6');
+  </script>
+
+  <style>
+    .proof-block {
+      padding: 3rem 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .proof-block:last-child { border-bottom: none; }
+
+    .proof-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 2rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .proof-number {
+      font-family: var(--ff-mono);
+      font-size: 0.62rem;
+      letter-spacing: 0.2em;
+      color: var(--dim);
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+    .proof-title {
+      font-family: var(--ff-display);
+      font-size: clamp(1.4rem, 3.5vw, 2.2rem);
+      font-weight: 600;
+      color: var(--ink);
+      line-height: 1.15;
+    }
+    .proof-title em {
+      font-style: italic;
+      font-weight: 400;
+      color: var(--oxblood);
+    }
+    .proof-meta {
+      font-family: var(--ff-mono);
+      font-size: 0.62rem;
+      color: var(--dim);
+      letter-spacing: 0.08em;
+      margin-top: 0.3rem;
+    }
+    .proof-verdict {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      padding: 0.28rem 0.75rem;
+      border: 1px solid;
+      white-space: nowrap;
+      flex-shrink: 0;
+      align-self: flex-start;
+    }
+    .proof-verdict.refuted {
+      color: var(--oxblood);
+      border-color: var(--oxblood);
+    }
+    .proof-verdict.withdrawn {
+      color: var(--dim);
+      border-color: var(--rule);
+    }
+    .proof-verdict.disputed {
+      color: var(--gold);
+      border-color: var(--gold);
+    }
+    .proof-body {
+      font-size: 0.95rem;
+      line-height: 1.82;
+      color: var(--ink-light);
+      max-width: 680px;
+      font-family: var(--ff-body);
+    }
+    .proof-body p + p { margin-top: 1rem; }
+    .proof-flaw {
+      margin-top: 1.5rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--ghost);
+      border-left: 3px solid var(--oxblood);
+    }
+    .proof-flaw-label {
+      font-family: var(--ff-mono);
+      font-size: 0.6rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--oxblood);
+      margin-bottom: 0.5rem;
+    }
+    .proof-flaw-text {
+      font-size: 0.88rem;
+      line-height: 1.65;
+      color: var(--ink-light);
+      font-family: var(--ff-body);
+    }
+    .proof-lesson {
+      margin-top: 1rem;
+      font-family: var(--ff-mono);
+      font-size: 0.65rem;
+      color: var(--slate);
+      letter-spacing: 0.06em;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+    }
+    .proof-lesson::before {
+      content: '→';
+      flex-shrink: 0;
+      color: var(--rule);
+    }
+
+    .why-hard-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1px;
+      background: var(--rule);
+      border: 1px solid var(--rule);
+      margin-top: 2.5rem;
+    }
+    .why-hard-card {
+      background: var(--paper);
+      padding: 1.75rem;
+    }
+    .why-hard-number {
+      font-family: var(--ff-display);
+      font-size: 2.5rem;
+      font-weight: 600;
+      color: var(--ghost);
+      line-height: 1;
+      margin-bottom: 0.5rem;
+      -webkit-text-stroke: 1px var(--rule);
+    }
+    .why-hard-title {
+      font-family: var(--ff-display);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .why-hard-body {
+      font-size: 0.85rem;
+      line-height: 1.65;
+      color: var(--ink-light);
+      font-family: var(--ff-body);
+    }
+
+    .peer-review-steps {
+      margin-top: 2.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+    .peer-step {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 1.5rem;
+      padding: 1.5rem 0;
+      border-bottom: 1px solid var(--rule);
+      align-items: start;
+    }
+    .peer-step:last-child { border-bottom: none; }
+    .peer-step-num {
+      font-family: var(--ff-display);
+      font-size: 1.8rem;
+      font-weight: 600;
+      color: var(--rule);
+      line-height: 1;
+      text-align: right;
+    }
+    .peer-step-title {
+      font-family: var(--ff-display);
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.4rem;
+    }
+    .peer-step-body {
+      font-size: 0.88rem;
+      line-height: 1.65;
+      color: var(--ink-light);
+      font-family: var(--ff-body);
+    }
+
+    .common-errors {
+      margin-top: 2.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+      background: var(--rule);
+      border: 1px solid var(--rule);
+    }
+    .error-row {
+      background: var(--paper);
+      padding: 1.25rem 1.5rem;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 1.25rem;
+      align-items: start;
+    }
+    .error-row--alt { background: var(--paper-alt); }
+    .error-tag {
+      font-family: var(--ff-mono);
+      font-size: 0.58rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--paper);
+      background: var(--oxblood);
+      padding: 0.2rem 0.5rem;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.15rem;
+    }
+    .error-title {
+      font-family: var(--ff-display);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.3rem;
+    }
+    .error-body {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: var(--ink-light);
+      font-family: var(--ff-body);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="site-nav">
+    <a href="index.html" class="nav-logo">p · p+2</a>
+    <ul class="nav-links">
+      <li><a href="conjecture.html">Conjecture</a></li>
+      <li><a href="unsolved.html">Unsolved</a></li>
+      <li><a href="mathematicians.html">Mathematicians</a></li>
+      <li><a href="tools.html">Tools</a></li>
+      <li><a href="news.html">News</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-wrap">
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+      <div class="container">
+        <p class="page-eyebrow">Attempts · Failures · Lessons</p>
+        <h1 class="page-title">Claimed<br /><em>Proofs</em></h1>
+        <p class="page-lead">Many mathematicians have announced a proof of the Twin Prime Conjecture. None has survived peer review. Here is what went wrong — and what it reveals about the problem.</p>
+      </div>
+    </div>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">Why This Page Exists</span></div>
+
+    <section class="section">
+      <div class="container">
+        <p class="section-eyebrow">Context</p>
+        <h2 class="section-heading">The anatomy of a<br /><em>false proof</em></h2>
+        <div class="prose">
+          <p>The Twin Prime Conjecture attracts claimed proofs at a rate matched by few other problems in mathematics. This is partly because the statement is so simple — it is easy to believe that a simple statement must have a simple proof. It does not.</p>
+          <p>Understanding why claimed proofs fail is not merely a catalog of errors. It is a map of the problem's difficulty. Each failed attempt illuminates a wall that any genuine proof must scale. The parity problem, circular reasoning in sieve arguments, unverified asymptotic estimates — these are not just individual mistakes. They are the shape of the obstacle.</p>
+          <p>This page does not mock failed attempts. Mathematical progress is built on them. Yitang Zhang himself spent years on approaches that did not work before finding the one that did. What failed proofs teach is as important as what they got wrong.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">§ I — Why Proofs Fail</span></div>
+
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-eyebrow">The Obstacles</p>
+        <h2 class="section-heading">Why this problem<br />resists <em>proof</em></h2>
+        <div class="prose">
+          <p>Before examining specific failures, it helps to understand the structural reasons why the Twin Prime Conjecture is so resistant. These are not gaps in mathematical knowledge that will be closed by working harder. They are fundamental barriers that require genuinely new ideas to overcome.</p>
+        </div>
+        <div class="why-hard-grid">
+          <div class="why-hard-card">
+            <p class="why-hard-number">I</p>
+            <p class="why-hard-title">The Parity Problem</p>
+            <p class="why-hard-body">Sieve methods — the primary tool for problems like this — cannot distinguish between numbers with an odd versus even number of prime factors. Twin primes require exactly this distinction. No sieve technique discovered so far can overcome this barrier without a fundamentally new idea.</p>
+          </div>
+          <div class="why-hard-card">
+            <p class="why-hard-number">II</p>
+            <p class="why-hard-title">Irregularity of Primes</p>
+            <p class="why-hard-body">Primes are distributed irregularly. There is no formula that generates them. Analytic methods can describe their average behavior with extraordinary precision — but proving that a specific pattern (gap of exactly 2) recurs infinitely requires local control that average estimates cannot provide.</p>
+          </div>
+          <div class="why-hard-card">
+            <p class="why-hard-number">III</p>
+            <p class="why-hard-title">The Gap from 246 to 2</p>
+            <p class="why-hard-body">The bounded gap result of 246 is extraordinary — but it was achieved using methods that most experts believe cannot be refined further to reach a gap of 2. The techniques of Zhang and Maynard approach a natural limit. Closing the remaining distance may require mathematics that does not yet exist.</p>
+          </div>
+          <div class="why-hard-card">
+            <p class="why-hard-number">IV</p>
+            <p class="why-hard-title">Circular Sieve Arguments</p>
+            <p class="why-hard-body">Many claimed proofs use sieve methods that implicitly assume what they are trying to prove — that twin primes are dense enough to sieve reliably. The argument becomes circular: the conclusion is hidden in a premise. This is the most common structural flaw in amateur attempts.</p>
+          </div>
+          <div class="why-hard-card">
+            <p class="why-hard-number">V</p>
+            <p class="why-hard-title">Asymptotic ≠ Infinite</p>
+            <p class="why-hard-body">The Hardy–Littlewood conjecture predicts how many twin primes exist below N with remarkable accuracy. But an asymptotic formula that works for all computed N does not prove infinitely many exist. Verification to any finite bound, however large, leaves the infinite case open.</p>
+          </div>
+          <div class="why-hard-card">
+            <p class="why-hard-number">VI</p>
+            <p class="why-hard-title">New Language Required</p>
+            <p class="why-hard-body">Fermat's Last Theorem required modular forms and the Langlands program — tools invented long after the problem was stated. Most experts believe the Twin Prime Conjecture will similarly require a new mathematical framework. Proofs built entirely from classical tools are unlikely to succeed.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">§ II — Notable Attempts</span></div>
+
+    <section class="section">
+      <div class="container">
+        <p class="section-eyebrow">Historical Record</p>
+        <h2 class="section-heading">Attempts that<br /><em>did not hold</em></h2>
+        <div class="prose">
+          <p>The following are among the most discussed claimed proofs of the Twin Prime Conjecture. Each is presented with the flaw that caused it to fail and the lesson it left behind.</p>
+        </div>
+
+        <div style="margin-top: 2.5rem;">
+
+          <!-- ATTEMPT 1 -->
+          <div class="proof-block">
+            <div class="proof-header">
+              <div>
+                <p class="proof-number">Attempt 01 · Sieve Method</p>
+                <p class="proof-title">The <em>Circular Sieve</em></p>
+                <p class="proof-meta">Recurring pattern · Amateur submissions · Various dates</p>
+              </div>
+              <span class="proof-verdict refuted">Refuted</span>
+            </div>
+            <div class="proof-body">
+              <p>The most common category of failed proof attempts uses a sieve argument to count twin prime pairs up to N and attempts to show the count grows without bound. The argument typically establishes a lower bound on twin prime density, then claims the bound is always positive, concluding that twin primes never stop.</p>
+              <p>The flaw is almost always the same: the density estimate used in the lower bound implicitly assumes twin primes are sufficiently numerous to make the sieve work correctly. This is circular — the sieve's reliability depends on the very conclusion the proof is trying to establish.</p>
+            </div>
+            <div class="proof-flaw">
+              <p class="proof-flaw-label">The Flaw</p>
+              <p class="proof-flaw-text">The sieve argument assumes a minimum density of twin primes to function correctly — but the minimum density is exactly what the proof is trying to establish. The conclusion is hidden in a premise. No amount of algebraic elaboration resolves this circularity.</p>
+            </div>
+            <p class="proof-lesson">Lesson: A sieve that requires the existence of twin primes to count twin primes cannot prove they exist.</p>
+          </div>
+
+          <!-- ATTEMPT 2 -->
+          <div class="proof-block">
+            <div class="proof-header">
+              <div>
+                <p class="proof-number">Attempt 02 · Analytic Number Theory</p>
+                <p class="proof-title">The <em>Zeta Function Approach</em></p>
+                <p class="proof-meta">Recurring pattern · Graduate-level attempts · Various dates</p>
+              </div>
+              <span class="proof-verdict refuted">Refuted</span>
+            </div>
+            <div class="proof-body">
+              <p>A more sophisticated category of attempts uses the Riemann zeta function and related L-functions to study the distribution of prime pairs. These attempts are more technically advanced and sometimes survive initial scrutiny before a flaw is found.</p>
+              <p>The typical approach constructs a Dirichlet series or related analytic object that would encode information about twin prime pairs, then attempts to show this object has a pole or zero structure implying infinitely many twin primes. The arguments often fail at the step where local information (pairs with gap exactly 2) must be extracted from global analytic behavior.</p>
+            </div>
+            <div class="proof-flaw">
+              <p class="proof-flaw-label">The Flaw</p>
+              <p class="proof-flaw-text">Analytic methods describe primes in aggregate. Extracting information about specific gap sizes (exactly 2) from analytic objects requires precision these methods do not naturally provide. The step from "the analytic object behaves as expected" to "twin primes are infinite" typically conceals an unjustified quantitative estimate.</p>
+            </div>
+            <p class="proof-lesson">Lesson: Global analytic behavior does not imply local arithmetic structure without additional machinery nobody has yet found.</p>
+          </div>
+
+          <!-- ATTEMPT 3 -->
+          <div class="proof-block">
+            <div class="proof-header">
+              <div>
+                <p class="proof-number">Attempt 03 · Probabilistic Argument</p>
+                <p class="proof-title">The <em>Heuristic Proof</em></p>
+                <p class="proof-meta">Recurring pattern · Various levels · Various dates</p>
+              </div>
+              <span class="proof-verdict refuted">Refuted</span>
+            </div>
+            <div class="proof-body">
+              <p>The Hardy–Littlewood conjecture gives a precise prediction of twin prime density that has been verified computationally to extraordinary accuracy. Some claimed proofs attempt to elevate this prediction from a heuristic to a theorem — arguing that because the formula works so well for all computed values of N, it must hold for all N.</p>
+              <p>This conflates empirical verification with mathematical proof. A formula that correctly predicts the count of twin primes for every N up to 10¹⁸ may still fail for larger N. Mathematics requires proof for all N, not evidence for finitely many.</p>
+            </div>
+            <div class="proof-flaw">
+              <p class="proof-flaw-label">The Flaw</p>
+              <p class="proof-flaw-text">Empirical accuracy, however impressive, is not a proof. Mathematics has many examples of patterns that hold for enormous finite ranges and then fail. The Skewes number — where the prime counting function first exceeds the logarithmic integral — is near 10³¹⁶. Computational verification, no matter how extensive, cannot substitute for proof.</p>
+            </div>
+            <p class="proof-lesson">Lesson: A conjecture verified for 10¹⁸ cases is still a conjecture. Mathematical truth requires proof for all cases.</p>
+          </div>
+
+          <!-- ATTEMPT 4 -->
+          <div class="proof-block">
+            <div class="proof-header">
+              <div>
+                <p class="proof-number">Attempt 04 · Elementary Arithmetic</p>
+                <p class="proof-title">The <em>Elementary Approach</em></p>
+                <p class="proof-meta">Very common · All levels · Submitted to arXiv regularly</p>
+              </div>
+              <span class="proof-verdict withdrawn">Typically Withdrawn</span>
+            </div>
+            <div class="proof-body">
+              <p>Elementary proofs attempt to establish the infinitude of twin primes using only basic properties of arithmetic — divisibility, modular arithmetic, and simple counting arguments — without sophisticated analytic or algebraic machinery. These are submitted to arXiv and mathematics journals regularly.</p>
+              <p>Elementary does not mean simple to verify, and elementary does not mean more likely to be correct. The parity problem applies equally to elementary sieve arguments. A proof using only arithmetic must somehow overcome the same barriers that block analytic approaches, and elementary tools do not provide additional leverage on this particular obstacle.</p>
+            </div>
+            <div class="proof-flaw">
+              <p class="proof-flaw-label">The Flaw</p>
+              <p class="proof-flaw-text">Elementary proofs of the Twin Prime Conjecture almost invariably contain an implicit claim that a certain set is non-empty or a certain count is positive — and this claim, when examined, either restates the conjecture or requires justification as deep as the original problem. The simplicity of the statement does not imply the existence of an elementary proof.</p>
+            </div>
+            <p class="proof-lesson">Lesson: "Elementary" describes the tools used, not the difficulty of the proof. Some deep theorems have no elementary proof.</p>
+          </div>
+
+          <!-- ATTEMPT 5 -->
+          <div class="proof-block">
+            <div class="proof-header">
+              <div>
+                <p class="proof-number">Attempt 05 · Inter-Universal Teichmüller Theory</p>
+                <p class="proof-title">The <em>abc Conjecture Connection</em></p>
+                <p class="proof-meta">Shinichi Mochizuki · 2012 · Related but not direct</p>
+              </div>
+              <span class="proof-verdict disputed">Disputed</span>
+            </div>
+            <div class="proof-body">
+              <p>In 2012, Shinichi Mochizuki published a claimed proof of the abc conjecture using a framework he called Inter-universal Teichmüller theory (IUT). The abc conjecture, if true, would imply several important results in number theory. A version of the twin prime conjecture is not directly implied, but the framework has been proposed as potentially applicable.</p>
+              <p>The situation is unique in modern mathematics: a claimed proof of over 500 pages in a framework so novel that only a handful of mathematicians worldwide have been able to engage with it seriously. Peter Scholze and Jakob Stix identified what they believe is a fundamental gap in a key lemma. Mochizuki disputes this characterization. As of 2026, no consensus has been reached.</p>
+              <p>This is not a twin prime proof, but it illustrates how the mathematical community handles extraordinary claims requiring extraordinary new machinery — with extraordinary patience and care.</p>
+            </div>
+            <div class="proof-flaw">
+              <p class="proof-flaw-label">Current Status</p>
+              <p class="proof-flaw-text">The abc conjecture remains disputed as of 2026. The mathematical community has not accepted or rejected Mochizuki's proof. This is distinct from a refutation — it reflects the genuine difficulty of verifying mathematics at this level of novelty and abstraction.</p>
+            </div>
+            <p class="proof-lesson">Lesson: Even among professional mathematicians using advanced machinery, verification of deep proofs can take years or remain inconclusive.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">§ III — Common Errors</span></div>
+
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-eyebrow">Error Catalog</p>
+        <h2 class="section-heading">The most common<br /><em>mistakes</em></h2>
+        <div class="prose">
+          <p>Mathematicians who review claimed proofs of the Twin Prime Conjecture encounter the same errors repeatedly. These are not random mistakes — they are the predictable places where the problem's depth exceeds the reach of available tools.</p>
+        </div>
+        <div class="common-errors">
+          <div class="error-row">
+            <span class="error-tag">Error 1</span>
+            <div>
+              <p class="error-title">Assuming what is to be proved</p>
+              <p class="error-body">The most common error. A step in the argument implicitly assumes twin primes are infinite or sufficiently dense — the very conclusion the proof is trying to establish. Often hidden inside a sieve weight, a density estimate, or a claim that a certain set is non-empty.</p>
+            </div>
+          </div>
+          <div class="error-row error-row--alt">
+            <span class="error-tag">Error 2</span>
+            <div>
+              <p class="error-title">Confusing asymptotic with exact</p>
+              <p class="error-body">Asymptotic formulas describe the average behavior of primes as N grows. They do not provide the precise local control needed to guarantee specific gap sizes. Using an asymptotic estimate as if it were an exact equality is a common source of invisible errors.</p>
+            </div>
+          </div>
+          <div class="error-row">
+            <span class="error-tag">Error 3</span>
+            <div>
+              <p class="error-title">Ignoring the parity problem</p>
+              <p class="error-body">Sieve methods have a known fundamental limitation: they cannot distinguish parity. Any proof that relies on a sieve argument without addressing this limitation has not overcome the central obstacle. The parity problem is not a technicality — it is a structural barrier identified by Selberg in the 1950s.</p>
+            </div>
+          </div>
+          <div class="error-row error-row--alt">
+            <span class="error-tag">Error 4</span>
+            <div>
+              <p class="error-title">Treating verification as proof</p>
+              <p class="error-body">Twin primes have been verified to exist in enormous quantities. No finite verification, however large, implies infinitely many. Arguments of the form "the pattern continues for all computed cases, therefore it continues forever" are not proofs — they are observations.</p>
+            </div>
+          </div>
+          <div class="error-row">
+            <span class="error-tag">Error 5</span>
+            <div>
+              <p class="error-title">Misapplying existing theorems</p>
+              <p class="error-body">Chen's theorem, the Green–Tao theorem, and the bounded gap results are sometimes cited as nearly implying the Twin Prime Conjecture. They do not. Each was a genuine breakthrough, but none provides a path to twin primes without new ideas. Extending these results to the conjecture requires overcoming the same barriers their authors did not overcome.</p>
+            </div>
+          </div>
+          <div class="error-row error-row--alt">
+            <span class="error-tag">Error 6</span>
+            <div>
+              <p class="error-title">Skipping quantitative bounds</p>
+              <p class="error-body">Many claimed proofs establish that a certain quantity is positive "for large enough N" without specifying how large. In a valid proof, every quantitative claim must be explicit and verifiable. Vague claims of positivity are placeholders, not proofs.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">§ IV — Peer Review</span></div>
+
+    <section class="section">
+      <div class="container">
+        <p class="section-eyebrow">How Mathematics Self-Corrects</p>
+        <h2 class="section-heading">What peer review<br /><em>actually does</em></h2>
+        <div class="prose">
+          <p>When a claimed proof of a famous conjecture is submitted, the mathematical community subjects it to a process that has no real equivalent in other fields. Understanding this process helps explain why false proofs are caught — and why it can sometimes take years.</p>
+        </div>
+        <div class="peer-review-steps">
+          <div class="peer-step">
+            <span class="peer-step-num">1</span>
+            <div>
+              <p class="peer-step-title">Initial screening</p>
+              <p class="peer-step-body">Journal editors or senior mathematicians read the abstract and introduction to assess whether the approach is plausible. Most elementary claimed proofs of famous conjectures are rejected at this stage — not because experts are dismissive, but because the same structural errors appear so regularly that experienced readers recognize them immediately.</p>
+            </div>
+          </div>
+          <div class="peer-step">
+            <span class="peer-step-num">2</span>
+            <div>
+              <p class="peer-step-title">Technical review</p>
+              <p class="peer-step-body">For proofs that pass initial screening, referees read every step carefully. In number theory, this means checking every estimate, every asymptotic claim, every application of a cited theorem. A single unjustified step is sufficient to invalidate the proof — and in claimed proofs of the Twin Prime Conjecture, that step is almost always found.</p>
+            </div>
+          </div>
+          <div class="peer-step">
+            <span class="peer-step-num">3</span>
+            <div>
+              <p class="peer-step-title">Community scrutiny</p>
+              <p class="peer-step-body">For high-profile claimed proofs — particularly those posted to arXiv before journal submission — the broader mathematical community engages simultaneously. MathOverflow, blogs, and email chains allow experts worldwide to examine the argument in parallel. This collective scrutiny is faster and more comprehensive than any single referee process.</p>
+            </div>
+          </div>
+          <div class="peer-step">
+            <span class="peer-step-num">4</span>
+            <div>
+              <p class="peer-step-title">Response and revision</p>
+              <p class="peer-step-body">Authors may respond to identified flaws with revisions. Sometimes a flaw is genuinely repaired. More often, fixing one step reveals a deeper problem elsewhere. The process continues until either the proof is accepted, withdrawn, or left in a disputed state. Mochizuki's abc proof has been in this phase for over a decade.</p>
+            </div>
+          </div>
+          <div class="peer-step">
+            <span class="peer-step-num">5</span>
+            <div>
+              <p class="peer-step-title">Acceptance or rejection</p>
+              <p class="peer-step-body">Acceptance by a top journal after rigorous peer review is the gold standard. For a problem as famous as the Twin Prime Conjecture, a claimed proof would face scrutiny from dozens of the world's leading number theorists before acceptance. No claimed proof has reached this stage.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="chapter-rule"><span class="chapter-rule-label">§ V — What a Valid Proof Would Need</span></div>
+
+    <section class="section section--alt">
+      <div class="container">
+        <p class="section-eyebrow">The Standard</p>
+        <h2 class="section-heading">What success would<br /><em>look like</em></h2>
+        <div class="prose">
+          <p>A valid proof of the Twin Prime Conjecture would need to do at least one of the following — things that no known technique can currently accomplish.</p>
+        </div>
+
+        <div class="status-callout" style="margin-top: 2.5rem;">
+          <span class="status-tag status-tag--slate">Route A</span>
+          <p class="status-body">
+            <strong>Overcome the parity problem.</strong> Find a way to use sieve methods — or a new sieve — that can distinguish between primes and semiprimes at the level required. This has been an open problem in analytic number theory since Selberg identified it in the 1950s.
+          </p>
+        </div>
+
+        <div class="status-callout" style="margin-top: 1rem;">
+          <span class="status-tag status-tag--slate">Route B</span>
+          <p class="status-body">
+            <strong>Reduce the bounded gap to 2.</strong> Extend the methods of Zhang and Maynard to achieve a proven prime gap of exactly 2. Current techniques appear to hit a natural limit around 6. Reaching 2 likely requires a new multidimensional sieve framework.
+          </p>
+        </div>
+
+        <div class="status-callout" style="margin-top: 1rem;">
+          <span class="status-tag status-tag--slate">Route C</span>
+          <p class="status-body">
+            <strong>Develop entirely new machinery.</strong> As with Fermat's Last Theorem, which required modular forms and the Langlands program, the Twin Prime Conjecture may require a framework that does not yet exist. A proof via Route C would likely resolve several other open problems simultaneously.
+          </p>
+        </div>
+
+        <div class="prose" style="margin-top: 2.5rem;">
+          <p>There is no route D that involves elementary arithmetic, classical sieve methods alone, or heuristic arguments elevated to theorems. The history of failed proofs has mapped the walls clearly enough to know which approaches will not work — even if it has not yet revealed the door.</p>
+        </div>
+
+        <div style="margin-top: 2.5rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+          <a href="conjecture.html" class="btn-primary">The full conjecture</a>
+          <a href="mathematicians.html" class="btn-secondary">Who is trying to solve it</a>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-motto">Infinity may be hiding between two numbers.</p>
+      <nav class="footer-nav">
+        <a href="conjecture.html">Conjecture</a>
+        <a href="unsolved.html">Unsolved Problems</a>
+        <a href="mathematicians.html">Mathematicians</a>
+        <a href="tools.html">Tools</a>
+        <a href="news.html">News</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+    <div class="footer-copy">
+      <span>© 2026 TwinPrimeConjecture.com</span>
+      <span>Last updated June 2026 · info@twinprimeconjecture.com</span>
+    </div>
+  </footer>
+
+</body>
+</html>
