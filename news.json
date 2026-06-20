@@ -27,6 +27,15 @@
     "publishedAt": "2026-06-08T15:17:08Z"
   },
   {
+    "title": "How AI is reshaping discovery in maths and physics",
+    "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
+    "url": "https://www.nature.com/articles/d41586-026-01820-1",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-06-08T00:00:00Z"
+  },
+  {
     "title": "Humans Solve Erdos Problem!!",
     "description": "(In 2008 I wrote a survey of some of the known sum-product theorems, see  here . Avi Wigderson has a great slide-set on sum-product theorems...",
     "url": "https://blog.computationalcomplexity.org/2026/06/humans-solve-erdos-problem.html",
@@ -63,6 +72,15 @@
     "publishedAt": "2026-06-01T11:30:07Z"
   },
   {
+    "title": "Start-ups are racing to revolutionise mathematics with AI",
+    "description": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will not only solve mathematics, but also build more intelligent AI",
+    "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
+    "source": {
+      "name": "New Scientist"
+    },
+    "publishedAt": "2026-05-28T13:00:09Z"
+  },
+  {
     "title": "Dispatches from the possibly last days of human relevance",
     "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry—has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
     "url": "https://scottaaronson.blog/?p=9782",
@@ -79,24 +97,6 @@
       "name": "The Indian Express"
     },
     "publishedAt": "2026-05-26T11:24:58Z"
-  },
-  {
-    "title": "How OpenAI’s Reasoning Model Solved an 80-Year-Old Geometry Problem",
-    "description": "OpenAI's AI model cracked a decades-old geometry problem, showcasing AI's leap into advanced reasoning. This breakthrough signals AI's potential in scientific research.",
-    "url": "https://www.c-sharpcorner.com/article/how-openais-reasoning-model-solved-an-80-year-old-geometry-problem/",
-    "source": {
-      "name": "C-sharpcorner.com"
-    },
-    "publishedAt": "2026-05-22T07:11:59Z"
-  },
-  {
-    "title": "AI just solved an 80-year-old ‘Erdős problem,’ and mathematicians are amazed",
-    "description": "A chatbot’s result for the 80-year-old “unit distance” conjecture is the first AI proof that would likely be published in math’s top journal if humans had done it alone",
-    "url": "https://www.scientificamerican.com/article/ai-just-solved-an-80-year-old-erdos-problem-and-mathematicians-are-amazed/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-05-21T14:47:00Z"
   },
   {
     "title": "The Riemann hypothesis is a million-dollar math problem hardly anyone is trying to solve",
