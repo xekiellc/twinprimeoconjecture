@@ -1,30 +1,21 @@
 [
   {
-    "title": "Everything Is Logarithms",
-    "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 5\n# Comments: 0",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Einstein’s “biggest blunder” may finally have an explanation",
+    "description": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological …",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
     "source": {
-      "name": "Alexkritchevsky.com"
+      "name": "Science Daily"
     },
-    "publishedAt": "2026-06-21T21:10:32Z"
+    "publishedAt": "2026-06-19T09:43:07Z"
   },
   {
-    "title": "Zenzizenzizenzic",
-    "description": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic\nComments URL: https://news.ycombinator.com/item?id=48603664\nPoints: 3\n# Comments: 0",
-    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
+    "title": "Mathematicians are developing rules for AI use — other fields should follow",
+    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
+    "url": "https://www.nature.com/articles/d41586-026-01881-2",
     "source": {
-      "name": "Wikipedia.org"
+      "name": "Nature.com"
     },
-    "publishedAt": "2026-06-19T21:49:44Z"
-  },
-  {
-    "title": "Quantum Computing Threat to Bitcoin: Real or Hype?",
-    "description": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and...\nThe post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
-    "url": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
-    "source": {
-      "name": "Bitcoinfoundation.org"
-    },
-    "publishedAt": "2026-06-17T10:06:58Z"
+    "publishedAt": "2026-06-16T00:00:00Z"
   },
   {
     "title": "The Riemann Hypothesis – interactive explanation",
@@ -54,6 +45,15 @@
     "publishedAt": "2026-06-08T15:30:02Z"
   },
   {
+    "title": "How AI is reshaping discovery in maths and physics",
+    "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
+    "url": "https://www.nature.com/articles/d41586-026-01820-1",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-06-08T00:00:00Z"
+  },
+  {
     "title": "A Branch-Switch Obstruction Phenomenon in Primitive Euler Bricks: Computational Through 1 Billion",
     "description": "I'mThe perfect cuboid problem asks whether there exists a rectangular box whose three edge\r\nlengths, three face diagonals, and space diagonal are all integers. Although many Euler bricks\r\nare known, no perfect cuboid has been discovered, and no impossibility …",
     "url": "https://community.wolfram.com/groups/-/m/t/3727003",
@@ -72,13 +72,13 @@
     "publishedAt": "2026-06-03T16:14:17Z"
   },
   {
-    "title": "An OpenAI Model ‘Disproved’ a Famous Math Conjecture. This Mathematician Couldn’t Leave It Alone",
-    "description": "Mathematician Will Sawin discusses his experience reviewing and refining a mathematical proof devised by OpenAI's internal model—and what that could mean for mathematics.",
-    "url": "https://gizmodo.com/an-openai-model-disproved-a-famous-math-conjecture-this-mathematician-couldnt-leave-it-alone-2000765065",
+    "title": "Start-ups are racing to revolutionise mathematics with AI",
+    "description": "AI start-ups with hundreds of millions of dollars in funding are hiring mathematicians and building AI systems that they hope will not only solve mathematics, but also build more intelligent AI",
+    "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
     "source": {
-      "name": "Gizmodo.com"
+      "name": "New Scientist"
     },
-    "publishedAt": "2026-06-01T11:30:07Z"
+    "publishedAt": "2026-05-28T13:00:09Z"
   },
   {
     "title": "Dispatches from the possibly last days of human relevance",
