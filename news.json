@@ -27,6 +27,15 @@
     "publishedAt": "2026-06-11T11:50:45Z"
   },
   {
+    "title": "Periodical cicadas in the eastern United States emerge from the ground every 13 or 17 years — both prime numbers, not by coincidence — because their long, indivisible cycles make it nearly impossible for any predator with a shorter life cycle to evolve to feed on them, in one of the most mathematically elegant defenses in the natural world",
+    "description": "In the spring of 2024, two enormous populations of periodical cicadas emerged simultaneously from the soil across the eastern and midwestern United States for the first time since 1803. Brood XIX, a 13-year cicada population concentrated across the Southeast,…",
+    "url": "https://spacedaily.com/d-periodical-cicadas-in-the-eastern-united-states-emerge-from-the-ground-every-13-or-17-years-both-prime-numbers-not-by-coincidence-because-their-long-indivisible-cycles-make-it-ne/",
+    "source": {
+      "name": "Space Daily"
+    },
+    "publishedAt": "2026-06-10T04:15:48Z"
+  },
+  {
     "title": "How AI is reshaping discovery in maths and physics",
     "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
     "url": "https://www.nature.com/articles/d41586-026-01820-1",
@@ -63,15 +72,6 @@
     "publishedAt": "2026-06-02T16:13:16Z"
   },
   {
-    "title": "Quote of the Day by modern mathematical genius Terence Tao: \"Talent is important, but how one develops and nurtures it is even more so.\" Could You Be Wasting Your Greatest Potential? Learn the powerful success principle that exceptional achievers around the world follow to turn talent into greatness",
-    "description": "Quote of the day by Terence Tao quote highlights that talent alone is never enough in modern learning and success culture. The Terence Tao quote inspires students, researchers, and creators to focus on daily improvement, deep thinking, and consistent practice…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-modern-mathematical-genius-terence-tao-talent-is-important-but-how-one-develops-and-nurtures-it-is-even-more-so-could-you-be-wasting-your-greatest-potential-learn-the-powerful-success-principle-that-exceptional-achievers-around-the-world-follow-to-turn-talent-into-greatness/articleshow/131450089.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-06-02T01:13:52Z"
-  },
-  {
     "title": "An OpenAI Model ‘Disproved’ a Famous Math Conjecture. This Mathematician Couldn’t Leave It Alone",
     "description": "Mathematician Will Sawin discusses his experience reviewing and refining a mathematical proof devised by OpenAI's internal model—and what that could mean for mathematics.",
     "url": "https://gizmodo.com/an-openai-model-disproved-a-famous-math-conjecture-this-mathematician-couldnt-leave-it-alone-2000765065",
@@ -91,7 +91,7 @@
   },
   {
     "title": "Dispatches from the possibly last days of human relevance",
-    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry—has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
+    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry���has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
     "url": "https://scottaaronson.blog/?p=9782",
     "source": {
       "name": "Scottaaronson.blog"
