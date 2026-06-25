@@ -27,15 +27,6 @@
     "publishedAt": "2026-06-11T11:50:45Z"
   },
   {
-    "title": "Periodical cicadas in the eastern United States emerge from the ground every 13 or 17 years — both prime numbers, not by coincidence — because their long, indivisible cycles make it nearly impossible for any predator with a shorter life cycle to evolve to feed on them, in one of the most mathematically elegant defenses in the natural world",
-    "description": "In the spring of 2024, two enormous populations of periodical cicadas emerged simultaneously from the soil across the eastern and midwestern United States for the first time since 1803. Brood XIX, a 13-year cicada population concentrated across the Southeast,…",
-    "url": "https://spacedaily.com/d-periodical-cicadas-in-the-eastern-united-states-emerge-from-the-ground-every-13-or-17-years-both-prime-numbers-not-by-coincidence-because-their-long-indivisible-cycles-make-it-ne/",
-    "source": {
-      "name": "Space Daily"
-    },
-    "publishedAt": "2026-06-10T04:15:48Z"
-  },
-  {
     "title": "How AI is reshaping discovery in maths and physics",
     "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
     "url": "https://www.nature.com/articles/d41586-026-01820-1",
@@ -43,6 +34,15 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-06-08T00:00:00Z"
+  },
+  {
+    "title": "A Branch-Switch Obstruction Phenomenon in Primitive Euler Bricks: Computational Through 1 Billion",
+    "description": "I'mThe perfect cuboid problem asks whether there exists a rectangular box whose three edge\r\nlengths, three face diagonals, and space diagonal are all integers. Although many Euler bricks\r\nare known, no perfect cuboid has been discovered, and no impossibility …",
+    "url": "https://community.wolfram.com/groups/-/m/t/3727003",
+    "source": {
+      "name": "Wolfram.com"
+    },
+    "publishedAt": "2026-06-04T02:21:06Z"
   },
   {
     "title": "Mathematicians Puzzled Over a Famous Problem for 80 Years. Now, They've Used A.I. to Identify a Clever Solution",
