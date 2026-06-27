@@ -1,5 +1,23 @@
 [
   {
+    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
+    "description": "ChatGPT's breakthrough is not what it seems.",
+    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
+    "source": {
+      "name": "Slate Magazine"
+    },
+    "publishedAt": "2026-06-22T14:00:00Z"
+  },
+  {
+    "title": "What GenAI’s Math Breakthrough Means For Medicine",
+    "description": "GenAI’s breakthrough in mathematics offers a lesson for medicine: solving healthcare’s biggest problems means questioning old assumptions.",
+    "url": "https://www.forbes.com/sites/robertpearl/2026/06/22/what-genais-math-breakthrough-means-for-medicine/",
+    "source": {
+      "name": "Forbes"
+    },
+    "publishedAt": "2026-06-22T09:00:00Z"
+  },
+  {
     "title": "Mathematicians are developing rules for AI use — other fields should follow",
     "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
     "url": "https://www.nature.com/articles/d41586-026-01881-2",
@@ -54,15 +72,6 @@
     "publishedAt": "2026-06-02T16:13:16Z"
   },
   {
-    "title": "Quote of the Day by modern mathematical genius Terence Tao: \"Talent is important, but how one develops and nurtures it is even more so.\" Could You Be Wasting Your Greatest Potential? Learn the powerful success principle that exceptional achievers around the world follow to turn talent into greatness",
-    "description": "Quote of the day by Terence Tao quote highlights that talent alone is never enough in modern learning and success culture. The Terence Tao quote inspires students, researchers, and creators to focus on daily improvement, deep thinking, and consistent practice…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-modern-mathematical-genius-terence-tao-talent-is-important-but-how-one-develops-and-nurtures-it-is-even-more-so-could-you-be-wasting-your-greatest-potential-learn-the-powerful-success-principle-that-exceptional-achievers-around-the-world-follow-to-turn-talent-into-greatness/articleshow/131450089.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-06-02T01:13:52Z"
-  },
-  {
     "title": "Exclusive: Economists have been teaching a broken proof for 50 years. AI just found it",
     "description": "Axiom Math, a $1.6B AI unicorn, is building a formally verified library of economic theorems — and already found gaps in the foundations of antitrust law.",
     "url": "https://fortune.com/2026/06/01/axiom-math-econlib-antitrust-economic-theory-verified/",
@@ -91,20 +100,11 @@
   },
   {
     "title": "Dispatches from the possibly last days of human relevance",
-    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry���has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
+    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry—has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
     "url": "https://scottaaronson.blog/?p=9782",
     "source": {
       "name": "Scottaaronson.blog"
     },
     "publishedAt": "2026-05-28T04:36:07Z"
-  },
-  {
-    "title": "Google DeepMind claims AI progress after AlphaProof Nexus solves 9 Erdos math problems",
-    "description": "Google’s latest milestone comes just days after OpenAI said one of its AI models cracked the famous “planar unit distance problem”, which had been unsolved for the last 80 years.",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-deepmind-ai-solves-erdos-math-problems-10708913/",
-    "source": {
-      "name": "The Indian Express"
-    },
-    "publishedAt": "2026-05-26T11:24:58Z"
   }
 ]
