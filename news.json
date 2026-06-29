@@ -9,15 +9,6 @@
     "publishedAt": "2026-06-26T15:26:29Z"
   },
   {
-    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
-    "description": "ChatGPT's breakthrough is not what it seems.",
-    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
-    "source": {
-      "name": "Slate Magazine"
-    },
-    "publishedAt": "2026-06-22T14:00:00Z"
-  },
-  {
     "title": "Mathematicians are developing rules for AI use — other fields should follow",
     "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
     "url": "https://www.nature.com/articles/d41586-026-01881-2",
@@ -97,14 +88,5 @@
       "name": "New Scientist"
     },
     "publishedAt": "2026-05-28T13:00:09Z"
-  },
-  {
-    "title": "Dispatches from the possibly last days of human relevance",
-    "description": "As most readers have presumably heard by now, Paul Erdös’s Unit Distance Problem from 1946—one of the central open problems from the field of discrete geometry—has been solved by GPT5.5Pro. Erdös had conjectured that, given n points in the plane, at most n1+o…",
-    "url": "https://scottaaronson.blog/?p=9782",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-05-28T04:36:07Z"
   }
 ]
