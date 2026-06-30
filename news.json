@@ -1,14 +1,5 @@
 [
   {
-    "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
-    "url": "https://scottaaronson.blog/?p=9881",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-06-29T01:32:13Z"
-  },
-  {
     "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
     "description": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta M…",
     "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
@@ -18,24 +9,6 @@
     "publishedAt": "2026-06-26T15:26:29Z"
   },
   {
-    "title": "Einstein’s “biggest blunder” may finally have an explanation",
-    "description": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological …",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-    "source": {
-      "name": "Science Daily"
-    },
-    "publishedAt": "2026-06-19T09:43:07Z"
-  },
-  {
-    "title": "Mathematicians are developing rules for AI use — other fields should follow",
-    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
-    "url": "https://www.nature.com/articles/d41586-026-01881-2",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-16T00:00:00Z"
-  },
-  {
     "title": "The Riemann Hypothesis – interactive explanation",
     "description": "An interactive journey from 'what is a prime number?' to a genuine understanding of the most important unsolved problem in mathematics.",
     "url": "https://riemann.adilmoujahid.com",
@@ -43,15 +16,6 @@
       "name": "Adilmoujahid.com"
     },
     "publishedAt": "2026-06-11T11:50:45Z"
-  },
-  {
-    "title": "The total number of possible chess games is so large that it exceeds the number of atoms in the observable universe — by some estimates, there are more possible chess games than there are atoms in approximately a trillion trillion trillion universes like ours — and despite this near-infinite possibility space, modern chess engines can now defeat any human grandmaster who has ever lived, in any opening position they care to attempt",
-    "description": "The American mathematician Claude Shannon, working at Bell Labs in 1949, sat down with a pencil and a sheet of paper and tried to estimate how many distinct games of chess could in principle be played. His method was a rough back-of-the-envelope calculation, …",
-    "url": "https://spacedaily.com/d-the-total-number-of-possible-chess-games-is-so-large-that-it-exceeds-the-number-of-atoms-in-the-observable-universe-by-some-estimates-there-are-more-possible-chess-games-than-there-are-atom/",
-    "source": {
-      "name": "Space Daily"
-    },
-    "publishedAt": "2026-06-08T15:30:02Z"
   },
   {
     "title": "How AI is reshaping discovery in maths and physics",
@@ -79,24 +43,6 @@
       "name": "Smithsonian.com"
     },
     "publishedAt": "2026-06-03T16:14:17Z"
-  },
-  {
-    "title": "Mathematicians say 'don't believe hype' on AI capabilities",
-    "description": "Mathematicians are urging caution about artificial intelligence claims. Over 150 professors signed a declaration warning governments not to believe the hype surrounding AI's math skills. They highlight commercial incentives to overstate capabilities. The decl…",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mathematicians-say-dont-believe-hype-on-ai-capabilities/articleshow/131467469.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-06-02T16:13:16Z"
-  },
-  {
-    "title": "Exclusive: Economists have been teaching a broken proof for 50 years. AI just found it",
-    "description": "Axiom Math, a $1.6B AI unicorn, is building a formally verified library of economic theorems — and already found gaps in the foundations of antitrust law.",
-    "url": "https://fortune.com/2026/06/01/axiom-math-econlib-antitrust-economic-theory-verified/",
-    "source": {
-      "name": "Fortune"
-    },
-    "publishedAt": "2026-06-01T12:30:00Z"
   },
   {
     "title": "An OpenAI Model ‘Disproved’ a Famous Math Conjecture. This Mathematician Couldn’t Leave It Alone",
