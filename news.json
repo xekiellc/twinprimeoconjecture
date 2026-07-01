@@ -1,14 +1,5 @@
 [
   {
-    "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
-    "url": "https://scottaaronson.blog/?p=9881",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-06-29T01:32:13Z"
-  },
-  {
     "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
     "description": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta M…",
     "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
@@ -18,42 +9,6 @@
     "publishedAt": "2026-06-26T15:26:29Z"
   },
   {
-    "title": "Everything Is Logarithms",
-    "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 5\n# Comments: 0",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "source": {
-      "name": "Alexkritchevsky.com"
-    },
-    "publishedAt": "2026-06-21T21:10:32Z"
-  },
-  {
-    "title": "Zenzizenzizenzic",
-    "description": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic\nComments URL: https://news.ycombinator.com/item?id=48603664\nPoints: 3\n# Comments: 0",
-    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-    "source": {
-      "name": "Wikipedia.org"
-    },
-    "publishedAt": "2026-06-19T21:49:44Z"
-  },
-  {
-    "title": "Mathematicians are developing rules for AI use — other fields should follow",
-    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
-    "url": "https://www.nature.com/articles/d41586-026-01881-2",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-16T00:00:00Z"
-  },
-  {
-    "title": "Seventeen Camels and Where They Can Take You",
-    "description": "“Oh, it’s just a trick thing.” – Ben Ames Williams, Coconuts Here are six puzzles, some of them classics, that don’t look much alike on the surface. After stating them, I’ll give a hint…",
-    "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-06-15T17:12:33Z"
-  },
-  {
     "title": "The Riemann Hypothesis – interactive explanation",
     "description": "An interactive journey from 'what is a prime number?' to a genuine understanding of the most important unsolved problem in mathematics.",
     "url": "https://riemann.adilmoujahid.com",
@@ -61,15 +16,6 @@
       "name": "Adilmoujahid.com"
     },
     "publishedAt": "2026-06-11T11:50:45Z"
-  },
-  {
-    "title": "The total number of possible chess games is so large that it exceeds the number of atoms in the observable universe — by some estimates, there are more possible chess games than there are atoms in approximately a trillion trillion trillion universes like ours — and despite this near-infinite possibility space, modern chess engines can now defeat any human grandmaster who has ever lived, in any opening position they care to attempt",
-    "description": "The American mathematician Claude Shannon, working at Bell Labs in 1949, sat down with a pencil and a sheet of paper and tried to estimate how many distinct games of chess could in principle be played. His method was a rough back-of-the-envelope calculation, …",
-    "url": "https://spacedaily.com/d-the-total-number-of-possible-chess-games-is-so-large-that-it-exceeds-the-number-of-atoms-in-the-observable-universe-by-some-estimates-there-are-more-possible-chess-games-than-there-are-atom/",
-    "source": {
-      "name": "Space Daily"
-    },
-    "publishedAt": "2026-06-08T15:30:02Z"
   },
   {
     "title": "How AI is reshaping discovery in maths and physics",
