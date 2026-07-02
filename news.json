@@ -45,22 +45,13 @@
     "publishedAt": "2026-06-22T14:00:00Z"
   },
   {
-    "title": "Everything Is Logarithms",
-    "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 5\n# Comments: 0",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Mathematicians are developing rules for AI use — other fields should follow",
+    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
+    "url": "https://www.nature.com/articles/d41586-026-01881-2",
     "source": {
-      "name": "Alexkritchevsky.com"
+      "name": "Nature.com"
     },
-    "publishedAt": "2026-06-21T21:10:32Z"
-  },
-  {
-    "title": "Seventeen Camels and Where They Can Take You",
-    "description": "“Oh, it’s just a trick thing.” – Ben Ames Williams, Coconuts Here are six puzzles, some of them classics, that don’t look much alike on the surface. After stating them, I’ll give a hint…",
-    "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-06-15T17:12:33Z"
+    "publishedAt": "2026-06-16T00:00:00Z"
   },
   {
     "title": "The Riemann Hypothesis – interactive explanation",
@@ -97,6 +88,15 @@
       "name": "Smithsonian.com"
     },
     "publishedAt": "2026-06-03T16:14:17Z"
+  },
+  {
+    "title": "Mathematicians say 'don't believe hype' on AI capabilities",
+    "description": "Mathematicians are urging caution about artificial intelligence claims. Over 150 professors signed a declaration warning governments not to believe the hype surrounding AI's math skills. They highlight commercial incentives to overstate capabilities. The decl…",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mathematicians-say-dont-believe-hype-on-ai-capabilities/articleshow/131467469.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-06-02T16:13:16Z"
   },
   {
     "title": "An OpenAI Model ‘Disproved’ a Famous Math Conjecture. This Mathematician Couldn’t Leave It Alone",
