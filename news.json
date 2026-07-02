@@ -27,15 +27,6 @@
     "publishedAt": "2026-06-26T15:26:29Z"
   },
   {
-    "title": "Mathematicians are developing rules for AI use — other fields should follow",
-    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
-    "url": "https://www.nature.com/articles/d41586-026-01881-2",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-16T00:00:00Z"
-  },
-  {
     "title": "The Riemann Hypothesis – interactive explanation",
     "description": "An interactive journey from 'what is a prime number?' to a genuine understanding of the most important unsolved problem in mathematics.",
     "url": "https://riemann.adilmoujahid.com",
@@ -70,32 +61,5 @@
       "name": "Smithsonian.com"
     },
     "publishedAt": "2026-06-03T16:14:17Z"
-  },
-  {
-    "title": "Mathematicians say 'don't believe hype' on AI capabilities",
-    "description": "Mathematicians are urging caution about artificial intelligence claims. Over 150 professors signed a declaration warning governments not to believe the hype surrounding AI's math skills. They highlight commercial incentives to overstate capabilities. The decl…",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mathematicians-say-dont-believe-hype-on-ai-capabilities/articleshow/131467469.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-06-02T16:13:16Z"
-  },
-  {
-    "title": "Quote of the Day by modern mathematical genius Terence Tao: \"Talent is important, but how one develops and nurtures it is even more so.\" Could You Be Wasting Your Greatest Potential? Learn the powerful success principle that exceptional achievers around the world follow to turn talent into greatness",
-    "description": "Quote of the day by Terence Tao quote highlights that talent alone is never enough in modern learning and success culture. The Terence Tao quote inspires students, researchers, and creators to focus on daily improvement, deep thinking, and consistent practice…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-modern-mathematical-genius-terence-tao-talent-is-important-but-how-one-develops-and-nurtures-it-is-even-more-so-could-you-be-wasting-your-greatest-potential-learn-the-powerful-success-principle-that-exceptional-achievers-around-the-world-follow-to-turn-talent-into-greatness/articleshow/131450089.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-06-02T01:13:52Z"
-  },
-  {
-    "title": "An OpenAI Model ‘Disproved’ a Famous Math Conjecture. This Mathematician Couldn’t Leave It Alone",
-    "description": "Mathematician Will Sawin discusses his experience reviewing and refining a mathematical proof devised by OpenAI's internal model—and what that could mean for mathematics.",
-    "url": "https://gizmodo.com/an-openai-model-disproved-a-famous-math-conjecture-this-mathematician-couldnt-leave-it-alone-2000765065",
-    "source": {
-      "name": "Gizmodo.com"
-    },
-    "publishedAt": "2026-06-01T11:30:07Z"
   }
 ]
