@@ -1,14 +1,5 @@
 [
   {
-    "title": "The Allergy to Otherness: What Modernity Did to the Pew Next to You with Ilia Delio",
-    "description": "Third Q&A of The Future of Religion. Ilia is back from Germany, the questions came in long and dense, and we ended up doing the thing the lecture had set up. We tracked how the natural-supernatural binary got constructed — Hume locks God out, German biblical …",
-    "url": "https://www.homebrewedchristianty.com/2026/07/01/the-allergy-to-otherness-what-modernity-did-to-the-pew-next-to-you-with-ilia-delio/",
-    "source": {
-      "name": "Homebrewedchristianty.com"
-    },
-    "publishedAt": "2026-07-01T09:24:37Z"
-  },
-  {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
     "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
     "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
@@ -25,6 +16,15 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-07-01T00:00:00Z"
+  },
+  {
+    "title": "New quantum simulation breakthrough could accelerate fault-tolerant computing",
+    "description": "A new Quantum Monte Carlo algorithm in Physical Review Letters marks a significant step forward in the quest to build practical quantum computers. By enabling more efficient and realistic simulations of noisy quantum systems, the work addresses a fundamental …",
+    "url": "https://www.digitaljournal.com/article/new-quantum-simulation-breakthrough-could-accelerate-fault-tolerant-computing/",
+    "source": {
+      "name": "Digital Journal"
+    },
+    "publishedAt": "2026-06-29T20:58:39Z"
   },
   {
     "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
