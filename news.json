@@ -18,33 +18,6 @@
     "publishedAt": "2026-07-01T00:00:00Z"
   },
   {
-    "title": "Understanding lattice risks: Many differences between marketing and reality",
-    "description": "Article URL: https://blog.cr.yp.to/20260630-risk.html\nComments URL: https://news.ycombinator.com/item?id=48739467\nPoints: 3\n# Comments: 0",
-    "url": "https://blog.cr.yp.to/20260630-risk.html",
-    "source": {
-      "name": "Cr.yp.to"
-    },
-    "publishedAt": "2026-06-30T21:29:15Z"
-  },
-  {
-    "title": "Microsoft’s Topological Quantum Computing Claims Once Again In Question",
-    "description": "A central problem with the arguably overhyped field of quantum computing remains the difficulty in objectively ascertaining performance and new developments, as much here relies on indirect measurements. Such is …read more",
-    "url": "https://hackaday.com/2026/06/30/microsofts-topological-quantum-computing-claims-once-again-in-question/",
-    "source": {
-      "name": "Hackaday"
-    },
-    "publishedAt": "2026-06-30T17:20:03Z"
-  },
-  {
-    "title": "New quantum simulation breakthrough could accelerate fault-tolerant computing",
-    "description": "A new Quantum Monte Carlo algorithm in Physical Review Letters marks a significant step forward in the quest to build practical quantum computers. By enabling more efficient and realistic simulations of noisy quantum systems, the work addresses a fundamental …",
-    "url": "https://www.digitaljournal.com/article/new-quantum-simulation-breakthrough-could-accelerate-fault-tolerant-computing/",
-    "source": {
-      "name": "Digital Journal"
-    },
-    "publishedAt": "2026-06-29T20:58:39Z"
-  },
-  {
     "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
     "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
     "url": "https://scottaaronson.blog/?p=9881",
@@ -70,6 +43,15 @@
       "name": "Alexkritchevsky.com"
     },
     "publishedAt": "2026-06-21T21:10:32Z"
+  },
+  {
+    "title": "Mathematicians are developing rules for AI use — other fields should follow",
+    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
+    "url": "https://www.nature.com/articles/d41586-026-01881-2",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-06-16T00:00:00Z"
   },
   {
     "title": "The Riemann Hypothesis – interactive explanation",
