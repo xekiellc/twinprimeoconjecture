@@ -1,5 +1,23 @@
 [
   {
+    "title": "Odin, Wikipedia and Engagement Farming",
+    "description": "Article URL: https://katamari64.se/posts/2026/odin-wikipedia/\nComments URL: https://news.ycombinator.com/item?id=48781196\nPoints: 7\n# Comments: 0",
+    "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+    "source": {
+      "name": "Katamari64.se"
+    },
+    "publishedAt": "2026-07-03T23:24:35Z"
+  },
+  {
+    "title": "Software, from First Principles",
+    "description": "How electrons flowing through billions of microscopic switches etched into silicon become arithmetic, memory, and the software you use every day.",
+    "url": "https://fazamhd.com/mental-models/software/",
+    "source": {
+      "name": "Fazamhd.com"
+    },
+    "publishedAt": "2026-07-03T21:28:55Z"
+  },
+  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -7,6 +25,51 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "The Fall and Rise of Screwworm",
+    "description": "Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.",
+    "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+    "source": {
+      "name": "Construction-physics.com"
+    },
+    "publishedAt": "2026-07-03T12:58:47Z"
+  },
+  {
+    "title": "Scientists BUILD a cell from scratch: Synthetic organism can feed, grow, copy its DNA and divide in world-first breakthrough",
+    "description": "Scientists have built a synthetic cell from scratch in a world-first breakthrough that paves the way for creating entirely artificial forms of life.",
+    "url": "https://www.dailymail.com/sciencetech/article-15947059/Scientists-BUILD-Synthetic-organism-cell.html",
+    "source": {
+      "name": "Dailymail.com"
+    },
+    "publishedAt": "2026-07-02T09:22:34Z"
+  },
+  {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
+  },
+  {
+    "title": "Scientists say they have made a cell from scratch for first time",
+    "description": "Scientists say they have built a cell from scratch for the first time that feeds, grows and replicates like a natural cell, a breakthrough in synthetic biology.",
+    "url": "https://www.cnn.com/2026/07/01/science/synthetic-cell-research",
+    "source": {
+      "name": "CNN"
+    },
+    "publishedAt": "2026-07-01T14:04:31Z"
+  },
+  {
+    "title": "The Allergy to Otherness: What Modernity Did to the Pew Next to You with Ilia Delio",
+    "description": "Third Q&A of The Future of Religion. Ilia is back from Germany, the questions came in long and dense, and we ended up doing the thing the lecture had set up. We tracked how the natural-supernatural binary got constructed — Hume locks God out, German biblical …",
+    "url": "https://www.homebrewedchristianty.com/2026/07/01/the-allergy-to-otherness-what-modernity-did-to-the-pew-next-to-you-with-ilia-delio/",
+    "source": {
+      "name": "Homebrewedchristianty.com"
+    },
+    "publishedAt": "2026-07-01T09:24:37Z"
   },
   {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
@@ -27,84 +90,21 @@
     "publishedAt": "2026-07-01T00:00:00Z"
   },
   {
-    "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
-    "url": "https://scottaaronson.blog/?p=9881",
+    "title": "Understanding lattice risks: Many differences between marketing and reality",
+    "description": "Article URL: https://blog.cr.yp.to/20260630-risk.html\nComments URL: https://news.ycombinator.com/item?id=48739467\nPoints: 3\n# Comments: 0",
+    "url": "https://blog.cr.yp.to/20260630-risk.html",
     "source": {
-      "name": "Scottaaronson.blog"
+      "name": "Cr.yp.to"
     },
-    "publishedAt": "2026-06-29T01:32:13Z"
+    "publishedAt": "2026-06-30T21:29:15Z"
   },
   {
-    "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
-    "description": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta M…",
-    "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+    "title": "Microsoft’s Topological Quantum Computing Claims Once Again In Question",
+    "description": "A central problem with the arguably overhyped field of quantum computing remains the difficulty in objectively ascertaining performance and new developments, as much here relies on indirect measurements. Such is …read more",
+    "url": "https://hackaday.com/2026/06/30/microsofts-topological-quantum-computing-claims-once-again-in-question/",
     "source": {
-      "name": "Quanta Magazine"
+      "name": "Hackaday"
     },
-    "publishedAt": "2026-06-26T15:26:29Z"
-  },
-  {
-    "title": "Everything Is Logarithms",
-    "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 5\n# Comments: 0",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "source": {
-      "name": "Alexkritchevsky.com"
-    },
-    "publishedAt": "2026-06-21T21:10:32Z"
-  },
-  {
-    "title": "Mathematicians are developing rules for AI use — other fields should follow",
-    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
-    "url": "https://www.nature.com/articles/d41586-026-01881-2",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-16T00:00:00Z"
-  },
-  {
-    "title": "The Riemann Hypothesis – interactive explanation",
-    "description": "An interactive journey from 'what is a prime number?' to a genuine understanding of the most important unsolved problem in mathematics.",
-    "url": "https://riemann.adilmoujahid.com",
-    "source": {
-      "name": "Adilmoujahid.com"
-    },
-    "publishedAt": "2026-06-11T11:50:45Z"
-  },
-  {
-    "title": "How AI is reshaping discovery in maths and physics",
-    "description": "Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.",
-    "url": "https://www.nature.com/articles/d41586-026-01820-1",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-08T00:00:00Z"
-  },
-  {
-    "title": "Maths genius, devoted mum, headline-making CEO on King's Birthday Honours roll",
-    "description": "Almost 950 Australians are honoured, including five stand-out recipients who are now Companions of the Order.",
-    "url": "https://www.abc.net.au/news/2026-06-07/kings-birthday-honours-list-2026-awards/106770352",
-    "source": {
-      "name": "ABC News (AU)"
-    },
-    "publishedAt": "2026-06-07T12:19:10Z"
-  },
-  {
-    "title": "A Branch-Switch Obstruction Phenomenon in Primitive Euler Bricks: Computational Through 1 Billion",
-    "description": "I'mThe perfect cuboid problem asks whether there exists a rectangular box whose three edge\r\nlengths, three face diagonals, and space diagonal are all integers. Although many Euler bricks\r\nare known, no perfect cuboid has been discovered, and no impossibility …",
-    "url": "https://community.wolfram.com/groups/-/m/t/3727003",
-    "source": {
-      "name": "Wolfram.com"
-    },
-    "publishedAt": "2026-06-04T02:21:06Z"
-  },
-  {
-    "title": "Mathematicians Puzzled Over a Famous Problem for 80 Years. Now, They've Used A.I. to Identify a Clever Solution",
-    "description": "In 1946, the mathematician Paul Erdős posed the unit distance problem—and suggested a winning strategy. An A.I. model has now landed on a better one. Why didn't humans get there first?",
-    "url": "https://www.smithsonianmag.com/smart-news/mathematicians-puzzled-over-a-famous-problem-for-80-years-now-theyve-used-ai-to-identify-a-clever-solution-180988889/",
-    "source": {
-      "name": "Smithsonian.com"
-    },
-    "publishedAt": "2026-06-03T16:14:17Z"
+    "publishedAt": "2026-06-30T17:20:03Z"
   }
 ]
