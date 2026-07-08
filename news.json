@@ -1,5 +1,14 @@
 [
   {
+    "title": "Software, from First Principles",
+    "description": "How electrons flowing through billions of microscopic switches etched into silicon become arithmetic, memory, and the software you use every day.",
+    "url": "https://fazamhd.com/mental-models/software/",
+    "source": {
+      "name": "Fazamhd.com"
+    },
+    "publishedAt": "2026-07-03T21:28:55Z"
+  },
+  {
     "title": "Dropping in on Gottfried Leibniz (2013)",
     "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
     "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
@@ -7,6 +16,24 @@
       "name": "Stephenwolfram.com"
     },
     "publishedAt": "2026-07-03T16:51:40Z"
+  },
+  {
+    "title": "A digestion of unit distance constructions",
+    "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
+    "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
   },
   {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
@@ -27,6 +54,15 @@
     "publishedAt": "2026-07-01T00:00:00Z"
   },
   {
+    "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
+    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
+    "url": "https://scottaaronson.blog/?p=9881",
+    "source": {
+      "name": "Scottaaronson.blog"
+    },
+    "publishedAt": "2026-06-29T01:32:13Z"
+  },
+  {
     "title": "After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade",
     "description": "Decades ago, Paul Erdős used randomness to illuminate the vast and weird world of networks. Now mathematicians are making his technique even more powerful. The post After 80 Years, Mathematicians Give Famed ‘Erdős Method’ an Upgrade first appeared on Quanta M…",
     "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
@@ -34,6 +70,24 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-06-26T15:26:29Z"
+  },
+  {
+    "title": "Everything Is Logarithms",
+    "description": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\nComments URL: https://news.ycombinator.com/item?id=48622626\nPoints: 5\n# Comments: 0",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "source": {
+      "name": "Alexkritchevsky.com"
+    },
+    "publishedAt": "2026-06-21T21:10:32Z"
+  },
+  {
+    "title": "Mathematicians are developing rules for AI use — other fields should follow",
+    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
+    "url": "https://www.nature.com/articles/d41586-026-01881-2",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-06-16T00:00:00Z"
   },
   {
     "title": "The Riemann Hypothesis – interactive explanation",
