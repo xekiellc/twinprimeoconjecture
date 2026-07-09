@@ -1,5 +1,14 @@
 [
   {
+    "title": "Dropping in on Gottfried Leibniz (2013)",
+    "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
+    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
+    "source": {
+      "name": "Stephenwolfram.com"
+    },
+    "publishedAt": "2026-07-03T16:51:40Z"
+  },
+  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -52,5 +61,14 @@
       "name": "Adilmoujahid.com"
     },
     "publishedAt": "2026-06-11T11:50:45Z"
+  },
+  {
+    "title": "The total number of possible chess games is so large that it exceeds the number of atoms in the observable universe — by some estimates, there are more possible chess games than there are atoms in approximately a trillion trillion trillion universes like ours — and despite this near-infinite possibility space, modern chess engines can now defeat any human grandmaster who has ever lived, in any opening position they care to attempt",
+    "description": "The American mathematician Claude Shannon, working at Bell Labs in 1949, sat down with a pencil and a sheet of paper and tried to estimate how many distinct games of chess could in principle be played. His method was a rough back-of-the-envelope calculation, …",
+    "url": "https://spacedaily.com/d-the-total-number-of-possible-chess-games-is-so-large-that-it-exceeds-the-number-of-atoms-in-the-observable-universe-by-some-estimates-there-are-more-possible-chess-games-than-there-are-atom/",
+    "source": {
+      "name": "Space Daily"
+    },
+    "publishedAt": "2026-06-08T15:30:02Z"
   }
 ]
