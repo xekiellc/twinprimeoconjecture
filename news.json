@@ -18,6 +18,15 @@
     "publishedAt": "2026-07-03T16:18:11Z"
   },
   {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
+  },
+  {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
     "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
     "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
@@ -63,15 +72,6 @@
     "publishedAt": "2026-06-22T14:00:00Z"
   },
   {
-    "title": "Einstein’s “biggest blunder” may finally have an explanation",
-    "description": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of space-time may protect the cosmological …",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-    "source": {
-      "name": "Science Daily"
-    },
-    "publishedAt": "2026-06-19T09:43:07Z"
-  },
-  {
     "title": "Mathematicians are developing rules for AI use — other fields should follow",
     "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
     "url": "https://www.nature.com/articles/d41586-026-01881-2",
@@ -88,14 +88,5 @@
       "name": "Adilmoujahid.com"
     },
     "publishedAt": "2026-06-11T11:50:45Z"
-  },
-  {
-    "title": "The total number of possible chess games is so large that it exceeds the number of atoms in the observable universe — by some estimates, there are more possible chess games than there are atoms in approximately a trillion trillion trillion universes like ours — and despite this near-infinite possibility space, modern chess engines can now defeat any human grandmaster who has ever lived, in any opening position they care to attempt",
-    "description": "The American mathematician Claude Shannon, working at Bell Labs in 1949, sat down with a pencil and a sheet of paper and tried to estimate how many distinct games of chess could in principle be played. His method was a rough back-of-the-envelope calculation, …",
-    "url": "https://spacedaily.com/d-the-total-number-of-possible-chess-games-is-so-large-that-it-exceeds-the-number-of-atoms-in-the-observable-universe-by-some-estimates-there-are-more-possible-chess-games-than-there-are-atom/",
-    "source": {
-      "name": "Space Daily"
-    },
-    "publishedAt": "2026-06-08T15:30:02Z"
   }
 ]
