@@ -27,6 +27,15 @@
     "publishedAt": "2026-07-03T16:18:11Z"
   },
   {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
+  },
+  {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
     "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
     "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
@@ -61,6 +70,15 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-06-26T15:26:29Z"
+  },
+  {
+    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
+    "description": "ChatGPT's breakthrough is not what it seems.",
+    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
+    "source": {
+      "name": "Slate Magazine"
+    },
+    "publishedAt": "2026-06-22T14:00:00Z"
   },
   {
     "title": "Mathematicians are developing rules for AI use — other fields should follow",
