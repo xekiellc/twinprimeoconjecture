@@ -1,5 +1,14 @@
 [
   {
+    "title": "ChatGPT just proved another 50-year-old math conjecture",
+    "description": "What’s the secret to prompting an AI to solve math problems that have left humans stumped? Tell it to believe in itself",
+    "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-07-14T12:30:00Z"
+  },
+  {
     "title": "Computation as a Universal and Fundamental Concept",
     "description": "TIM ROUGHGARDEN treats computation as a law of nature, tracing its arc from Turing's proof that some problems are unsolvable to the P versus NP question at the heart of modern computer science.",
     "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
