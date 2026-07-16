@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians are closing in on the hidden order inside chaos",
+    "description": "A new breakthrough pushes the limits of randomness, bringing a decades-old mathematical mystery closer to resolution",
+    "url": "https://www.scientificamerican.com/article/mathematicians-are-closing-in-on-the-hidden-order-inside-chaos/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-07-15T17:00:00Z"
+  },
+  {
     "title": "Building a Very Long Number Calculator Using Angular, React, Svelte, and Vue",
     "description": "Very Long Number Calculator is a web-based application designed to perform accurate arithmetic operations on numbers that exceed the limits of standard calculators. It enables users to work with extremely large integers without losing precision, making it sui…",
     "url": "https://www.c-sharpcorner.com/article/very-long-number-calculator2/",
@@ -25,15 +34,6 @@
       "name": "Ergo.org"
     },
     "publishedAt": "2026-07-10T15:23:42Z"
-  },
-  {
-    "title": "cnbe32 added to PyPI",
-    "description": "CNBE-32: Chinese Native Binary Encoding — Structured 32-bit CJK encoding for AI and hardware",
-    "url": "https://pypi.org/project/cnbe32/",
-    "source": {
-      "name": "Pypi.org"
-    },
-    "publishedAt": "2026-07-08T18:10:01Z"
   },
   {
     "title": "Dropping in on Gottfried Leibniz (2013)",
