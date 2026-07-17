@@ -9,15 +9,6 @@
     "publishedAt": "2026-07-15T17:00:00Z"
   },
   {
-    "title": "Building a Very Long Number Calculator Using Angular, React, Svelte, and Vue",
-    "description": "Very Long Number Calculator is a web-based application designed to perform accurate arithmetic operations on numbers that exceed the limits of standard calculators. It enables users to work with extremely large integers without losing precision, making it sui…",
-    "url": "https://www.c-sharpcorner.com/article/very-long-number-calculator2/",
-    "source": {
-      "name": "C-sharpcorner.com"
-    },
-    "publishedAt": "2026-07-15T03:43:27Z"
-  },
-  {
     "title": "ChatGPT just proved another 50-year-old math conjecture",
     "description": "What’s the secret to prompting an AI to solve math problems that have left humans stumped? Tell it to believe in itself",
     "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
@@ -36,15 +27,6 @@
     "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
-    "title": "Dropping in on Gottfried Leibniz (2013)",
-    "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
-    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
-    "source": {
-      "name": "Stephenwolfram.com"
-    },
-    "publishedAt": "2026-07-03T16:51:40Z"
-  },
-  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -52,15 +34,6 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-03T16:18:11Z"
-  },
-  {
-    "title": "The Fall of the Theorem Economy",
-    "description": "How AI could destroy mathematics and barely touch it",
-    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-    "source": {
-      "name": "Substack.com"
-    },
-    "publishedAt": "2026-07-02T08:01:15Z"
   },
   {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
@@ -88,23 +61,5 @@
       "name": "Scottaaronson.blog"
     },
     "publishedAt": "2026-06-29T01:32:13Z"
-  },
-  {
-    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
-    "description": "ChatGPT's breakthrough is not what it seems.",
-    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
-    "source": {
-      "name": "Slate Magazine"
-    },
-    "publishedAt": "2026-06-22T14:00:00Z"
-  },
-  {
-    "title": "Mathematicians are developing rules for AI use — other fields should follow",
-    "description": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used. Researchers in other disciplines could learn from this approach.",
-    "url": "https://www.nature.com/articles/d41586-026-01881-2",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-06-16T00:00:00Z"
   }
 ]
