@@ -1,12 +1,30 @@
 [
   {
-    "title": "Mathematicians are closing in on the hidden order inside chaos",
-    "description": "A new breakthrough pushes the limits of randomness, bringing a decades-old mathematical mystery closer to resolution",
-    "url": "https://www.scientificamerican.com/article/mathematicians-are-closing-in-on-the-hidden-order-inside-chaos/",
+    "title": "Bipartite Perfect Matching in Deterministic NC",
+    "description": "Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel algorithm for bipartite perfect matching  by Abhranil Chatterje...",
+    "url": "https://blog.computationalcomplexity.org/2026/07/bipartite-perfect-matching-in.html",
     "source": {
-      "name": "Scientific American"
+      "name": "Computationalcomplexity.org"
     },
-    "publishedAt": "2026-07-15T17:00:00Z"
+    "publishedAt": "2026-07-19T14:27:01Z"
+  },
+  {
+    "title": "Quote of the Day by Bernhard Riemann: \"If only I had the theorems...\" — Inspiring life lessons from the renowned German mathematician on curiosity, discovery, innovation, and why great ideas come before perfect answers",
+    "description": "Quote of the Day by Bernhard Riemann: \"If only I had the theorems! Then I should find the proofs easily enough.\" One remarkable thought from the renowned German mathematician still challenges the modern world. Why do the greatest discoveries begin with an ide…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-if-only-i-had-the-theorems-inspiring-life-lessons-from-the-renowned-german-mathematician-on-curiosity-discovery-innovation-and-why-great-ideas-come-before-perfect-answers/articleshow/132460624.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-07-17T12:04:54Z"
+  },
+  {
+    "title": "Building a Very Long Number Calculator Using Angular, React, Svelte, and Vue",
+    "description": "Very Long Number Calculator is a web-based application designed to perform accurate arithmetic operations on numbers that exceed the limits of standard calculators. It enables users to work with extremely large integers without losing precision, making it sui…",
+    "url": "https://www.c-sharpcorner.com/article/very-long-number-calculator2/",
+    "source": {
+      "name": "C-sharpcorner.com"
+    },
+    "publishedAt": "2026-07-15T03:43:27Z"
   },
   {
     "title": "ChatGPT just proved another 50-year-old math conjecture",
@@ -34,6 +52,15 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
   },
   {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
