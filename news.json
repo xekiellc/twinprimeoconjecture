@@ -45,6 +45,24 @@
     "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
+    "title": "cnbe32 added to PyPI",
+    "description": "CNBE-32: Chinese Native Binary Encoding — Structured 32-bit CJK encoding for AI and hardware",
+    "url": "https://pypi.org/project/cnbe32/",
+    "source": {
+      "name": "Pypi.org"
+    },
+    "publishedAt": "2026-07-08T18:10:01Z"
+  },
+  {
+    "title": "Dropping in on Gottfried Leibniz (2013)",
+    "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
+    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
+    "source": {
+      "name": "Stephenwolfram.com"
+    },
+    "publishedAt": "2026-07-03T16:51:40Z"
+  },
+  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -82,7 +100,7 @@
   },
   {
     "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
+    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m��",
     "url": "https://scottaaronson.blog/?p=9881",
     "source": {
       "name": "Scottaaronson.blog"
