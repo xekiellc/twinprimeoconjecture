@@ -1,5 +1,14 @@
 [
   {
+    "title": "Human mathematicians are being outcounterexampled",
+    "description": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexam…",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-07-20T19:03:37Z"
+  },
+  {
     "title": "Bipartite Perfect Matching in Deterministic NC",
     "description": "Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel algorithm for bipartite perfect matching  by Abhranil Chatterje...",
     "url": "https://blog.computationalcomplexity.org/2026/07/bipartite-perfect-matching-in.html",
@@ -97,14 +106,5 @@
       "name": "Scottaaronson.blog"
     },
     "publishedAt": "2026-06-29T01:32:13Z"
-  },
-  {
-    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
-    "description": "ChatGPT's breakthrough is not what it seems.",
-    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
-    "source": {
-      "name": "Slate Magazine"
-    },
-    "publishedAt": "2026-06-22T14:00:00Z"
   }
 ]
