@@ -1,5 +1,14 @@
 [
   {
+    "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
+    "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
+    "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
+    "source": {
+      "name": "The Next Web"
+    },
+    "publishedAt": "2026-07-21T13:04:44Z"
+  },
+  {
     "title": "Human mathematicians are being outcounterexampled",
     "description": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexam…",
     "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
@@ -25,15 +34,6 @@
       "name": "The Times of India"
     },
     "publishedAt": "2026-07-17T12:04:54Z"
-  },
-  {
-    "title": "Building a Very Long Number Calculator Using Angular, React, Svelte, and Vue",
-    "description": "Very Long Number Calculator is a web-based application designed to perform accurate arithmetic operations on numbers that exceed the limits of standard calculators. It enables users to work with extremely large integers without losing precision, making it sui…",
-    "url": "https://www.c-sharpcorner.com/article/very-long-number-calculator2/",
-    "source": {
-      "name": "C-sharpcorner.com"
-    },
-    "publishedAt": "2026-07-15T03:43:27Z"
   },
   {
     "title": "ChatGPT just proved another 50-year-old math conjecture",
@@ -106,5 +106,14 @@
       "name": "Scottaaronson.blog"
     },
     "publishedAt": "2026-06-29T01:32:13Z"
+  },
+  {
+    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
+    "description": "ChatGPT's breakthrough is not what it seems.",
+    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
+    "source": {
+      "name": "Slate Magazine"
+    },
+    "publishedAt": "2026-06-22T14:00:00Z"
   }
 ]
