@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
+    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
+    "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
+    "source": {
+      "name": "Yahoo Entertainment"
+    },
+    "publishedAt": "2026-07-21T16:15:44Z"
+  },
+  {
     "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
     "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
     "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
@@ -43,15 +52,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-07-14T12:30:00Z"
-  },
-  {
-    "title": "Computation as a Universal and Fundamental Concept",
-    "description": "TIM ROUGHGARDEN treats computation as a law of nature, tracing its arc from Turing's proof that some problems are unsolvable to the P versus NP question at the heart of modern computer science.",
-    "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-    "source": {
-      "name": "Ergo.org"
-    },
-    "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
     "title": "Dropping in on Gottfried Leibniz (2013)",
@@ -106,14 +106,5 @@
       "name": "Scottaaronson.blog"
     },
     "publishedAt": "2026-06-29T01:32:13Z"
-  },
-  {
-    "title": "Did A.I. Really Solve a Math Problem That Mathematicians Couldn’t?",
-    "description": "ChatGPT's breakthrough is not what it seems.",
-    "url": "https://slate.com/technology/2026/06/math-chatgpt-erdos-problem-solved-open-ai.html",
-    "source": {
-      "name": "Slate Magazine"
-    },
-    "publishedAt": "2026-06-22T14:00:00Z"
   }
 ]
