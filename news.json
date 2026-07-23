@@ -27,6 +27,15 @@
     "publishedAt": "2026-07-21T16:15:44Z"
   },
   {
+    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
+    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
+    "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
+    "source": {
+      "name": "Fortune"
+    },
+    "publishedAt": "2026-07-21T16:15:44Z"
+  },
+  {
     "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
     "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
     "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
@@ -34,15 +43,6 @@
       "name": "The Next Web"
     },
     "publishedAt": "2026-07-21T13:04:44Z"
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled",
-    "description": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexam…",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-07-20T19:03:37Z"
   },
   {
     "title": "Bipartite Perfect Matching in Deterministic NC",
@@ -81,15 +81,6 @@
     "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
-    "title": "Dropping in on Gottfried Leibniz (2013)",
-    "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
-    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
-    "source": {
-      "name": "Stephenwolfram.com"
-    },
-    "publishedAt": "2026-07-03T16:51:40Z"
-  },
-  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -97,6 +88,15 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
+    "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
+    "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
+    "source": {
+      "name": "Www.gov.uk"
+    },
+    "publishedAt": "2026-07-01T09:00:01Z"
   },
   {
     "title": "The Riemann Hypothesis manifested in dynamical quantum phase transitions",
