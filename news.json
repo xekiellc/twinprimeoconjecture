@@ -1,5 +1,14 @@
 [
   {
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
+    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-07-21T21:04:44Z"
+  },
+  {
     "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
     "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
     "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
@@ -16,15 +25,6 @@
       "name": "The Next Web"
     },
     "publishedAt": "2026-07-21T13:04:44Z"
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled",
-    "description": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexam…",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-07-20T19:03:37Z"
   },
   {
     "title": "Bipartite Perfect Matching in Deterministic NC",
@@ -54,6 +54,15 @@
     "publishedAt": "2026-07-14T12:30:00Z"
   },
   {
+    "title": "Computation as a Universal and Fundamental Concept",
+    "description": "TIM ROUGHGARDEN treats computation as a law of nature, tracing its arc from Turing's proof that some problems are unsolvable to the P versus NP question at the heart of modern computer science.",
+    "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+    "source": {
+      "name": "Ergo.org"
+    },
+    "publishedAt": "2026-07-10T15:23:42Z"
+  },
+  {
     "title": "Dropping in on Gottfried Leibniz (2013)",
     "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
     "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
@@ -72,15 +81,6 @@
     "publishedAt": "2026-07-03T16:18:11Z"
   },
   {
-    "title": "The Fall of the Theorem Economy",
-    "description": "How AI could destroy mathematics and barely touch it",
-    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-    "source": {
-      "name": "Substack.com"
-    },
-    "publishedAt": "2026-07-02T08:01:15Z"
-  },
-  {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
     "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
     "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
@@ -97,14 +97,5 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-07-01T00:00:00Z"
-  },
-  {
-    "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-    "description": "Spreading the Gospel of Theoretical Computer Science to an Ω(1) Fraction of Humanity (Or, How We Can Do Like the Physicists)Scott Aaronson’s Trevisan Award Acceptance SpeechSalt Lake City, Utah, June 23, 2026 Thank you so much! It’s one of the highlights of m…",
-    "url": "https://scottaaronson.blog/?p=9881",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-06-29T01:32:13Z"
   }
 ]
