@@ -1,5 +1,14 @@
 [
   {
+    "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
+    "description": "Anthropic mathematician uses Claude AI to disprove the 87-year-old Jacobian conjecture, raising questions about AI's role in cryptographic\nThe post Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention appear…",
+    "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
+    "source": {
+      "name": "Crypto Briefing"
+    },
+    "publishedAt": "2026-07-22T11:25:00Z"
+  },
+  {
     "title": "A digestion of the Jacobian conjecture counterexample",
     "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
     "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
@@ -18,15 +27,6 @@
     "publishedAt": "2026-07-21T16:15:44Z"
   },
   {
-    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
-    "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
-    "source": {
-      "name": "Fortune"
-    },
-    "publishedAt": "2026-07-21T16:15:44Z"
-  },
-  {
     "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
     "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
     "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
@@ -36,13 +36,22 @@
     "publishedAt": "2026-07-21T13:04:44Z"
   },
   {
-    "title": "Bruce Lesley: A Letter to the National Assessment Governing Board. Stop Letting Critics Lie About NAEP Test Results",
-    "description": "The biggest lie about American school kids is that most are ���below grade level.” This lie is repeated so often by prominent figures that it is widely believed. But it’s not true. Those who believe it are wrong. Those who repeat it, knowing it’s not true, are …",
-    "url": "https://dianeravitch.net/2026/07/21/bruce-lesley-a-letter-to-the-national-assessment-governing-board-stop/",
+    "title": "Human mathematicians are being outcounterexampled",
+    "description": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexam…",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "source": {
-      "name": "Dianeravitch.net"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-07-21T13:00:00Z"
+    "publishedAt": "2026-07-20T19:03:37Z"
+  },
+  {
+    "title": "Bipartite Perfect Matching in Deterministic NC",
+    "description": "Nutan Limaye and Thore Husfeldt guest post on the new deterministic parallel algorithm for bipartite perfect matching  by Abhranil Chatterje...",
+    "url": "https://blog.computationalcomplexity.org/2026/07/bipartite-perfect-matching-in.html",
+    "source": {
+      "name": "Computationalcomplexity.org"
+    },
+    "publishedAt": "2026-07-19T14:27:01Z"
   },
   {
     "title": "Quote of the Day by Bernhard Riemann: \"If only I had the theorems...\" — Inspiring life lessons from the renowned German mathematician on curiosity, discovery, innovation, and why great ideas come before perfect answers",
@@ -70,15 +79,6 @@
       "name": "Ergo.org"
     },
     "publishedAt": "2026-07-10T15:23:42Z"
-  },
-  {
-    "title": "Dropping in on Gottfried Leibniz (2013)",
-    "description": "Visit to archive provides a look at Leibniz’s papers, notation, calculator. His near misses on universal computation, quest for the systemization & formalization of knowledge.",
-    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
-    "source": {
-      "name": "Stephenwolfram.com"
-    },
-    "publishedAt": "2026-07-03T16:51:40Z"
   },
   {
     "title": "A digestion of unit distance constructions",
