@@ -1,5 +1,23 @@
 [
   {
+    "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
+    "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-07-23T13:52:44Z"
+  },
+  {
+    "title": "The Quietest Mathematician Has Always Been Worth Listening To",
+    "description": "John Pardon sees connections between different areas of math that others don’t. For that vision, he’s now been awarded a Fields Medal. The post The Quietest Mathematician Has Always Been Worth Listening To first appeared on Quanta Magazine",
+    "url": "https://www.quantamagazine.org/john-pardon-wins-the-2026-fields-medal-for-work-in-symplectic-geometry-20260723/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-07-23T13:40:17Z"
+  },
+  {
     "title": "Rising stars of mathematics awarded 2026 Fields Medal",
     "description": "Two of the four are the first Chinese-born winners of the prize since 1986.",
     "url": "https://www.nature.com/articles/d41586-026-02169-1",
@@ -7,15 +25,6 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-07-23T00:00:00Z"
-  },
-  {
-    "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
-    "description": "Anthropic mathematician uses Claude AI to disprove the 87-year-old Jacobian conjecture, raising questions about AI's role in cryptographic\nThe post Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention appear…",
-    "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-07-22T11:25:00Z"
   },
   {
     "title": "A digestion of the Jacobian conjecture counterexample",
@@ -81,6 +90,24 @@
     "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
+    "title": "A digestion of unit distance constructions",
+    "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
+    "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "The Fall of the Theorem Economy",
+    "description": "How AI could destroy mathematics and barely touch it",
+    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-07-02T08:01:15Z"
+  },
+  {
     "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
     "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
     "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
@@ -88,14 +115,5 @@
       "name": "Www.gov.uk"
     },
     "publishedAt": "2026-07-01T09:00:01Z"
-  },
-  {
-    "title": "The Riemann Hypothesis manifested in dynamical quantum phase transitions",
-    "description": "The authors establish a formal correspondence between the Riemann Hypothesis and engineered quantum many-body dynamics. By constructing a Riemann-based Hamiltonian, they demonstrate that the hypothesis manifests through quantum phase transitions.",
-    "url": "https://www.nature.com/articles/s41467-026-74935-8",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-07-01T00:00:00Z"
   }
 ]
