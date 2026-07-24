@@ -1,12 +1,21 @@
 [
   {
-    "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
-    "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
+    "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
+    "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
+    "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
     "source": {
-      "name": "The Times of India"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-07-23T13:52:44Z"
+    "publishedAt": "2026-07-23T15:18:25Z"
+  },
+  {
+    "title": "NYU Professor Hong Wang Wins Fields Medal",
+    "description": "Mathematician recognized with the highest prize in mathematics for resolving a long-standing problem in harmonic analysis and geometric measure theory—the three-dimensional Kakeya set conjecture NEW YORK, July 23, 2026 /PRNewswire/ -- New York University Prof…",
+    "url": "https://www.prnewswire.com/news-releases/nyu-professor-hong-wang-wins-fields-medal-302833405.html",
+    "source": {
+      "name": "PRNewswire"
+    },
+    "publishedAt": "2026-07-23T14:17:00Z"
   },
   {
     "title": "The Quietest Mathematician Has Always Been Worth Listening To",
@@ -63,15 +72,6 @@
     "publishedAt": "2026-07-21T13:04:44Z"
   },
   {
-    "title": "Quote of the Day by Bernhard Riemann: \"If only I had the theorems...\" — Inspiring life lessons from the renowned German mathematician on curiosity, discovery, innovation, and why great ideas come before perfect answers",
-    "description": "Quote of the Day by Bernhard Riemann: \"If only I had the theorems! Then I should find the proofs easily enough.\" One remarkable thought from the renowned German mathematician still challenges the modern world. Why do the greatest discoveries begin with an ide…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-if-only-i-had-the-theorems-inspiring-life-lessons-from-the-renowned-german-mathematician-on-curiosity-discovery-innovation-and-why-great-ideas-come-before-perfect-answers/articleshow/132460624.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-07-17T12:04:54Z"
-  },
-  {
     "title": "ChatGPT just proved another 50-year-old math conjecture",
     "description": "What’s the secret to prompting an AI to solve math problems that have left humans stumped? Tell it to believe in itself",
     "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
@@ -79,15 +79,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-07-14T12:30:00Z"
-  },
-  {
-    "title": "Computation as a Universal and Fundamental Concept",
-    "description": "TIM ROUGHGARDEN treats computation as a law of nature, tracing its arc from Turing's proof that some problems are unsolvable to the P versus NP question at the heart of modern computer science.",
-    "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-    "source": {
-      "name": "Ergo.org"
-    },
-    "publishedAt": "2026-07-10T15:23:42Z"
   },
   {
     "title": "A digestion of unit distance constructions",
