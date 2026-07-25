@@ -1,5 +1,14 @@
 [
   {
+    "title": "Show HN: I poked at the golden ratio in SQL and solved an open math problem",
+    "description": "It started with the golden ratio and a SQL query saved under the name Nonsense.sql. A few afternoons of goofing around later, an open maths problem fell over.",
+    "url": "https://blob.byteterrace.com/public/bds-theorem.html",
+    "source": {
+      "name": "Byteterrace.com"
+    },
+    "publishedAt": "2026-07-24T02:45:47Z"
+  },
+  {
     "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
     "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
     "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
@@ -59,15 +68,6 @@
     "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
     "source": {
       "name": "Yahoo Entertainment"
-    },
-    "publishedAt": "2026-07-21T16:15:44Z"
-  },
-  {
-    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
-    "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
-    "source": {
-      "name": "Fortune"
     },
     "publishedAt": "2026-07-21T16:15:44Z"
   },
