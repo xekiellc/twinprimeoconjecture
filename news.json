@@ -81,15 +81,6 @@
     "publishedAt": "2026-07-21T13:04:44Z"
   },
   {
-    "title": "ChatGPT just proved another 50-year-old math conjecture",
-    "description": "What’s the secret to prompting an AI to solve math problems that have left humans stumped? Tell it to believe in itself",
-    "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-07-14T12:30:00Z"
-  },
-  {
     "title": "A digestion of unit distance constructions",
     "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
     "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
@@ -106,5 +97,14 @@
       "name": "Substack.com"
     },
     "publishedAt": "2026-07-02T08:01:15Z"
+  },
+  {
+    "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
+    "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
+    "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
+    "source": {
+      "name": "Www.gov.uk"
+    },
+    "publishedAt": "2026-07-01T09:00:01Z"
   }
 ]
