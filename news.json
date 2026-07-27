@@ -1,5 +1,14 @@
 [
   {
+    "title": "We have proof automation now",
+    "description": "",
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "source": {
+      "name": "Imperialviolet.org"
+    },
+    "publishedAt": "2026-07-26T00:00:00Z"
+  },
+  {
     "title": "Show HN: I poked at the golden ratio in SQL and solved an open math problem",
     "description": "It started with the golden ratio and a SQL query saved under the name Nonsense.sql. A few afternoons of goofing around later, an open maths problem fell over.",
     "url": "https://blob.byteterrace.com/public/bds-theorem.html",
@@ -7,24 +16,6 @@
       "name": "Byteterrace.com"
     },
     "publishedAt": "2026-07-24T02:45:47Z"
-  },
-  {
-    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
-    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
-    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
-    "source": {
-      "name": "Princeton University"
-    },
-    "publishedAt": "2026-07-23T20:44:00Z"
-  },
-  {
-    "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
-    "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
-    "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-07-23T15:18:25Z"
   },
   {
     "title": "NYU Professor Hong Wang Wins Fields Medal",
@@ -61,6 +52,15 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-07-23T00:00:00Z"
+  },
+  {
+    "title": "Jacobian Conjecture for Baby",
+    "description": "A step-by-step illustrated guide, starting from zero, to the Jacobian Conjecture and its July 2026 fall. Every idea is animated, and the final discovery is checkable by hand.",
+    "url": "https://muchmirul.github.io/conjectures/jacobian-conjecture/",
+    "source": {
+      "name": "Github.io"
+    },
+    "publishedAt": "2026-07-22T18:25:12Z"
   },
   {
     "title": "A digestion of the Jacobian conjecture counterexample",
