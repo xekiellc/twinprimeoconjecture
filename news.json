@@ -9,6 +9,15 @@
     "publishedAt": "2026-07-24T02:45:47Z"
   },
   {
+    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
+    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
+    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
+    "source": {
+      "name": "Princeton University"
+    },
+    "publishedAt": "2026-07-23T20:44:00Z"
+  },
+  {
     "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
     "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
     "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
@@ -54,15 +63,6 @@
     "publishedAt": "2026-07-23T00:00:00Z"
   },
   {
-    "title": "Over 2,000 years ago Eratosthenes, the ancient Greek scholar, measured the Earth's circumference with just a stick, sunlight and simple math",
-    "description": "Ancient Greek scholar Eratosthenes calculated Earth's circumference using sunlight and geometry.  He observed shadows in Syene and Alexandria to determine the planet's size.  His experiment revealed the Earth was not flat, which was a significant discovery.  …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/over-2000-years-ago-eratosthenes-the-ancient-greek-scholar-measured-the-earths-circumference-with-just-a-stick-sunlight-and-simple-math/articleshow/132559178.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-07-22T17:51:43Z"
-  },
-  {
     "title": "A digestion of the Jacobian conjecture counterexample",
     "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
     "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
@@ -82,7 +82,7 @@
   },
   {
     "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
-    "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,��� for worki…",
+    "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
     "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
     "source": {
       "name": "The Next Web"
