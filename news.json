@@ -1,12 +1,12 @@
 [
   {
-    "title": "We have proof automation now",
-    "description": "",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
+    "description": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place.",
+    "url": "https://www.dailymail.com/news/article-16006439/Brit-successful-maths-olympiad-perfect-score.html",
     "source": {
-      "name": "Imperialviolet.org"
+      "name": "Dailymail.com"
     },
-    "publishedAt": "2026-07-26T00:00:00Z"
+    "publishedAt": "2026-07-26T20:33:12Z"
   },
   {
     "title": "Show HN: I poked at the golden ratio in SQL and solved an open math problem",
@@ -34,15 +34,6 @@
       "name": "PRNewswire"
     },
     "publishedAt": "2026-07-23T14:17:00Z"
-  },
-  {
-    "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
-    "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-07-23T13:52:44Z"
   },
   {
     "title": "The Quietest Mathematician Has Always Been Worth Listening To",
@@ -106,5 +97,14 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-03T16:18:11Z"
+  },
+  {
+    "title": "Appointment of Regius Professor of Mathematics in the University of Oxford: 1 July 2026",
+    "description": "The King has approved that Professor James Maynard FRS, Professor of Number Theory at the Mathematical Institute, University of Oxford, be appointed Regius Professor of Mathematics in the University of Oxford in succession to Professor Sir Andrew Wiles.",
+    "url": "https://www.gov.uk/government/news/appointment-of-regius-professor-of-mathematics-in-the-university-of-oxford-1-july-2026",
+    "source": {
+      "name": "Www.gov.uk"
+    },
+    "publishedAt": "2026-07-01T09:00:01Z"
   }
 ]
