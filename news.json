@@ -63,6 +63,15 @@
     "publishedAt": "2026-07-22T18:25:12Z"
   },
   {
+    "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
+    "description": "Anthropic mathematician uses Claude AI to disprove the 87-year-old Jacobian conjecture, raising questions about AI's role in cryptographic\nThe post Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention appear…",
+    "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
+    "source": {
+      "name": "Crypto Briefing"
+    },
+    "publishedAt": "2026-07-22T11:25:00Z"
+  },
+  {
     "title": "A digestion of the Jacobian conjecture counterexample",
     "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
     "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
@@ -79,15 +88,6 @@
       "name": "Yahoo Entertainment"
     },
     "publishedAt": "2026-07-21T16:15:44Z"
-  },
-  {
-    "title": "An AI just broke an 87-year-old maths problem, in a tweet sent during the World Cup final",
-    "description": "On Sunday evening, as Spain and Argentina played out the World Cup final, the mathematician Levent Alpöge posted a short message on X. The Jacobian conjecture, he wrote, is false. He thanked a friend for asking about it, and another friend, “fable,” for worki…",
-    "url": "https://thenextweb.com/news/jacobian-conjecture-disproved-ai-fable-5/",
-    "source": {
-      "name": "The Next Web"
-    },
-    "publishedAt": "2026-07-21T13:04:44Z"
   },
   {
     "title": "A digestion of unit distance constructions",
