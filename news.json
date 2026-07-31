@@ -1,5 +1,14 @@
 [
   {
+    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+    "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
+    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+    "source": {
+      "name": "Firstprinciples.com"
+    },
+    "publishedAt": "2026-07-29T20:21:48Z"
+  },
+  {
     "title": "The 30-Year Randomness Problem That Could Help Secure the Quantum Future",
     "description": "Generating and using randomness practically remains an enormously rich field of research. Read more\nThe post The 30-Year Randomness Problem That Could Help Secure the Quantum Future originally appeared on the HLFF SciLogs blog.",
     "url": "https://scilogs.spektrum.de/hlf/the-30-year-randomness-problem-that-could-help-secure-the-quantum-future/",
@@ -7,15 +16,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-07-29T12:00:00Z"
-  },
-  {
-    "title": "Would Erdos have been happy with the resolution of the Erdos Unit Distance Problem? How to find out?",
-    "description": "Let's say there is a statement in math T that you wonder whether it's true or false.  You may even make a conjecture of which way it goes. D...",
-    "url": "https://blog.computationalcomplexity.org/2026/07/would-erdos-have-been-happy-with.html",
-    "source": {
-      "name": "Computationalcomplexity.org"
-    },
-    "publishedAt": "2026-07-26T21:01:08Z"
   },
   {
     "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
@@ -126,12 +126,12 @@
     "publishedAt": "2026-07-21T16:15:44Z"
   },
   {
-    "title": "The Fall of the Theorem Economy",
-    "description": "How AI could destroy mathematics and barely touch it",
-    "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "title": "A digestion of unit distance constructions",
+    "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
+    "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
     "source": {
-      "name": "Substack.com"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-07-02T08:01:15Z"
+    "publishedAt": "2026-07-03T16:18:11Z"
   }
 ]
