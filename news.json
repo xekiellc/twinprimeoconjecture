@@ -9,15 +9,6 @@
     "publishedAt": "2026-07-29T20:21:48Z"
   },
   {
-    "title": "The 30-Year Randomness Problem That Could Help Secure the Quantum Future",
-    "description": "Generating and using randomness practically remains an enormously rich field of research. Read more\nThe post The 30-Year Randomness Problem That Could Help Secure the Quantum Future originally appeared on the HLFF SciLogs blog.",
-    "url": "https://scilogs.spektrum.de/hlf/the-30-year-randomness-problem-that-could-help-secure-the-quantum-future/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-07-29T12:00:00Z"
-  },
-  {
     "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
     "description": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place.",
     "url": "https://www.dailymail.com/news/article-16006439/Brit-successful-maths-olympiad-perfect-score.html",
@@ -124,14 +115,5 @@
       "name": "Fortune"
     },
     "publishedAt": "2026-07-21T16:15:44Z"
-  },
-  {
-    "title": "A digestion of unit distance constructions",
-    "description": "Suppose that one has a set of points in the plane, which we will think of as the complex plane . Let denote the number of unit distances determined by these points, i.e., pairs of points whose displacement obeys the equation (For this discussion it will not b…",
-    "url": "https://terrytao.wordpress.com/2026/07/03/a-digestion-of-unit-distance-constructions/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-07-03T16:18:11Z"
   }
 ]
