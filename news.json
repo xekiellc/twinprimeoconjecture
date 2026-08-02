@@ -9,6 +9,15 @@
     "publishedAt": "2026-07-31T16:44:49Z"
   },
   {
+    "title": "Something Weird Is Happening in Math",
+    "description": "Why one of the world’s best mathematicians is joining OpenAI",
+    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
+    "source": {
+      "name": "The Atlantic"
+    },
+    "publishedAt": "2026-07-31T12:00:00Z"
+  },
+  {
     "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
     "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
     "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
@@ -43,15 +52,6 @@
       "name": "Princeton University"
     },
     "publishedAt": "2026-07-23T20:44:00Z"
-  },
-  {
-    "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
-    "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
-    "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-07-23T15:18:25Z"
   },
   {
     "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
