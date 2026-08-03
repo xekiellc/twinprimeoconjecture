@@ -1,5 +1,41 @@
 [
   {
+    "title": "Travelling at the speed of light is not just hard but impossible for anything that has mass, since it would take infinite energy, so the real question is how close we could get and whether the loopholes physicists talk about are more than mathematics",
+    "description": "The universe's speed limit isn't just hard to reach—it's fundamentally impossible for anything with mass, but physicists keep searching for loopholes anyway.\nThe post Travelling at the speed of light is not just hard but impossible for anything that has mass,…",
+    "url": "https://spacedaily.com/t-travelling-at-the-speed-of-light-is-not-just-hard-but-impossible-for-anything-that-has-mass-since-it-would-take-infinite-energy-so-the-real-question-is-how-close-we-could-get-and-whether-the-loophol/",
+    "source": {
+      "name": "Space Daily"
+    },
+    "publishedAt": "2026-08-02T06:31:17Z"
+  },
+  {
+    "title": "Hubert Harrison, the Greatest Civil Rights Activist You’ve Never Heard Of",
+    "description": "A Q&A with Brian Kwoba, author of Hubert Harrison: Forbidden Genius of Black Radicalism\nThe post Hubert Harrison, the Greatest Civil Rights Activist You’ve Never Heard Of appeared first on The American Prospect.",
+    "url": "https://prospect.org/2026/08/01/hubert-harrison-civil-rights-activist-brian-kwoba/",
+    "source": {
+      "name": "The American Prospect"
+    },
+    "publishedAt": "2026-08-01T09:30:00Z"
+  },
+  {
+    "title": "First Photonic Time Crystal Controls Light Instantly",
+    "description": "Scientists create the world’s first all-optical photonic time crystal, enabling ultrafast terahertz light control for future computers, etc.",
+    "url": "https://dallasexpress.com/health/scientists-create-worlds-first-photonic-time-crystal-that-controls-light-in-trillionths-of-a-second/",
+    "source": {
+      "name": "Dallasexpress.com"
+    },
+    "publishedAt": "2026-07-31T21:34:15Z"
+  },
+  {
+    "title": "Show HN: Jacobian – I built tools to help anyone explore and solve conjectures",
+    "description": "Jacobian: an MCP server, CLI, and Python library that gives AI agents a composable toolbox of mathematical capabilities with inspectable artifacts and independent verification. - morluto/jacobian",
+    "url": "https://github.com/morluto/jacobian",
+    "source": {
+      "name": "Github.com"
+    },
+    "publishedAt": "2026-07-31T18:01:51Z"
+  },
+  {
     "title": "FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions",
     "description": "AI's ability to solve unsolved math problems suggests a transformative potential in advancing mathematical research and innovation.\nThe post FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions appeared firs…",
     "url": "https://cryptobriefing.com/frontiermath-open-problems-benchmark-50-challenges/",
@@ -7,6 +43,15 @@
       "name": "Crypto Briefing"
     },
     "publishedAt": "2026-07-31T16:44:49Z"
+  },
+  {
+    "title": "Is AI Reasoning Right for the Wrong Reasons?",
+    "description": "The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled. The post Is AI Reasoning Right for the Wrong Reasons? first appeared on Quanta Magazine",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-07-31T14:50:11Z"
   },
   {
     "title": "Something Weird Is Happening in Math",
@@ -18,93 +63,48 @@
     "publishedAt": "2026-07-31T12:00:00Z"
   },
   {
-    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-    "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
-    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+    "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+    "description": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+    "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know",
     "source": {
-      "name": "Firstprinciples.com"
+      "name": "Al Jazeera English"
     },
-    "publishedAt": "2026-07-29T20:21:48Z"
+    "publishedAt": "2026-07-31T11:23:09Z"
   },
   {
-    "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
-    "description": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place.",
-    "url": "https://www.dailymail.com/news/article-16006439/Brit-successful-maths-olympiad-perfect-score.html",
+    "title": "World-first photonic time crystal opens a new era of light control",
+    "description": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter communication systems, advanced imaging, …",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
     "source": {
-      "name": "Dailymail.com"
+      "name": "Science Daily"
     },
-    "publishedAt": "2026-07-26T20:33:12Z"
+    "publishedAt": "2026-07-31T09:13:30Z"
   },
   {
-    "title": "Show HN: I poked at the golden ratio in SQL and solved an open math problem",
-    "description": "It started with the golden ratio and a SQL query saved under the name Nonsense.sql. A few afternoons of goofing around later, an open maths problem fell over.",
-    "url": "https://blob.byteterrace.com/public/bds-theorem.html",
+    "title": "AI Policy Ramifications Aplenty In That Signed Letter Asking For U.S. Support To Pace The AI Frontier",
+    "description": "An online letter was signed by over 1,000 AI employees and seeks to deal with the frenetic pace of AI. I reveal the ramifications. An AI Insider analysis and scoop.",
+    "url": "https://www.forbes.com/sites/lanceeliot/2026/07/31/ai-policy-ramifications-aplenty-in-that-signed-letter-asking-for-us-support-to-pace-the-ai-frontier/",
     "source": {
-      "name": "Byteterrace.com"
+      "name": "Forbes"
     },
-    "publishedAt": "2026-07-24T02:45:47Z"
+    "publishedAt": "2026-07-31T07:15:00Z"
   },
   {
-    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
-    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
-    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
+    "title": "Keep Strunk & White in the Bathroom and Other Ways to Obsess Over Writing Well",
+    "description": "Keep Strunk & White in the Bathroom and Other Ways to Obsess Over Writing Well\n\n \n\n\n \nsara.custer@in…\n\nFri, 07/31/2026 - 03:00 AM\n\nA working writer describes rituals for chasing the tension and surprise that make stories worth reading.\n \n Byline(s)\r\n\n \n Susan…",
+    "url": "https://www.insidehighered.com/opinion/columns/public-scholar/2026/07/31/ways-obsess-over-writing",
     "source": {
-      "name": "Princeton University"
+      "name": "Inside Higher Ed"
     },
-    "publishedAt": "2026-07-23T20:44:00Z"
+    "publishedAt": "2026-07-31T07:00:00Z"
   },
   {
-    "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
-    "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
+    "title": "Strange gamma rays could reveal how stars forge heavy elements",
+    "description": "Scientists traced a mysterious surge of low-energy gamma rays from zinc-70 to magnetic changes occurring inside its nucleus. The breakthrough could improve models of how stars, supernovae, and neutron star mergers create heavy elements.",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
     "source": {
-      "name": "The Times of India"
+      "name": "Science Daily"
     },
-    "publishedAt": "2026-07-23T13:52:44Z"
-  },
-  {
-    "title": "Jacobian Conjecture for Baby",
-    "description": "A step-by-step illustrated guide, starting from zero, to the Jacobian Conjecture and its July 2026 fall. Every idea is animated, and the final discovery is checkable by hand.",
-    "url": "https://muchmirul.github.io/conjectures/jacobian-conjecture/",
-    "source": {
-      "name": "Github.io"
-    },
-    "publishedAt": "2026-07-22T18:25:12Z"
-  },
-  {
-    "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
-    "description": "Anthropic mathematician uses Claude AI to disprove the 87-year-old Jacobian conjecture, raising questions about AI's role in cryptographic\nThe post Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention appear…",
-    "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-07-22T11:25:00Z"
-  },
-  {
-    "title": "A digestion of the Jacobian conjecture counterexample",
-    "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
-    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-07-21T21:04:44Z"
-  },
-  {
-    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
-    "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
-    "source": {
-      "name": "Yahoo Entertainment"
-    },
-    "publishedAt": "2026-07-21T16:15:44Z"
-  },
-  {
-    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
-    "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
-    "source": {
-      "name": "Fortune"
-    },
-    "publishedAt": "2026-07-21T16:15:44Z"
+    "publishedAt": "2026-07-31T05:15:53Z"
   }
 ]
