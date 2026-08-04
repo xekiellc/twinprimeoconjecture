@@ -1,14 +1,5 @@
 [
   {
-    "title": "Proofs And Petitions In The AI Era",
-    "description": "AI is rapidly revolutionizing how we study hard but verifiable problems in math and coding...politics, though, is much harder. In this week's System Check, I explore how we're making progress.",
-    "url": "https://freesystems.substack.com/p/proofs-and-petitions-in-the-ai-era",
-    "source": {
-      "name": "Substack.com"
-    },
-    "publishedAt": "2026-08-03T00:00:00Z"
-  },
-  {
     "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
     "description": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
@@ -79,6 +70,15 @@
       "name": "The Times of India"
     },
     "publishedAt": "2026-07-23T13:52:44Z"
+  },
+  {
+    "title": "Jacobian Conjecture for Baby",
+    "description": "A step-by-step illustrated guide, starting from zero, to the Jacobian Conjecture and its July 2026 fall. Every idea is animated, and the final discovery is checkable by hand.",
+    "url": "https://muchmirul.github.io/conjectures/jacobian-conjecture/",
+    "source": {
+      "name": "Github.io"
+    },
+    "publishedAt": "2026-07-22T18:25:12Z"
   },
   {
     "title": "A digestion of the Jacobian conjecture counterexample",
