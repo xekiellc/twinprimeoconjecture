@@ -36,6 +36,15 @@
     "publishedAt": "2026-07-31T16:44:49Z"
   },
   {
+    "title": "Something Weird Is Happening in Math",
+    "description": "Why one of the world’s best mathematicians is joining OpenAI",
+    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
+    "source": {
+      "name": "The Atlantic"
+    },
+    "publishedAt": "2026-07-31T12:00:00Z"
+  },
+  {
     "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
     "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
     "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
@@ -43,15 +52,6 @@
       "name": "Firstprinciples.com"
     },
     "publishedAt": "2026-07-29T20:21:48Z"
-  },
-  {
-    "title": "Brit becomes the most successful maths olympiad ever after getting perfect score in toughest school-age exam",
-    "description": "Alex Chui, a Year 13 pupil from Tonbridge School in Kent, beat more than 600 participants at the International Mathematical Olympiad (IMO) to claim first place.",
-    "url": "https://www.dailymail.com/news/article-16006439/Brit-successful-maths-olympiad-perfect-score.html",
-    "source": {
-      "name": "Dailymail.com"
-    },
-    "publishedAt": "2026-07-26T20:33:12Z"
   },
   {
     "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
