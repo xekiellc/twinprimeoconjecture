@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
+    "description": "A solution to part of the Cohen-Lenstra conjecture helps resolve a long-standing mystery about quadratic forms",
+    "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-gausss-riddle-unsolved-for-200-years/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-05T10:30:00Z"
+  },
+  {
     "title": "Why the Legendary Erdős Problems Are Falling to AI",
     "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the L…",
     "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
@@ -34,15 +43,6 @@
       "name": "Crypto Briefing"
     },
     "publishedAt": "2026-07-31T16:44:49Z"
-  },
-  {
-    "title": "Something Weird Is Happening in Math",
-    "description": "Why one of the world’s best mathematicians is joining OpenAI",
-    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-07-31T12:00:00Z"
   },
   {
     "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
