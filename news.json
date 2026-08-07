@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
+    "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
+    "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-06T18:43:00Z"
+  },
+  {
+    "title": "Can quantum computers solve math’s hardest problem?",
+    "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
+    "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-06T14:00:00Z"
+  },
+  {
     "title": "OpenAI Astra Solves 10 Unsolved Math and Computing Problems",
     "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
     "url": "https://www.geeky-gadgets.com/openai-astra-mathematics-breakthrough/",
@@ -72,15 +90,6 @@
     "publishedAt": "2026-07-23T20:44:00Z"
   },
   {
-    "title": "A new ‘golden age’ of mathematics may be dawning — thanks to AI and human ingenuity",
-    "description": "As AI climbs on the shoulders of many mathematicians before it, humans are also able to reach further due to advances by AI.",
-    "url": "https://theconversation.com/a-new-golden-age-of-mathematics-may-be-dawning-thanks-to-ai-and-human-ingenuity-287346",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-07-23T15:18:25Z"
-  },
-  {
     "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
     "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
     "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
@@ -97,14 +106,5 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-07-21T21:04:44Z"
-  },
-  {
-    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
-    "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
-    "source": {
-      "name": "Yahoo Entertainment"
-    },
-    "publishedAt": "2026-07-21T16:15:44Z"
   }
 ]
