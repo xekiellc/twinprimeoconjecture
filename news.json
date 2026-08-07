@@ -81,15 +81,6 @@
     "publishedAt": "2026-07-23T20:44:00Z"
   },
   {
-    "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
-    "description": "Today's quote of the day by Bernhard Riemann reminds us that real progress does not always come from having every answer. Sometimes it begins with honest questions and the courage to keep searching. His words highlight patience, critical thinking, curiosity, …",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-bernhard-riemann-without-doubt-it-would-be-desirable-to-have-a-rigorous-proof-of-inspiring-life-lessons-on-curiosity-perseverance-continuous-learning-and-why-great-discoveries-often-begin-before-every-answer-is-found-by-the-german-mathematician-known-for-the-riemannian-geometry/articleshow/132580625.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-07-23T13:52:44Z"
-  },
-  {
     "title": "A digestion of the Jacobian conjecture counterexample",
     "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
     "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
@@ -104,6 +95,15 @@
     "url": "https://tech.yahoo.com/ai/articles/mathematicians-grapple-very-rapid-very-161544136.html",
     "source": {
       "name": "Yahoo Entertainment"
+    },
+    "publishedAt": "2026-07-21T16:15:44Z"
+  },
+  {
+    "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
+    "description": "Anthropic's Levant Alpöge, a former Harvard valedictorian, used Claude's Fable 5 to find something that mathematicians have failed to since 1939.",
+    "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
+    "source": {
+      "name": "Fortune"
     },
     "publishedAt": "2026-07-21T16:15:44Z"
   }
