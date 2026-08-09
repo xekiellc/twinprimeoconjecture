@@ -1,5 +1,41 @@
 [
   {
+    "title": "This Week in AI: Who Controls AI?",
+    "description": "Governments are tightening control over AI infrastructure as companies spend heavily to compete at the frontier. This week, data and AI evangelist Christina Stathopoulos examined how policy, capital, product risk, and scientific research are shaping AI develo…",
+    "url": "https://www.oreilly.com/radar/this-week-in-ai-who-controls-ai/#BlogPosting",
+    "source": {
+      "name": "Oreilly.com"
+    },
+    "publishedAt": "2026-08-07T15:55:09Z"
+  },
+  {
+    "title": "The Least Agentic People Alive",
+    "description": "The arms race of deferring agency and the dark acquiescence to robotic bureaucracy.",
+    "url": "https://www.argmin.net/p/the-least-agentic-people-alive",
+    "source": {
+      "name": "Argmin.net"
+    },
+    "publishedAt": "2026-08-07T14:23:45Z"
+  },
+  {
+    "title": "A visual analytic method to investigate patterns and structures of missing data",
+    "description": "Datasets often have missing values. Understanding the locations and underlying reasons (missing data patterns and structures, respectively) is important to avoid analysis bias or building inappropriate models. However, investigating missing data patterns and …",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355400",
+    "source": {
+      "name": "Plos.org"
+    },
+    "publishedAt": "2026-08-07T14:00:00Z"
+  },
+  {
+    "title": "AI: The Ominous Opportunity",
+    "description": "IARPA DECIPHER program will be looking at text & voice messages, but could expand to social media, blogs & other digital communications: perspective IARPA, the US spy tech agency, is looking to make sense of new slang, jargon, specialized terms, and other cod…",
+    "url": "https://www.activistpost.com/ai-the-ominous-opportunity/",
+    "source": {
+      "name": "Activistpost.com"
+    },
+    "publishedAt": "2026-08-07T02:20:00Z"
+  },
+  {
     "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
     "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
     "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
@@ -27,84 +63,48 @@
     "publishedAt": "2026-08-06T12:43:00Z"
   },
   {
-    "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-    "description": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjec…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+    "title": "Top Quote of the Day by Milton Friedman, Joseph Stiglitz and Paul Krugman: What do Nobel Prize-winning economists understand about human behavior and financial freedom? Life lessons on decision-making, mindset, wisdom, success, character, personal growth, and why their economic insights still shape smarter choices today",
+    "description": "Today's Top Quote of the Day by Milton Friedman, Joseph Stiglitz and Paul Krugman: Milton Friedman, Joseph Stiglitz, and Paul Krugman spent decades studying markets, governments, businesses, and human behavior. Their words are not merely academic observations…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/top-quote-of-the-day-by-milton-friedman-joseph-stiglitz-and-paul-krugman-what-do-nobel-prize-winning-economists-understand-about-human-behavior-and-financial-freedom-life-lessons-on-decision-making-mindset-wisdom-success-character-personal-growth-and-why-their-economic-insights-still-shape-smarter-choices-today/articleshow/133003513.cms",
     "source": {
-      "name": "Science Daily"
+      "name": "The Times of India"
     },
-    "publishedAt": "2026-08-06T02:02:49Z"
+    "publishedAt": "2026-08-06T12:28:58Z"
   },
   {
-    "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
-    "description": "A solution to part of the Cohen-Lenstra conjecture helps resolve a long-standing mystery about quadratic forms",
-    "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-gausss-riddle-unsolved-for-200-years/",
+    "title": "The Case for Ranking Donor-Advised Funds",
+    "description": "A single public metric ranking DAF sponsors by the share of assets they deploy would turn the incentive to accumulate wealth into a race to give.",
+    "url": "https://ssir.org/articles/entry/donor-advised-funds-ranking",
     "source": {
-      "name": "Scientific American"
+      "name": "Ssir.org"
     },
-    "publishedAt": "2026-08-05T10:30:00Z"
+    "publishedAt": "2026-08-06T12:00:00Z"
   },
   {
-    "title": "Why the Legendary Erdős Problems Are Falling to AI",
-    "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the L…",
-    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "title": "Only play in your own tournaments: Donald Trump’s tips for better golf",
+    "description": "MANY people find it hard to master golf, unlike Tiger Woods and me. But follow these tips and you’ll be winning tournaments with surprising frequency.",
+    "url": "https://www.thedailymash.co.uk/sport/only-play-in-your-own-tournaments-donald-trumps-tips-for-better-golf-20260806268424",
     "source": {
-      "name": "Quanta Magazine"
+      "name": "Thedailymash.co.uk"
     },
-    "publishedAt": "2026-08-03T15:05:20Z"
+    "publishedAt": "2026-08-06T10:11:22Z"
   },
   {
-    "title": "OpenAI’s Astra solves 10 long-open math problems and publishes the proofs",
-    "description": "OpenAI Group PBC revealed Saturday that an internal version of Astra, the model family it calls its next major release, produced new results for 10 problems in mathematics and theoretical computer science that had been open for at least a decade, and it publi…",
-    "url": "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/",
+    "title": "Rise of the AI-ristocracy",
+    "description": "From animal welfare to global health, AI’s new billionaires have a plan to save the world — and they’re about to change what American charity looks like in the process.",
+    "url": "https://www.vox.com/future-perfect/496834/ai-philanthropy-effective-altruism-billionaires",
     "source": {
-      "name": "SiliconANGLE News"
+      "name": "Vox"
     },
-    "publishedAt": "2026-08-02T22:21:10Z"
+    "publishedAt": "2026-08-06T10:00:00Z"
   },
   {
-    "title": "FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions",
-    "description": "AI's ability to solve unsolved math problems suggests a transformative potential in advancing mathematical research and innovation.\nThe post FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions appeared firs…",
-    "url": "https://cryptobriefing.com/frontiermath-open-problems-benchmark-50-challenges/",
+    "title": "How to be a completely predictable serial fantasist, by Professor Jason Arday",
+    "description": "WOULD you like to impress friends, strangers and edit Radio 4’s Today by telling the same lies every other fantasist does? Take my accredited course in how.",
+    "url": "https://www.thedailymash.co.uk/news/celebrity/how-to-be-a-completely-predictable-serial-fantasist-by-professor-jason-arday-20260806268439",
     "source": {
-      "name": "Crypto Briefing"
+      "name": "Thedailymash.co.uk"
     },
-    "publishedAt": "2026-07-31T16:44:49Z"
-  },
-  {
-    "title": "Something Weird Is Happening in Math",
-    "description": "Why one of the world’s best mathematicians is joining OpenAI",
-    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-07-31T12:00:00Z"
-  },
-  {
-    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-    "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
-    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-    "source": {
-      "name": "Firstprinciples.com"
-    },
-    "publishedAt": "2026-07-29T20:21:48Z"
-  },
-  {
-    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
-    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
-    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
-    "source": {
-      "name": "Princeton University"
-    },
-    "publishedAt": "2026-07-23T20:44:00Z"
-  },
-  {
-    "title": "A digestion of the Jacobian conjecture counterexample",
-    "description": "The notorious Jacobian conjecture can be formulated concretely over the complex numbers as follows. Conjecture 1 (Jacobian Conjecture) Let be a polynomial map in complex variables, whose Jacobian is a non-zero constant. Then is invertible (with polynomial inv…",
-    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-07-21T21:04:44Z"
+    "publishedAt": "2026-08-06T09:13:54Z"
   }
 ]
