@@ -1,14 +1,5 @@
 [
   {
-    "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
-    "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
-    "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-06T18:43:00Z"
-  },
-  {
     "title": "Can quantum computers solve math’s hardest problem?",
     "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
     "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
@@ -88,6 +79,15 @@
       "name": "Firstprinciples.com"
     },
     "publishedAt": "2026-07-29T20:21:48Z"
+  },
+  {
+    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
+    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
+    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
+    "source": {
+      "name": "Princeton University"
+    },
+    "publishedAt": "2026-07-23T20:44:00Z"
   },
   {
     "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
