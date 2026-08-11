@@ -1,5 +1,23 @@
 [
   {
+    "title": "Generative AI has changed mathematics forever. Where to from here?",
+    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-08-09T20:11:30Z"
+  },
+  {
+    "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
+    "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
+    "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-06T18:43:00Z"
+  },
+  {
     "title": "Can quantum computers solve math’s hardest problem?",
     "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
     "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
@@ -10,7 +28,7 @@
   },
   {
     "title": "OpenAI Astra Solves 10 Unsolved Math and Computing Problems",
-    "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur���",
+    "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
     "url": "https://www.geeky-gadgets.com/openai-astra-mathematics-breakthrough/",
     "source": {
       "name": "Geeky Gadgets"
@@ -63,15 +81,6 @@
     "publishedAt": "2026-07-31T16:44:49Z"
   },
   {
-    "title": "Something Weird Is Happening in Math",
-    "description": "Why one of the world’s best mathematicians is joining OpenAI",
-    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-07-31T12:00:00Z"
-  },
-  {
     "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
     "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
     "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
@@ -79,15 +88,6 @@
       "name": "Firstprinciples.com"
     },
     "publishedAt": "2026-07-29T20:21:48Z"
-  },
-  {
-    "title": "Princeton alumni awarded three of four 2026 Fields Medals in math",
-    "description": "The prestigious medal is awarded every four years by the International Mathematical Union to researchers under 40 years old for “outstanding mathematical achievement” and future promise.",
-    "url": "https://www.princeton.edu/news/2026/07/23/princeton-alumni-awarded-three-four-2026-fields-medals-math",
-    "source": {
-      "name": "Princeton University"
-    },
-    "publishedAt": "2026-07-23T20:44:00Z"
   },
   {
     "title": "Quote of the day by Bernhard Riemann: “Without doubt it would be desirable to have a rigorous proof of...” — Inspiring life lessons on curiosity, perseverance, continuous learning, and why great discoveries often begin before every answer is found by the German mathematician known for the Riemannian geometry",
