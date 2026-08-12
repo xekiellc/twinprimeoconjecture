@@ -1,5 +1,23 @@
 [
   {
+    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics, a long-running mystery about the distribution of prime numbers. There is currently a $1 million bounty for a working general proof of the hypothesi…",
+    "url": "https://biztoc.com/x/990a7295836c4d1a",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-08-11T16:38:56Z"
+  },
+  {
+    "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems | TechCrunch",
+    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "source": {
+      "name": "TechCrunch"
+    },
+    "publishedAt": "2026-08-11T16:26:46Z"
+  },
+  {
     "title": "The AI takeover of mathematics has begun",
     "description": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditional…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
@@ -27,13 +45,13 @@
     "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
-    "title": "There Are Magic Hexagons of Every Order",
-    "description": "What is so special about the number 19?",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "Generative AI has changed mathematics forever. Where to from here?",
+    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
     "source": {
-      "name": "Gukov.dev"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-08-09T07:19:58Z"
+    "publishedAt": "2026-08-09T20:11:30Z"
   },
   {
     "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
@@ -46,7 +64,7 @@
   },
   {
     "title": "OpenAI Astra Solves 10 Unsolved Math and Computing Problems",
-    "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
+    "description": "OpenAI���s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
     "url": "https://www.geeky-gadgets.com/openai-astra-mathematics-breakthrough/",
     "source": {
       "name": "Geeky Gadgets"
@@ -81,30 +99,12 @@
     "publishedAt": "2026-08-03T15:05:20Z"
   },
   {
-    "title": "OpenAI’s Astra solves 10 long-open math problems and publishes the proofs",
-    "description": "OpenAI Group PBC revealed Saturday that an internal version of Astra, the model family it calls its next major release, produced new results for 10 problems in mathematics and theoretical computer science that had been open for at least a decade, and it publi…",
-    "url": "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/",
+    "title": "Something Weird Is Happening in Math",
+    "description": "Why one of the world’s best mathematicians is joining OpenAI",
+    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
     "source": {
-      "name": "SiliconANGLE News"
+      "name": "The Atlantic"
     },
-    "publishedAt": "2026-08-02T22:21:10Z"
-  },
-  {
-    "title": "FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions",
-    "description": "AI's ability to solve unsolved math problems suggests a transformative potential in advancing mathematical research and innovation.\nThe post FrontierMath expands Open Problems benchmark to 50 challenges as AI solves three unsolved math questions appeared firs…",
-    "url": "https://cryptobriefing.com/frontiermath-open-problems-benchmark-50-challenges/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-07-31T16:44:49Z"
-  },
-  {
-    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
-    "description": "An automated discovery system built at FirstPrinciples by Randy Davila has proven a 1989 prediction by Paul Erdős and William Staton linking prime numbers to the Riemann zeta function, and uncovered a second mathematical term that had gone unnoticed for decad…",
-    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-    "source": {
-      "name": "Firstprinciples.com"
-    },
-    "publishedAt": "2026-07-29T20:21:48Z"
+    "publishedAt": "2026-07-31T12:00:00Z"
   }
 ]
