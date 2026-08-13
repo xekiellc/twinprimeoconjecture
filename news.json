@@ -1,14 +1,5 @@
 [
   {
-    "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
-    "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-08-12T06:50:02Z"
-  },
-  {
     "title": "Can AI make mathematics more human?",
     "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
     "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
@@ -63,6 +54,15 @@
     "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
+    "title": "Generative AI has changed mathematics forever. Where to from here?",
+    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-08-09T20:11:30Z"
+  },
+  {
     "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
     "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
     "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
@@ -72,6 +72,15 @@
     "publishedAt": "2026-08-06T18:43:00Z"
   },
   {
+    "title": "Can quantum computers solve math’s hardest problem?",
+    "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
+    "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-06T14:00:00Z"
+  },
+  {
     "title": "OpenAI Astra Solves 10 Unsolved Math and Computing Problems",
     "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
     "url": "https://www.geeky-gadgets.com/openai-astra-mathematics-breakthrough/",
@@ -79,15 +88,6 @@
       "name": "Geeky Gadgets"
     },
     "publishedAt": "2026-08-06T12:43:00Z"
-  },
-  {
-    "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-    "description": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a century. The result shows that the conjec…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
-    "source": {
-      "name": "Science Daily"
-    },
-    "publishedAt": "2026-08-06T02:02:49Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
