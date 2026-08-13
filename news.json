@@ -1,5 +1,14 @@
 [
   {
+    "title": "Can AI make mathematics more human?",
+    "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
+    "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-11T18:00:00Z"
+  },
+  {
     "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
     "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics, a long-running mystery about the distribution of prime numbers. There is currently a $1 million bounty for a working general proof of the hypothesi…",
     "url": "https://biztoc.com/x/990a7295836c4d1a",
@@ -64,7 +73,7 @@
   },
   {
     "title": "OpenAI Astra Solves 10 Unsolved Math and Computing Problems",
-    "description": "OpenAI���s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
+    "description": "OpenAI’s Astra has achieved a significant milestone by solving ten previously unsolved problems in mathematics and theoretical computer science. This achievement highlights Astra’s advanced reasoning capabilities, supported by its unique sub-agent architectur…",
     "url": "https://www.geeky-gadgets.com/openai-astra-mathematics-breakthrough/",
     "source": {
       "name": "Geeky Gadgets"
@@ -97,14 +106,5 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-08-03T15:05:20Z"
-  },
-  {
-    "title": "Something Weird Is Happening in Math",
-    "description": "Why one of the world’s best mathematicians is joining OpenAI",
-    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-07-31T12:00:00Z"
   }
 ]
