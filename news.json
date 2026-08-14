@@ -72,15 +72,6 @@
     "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
-    "title": "Generative AI has changed mathematics forever. Where to from here?",
-    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
-    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-08-09T20:11:30Z"
-  },
-  {
     "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
     "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
     "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
@@ -88,6 +79,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-06T18:43:00Z"
+  },
+  {
+    "title": "Can quantum computers solve math’s hardest problem?",
+    "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
+    "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-08-06T14:00:00Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
