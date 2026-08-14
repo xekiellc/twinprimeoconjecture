@@ -9,15 +9,6 @@
     "publishedAt": "2026-08-12T15:00:00Z"
   },
   {
-    "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
-    "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-08-12T06:50:02Z"
-  },
-  {
     "title": "Can AI make mathematics more human?",
     "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
     "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
@@ -70,6 +61,15 @@
       "name": "Crypto Briefing"
     },
     "publishedAt": "2026-08-10T17:35:23Z"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "source": {
+      "name": "Gukov.dev"
+    },
+    "publishedAt": "2026-08-09T07:19:58Z"
   },
   {
     "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
