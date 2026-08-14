@@ -1,5 +1,14 @@
 [
   {
+    "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
+    "description": "The company says an unreleased research version of the model found a new way to show that at least 67.2% of those zeros lie on the critical line, up from the previous lower bound of 41.6%. This is a step forward on a related problem, not a solution to the...R…",
+    "url": "https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html",
+    "source": {
+      "name": "TechSpot"
+    },
+    "publishedAt": "2026-08-13T18:22:00Z"
+  },
+  {
     "title": "No, AI didn’t just solve the thorniest problem in math",
     "description": "There’s a million-dollar prize for proving the Riemann hypothesis. Claude couldn’t pull that off, but it made significant progress on a related problem",
     "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
@@ -7,6 +16,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-12T15:00:00Z"
+  },
+  {
+    "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
+    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
+    "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-08-12T06:50:02Z"
   },
   {
     "title": "Can AI make mathematics more human?",
@@ -63,31 +81,13 @@
     "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
-    "title": "There Are Magic Hexagons of Every Order",
-    "description": "What is so special about the number 19?",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "Generative AI has changed mathematics forever. Where to from here?",
+    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
     "source": {
-      "name": "Gukov.dev"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-08-09T07:19:58Z"
-  },
-  {
-    "title": "OpenAI’s latest math breakthroughs commit research misconduct, experts say",
-    "description": "OpenAI released 10 AI-generated results over the weekend. Some mathematicians are unhappy with their approach",
-    "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-06T18:43:00Z"
-  },
-  {
-    "title": "Can quantum computers solve math’s hardest problem?",
-    "description": "A million-dollar math mystery may someday be resolved in a physics lab. A new study brings this vision one step closer.",
-    "url": "https://www.scientificamerican.com/article/can-quantum-computers-solve-maths-hardest-problem/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-06T14:00:00Z"
+    "publishedAt": "2026-08-09T20:11:30Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
