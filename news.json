@@ -36,15 +36,6 @@
     "publishedAt": "2026-08-12T15:00:00Z"
   },
   {
-    "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
-    "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-08-12T06:50:02Z"
-  },
-  {
     "title": "Can AI make mathematics more human?",
     "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
     "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
@@ -106,5 +97,14 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-05T10:30:00Z"
+  },
+  {
+    "title": "Why the Legendary Erdős Problems Are Falling to AI",
+    "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the L…",
+    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-08-03T15:05:20Z"
   }
 ]
