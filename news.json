@@ -1,5 +1,14 @@
 [
   {
+    "title": "Claude's Math Breakthrough Came After a Pep Talk",
+    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
+    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "source": {
+      "name": "Newser"
+    },
+    "publishedAt": "2026-08-17T17:32:00Z"
+  },
+  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -10,7 +19,7 @@
   },
   {
     "title": "Better Bounds",
-    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op…",
+    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op���",
     "url": "https://4gravitons.com/2026/08/14/better-bounds/",
     "source": {
       "name": "4gravitons.com"
@@ -79,15 +88,6 @@
       "name": "Anthropic.com"
     },
     "publishedAt": "2026-08-10T17:41:13Z"
-  },
-  {
-    "title": "Claude advances lower bound for Riemann zeta function to 67%",
-    "description": "Claude's advancement in the Riemann zeta function's lower bound highlights AI's growing role in tackling complex mathematical challenges.\nThe post Claude advances lower bound for Riemann zeta function to 67% appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/claude-riemann-zeta-lower-bound-67-percent/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
