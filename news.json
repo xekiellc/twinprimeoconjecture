@@ -1,14 +1,5 @@
 [
   {
-    "title": "Claude's Math Breakthrough Came After a Pep Talk",
-    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
-    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
-    "source": {
-      "name": "Newser"
-    },
-    "publishedAt": "2026-08-17T17:32:00Z"
-  },
-  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -16,15 +7,6 @@
       "name": "Geeky Gadgets"
     },
     "publishedAt": "2026-08-15T08:00:00Z"
-  },
-  {
-    "title": "Better Bounds",
-    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op…",
-    "url": "https://4gravitons.com/2026/08/14/better-bounds/",
-    "source": {
-      "name": "4gravitons.com"
-    },
-    "publishedAt": "2026-08-14T16:00:00Z"
   },
   {
     "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
@@ -72,15 +54,6 @@
     "publishedAt": "2026-08-11T16:26:46Z"
   },
   {
-    "title": "The AI takeover of mathematics has begun",
-    "description": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditional…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-08-11T09:37:49Z"
-  },
-  {
     "title": "Learning more about Claude's mathematical capabilities",
     "description": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
     "url": "https://www.anthropic.com/research/riemann-zeta",
@@ -88,6 +61,15 @@
       "name": "Anthropic.com"
     },
     "publishedAt": "2026-08-10T17:41:13Z"
+  },
+  {
+    "title": "Claude advances lower bound for Riemann zeta function to 67%",
+    "description": "Claude's advancement in the Riemann zeta function's lower bound highlights AI's growing role in tackling complex mathematical challenges.\nThe post Claude advances lower bound for Riemann zeta function to 67% appeared first on Crypto Briefing.",
+    "url": "https://cryptobriefing.com/claude-riemann-zeta-lower-bound-67-percent/",
+    "source": {
+      "name": "Crypto Briefing"
+    },
+    "publishedAt": "2026-08-10T17:35:23Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
@@ -106,5 +88,23 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-08-03T15:05:20Z"
+  },
+  {
+    "title": "Something Weird Is Happening in Math",
+    "description": "Why one of the world’s best mathematicians is joining OpenAI",
+    "url": "https://www.theatlantic.com/technology/2026/07/jacob-tsimerman-math-fields-medal-openai/688120/",
+    "source": {
+      "name": "The Atlantic"
+    },
+    "publishedAt": "2026-07-31T12:00:00Z"
+  },
+  {
+    "title": "Can LLMs identify 16 cards in 45 bit-queries?",
+    "description": "Sixteen cards, four binary properties, and an LLM agent left alone with a machine and its weekends -- chasing D(16), the fewest probes that always pin down a hidden arrangement. It walked the best-known strategy down 64 → 60 → 49 → 47 → 46, one probe above th…",
+    "url": "https://snwagh.com/blog/2026/open-problem/",
+    "source": {
+      "name": "Snwagh.com"
+    },
+    "publishedAt": "2026-07-27T14:36:12Z"
   }
 ]
