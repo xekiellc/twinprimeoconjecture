@@ -1,5 +1,68 @@
 [
   {
+    "title": "What Amitabh Bachchan’s ‘Nazdeeki fayeda, door ka nuksaan’ saying teaches us about money? Sarkar dialogue’s wealth lessons explained by fund manager",
+    "description": "A memorable dialogue from the movie Sarkar shares an important piece of financial wisdom for investors. It emphasises the importance of assessing long-term losses before getting caught up in near-term gains. Investors are encouraged to look past fleeting retu…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/what-amitabh-bachchans-nazdeeki-fayeda-door-ka-nuksaan-saying-teaches-us-about-money-sarkar-dialogues-wealth-lessons-explained-by-fund-manager/articleshow/133394344.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-08-21T06:23:08Z"
+  },
+  {
+    "title": "When the Quantum-AI Invention Stack Speeds Up Discovery, Patent Practice Has to Move Upstream",
+    "description": "Artificial intelligence (AI) and quantum computing are compressing the invention cycle itself. That compression is no longer theoretical. Discovery Loop, a new public benefit corporation founded by leading former Google and Google DeepMind researchers, has an…",
+    "url": "https://ipwatchdog.com/2026/08/20/quantum-ai-invention-stack-speeds-up-discovery-patent-practice-has-to-move-upstream/",
+    "source": {
+      "name": "IPWatchdog.com"
+    },
+    "publishedAt": "2026-08-20T16:15:04Z"
+  },
+  {
+    "title": "Are We Thinking Correctly About AI Intelligence?",
+    "description": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition. The post Are We Thinking Correctly About AI Intelligence? first appeared o…",
+    "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-08-20T14:04:40Z"
+  },
+  {
+    "title": "Oxbridge Explained: Should an American Apply to Oxford or Cambridge?",
+    "description": "For most Americans, the words “Oxford” and “Cambridge” conjure images from period dramas and Harry Potter: stone quadrangles bathed in golden light, gowned scholars gliding through cloisters, ancient libraries stacked floor to ceiling with leather-bound volum…",
+    "url": "https://anglotopia.net/studying-in-britain/oxbridge-explained-should-an-american-apply-to-oxford-or-cambridge/",
+    "source": {
+      "name": "Anglotopia.net"
+    },
+    "publishedAt": "2026-08-20T14:00:00Z"
+  },
+  {
+    "title": "Welcome to the AI crisis in math",
+    "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longs…",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "source": {
+      "name": "The Verge"
+    },
+    "publishedAt": "2026-08-20T13:56:24Z"
+  },
+  {
+    "title": "Silicon Valley’s Billionaire Cults Are Coming for Democracy",
+    "description": "“We can have billionaires or we can have democracy. We cannot have both,\" says Gil Durán.",
+    "url": "https://truthout.org/audio/silicon-valleys-billionaire-cults-are-coming-for-democracy/",
+    "source": {
+      "name": "Truthout"
+    },
+    "publishedAt": "2026-08-20T13:49:03Z"
+  },
+  {
+    "title": "how EncroChat was hacked",
+    "description": "Extreme detail on the methods used to get control of, and copies of data from, the EncroChat network of encrypted mobile phones",
+    "url": "https://www.computerweekly.com/news/366649396/Revealed-Cyber-spies-used-malware-from-GitHub-to-hack-EncroChat-cryptophone-network",
+    "source": {
+      "name": "ComputerWeekly.com"
+    },
+    "publishedAt": "2026-08-20T05:47:01Z"
+  },
+  {
     "title": "A golden age of mathematics may be at hand as AI enters the field",
     "description": "AI has solved problems that human mathematicians grappled in vain with for decades",
     "url": "https://www.irishtimes.com/science/2026/08/20/a-golden-age-of-mathematics-may-be-at-hand-as-ai-enters-the-field/",
@@ -7,6 +70,15 @@
       "name": "The Irish Times"
     },
     "publishedAt": "2026-08-20T05:00:00Z"
+  },
+  {
+    "title": "Inside Trump’s Failed Hunt For Noncitizen Voters",
+    "description": "This story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. It was late March when Joe Teirab, the second-in-command at Minnesota’s U.S. attorney’s office, received an urgent email from Washington. The federal government wa…",
+    "url": "http://www.techdirt.com/2026/08/19/inside-trumps-failed-hunt-for-noncitizen-voters/",
+    "source": {
+      "name": "Techdirt"
+    },
+    "publishedAt": "2026-08-19T22:13:44Z"
   },
   {
     "title": "Unpicking the Links Between Knots and Quantum Theory",
@@ -18,93 +90,21 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
-    "title": "Claude's Math Breakthrough Came After a Pep Talk",
-    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
-    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "title": "The Case for Chilling Out About Birth Rates",
+    "description": "Even if the fertility decline doesn’t reverse itself anytime soon, the consequences are unlikely to be apocalyptic.",
+    "url": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/",
     "source": {
-      "name": "Newser"
+      "name": "The Atlantic"
     },
-    "publishedAt": "2026-08-17T17:32:00Z"
+    "publishedAt": "2026-08-19T11:00:00Z"
   },
   {
-    "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
-    "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
-    "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
+    "title": "The HydroGym reinforcement learning platform for fluid dynamics",
+    "description": "HydroGym offers over 60 standardized reinforcement-learning flow-control environments and demonstrates zero-shot transfer to a 3D wing, cutting local skin friction by 38% and exploration costs by four orders of magnitude.",
+    "url": "https://www.nature.com/articles/s41586-026-10917-6",
     "source": {
-      "name": "Geeky Gadgets"
+      "name": "Nature.com"
     },
-    "publishedAt": "2026-08-15T08:00:00Z"
-  },
-  {
-    "title": "Better Bounds",
-    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op…",
-    "url": "https://4gravitons.com/2026/08/14/better-bounds/",
-    "source": {
-      "name": "4gravitons.com"
-    },
-    "publishedAt": "2026-08-14T16:00:00Z"
-  },
-  {
-    "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
-    "description": "The company says an unreleased research version of the model found a new way to show that at least 67.2% of those zeros lie on the critical line, up from the previous lower bound of 41.6%. This is a step forward on a related problem, not a solution to the...R…",
-    "url": "https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html",
-    "source": {
-      "name": "TechSpot"
-    },
-    "publishedAt": "2026-08-13T18:22:00Z"
-  },
-  {
-    "title": "No, AI didn’t just solve the thorniest problem in math",
-    "description": "There’s a million-dollar prize for proving the Riemann hypothesis. Claude couldn’t pull that off, but it made significant progress on a related problem",
-    "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-12T15:00:00Z"
-  },
-  {
-    "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
-    "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-08-12T06:50:02Z"
-  },
-  {
-    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics, a long-running mystery about the distribution of prime numbers. There is currently a $1 million bounty for a working general proof of the hypothesi…",
-    "url": "https://biztoc.com/x/990a7295836c4d1a",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-08-11T16:38:56Z"
-  },
-  {
-    "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems | TechCrunch",
-    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "source": {
-      "name": "TechCrunch"
-    },
-    "publishedAt": "2026-08-11T16:26:46Z"
-  },
-  {
-    "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
-    "description": "A solution to part of the Cohen-Lenstra conjecture helps resolve a long-standing mystery about quadratic forms",
-    "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-gausss-riddle-unsolved-for-200-years/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-05T10:30:00Z"
-  },
-  {
-    "title": "Why the Legendary Erdős Problems Are Falling to AI",
-    "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the L…",
-    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-08-03T15:05:20Z"
+    "publishedAt": "2026-08-19T00:00:00Z"
   }
 ]
