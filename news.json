@@ -27,15 +27,6 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
-    "title": "Theory of Fluids Enters the 21st Century",
-    "description": "From the 1800s to the early 2000s, physicists used the same theory to understand the behavior of fluids. Now, using a modern insight, they have redefined fluids from the bottom up. The post Theory of Fluids Enters the 21st Century first appeared on Quanta Mag…",
-    "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-08-17T15:11:17Z"
-  },
-  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -88,6 +79,15 @@
       "name": "TechCrunch"
     },
     "publishedAt": "2026-08-11T16:26:46Z"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "source": {
+      "name": "Gukov.dev"
+    },
+    "publishedAt": "2026-08-09T07:19:58Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
