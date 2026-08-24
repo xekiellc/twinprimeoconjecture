@@ -1,12 +1,12 @@
 [
   {
-    "title": "Welcome to the AI crisis in math",
-    "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longs…",
-    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+    "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
     "source": {
-      "name": "The Verge"
+      "name": "Quanta Magazine"
     },
-    "publishedAt": "2026-08-20T13:56:24Z"
+    "publishedAt": "2026-08-21T14:53:32Z"
   },
   {
     "title": "A golden age of mathematics may be at hand as AI enters the field",
@@ -16,6 +16,15 @@
       "name": "The Irish Times"
     },
     "publishedAt": "2026-08-20T05:00:00Z"
+  },
+  {
+    "title": "Unpicking the Links Between Knots and Quantum Theory",
+    "description": "Fields Medallist John Pardon developed an interest in knot theory early, eventually leading him to explore how the intrinsic topology of mathematical spaces can be understood through invariants derived from physical theories. Read more\nThe post Unpicking the …",
+    "url": "https://scilogs.spektrum.de/hlf/unpicking-the-links-between-knots-and-quantum-theory/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
     "title": "Zero-sum game? Much of what made mathematics meaningful to those who study it is now being done by AI",
@@ -79,15 +88,6 @@
       "name": "TechCrunch"
     },
     "publishedAt": "2026-08-11T16:26:46Z"
-  },
-  {
-    "title": "Generative AI has changed mathematics forever. Where to from here?",
-    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
-    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-08-09T20:11:30Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
