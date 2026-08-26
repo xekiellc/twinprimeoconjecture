@@ -1,5 +1,14 @@
 [
   {
+    "title": "‘Huge Breakthrough’ in the Math of Imbalance",
+    "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
+    "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-08-21T14:53:32Z"
+  },
+  {
     "title": "A golden age of mathematics may be at hand as AI enters the field",
     "description": "AI has solved problems that human mathematicians grappled in vain with for decades",
     "url": "https://www.irishtimes.com/science/2026/08/20/a-golden-age-of-mathematics-may-be-at-hand-as-ai-enters-the-field/",
@@ -16,15 +25,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-19T12:00:00Z"
-  },
-  {
-    "title": "Claude's Math Breakthrough Came After a Pep Talk",
-    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
-    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
-    "source": {
-      "name": "Newser"
-    },
-    "publishedAt": "2026-08-17T17:32:00Z"
   },
   {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
