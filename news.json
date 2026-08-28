@@ -27,6 +27,15 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
+    "title": "Claude's Math Breakthrough Came After a Pep Talk",
+    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
+    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "source": {
+      "name": "Newser"
+    },
+    "publishedAt": "2026-08-17T17:32:00Z"
+  },
+  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -79,15 +88,6 @@
       "name": "Biztoc.com"
     },
     "publishedAt": "2026-08-11T16:38:56Z"
-  },
-  {
-    "title": "Generative AI has changed mathematics forever. Where to from here?",
-    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
-    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-08-09T20:11:30Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
