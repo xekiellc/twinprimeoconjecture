@@ -1,12 +1,12 @@
 [
   {
-    "title": "The Evolving Relationship Between AI and Mathematicians",
-    "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
-    "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
+    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
     "source": {
-      "name": "Spektrum.de"
+      "name": "Schneier.com"
     },
-    "publishedAt": "2026-08-26T12:00:00Z"
+    "publishedAt": "2026-08-28T11:03:01Z"
   },
   {
     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
@@ -36,13 +36,13 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
-    "title": "Claude's Math Breakthrough Came After a Pep Talk",
-    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
-    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "title": "Zero-sum game? Much of what made mathematics meaningful to those who study it is now being done by AI",
+    "description": "Mathematicians may be in the throes of a 'spiritual crisis,’ like their peers in the fields of writing, creating art and analysing data. But whether AI aids or ruins the pursuit of mathematical truth depends on whether what we value undergoes a shift.",
+    "url": "https://www.livemint.com/opinion/online-views/zero-sum-game-mathematics-meaningful-mathematicians-ai-artificial-intelligence-11786888655841.html",
     "source": {
-      "name": "Newser"
+      "name": "Livemint"
     },
-    "publishedAt": "2026-08-17T17:32:00Z"
+    "publishedAt": "2026-08-17T09:30:11Z"
   },
   {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
@@ -90,6 +90,15 @@
     "publishedAt": "2026-08-12T06:50:02Z"
   },
   {
+    "title": "Generative AI has changed mathematics forever. Where to from here?",
+    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-08-09T20:11:30Z"
+  },
+  {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
     "description": "A solution to part of the Cohen-Lenstra conjecture helps resolve a long-standing mystery about quadratic forms",
     "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-gausss-riddle-unsolved-for-200-years/",
@@ -97,14 +106,5 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-05T10:30:00Z"
-  },
-  {
-    "title": "Why the Legendary Erdős Problems Are Falling to AI",
-    "description": "AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math. The post Why the L…",
-    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-08-03T15:05:20Z"
   }
 ]
