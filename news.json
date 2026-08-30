@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematical Discourse",
+    "description": "Mathematical Discourse is a new online, peer-reviewed mathematics journal, publishing videos of mathematics research talks of the highest quality.  Our inaugural scientific and editorial boards are listed at the end of this message. Our goal is to promote and…",
+    "url": "https://terrytao.wordpress.com/2026/08/22/mathematical-discourse/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-08-22T15:31:03Z"
+  },
+  {
     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
     "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
     "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
@@ -25,6 +34,15 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-19T12:00:00Z"
+  },
+  {
+    "title": "Claude's Math Breakthrough Came After a Pep Talk",
+    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
+    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "source": {
+      "name": "Newser"
+    },
+    "publishedAt": "2026-08-17T17:32:00Z"
   },
   {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
@@ -79,15 +97,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-11T18:00:00Z"
-  },
-  {
-    "title": "Generative AI has changed mathematics forever. Where to from here?",
-    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
-    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-08-09T20:11:30Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
