@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+    "source": {
+      "name": "Schneier.com"
+    },
+    "publishedAt": "2026-08-28T11:03:01Z"
+  },
+  {
+    "title": "The Evolving Relationship Between AI and Mathematicians",
+    "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
+    "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-08-26T12:00:00Z"
+  },
+  {
     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
     "description": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
     "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
@@ -9,15 +27,6 @@
     "publishedAt": "2026-08-21T14:53:32Z"
   },
   {
-    "title": "A golden age of mathematics may be at hand as AI enters the field",
-    "description": "AI has solved problems that human mathematicians grappled in vain with for decades",
-    "url": "https://www.irishtimes.com/science/2026/08/20/a-golden-age-of-mathematics-may-be-at-hand-as-ai-enters-the-field/",
-    "source": {
-      "name": "The Irish Times"
-    },
-    "publishedAt": "2026-08-20T05:00:00Z"
-  },
-  {
     "title": "Unpicking the Links Between Knots and Quantum Theory",
     "description": "Fields Medallist John Pardon developed an interest in knot theory early, eventually leading him to explore how the intrinsic topology of mathematical spaces can be understood through invariants derived from physical theories. Read more\nThe post Unpicking the …",
     "url": "https://scilogs.spektrum.de/hlf/unpicking-the-links-between-knots-and-quantum-theory/",
@@ -25,15 +34,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-19T12:00:00Z"
-  },
-  {
-    "title": "Claude's Math Breakthrough Came After a Pep Talk",
-    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
-    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
-    "source": {
-      "name": "Newser"
-    },
-    "publishedAt": "2026-08-17T17:32:00Z"
   },
   {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
@@ -73,7 +73,7 @@
   },
   {
     "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo��",
+    "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
     "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
     "source": {
       "name": "The Times of India"
@@ -90,13 +90,13 @@
     "publishedAt": "2026-08-11T18:00:00Z"
   },
   {
-    "title": "Generative AI has changed mathematics forever. Where to from here?",
-    "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
-    "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
     "source": {
-      "name": "The Conversation Africa"
+      "name": "Gukov.dev"
     },
-    "publishedAt": "2026-08-09T20:11:30Z"
+    "publishedAt": "2026-08-09T07:19:58Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
