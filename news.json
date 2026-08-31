@@ -1,5 +1,14 @@
 [
   {
+    "title": "This strange “spacetime crystal” can suddenly become a black hole",
+    "description": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, po…",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+    "source": {
+      "name": "Science Daily"
+    },
+    "publishedAt": "2026-08-30T15:05:09Z"
+  },
+  {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
     "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
     "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
@@ -54,15 +63,6 @@
     "publishedAt": "2026-08-15T08:00:00Z"
   },
   {
-    "title": "Better Bounds",
-    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op…",
-    "url": "https://4gravitons.com/2026/08/14/better-bounds/",
-    "source": {
-      "name": "4gravitons.com"
-    },
-    "publishedAt": "2026-08-14T16:00:00Z"
-  },
-  {
     "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
     "description": "The company says an unreleased research version of the model found a new way to show that at least 67.2% of those zeros lie on the critical line, up from the previous lower bound of 41.6%. This is a step forward on a related problem, not a solution to the...R…",
     "url": "https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html",
@@ -90,13 +90,13 @@
     "publishedAt": "2026-08-12T06:50:02Z"
   },
   {
-    "title": "Can AI make mathematics more human?",
-    "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
-    "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
     "source": {
-      "name": "Scientific American"
+      "name": "Gukov.dev"
     },
-    "publishedAt": "2026-08-11T18:00:00Z"
+    "publishedAt": "2026-08-09T07:19:58Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
