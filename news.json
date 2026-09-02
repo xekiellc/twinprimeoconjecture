@@ -1,12 +1,12 @@
 [
   {
-    "title": "This strange “spacetime crystal” can suddenly become a black hole",
-    "description": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, po…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+    "title": "asymptotic added to PyPI",
+    "description": "Symbolic asymptotics, transseries, dominant balance, and certified remainders on SymPy",
+    "url": "https://pypi.org/project/asymptotic/",
     "source": {
-      "name": "Science Daily"
+      "name": "Pypi.org"
     },
-    "publishedAt": "2026-08-30T15:05:09Z"
+    "publishedAt": "2026-09-01T06:10:27Z"
   },
   {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
@@ -36,6 +36,24 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
+    "title": "Zero-sum game? Much of what made mathematics meaningful to those who study it is now being done by AI",
+    "description": "Mathematicians may be in the throes of a 'spiritual crisis,’ like their peers in the fields of writing, creating art and analysing data. But whether AI aids or ruins the pursuit of mathematical truth depends on whether what we value undergoes a shift.",
+    "url": "https://www.livemint.com/opinion/online-views/zero-sum-game-mathematics-meaningful-mathematicians-ai-artificial-intelligence-11786888655841.html",
+    "source": {
+      "name": "Livemint"
+    },
+    "publishedAt": "2026-08-17T09:30:11Z"
+  },
+  {
+    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+    "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 12\n# Comments: 5",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "source": {
+      "name": "Davidepiffer.com"
+    },
+    "publishedAt": "2026-08-15T18:13:02Z"
+  },
+  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -63,15 +81,6 @@
     "publishedAt": "2026-08-13T18:22:00Z"
   },
   {
-    "title": "No, AI didn’t just solve the thorniest problem in math",
-    "description": "There’s a million-dollar prize for proving the Riemann hypothesis. Claude couldn’t pull that off, but it made significant progress on a related problem",
-    "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-12T15:00:00Z"
-  },
-  {
     "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
     "description": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
     "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
@@ -79,15 +88,6 @@
       "name": "The Times of India"
     },
     "publishedAt": "2026-08-12T06:50:02Z"
-  },
-  {
-    "title": "Can AI make mathematics more human?",
-    "description": "Mathematician Yang-Hui He explains why artificial intelligence is fundamentally transforming mathematical work—and that's a good thing",
-    "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-08-11T18:00:00Z"
   },
   {
     "title": "There Are Magic Hexagons of Every Order",
