@@ -45,15 +45,6 @@
     "publishedAt": "2026-08-19T12:00:00Z"
   },
   {
-    "title": "Zero-sum game? Much of what made mathematics meaningful to those who study it is now being done by AI",
-    "description": "Mathematicians may be in the throes of a 'spiritual crisis,’ like their peers in the fields of writing, creating art and analysing data. But whether AI aids or ruins the pursuit of mathematical truth depends on whether what we value undergoes a shift.",
-    "url": "https://www.livemint.com/opinion/online-views/zero-sum-game-mathematics-meaningful-mathematicians-ai-artificial-intelligence-11786888655841.html",
-    "source": {
-      "name": "Livemint"
-    },
-    "publishedAt": "2026-08-17T09:30:11Z"
-  },
-  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -97,6 +88,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-08-11T18:00:00Z"
+  },
+  {
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "source": {
+      "name": "Gukov.dev"
+    },
+    "publishedAt": "2026-08-09T07:19:58Z"
   },
   {
     "title": "Mathematicians make a breakthrough on Gauss’s riddle, unsolved for 200 years",
