@@ -1,5 +1,14 @@
 [
   {
+    "title": "This new type of dice guarantees no tie when deciding who goes first",
+    "description": "A group of mathematicians and computer scientists has cracked the code to create dice that can determine a winner in single roll with no chance of a tie.",
+    "url": "https://www.cbc.ca/radio/asithappens/dice-mystery-board-game-9.7328614",
+    "source": {
+      "name": "CBC News"
+    },
+    "publishedAt": "2026-09-01T22:16:42Z"
+  },
+  {
     "title": "asymptotic added to PyPI",
     "description": "Symbolic asymptotics, transseries, dominant balance, and certified remainders on SymPy",
     "url": "https://pypi.org/project/asymptotic/",
@@ -7,15 +16,6 @@
       "name": "Pypi.org"
     },
     "publishedAt": "2026-09-01T06:10:27Z"
-  },
-  {
-    "title": "This strange “spacetime crystal” can suddenly become a black hole",
-    "description": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick involving infinitely many dimensions, po…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-    "source": {
-      "name": "Science Daily"
-    },
-    "publishedAt": "2026-08-30T15:05:09Z"
   },
   {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
