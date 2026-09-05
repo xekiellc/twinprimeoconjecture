@@ -1,5 +1,14 @@
 [
   {
+    "title": "Formalizing Fermat's Last Theorem",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "source": {
+      "name": "Anthropic.com"
+    },
+    "publishedAt": "2026-09-04T18:42:56Z"
+  },
+  {
     "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
     "description": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What I…",
     "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
@@ -70,15 +79,6 @@
       "name": "4gravitons.com"
     },
     "publishedAt": "2026-08-14T16:00:00Z"
-  },
-  {
-    "title": "Anthropic's Claude tried to solve the Riemann hypothesis and found something new instead",
-    "description": "The company says an unreleased research version of the model found a new way to show that at least 67.2% of those zeros lie on the critical line, up from the previous lower bound of 41.6%. This is a step forward on a related problem, not a solution to the...R…",
-    "url": "https://www.techspot.com/news/113472-anthropic-claude-tried-solve-riemann-hypothesis-found-something.html",
-    "source": {
-      "name": "TechSpot"
-    },
-    "publishedAt": "2026-08-13T18:22:00Z"
   },
   {
     "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
