@@ -45,15 +45,6 @@
     "publishedAt": "2026-08-26T12:00:00Z"
   },
   {
-    "title": "Welcome to the AI crisis in math",
-    "description": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longs…",
-    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-08-20T13:56:24Z"
-  },
-  {
     "title": "A golden age of mathematics may be at hand as AI enters the field",
     "description": "AI has solved problems that human mathematicians grappled in vain with for decades",
     "url": "https://www.irishtimes.com/science/2026/08/20/a-golden-age-of-mathematics-may-be-at-hand-as-ai-enters-the-field/",
@@ -70,6 +61,15 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-19T12:00:00Z"
+  },
+  {
+    "title": "Claude's Math Breakthrough Came After a Pep Talk",
+    "description": "Anthropic's math-whiz AI got its own version of a locker-room pep talk—and it seems to have mattered. In the Wall Street Journal , science columnist Ben Cohen recounts how Anthropic engineer Jarred Sumner asked Claude to revisit the famously unproven Riemann …",
+    "url": "https://www.newser.com/story/394756/claudes-math-breakthrough-came-after-a-pep-talk.html",
+    "source": {
+      "name": "Newser"
+    },
+    "publishedAt": "2026-08-17T17:32:00Z"
   },
   {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
