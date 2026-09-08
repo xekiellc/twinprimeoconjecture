@@ -27,6 +27,15 @@
     "publishedAt": "2026-09-03T13:41:48Z"
   },
   {
+    "title": "asymptotic added to PyPI",
+    "description": "Symbolic asymptotics, transseries, dominant balance, and certified remainders on SymPy",
+    "url": "https://pypi.org/project/asymptotic/",
+    "source": {
+      "name": "Pypi.org"
+    },
+    "publishedAt": "2026-09-01T06:10:27Z"
+  },
+  {
     "title": "The Evolving Relationship Between AI and Mathematicians",
     "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
     "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
@@ -34,15 +43,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-26T12:00:00Z"
-  },
-  {
-    "title": "Mathematical Discourse",
-    "description": "Mathematical Discourse is a new online, peer-reviewed mathematics journal, publishing videos of mathematics research talks of the highest quality.  Our inaugural scientific and editorial boards are listed at the end of this message. Our goal is to promote and…",
-    "url": "https://terrytao.wordpress.com/2026/08/22/mathematical-discourse/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-08-22T15:31:03Z"
   },
   {
     "title": "A golden age of mathematics may be at hand as AI enters the field",
