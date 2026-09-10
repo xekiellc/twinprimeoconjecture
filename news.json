@@ -1,5 +1,59 @@
 [
   {
+    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+    "description": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
+    "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "source": {
+      "name": "Decrypt"
+    },
+    "publishedAt": "2026-09-08T21:38:34Z"
+  },
+  {
+    "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
+    "description": "The Clay Mathematics Institute has described the Navier-Stokes equation as one of seven exceptionally difficult mathematical problems that have resisted solution for many years, with fundamental questions about the behaviour of fluids still awaiting proof. Th…",
+    "url": "https://punchng.com/why-navier-stokes-remains-one-of-mathematics-toughest-problems-institute/",
+    "source": {
+      "name": "The Punch"
+    },
+    "publishedAt": "2026-09-08T21:22:46Z"
+  },
+  {
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "source": {
+      "name": "The Verge"
+    },
+    "publishedAt": "2026-09-08T20:53:52Z"
+  },
+  {
+    "title": "AI solves one of math’s hardest problems in 88 hours, says OpenAI",
+    "description": "OpenAI said Tuesday that one of its unreleased artificial intelligence models had solved the Navier-Stokes problem, one of the world’s most difficult mathematical puzzles, after just 88 hours of work involving 10,000 AI agents and millions of dollars in compu…",
+    "url": "https://punchng.com/ai-solves-one-of-maths-hardest-problems-in-88-hours-says-openai/",
+    "source": {
+      "name": "The Punch"
+    },
+    "publishedAt": "2026-09-08T20:38:39Z"
+  },
+  {
+    "title": "OpenAI’s 10,000-Agent Navier-Stokes Claim Solves the Wrong Problem — and the Right One Has a Provenance Controversy",
+    "description": "The recent announcement from OpenAI regarding the Navier-Stokes equations highlights a shift in how complex mathematical problems are approached through massive computational scale. On September 8, 2026, the organization reported that an internal AI model, op…",
+    "url": "https://forkast.news/openais-10000-agent-navier-stokes-claim-solves-the-wrong-problem-and-the-right-one-has-a-provenance-controversy/",
+    "source": {
+      "name": "Forkast.news"
+    },
+    "publishedAt": "2026-09-08T20:00:53Z"
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "description": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "source": {
+      "name": "Wired"
+    },
+    "publishedAt": "2026-09-08T16:42:05Z"
+  },
+  {
     "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
     "description": "The company says it has cracked the physics of fluids using AI, solving one of the toughest puzzles in mathematics.",
     "url": "https://www.nature.com/articles/d41586-026-02842-5",
@@ -36,24 +90,6 @@
     "publishedAt": "2026-09-03T13:41:48Z"
   },
   {
-    "title": "asymptotic added to PyPI",
-    "description": "Symbolic asymptotics, transseries, dominant balance, and certified remainders on SymPy",
-    "url": "https://pypi.org/project/asymptotic/",
-    "source": {
-      "name": "Pypi.org"
-    },
-    "publishedAt": "2026-09-01T06:10:27Z"
-  },
-  {
-    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
-    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
-    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-    "source": {
-      "name": "Schneier.com"
-    },
-    "publishedAt": "2026-08-28T11:03:01Z"
-  },
-  {
     "title": "The Evolving Relationship Between AI and Mathematicians",
     "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
     "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
@@ -63,33 +99,6 @@
     "publishedAt": "2026-08-26T12:00:00Z"
   },
   {
-    "title": "Mathematical Discourse",
-    "description": "Mathematical Discourse is a new online, peer-reviewed mathematics journal, publishing videos of mathematics research talks of the highest quality.  Our inaugural scientific and editorial boards are listed at the end of this message. Our goal is to promote and…",
-    "url": "https://terrytao.wordpress.com/2026/08/22/mathematical-discourse/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-08-22T15:31:03Z"
-  },
-  {
-    "title": "A golden age of mathematics may be at hand as AI enters the field",
-    "description": "AI has solved problems that human mathematicians grappled in vain with for decades",
-    "url": "https://www.irishtimes.com/science/2026/08/20/a-golden-age-of-mathematics-may-be-at-hand-as-ai-enters-the-field/",
-    "source": {
-      "name": "The Irish Times"
-    },
-    "publishedAt": "2026-08-20T05:00:00Z"
-  },
-  {
-    "title": "Unpicking the Links Between Knots and Quantum Theory",
-    "description": "Fields Medallist John Pardon developed an interest in knot theory early, eventually leading him to explore how the intrinsic topology of mathematical spaces can be understood through invariants derived from physical theories. Read more\nThe post Unpicking the …",
-    "url": "https://scilogs.spektrum.de/hlf/unpicking-the-links-between-knots-and-quantum-theory/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-08-19T12:00:00Z"
-  },
-  {
     "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
     "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
     "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
@@ -97,14 +106,5 @@
       "name": "Geeky Gadgets"
     },
     "publishedAt": "2026-08-15T08:00:00Z"
-  },
-  {
-    "title": "Better Bounds",
-    "description": "I swear this isn’t turning into an AI blog. But did you see the one about the Riemann hypothesis? Someone at Anthropic did something I’m sure they’re all tempted to do, and tried to use an internal version of their Claude AI system to prove the most famous op…",
-    "url": "https://4gravitons.com/2026/08/14/better-bounds/",
-    "source": {
-      "name": "4gravitons.com"
-    },
-    "publishedAt": "2026-08-14T16:00:00Z"
   }
 ]
