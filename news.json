@@ -1,5 +1,23 @@
 [
   {
+    "title": "Factoring RSA 260",
+    "description": "How Devin and a Cognition researcher built the world’s highest-performance GPU lattice siever, to make factoring numbers 10x cheaper than the previous state of the art",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": {
+      "name": "Cognition.com"
+    },
+    "publishedAt": "2026-09-09T20:16:08Z"
+  },
+  {
+    "title": "What it takes to solve math’s toughest problems",
+    "description": "Logic skills, yes, but also two seemingly incompatible traits: Confidence and humility",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/what-it-takes-to-solve-maths-toughest-problems/",
+    "source": {
+      "name": "Harvard School of Engineering and Applied Sciences"
+    },
+    "publishedAt": "2026-09-09T16:20:52Z"
+  },
+  {
     "title": "What Is Math’s Mysterious Langlands Program Really About?",
     "description": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean. The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Q…",
     "url": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
@@ -7,15 +25,6 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-09-09T14:44:13Z"
-  },
-  {
-    "title": "OpenAI Says Its AI Just Solved a 90-Year-Old Math Problem — One Mathematician Calls It Theft",
-    "description": "Controversy surrounds OpenAI's claim that it took 10,000 agents a weekend to solve one of math's six unsolved \"million-dollar\" problems.",
-    "url": "https://www.entrepreneur.com/business-news/openai-says-its-ai-just-solved-a-90-year-old-math-problem",
-    "source": {
-      "name": "Entrepreneur"
-    },
-    "publishedAt": "2026-09-09T14:00:00Z"
   },
   {
     "title": "OpenAI says it has solved one of math’s “Millennium Problems” | CNN Business",
@@ -36,13 +45,13 @@
     "publishedAt": "2026-09-09T08:34:55Z"
   },
   {
-    "title": "OpenAI says it cracked a maths puzzle that has eluded humans for decades in about 88 hours",
-    "description": "Navier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in mathematics drawn up by the Clay Mathematics Institute.",
-    "url": "https://www.thejournal.ie/openai-cracked-maths-problem-stumped-mathematicians-decades-7156640-Sep2026/",
+    "title": "Daily briefing: OpenAI claims a huge maths breakthrough",
+    "description": "The AI giant claims to have solved one of maths’ trickiest problems, but questions swirl over should get the credit. Plus, an atlas of every single DNA letter mutation in humans and why more bioengineered microorganisms aren’t making it out of the lab.",
+    "url": "https://www.nature.com/articles/d41586-026-02867-w",
     "source": {
-      "name": "TheJournal.ie"
+      "name": "Nature.com"
     },
-    "publishedAt": "2026-09-09T07:10:52Z"
+    "publishedAt": "2026-09-09T00:00:00Z"
   },
   {
     "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
@@ -70,15 +79,6 @@
       "name": "Anthropic.com"
     },
     "publishedAt": "2026-09-04T18:42:56Z"
-  },
-  {
-    "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-    "description": "In this special live recording from the International Congress of Mathematicians in Philadelphia, July 2026, the central question discussed was what do mathematicians really value about doing mathematics in the first place? The post Live from ICM 2026: What I…",
-    "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-09-03T13:41:48Z"
   },
   {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
