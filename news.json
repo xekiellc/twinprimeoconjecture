@@ -1,5 +1,23 @@
 [
   {
+    "title": "What Is Math’s Mysterious Langlands Program Really About?",
+    "description": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean. The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Q…",
+    "url": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-09-09T14:44:13Z"
+  },
+  {
+    "title": "OpenAI Says Its AI Just Solved a 90-Year-Old Math Problem — One Mathematician Calls It Theft",
+    "description": "Controversy surrounds OpenAI's claim that it took 10,000 agents a weekend to solve one of math's six unsolved \"million-dollar\" problems.",
+    "url": "https://www.entrepreneur.com/business-news/openai-says-its-ai-just-solved-a-90-year-old-math-problem",
+    "source": {
+      "name": "Entrepreneur"
+    },
+    "publishedAt": "2026-09-09T14:00:00Z"
+  },
+  {
     "title": "OpenAI says it has solved one of math’s “Millennium Problems” | CNN Business",
     "description": "OpenAI on Tuesday said its artificial intelligence technology has cracked one of the Millennium Problems –– seven famously difficult and unsolved questions in mathematics that have stumped even the world’s brightest minds.",
     "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
@@ -18,13 +36,13 @@
     "publishedAt": "2026-09-09T08:34:55Z"
   },
   {
-    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
-    "description": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
-    "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "title": "OpenAI says it cracked a maths puzzle that has eluded humans for decades in about 88 hours",
+    "description": "Navier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in mathematics drawn up by the Clay Mathematics Institute.",
+    "url": "https://www.thejournal.ie/openai-cracked-maths-problem-stumped-mathematicians-decades-7156640-Sep2026/",
     "source": {
-      "name": "Decrypt"
+      "name": "TheJournal.ie"
     },
-    "publishedAt": "2026-09-08T21:38:34Z"
+    "publishedAt": "2026-09-09T07:10:52Z"
   },
   {
     "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
@@ -34,24 +52,6 @@
       "name": "The Punch"
     },
     "publishedAt": "2026-09-08T21:22:46Z"
-  },
-  {
-    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-    "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-09-08T20:53:52Z"
-  },
-  {
-    "title": "OpenAI’s 10,000-Agent Navier-Stokes Claim Solves the Wrong Problem — and the Right One Has a Provenance Controversy",
-    "description": "The recent announcement from OpenAI regarding the Navier-Stokes equations highlights a shift in how complex mathematical problems are approached through massive computational scale. On September 8, 2026, the organization reported that an internal AI model, op…",
-    "url": "https://forkast.news/openais-10000-agent-navier-stokes-claim-solves-the-wrong-problem-and-the-right-one-has-a-provenance-controversy/",
-    "source": {
-      "name": "Forkast.news"
-    },
-    "publishedAt": "2026-09-08T20:00:53Z"
   },
   {
     "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
