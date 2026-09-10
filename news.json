@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI says it has solved one of math’s “Millennium Problems” | CNN Business",
+    "description": "OpenAI on Tuesday said its artificial intelligence technology has cracked one of the Millennium Problems –– seven famously difficult and unsolved questions in mathematics that have stumped even the world’s brightest minds.",
+    "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
+    "source": {
+      "name": "CNN"
+    },
+    "publishedAt": "2026-09-09T10:06:26Z"
+  },
+  {
+    "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
+    "description": "OpenAI says 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours, but one mathematician has challenged the claim.",
+    "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
+    "source": {
+      "name": "CNBC"
+    },
+    "publishedAt": "2026-09-09T08:34:55Z"
+  },
+  {
     "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
     "description": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
     "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
@@ -27,15 +45,6 @@
     "publishedAt": "2026-09-08T20:53:52Z"
   },
   {
-    "title": "AI solves one of math’s hardest problems in 88 hours, says OpenAI",
-    "description": "OpenAI said Tuesday that one of its unreleased artificial intelligence models had solved the Navier-Stokes problem, one of the world’s most difficult mathematical puzzles, after just 88 hours of work involving 10,000 AI agents and millions of dollars in compu…",
-    "url": "https://punchng.com/ai-solves-one-of-maths-hardest-problems-in-88-hours-says-openai/",
-    "source": {
-      "name": "The Punch"
-    },
-    "publishedAt": "2026-09-08T20:38:39Z"
-  },
-  {
     "title": "OpenAI’s 10,000-Agent Navier-Stokes Claim Solves the Wrong Problem — and the Right One Has a Provenance Controversy",
     "description": "The recent announcement from OpenAI regarding the Navier-Stokes equations highlights a shift in how complex mathematical problems are approached through massive computational scale. On September 8, 2026, the organization reported that an internal AI model, op…",
     "url": "https://forkast.news/openais-10000-agent-navier-stokes-claim-solves-the-wrong-problem-and-the-right-one-has-a-provenance-controversy/",
@@ -43,24 +52,6 @@
       "name": "Forkast.news"
     },
     "publishedAt": "2026-09-08T20:00:53Z"
-  },
-  {
-    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-    "description": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-    "source": {
-      "name": "Wired"
-    },
-    "publishedAt": "2026-09-08T16:42:05Z"
-  },
-  {
-    "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
-    "description": "The company says it has cracked the physics of fluids using AI, solving one of the toughest puzzles in mathematics.",
-    "url": "https://www.nature.com/articles/d41586-026-02842-5",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-09-08T00:00:00Z"
   },
   {
     "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
@@ -90,6 +81,15 @@
     "publishedAt": "2026-09-03T13:41:48Z"
   },
   {
+    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+    "source": {
+      "name": "Schneier.com"
+    },
+    "publishedAt": "2026-08-28T11:03:01Z"
+  },
+  {
     "title": "The Evolving Relationship Between AI and Mathematicians",
     "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
     "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
@@ -99,12 +99,12 @@
     "publishedAt": "2026-08-26T12:00:00Z"
   },
   {
-    "title": "Claude AI Breaks Human Math Record for Riemann Bound After 650 Tries",
-    "description": "Claude AI has recently achieved a remarkable milestone in mathematical research, as highlighted by Two Minute Papers. After 650 attempts, the AI surpassed a long-standing human record by improving a mathematical bound related to the Riemann Hypothesis, a cent…",
-    "url": "https://www.geeky-gadgets.com/claude-ai-math-record/",
+    "title": "There Are Magic Hexagons of Every Order",
+    "description": "What is so special about the number 19?",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
     "source": {
-      "name": "Geeky Gadgets"
+      "name": "Gukov.dev"
     },
-    "publishedAt": "2026-08-15T08:00:00Z"
+    "publishedAt": "2026-08-09T07:19:58Z"
   }
 ]
