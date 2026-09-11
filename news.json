@@ -1,14 +1,5 @@
 [
   {
-    "title": "OpenAI Says AI Agents Solved $1M Navier-Stokes Math Problem In 88 Hours, Sparking Skepticism Among Experts",
-    "description": "OpenAI says an internal AI system used thousands of agents to produce a Navier–Stokes proof, but mathematicians have yet to independently verify the landmark claim.",
-    "url": "https://www.ibtimes.com.au/openai-navier-stokes-proof-ai-agents-mathematics-1875340",
-    "source": {
-      "name": "Ibtimes.com.au"
-    },
-    "publishedAt": "2026-09-10T15:50:14Z"
-  },
-  {
     "title": "Mathematicians confront the AI apocalypse",
     "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out",
     "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
@@ -36,13 +27,13 @@
     "publishedAt": "2026-09-09T20:16:08Z"
   },
   {
-    "title": "OpenAI claims 10,000 of its AI agents solved one of mathematics' hardest problems in 88 hours",
-    "description": "Mathematicians outside the company will now review the paper. If the proof holds up, it could show that AI systems can help solve some of mathematics' hardest open problems, rather than simply produce convincing-looking answers.Read Entire Article",
-    "url": "https://www.techspot.com/news/113785-openai-claims-10000-ai-agents-solved-one-mathematics.html",
+    "title": "What it takes to solve math’s toughest problems",
+    "description": "Logic skills, yes, but also two seemingly incompatible traits: Confidence and humility",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/what-it-takes-to-solve-maths-toughest-problems/",
     "source": {
-      "name": "TechSpot"
+      "name": "Harvard School of Engineering and Applied Sciences"
     },
-    "publishedAt": "2026-09-09T17:45:00Z"
+    "publishedAt": "2026-09-09T16:20:52Z"
   },
   {
     "title": "What Is Math’s Mysterious Langlands Program Really About?",
@@ -72,15 +63,6 @@
     "publishedAt": "2026-09-09T08:34:55Z"
   },
   {
-    "title": "Daily briefing: OpenAI claims a huge maths breakthrough",
-    "description": "The AI giant claims to have solved one of maths’ trickiest problems, but questions swirl over should get the credit. Plus, an atlas of every single DNA letter mutation in humans and why more bioengineered microorganisms aren’t making it out of the lab.",
-    "url": "https://www.nature.com/articles/d41586-026-02867-w",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-09-09T00:00:00Z"
-  },
-  {
     "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
     "description": "The Clay Mathematics Institute has described the Navier-Stokes equation as one of seven exceptionally difficult mathematical problems that have resisted solution for many years, with fundamental questions about the behaviour of fluids still awaiting proof. Th…",
     "url": "https://punchng.com/why-navier-stokes-remains-one-of-mathematics-toughest-problems-institute/",
@@ -106,5 +88,23 @@
       "name": "Anthropic.com"
     },
     "publishedAt": "2026-09-04T18:42:56Z"
+  },
+  {
+    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
+    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+    "source": {
+      "name": "Schneier.com"
+    },
+    "publishedAt": "2026-08-28T11:03:01Z"
+  },
+  {
+    "title": "The Evolving Relationship Between AI and Mathematicians",
+    "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
+    "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-08-26T12:00:00Z"
   }
 ]
