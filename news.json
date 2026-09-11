@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+    "description": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
+    "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+    "source": {
+      "name": "Decrypt"
+    },
+    "publishedAt": "2026-09-09T20:31:29Z"
+  },
+  {
     "title": "Factoring RSA 260",
     "description": "How Devin and a Cognition researcher built the world’s highest-performance GPU lattice siever, to make factoring numbers 10x cheaper than the previous state of the art",
     "url": "https://cognition.com/blog/factoring-rsa-260",
@@ -7,6 +16,15 @@
       "name": "Cognition.com"
     },
     "publishedAt": "2026-09-09T20:16:08Z"
+  },
+  {
+    "title": "OpenAI claims 10,000 of its AI agents solved one of mathematics' hardest problems in 88 hours",
+    "description": "Mathematicians outside the company will now review the paper. If the proof holds up, it could show that AI systems can help solve some of mathematics' hardest open problems, rather than simply produce convincing-looking answers.Read Entire Article",
+    "url": "https://www.techspot.com/news/113785-openai-claims-10000-ai-agents-solved-one-mathematics.html",
+    "source": {
+      "name": "TechSpot"
+    },
+    "publishedAt": "2026-09-09T17:45:00Z"
   },
   {
     "title": "What it takes to solve math’s toughest problems",
@@ -27,7 +45,7 @@
     "publishedAt": "2026-09-09T14:44:13Z"
   },
   {
-    "title": "OpenAI says it has solved one of math’s “Millennium Problems” | CNN Business",
+    "title": "OpenAI says it has solved one of math’s “Millennium Problems�� | CNN Business",
     "description": "OpenAI on Tuesday said its artificial intelligence technology has cracked one of the Millennium Problems –– seven famously difficult and unsolved questions in mathematics that have stumped even the world’s brightest minds.",
     "url": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
     "source": {
@@ -43,15 +61,6 @@
       "name": "CNBC"
     },
     "publishedAt": "2026-09-09T08:34:55Z"
-  },
-  {
-    "title": "Daily briefing: OpenAI claims a huge maths breakthrough",
-    "description": "The AI giant claims to have solved one of maths’ trickiest problems, but questions swirl over should get the credit. Plus, an atlas of every single DNA letter mutation in humans and why more bioengineered microorganisms aren’t making it out of the lab.",
-    "url": "https://www.nature.com/articles/d41586-026-02867-w",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-09-09T00:00:00Z"
   },
   {
     "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
@@ -97,14 +106,5 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-08-26T12:00:00Z"
-  },
-  {
-    "title": "There Are Magic Hexagons of Every Order",
-    "description": "What is so special about the number 19?",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "source": {
-      "name": "Gukov.dev"
-    },
-    "publishedAt": "2026-08-09T07:19:58Z"
   }
 ]
