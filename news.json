@@ -9,6 +9,15 @@
     "publishedAt": "2026-09-12T07:18:42Z"
   },
   {
+    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+    "description": "The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (CMI) at a meeting in Paris in 2000 to celebrate “The Universality of Mathematical Thought”. These problems encapsulate some of the most difficult challenges that mathematicians wer…",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "source": {
+      "name": "Claymath.org"
+    },
+    "publishedAt": "2026-09-12T04:09:43Z"
+  },
+  {
     "title": "Twenty-five Fields Medal winners warn of misalignment between AI and mathematics",
     "description": "Twenty-five Fields Medal winners led by Terence Tao warn AI companies prioritize benchmark speed over mathematical rigor, risking unreliable\nThe post Twenty-five Fields Medal winners warn of misalignment between AI and mathematics appeared first on Crypto Bri…",
     "url": "https://cryptobriefing.com/fields-medal-winners-ai-mathematics-misalignment/",
@@ -16,15 +25,6 @@
       "name": "Crypto Briefing"
     },
     "publishedAt": "2026-09-11T19:29:54Z"
-  },
-  {
-    "title": "A Severe Misalignment of AI in Mathematics",
-    "description": "I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on this web page, and (similarly to the Leide…",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-09-11T17:27:46Z"
   },
   {
     "title": "Factoring RSA 260",
