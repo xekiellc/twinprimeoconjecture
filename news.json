@@ -1,5 +1,23 @@
 [
   {
+    "title": "After Math",
+    "description": "[This is a guest post by Silvia De Toffoli and Eamon Duede. This blog post was initially written in a different file format and converted using AI. — T.] Silvia De Toffoli (University School for Advanced Studies IUSS Pavia) Eamon Duede (Princeton University a…",
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-09-12T21:30:58Z"
+  },
+  {
+    "title": "A million dollar math problem may just be the beginning for OpenAI",
+    "description": "OpenAI made waves this week for announcing it had solved a mathematics problem with roots going back 200 years. But almost immediately, two other mathematicians (one of whom works at competitor Anthropic) announced the results might have taken from their own …",
+    "url": "https://www.cbc.ca/news/science/open-ai-navier-stokes-millenium-prize-mathematics-9.7341293",
+    "source": {
+      "name": "CBC News"
+    },
+    "publishedAt": "2026-09-12T08:00:00Z"
+  },
+  {
     "title": "Mathematicians vs AI war erupts: Why top maths medal winners are revolting against OpenAI and other AI companies",
     "description": "Twenty-five Fields Medal winners, including Terence Tao, have warned that the AI industry's race to solve major mathematical problems could harm the field by prioritising speed and headline-making breakthroughs over human understanding, collaboration and rigo…",
     "url": "https://economictimes.indiatimes.com/news/new-updates/mathematicians-vs-ai-war-erupts-why-top-math-medal-winners-are-angry-with-openai-and-other-ai-companies/articleshow/134114469.cms",
@@ -18,6 +36,42 @@
     "publishedAt": "2026-09-12T04:09:43Z"
   },
   {
+    "title": "Doomsday: AI builders stoke fears of human extinction",
+    "description": "Following safety concerns raised by British artificial intelligence researcher, Jacob Coxon, who worked with Anthropic and OpenAI, some tech professionals have also warned that unchecked AI developments may spell doom for the human race. Coxon recently resign…",
+    "url": "https://punchng.com/doomsday-ai-builders-stoke-fears-of-human-extinction/",
+    "source": {
+      "name": "The Punch"
+    },
+    "publishedAt": "2026-09-12T00:54:37Z"
+  },
+  {
+    "title": "OpenAI just wants to win",
+    "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "source": {
+      "name": "The Verge"
+    },
+    "publishedAt": "2026-09-11T23:35:48Z"
+  },
+  {
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "description": "“We're nowhere near the ceiling.”",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "source": {
+      "name": "Dwarkesh.com"
+    },
+    "publishedAt": "2026-09-11T21:35:29Z"
+  },
+  {
+    "title": "OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy",
+    "description": "OpenAI’s Navier-Stokes solution looks like a win for mathematics. But some mathematicians aren't so sure.\nThe post OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy appeared first on SingularityHub.",
+    "url": "https://singularityhub.com/2026/09/11/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy/#article",
+    "source": {
+      "name": "Singularity Hub"
+    },
+    "publishedAt": "2026-09-11T21:09:09Z"
+  },
+  {
     "title": "Twenty-five Fields Medal winners warn of misalignment between AI and mathematics",
     "description": "Twenty-five Fields Medal winners led by Terence Tao warn AI companies prioritize benchmark speed over mathematical rigor, risking unreliable\nThe post Twenty-five Fields Medal winners warn of misalignment between AI and mathematics appeared first on Crypto Bri…",
     "url": "https://cryptobriefing.com/fields-medal-winners-ai-mathematics-misalignment/",
@@ -27,84 +81,30 @@
     "publishedAt": "2026-09-11T19:29:54Z"
   },
   {
-    "title": "Factoring RSA 260",
-    "description": "How Devin and a Cognition researcher built the world’s highest-performance GPU lattice siever, to make factoring numbers 10x cheaper than the previous state of the art",
-    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "title": "AI cracked the proof no human understands. Now what's a human? Navier-Stokes solve forces the question",
+    "description": "An OpenAI system solved the Navier-Stokes problem, a Millennium Prize question.  This AI achievement occurred after human mathematicians made significant progress on the same challenge.  The resulting mathematical proof is correct but incomprehensible to huma…",
+    "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-cracked-the-proof-no-human-understands-now-whats-a-human-navier-stokes-solve-forces-the-question/articleshow/134082884.cms",
     "source": {
-      "name": "Cognition.com"
+      "name": "The Times of India"
     },
-    "publishedAt": "2026-09-09T20:16:08Z"
+    "publishedAt": "2026-09-11T18:03:03Z"
   },
   {
-    "title": "What it takes to solve math’s toughest problems",
-    "description": "Logic skills, yes, but also two seemingly incompatible traits: Confidence and humility",
-    "url": "https://news.harvard.edu/gazette/story/2026/09/what-it-takes-to-solve-maths-toughest-problems/",
+    "title": "A Severe Misalignment of AI in Mathematics",
+    "description": "I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on this web page, and (similarly to the Leide…",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
     "source": {
-      "name": "Harvard School of Engineering and Applied Sciences"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-09-09T16:20:52Z"
+    "publishedAt": "2026-09-11T17:27:46Z"
   },
   {
-    "title": "What Is Math’s Mysterious Langlands Program Really About?",
-    "description": "Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean. The post What Is Math’s Mysterious Langlands Program Really About? first appeared on Q…",
-    "url": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
+    "title": "New thief on the block",
+    "description": "Academia has seen countless instances of researchers hurling accusations of intellectual theft. But this is a new plot twist",
+    "url": "https://www.business-standard.com/opinion/columns/new-thief-on-the-block-126091101503_1.html",
     "source": {
-      "name": "Quanta Magazine"
+      "name": "Business Standard"
     },
-    "publishedAt": "2026-09-09T14:44:13Z"
-  },
-  {
-    "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
-    "description": "OpenAI says 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours, but one mathematician has challenged the claim.",
-    "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
-    "source": {
-      "name": "CNBC"
-    },
-    "publishedAt": "2026-09-09T08:34:55Z"
-  },
-  {
-    "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
-    "description": "The Clay Mathematics Institute has described the Navier-Stokes equation as one of seven exceptionally difficult mathematical problems that have resisted solution for many years, with fundamental questions about the behaviour of fluids still awaiting proof. Th…",
-    "url": "https://punchng.com/why-navier-stokes-remains-one-of-mathematics-toughest-problems-institute/",
-    "source": {
-      "name": "The Punch"
-    },
-    "publishedAt": "2026-09-08T21:22:46Z"
-  },
-  {
-    "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
-    "description": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today. A proof is a series of arguments that proves a mathematical hypothesis i…",
-    "url": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
-    "source": {
-      "name": "SiliconANGLE News"
-    },
-    "publishedAt": "2026-09-05T00:41:41Z"
-  },
-  {
-    "title": "Formalizing Fermat's Last Theorem",
-    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "source": {
-      "name": "Anthropic.com"
-    },
-    "publishedAt": "2026-09-04T18:42:56Z"
-  },
-  {
-    "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
-    "description": "This essay was written with Kasra Rafi, and originally appeared in The Guardian.\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by …",
-    "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-    "source": {
-      "name": "Schneier.com"
-    },
-    "publishedAt": "2026-08-28T11:03:01Z"
-  },
-  {
-    "title": "The Evolving Relationship Between AI and Mathematicians",
-    "description": "As AI surpasses humans on an expanding range of mathematical tasks, the mathematical community is recognizing that the roles of AI and mathematicians are evolving, with significant consequences for human mathematicians. Read more\nThe post The Evolving Relatio…",
-    "url": "https://scilogs.spektrum.de/hlf/the-evolving-relationship-between-ai-and-mathematicians/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-08-26T12:00:00Z"
+    "publishedAt": "2026-09-11T17:13:54Z"
   }
 ]
