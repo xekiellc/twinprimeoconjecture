@@ -1,5 +1,23 @@
 [
   {
+    "title": "Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude — but it still took 11 days to write out",
+    "description": "Anthropic says Claude formalized Andrew Wiles’ proof of Fermat’s Last Theorem in 11 days, producing 13 million lines of Lean code.",
+    "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
+    "source": {
+      "name": "TechRadar"
+    },
+    "publishedAt": "2026-09-13T15:15:00Z"
+  },
+  {
+    "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+    "description": "Article URL: https://www.aihistory.live/\nComments URL: https://news.ycombinator.com/item?id=49683798\nPoints: 1\n# Comments: 0",
+    "url": "https://www.aihistory.live/",
+    "source": {
+      "name": "Aihistory.live"
+    },
+    "publishedAt": "2026-09-13T13:31:04Z"
+  },
+  {
     "title": "After Math",
     "description": "[This is a guest post by Silvia De Toffoli and Eamon Duede. This blog post was initially written in a different file format and converted using AI. — T.] Silvia De Toffoli (University School for Advanced Studies IUSS Pavia) Eamon Duede (Princeton University a…",
     "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
@@ -88,23 +106,5 @@
       "name": "The Times of India"
     },
     "publishedAt": "2026-09-11T18:03:03Z"
-  },
-  {
-    "title": "A Severe Misalignment of AI in Mathematics",
-    "description": "I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on this web page, and (similarly to the Leide…",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-09-11T17:27:46Z"
-  },
-  {
-    "title": "New thief on the block",
-    "description": "Academia has seen countless instances of researchers hurling accusations of intellectual theft. But this is a new plot twist",
-    "url": "https://www.business-standard.com/opinion/columns/new-thief-on-the-block-126091101503_1.html",
-    "source": {
-      "name": "Business Standard"
-    },
-    "publishedAt": "2026-09-11T17:13:54Z"
   }
 ]
