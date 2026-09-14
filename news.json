@@ -1,5 +1,23 @@
 [
   {
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "description": "Private, domain-specific benchmarks in legal, tax, and finance.",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "source": {
+      "name": "Vals.ai"
+    },
+    "publishedAt": "2026-09-13T21:06:13Z"
+  },
+  {
+    "title": "Happy, those able to know the causes of things",
+    "description": "[This is a guest post by Nestor Guillen, crossposted from his blog. This blog post was initially written in a different file format and converted using AI. — T.] Keywords: LLMs, cultural technologies, skateboarding, creative communities, AI industry. A note o…",
+    "url": "https://terrytao.wordpress.com/2026/09/13/happy-those-able-to-know-the-causes-of-things/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-09-13T18:27:49Z"
+  },
+  {
     "title": "Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude — but it still took 11 days to write out",
     "description": "Anthropic says Claude formalized Andrew Wiles’ proof of Fermat’s Last Theorem in 11 days, producing 13 million lines of Lean code.",
     "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
@@ -88,23 +106,5 @@
       "name": "Singularity Hub"
     },
     "publishedAt": "2026-09-11T21:09:09Z"
-  },
-  {
-    "title": "Twenty-five Fields Medal winners warn of misalignment between AI and mathematics",
-    "description": "Twenty-five Fields Medal winners led by Terence Tao warn AI companies prioritize benchmark speed over mathematical rigor, risking unreliable\nThe post Twenty-five Fields Medal winners warn of misalignment between AI and mathematics appeared first on Crypto Bri…",
-    "url": "https://cryptobriefing.com/fields-medal-winners-ai-mathematics-misalignment/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-09-11T19:29:54Z"
-  },
-  {
-    "title": "AI cracked the proof no human understands. Now what's a human? Navier-Stokes solve forces the question",
-    "description": "An OpenAI system solved the Navier-Stokes problem, a Millennium Prize question.  This AI achievement occurred after human mathematicians made significant progress on the same challenge.  The resulting mathematical proof is correct but incomprehensible to huma…",
-    "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-cracked-the-proof-no-human-understands-now-whats-a-human-navier-stokes-solve-forces-the-question/articleshow/134082884.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-09-11T18:03:03Z"
   }
 ]
