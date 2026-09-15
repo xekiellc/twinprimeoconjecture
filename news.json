@@ -1,5 +1,32 @@
 [
   {
+    "title": "25 winners of math’s ‘Nobel Prize’ decry the AI invasion of their discipline",
+    "description": "A new declaration from winners of the Fields Medal reflects many mathematicians’ growing alarm over a “severe misalignment” between the tech industry and their field a week after AI toppled one of math’s biggest open problems",
+    "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-14T15:00:00Z"
+  },
+  {
+    "title": "‘Slop mathematics’: OpenAI walks away from a Caltech AI maths contest",
+    "description": "OpenAI has pulled its $1m sponsorship of a student-run AI maths event at Caltech. Mathematicians had signed an open letter calling for the event to be scrapped. The next day, 25 Fields Medallists published a separate declaration of their own. Two letters in t…",
+    "url": "https://thenextweb.com/news/openai-withdraws-caltech-mathathon-slop-mathematics-fields-medallists",
+    "source": {
+      "name": "The Next Web"
+    },
+    "publishedAt": "2026-09-14T12:44:01Z"
+  },
+  {
+    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
+    "description": "In a remarkable breakthrough, two high school students from Oak Park High School, Aayush Bathija and Prince Rohatgi, with guidance from UCLA postdoctoral researcher Daniel Soskin, have solved an open problem related to the theory of Lorentzian polynomials—a f…",
+    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j",
+    "source": {
+      "name": "Htx.com"
+    },
+    "publishedAt": "2026-09-14T12:23:11Z"
+  },
+  {
     "title": "WWD x FN x Beauty Inc Women in Power 2026",
     "description": "From founders and CEOs to creatives shaping their industries, see who made this year’s Women in Power list.",
     "url": "http://wwd.com/business-news/business-features/wwd-fn-beauty-inc-women-in-power-2026-1239084928/",
@@ -79,32 +106,5 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-09-12T21:30:58Z"
-  },
-  {
-    "title": "A million dollar math problem may just be the beginning for OpenAI",
-    "description": "OpenAI made waves this week for announcing it had solved a mathematics problem with roots going back 200 years. But almost immediately, two other mathematicians (one of whom works at competitor Anthropic) announced the results might have taken from their own …",
-    "url": "https://www.cbc.ca/news/science/open-ai-navier-stokes-millenium-prize-mathematics-9.7341293",
-    "source": {
-      "name": "CBC News"
-    },
-    "publishedAt": "2026-09-12T08:00:00Z"
-  },
-  {
-    "title": "Mathematicians vs AI war erupts: Why top maths medal winners are revolting against OpenAI and other AI companies",
-    "description": "Twenty-five Fields Medal winners, including Terence Tao, have warned that the AI industry's race to solve major mathematical problems could harm the field by prioritising speed and headline-making breakthroughs over human understanding, collaboration and rigo…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/mathematicians-vs-ai-war-erupts-why-top-math-medal-winners-are-angry-with-openai-and-other-ai-companies/articleshow/134114469.cms",
-    "source": {
-      "name": "The Times of India"
-    },
-    "publishedAt": "2026-09-12T07:18:42Z"
-  },
-  {
-    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
-    "description": "The Millennium Prize Problems were unveiled by the Clay Mathematics Institute (CMI) at a meeting in Paris in 2000 to celebrate “The Universality of Mathematical Thought”. These problems encapsulate some of the most difficult challenges that mathematicians wer…",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "source": {
-      "name": "Claymath.org"
-    },
-    "publishedAt": "2026-09-12T04:09:43Z"
   }
 ]
