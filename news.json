@@ -1,5 +1,32 @@
 [
   {
+    "title": "Fermat Left a Note in a Margin. Other People Spent 358 Years Finishing It.",
+    "description": "That note kept mathematicians busy for the next three and a half centuries. Let us talk about what Fermat left in a margine.\nFirst appeared on Fermat Left a Note in a Margin. Other People Spent 358 Years Finishing It.",
+    "url": "https://blog.sqlauthority.com/2026/09/14/fermat-left-a-note-in-a-margin-other-people-spent-358-years-finishing-it/",
+    "source": {
+      "name": "Sqlauthority.com"
+    },
+    "publishedAt": "2026-09-14T01:30:14Z"
+  },
+  {
+    "title": "AI is not a normal technology",
+    "description": "This is an addendum to my original Meditations on AI post, and a response to a few other articles from last year.",
+    "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+    "source": {
+      "name": "12gramsofcarbon.com"
+    },
+    "publishedAt": "2026-09-14T01:00:09Z"
+  },
+  {
+    "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
+    "description": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI) Overview: At Capital One, we are creating trustworthy and reliable AI systems, changing banking for good. For years, Capital One has been leading the industry in using machine learning to create …",
+    "url": "https://nlppeople.com/job/applied-researcher-ii-ai-foundations-llm-core-and-agentic-ai/",
+    "source": {
+      "name": "Nlppeople.com"
+    },
+    "publishedAt": "2026-09-14T00:00:00Z"
+  },
+  {
     "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
     "description": "Private, domain-specific benchmarks in legal, tax, and finance.",
     "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
@@ -79,32 +106,5 @@
       "name": "The Punch"
     },
     "publishedAt": "2026-09-12T00:54:37Z"
-  },
-  {
-    "title": "OpenAI just wants to win",
-    "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-09-11T23:35:48Z"
-  },
-  {
-    "title": "AI researchers debate how close we are to recursive self-improvement",
-    "description": "“We're nowhere near the ceiling.”",
-    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-    "source": {
-      "name": "Dwarkesh.com"
-    },
-    "publishedAt": "2026-09-11T21:35:29Z"
-  },
-  {
-    "title": "OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy",
-    "description": "OpenAI’s Navier-Stokes solution looks like a win for mathematics. But some mathematicians aren't so sure.\nThe post OpenAI Claims Another Huge Mathematical Result Amid Fights Over Credit, Ethics, and Privacy appeared first on SingularityHub.",
-    "url": "https://singularityhub.com/2026/09/11/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy/#article",
-    "source": {
-      "name": "Singularity Hub"
-    },
-    "publishedAt": "2026-09-11T21:09:09Z"
   }
 ]
