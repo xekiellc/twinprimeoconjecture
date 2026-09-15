@@ -1,5 +1,23 @@
 [
   {
+    "title": "The Navier-Stokes controversy",
+    "description": "There is no question that AI systems, in addition to producing vast amount of junk known as AI slop, are also capable of solving major problems in mathematics and science. The problem is that the culture in which these private companies operate is very differ…",
+    "url": "https://freethoughtblogs.com/singham/2026/09/14/the-navier-stokes-controversy/",
+    "source": {
+      "name": "Freethoughtblogs.com"
+    },
+    "publishedAt": "2026-09-14T17:34:16Z"
+  },
+  {
+    "title": "AI generates a Navier-Stokes controversy",
+    "description": "There is no question that AI systems, in addition to producing vast amount of junk known as AI slop, are also capable of solving major problems in mathematics and science. The problem is that the culture in which these private companies operate is very differ…",
+    "url": "https://freethoughtblogs.com/singham/2026/09/14/ai-generates-a-navier-stokes-controversy/",
+    "source": {
+      "name": "Freethoughtblogs.com"
+    },
+    "publishedAt": "2026-09-14T17:34:16Z"
+  },
+  {
     "title": "25 winners of math’s ‘Nobel Prize’ decry the AI invasion of their discipline",
     "description": "A new declaration from winners of the Fields Medal reflects many mathematicians’ growing alarm over a “severe misalignment” between the tech industry and their field a week after AI toppled one of math’s biggest open problems",
     "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
@@ -88,23 +106,5 @@
       "name": "TechRadar"
     },
     "publishedAt": "2026-09-13T15:15:00Z"
-  },
-  {
-    "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
-    "description": "Article URL: https://www.aihistory.live/\nComments URL: https://news.ycombinator.com/item?id=49683798\nPoints: 1\n# Comments: 0",
-    "url": "https://www.aihistory.live/",
-    "source": {
-      "name": "Aihistory.live"
-    },
-    "publishedAt": "2026-09-13T13:31:04Z"
-  },
-  {
-    "title": "After Math",
-    "description": "[This is a guest post by Silvia De Toffoli and Eamon Duede. This blog post was initially written in a different file format and converted using AI. — T.] Silvia De Toffoli (University School for Advanced Studies IUSS Pavia) Eamon Duede (Princeton University a…",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-09-12T21:30:58Z"
   }
 ]
