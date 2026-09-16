@@ -1,5 +1,41 @@
 [
   {
+    "title": "Which million-dollar math problem could AI solve next?",
+    "description": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next",
+    "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-15T16:00:00Z"
+  },
+  {
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "description": "Article URL: https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/\nComments URL: https://news.ycombinator.com/item?id=49713261\nPoints: 4\n# Comments: 0",
+    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+    "source": {
+      "name": "Github.io"
+    },
+    "publishedAt": "2026-09-15T14:40:05Z"
+  },
+  {
+    "title": "AI is breaking our proxies for expertise",
+    "description": "Mathematicians are broadly not anti-AI. They’re more culturally open to using AI as a tool than, say, artists or writers. However, now that more and more…",
+    "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+    "source": {
+      "name": "Seangoedecke.com"
+    },
+    "publishedAt": "2026-09-15T13:41:55Z"
+  },
+  {
+    "title": "Beyond Navier–Stokes: Who Controls Scientific Discovery?",
+    "description": "Is the current furore in mathematics the canary in the coalmine for experimental science and knowledge work? This post was originally published in Vanishing Gradients on September 11, 2026. It’s been updated to address the subsequent declaration by 25 Fields …",
+    "url": "https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/#BlogPosting",
+    "source": {
+      "name": "Oreilly.com"
+    },
+    "publishedAt": "2026-09-15T10:55:58Z"
+  },
+  {
     "title": "Learning on the job is crucial for certain professions but AI threatens to automate it away",
     "description": "Lawyers and mathematicians have something in common—AI has invaded tasks that exercise the mental faculties of learners. It's wise not to adopt AI blindly in fields where working problems out is at the heart of professional knowledge acquisition.",
     "url": "https://www.livemint.com/opinion/online-views/learning-on-the-job-crucial-for-some-professions-ai-threatens-automate-it-away-lawyers-mathematicians-11789380656732.html",
@@ -70,41 +106,5 @@
       "name": "The Next Web"
     },
     "publishedAt": "2026-09-14T12:44:01Z"
-  },
-  {
-    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
-    "description": "In a remarkable breakthrough, two high school students from Oak Park High School, Aayush Bathija and Prince Rohatgi, with guidance from UCLA postdoctoral researcher Daniel Soskin, have solved an open problem related to the theory of Lorentzian polynomials—a f…",
-    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j",
-    "source": {
-      "name": "Htx.com"
-    },
-    "publishedAt": "2026-09-14T12:23:11Z"
-  },
-  {
-    "title": "WWD x FN x Beauty Inc Women in Power 2026",
-    "description": "From founders and CEOs to creatives shaping their industries, see who made this year’s Women in Power list.",
-    "url": "http://wwd.com/business-news/business-features/wwd-fn-beauty-inc-women-in-power-2026-1239084928/",
-    "source": {
-      "name": "WWD"
-    },
-    "publishedAt": "2026-09-14T04:01:00Z"
-  },
-  {
-    "title": "Fermat Left a Note in a Margin. Other People Spent 358 Years Finishing It.",
-    "description": "That note kept mathematicians busy for the next three and a half centuries. Let us talk about what Fermat left in a margine.\nFirst appeared on Fermat Left a Note in a Margin. Other People Spent 358 Years Finishing It.",
-    "url": "https://blog.sqlauthority.com/2026/09/14/fermat-left-a-note-in-a-margin-other-people-spent-358-years-finishing-it/",
-    "source": {
-      "name": "Sqlauthority.com"
-    },
-    "publishedAt": "2026-09-14T01:30:14Z"
-  },
-  {
-    "title": "AI is not a normal technology",
-    "description": "This is an addendum to my original Meditations on AI post, and a response to a few other articles from last year.",
-    "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
-    "source": {
-      "name": "12gramsofcarbon.com"
-    },
-    "publishedAt": "2026-09-14T01:00:09Z"
   }
 ]
