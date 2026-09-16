@@ -1,5 +1,41 @@
 [
   {
+    "title": "An Existential Crisis in Math",
+    "description": "AI just solved one of the world’s hardest math problems.",
+    "url": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
+    "source": {
+      "name": "The Atlantic"
+    },
+    "publishedAt": "2026-09-15T18:41:00Z"
+  },
+  {
+    "title": "The Age of Wonders and Terrors",
+    "description": "Twenty years ago, when the idea of AI taking over the world in our lifetimes still struck most of us as the unconstrained fantasy of those who knew too much science fiction and too little science, many of us would say things like: Look, the part of the story …",
+    "url": "https://scottaaronson.blog/?p=10062",
+    "source": {
+      "name": "Scottaaronson.blog"
+    },
+    "publishedAt": "2026-09-15T17:09:44Z"
+  },
+  {
+    "title": "How technology has become Christchurch’s competitive advantage",
+    "description": "OPINION: Canterbury's strength lies in linking research, business and talent.",
+    "url": "https://www.nzherald.co.nz/nz/christchurch/technology-is-christchurchs-competitive-advantage/premium/4OSXZ7NI2RGV7HVFHDCXA55YA4/",
+    "source": {
+      "name": "New Zealand Herald"
+    },
+    "publishedAt": "2026-09-15T17:00:00Z"
+  },
+  {
+    "title": "Public Data for Health",
+    "description": "The OpenAI Foundation is supporting more than $125 million in grants to create and preserve high-quality scientific datasets for life sciences research.",
+    "url": "https://openaifoundation.org/news/public-data-for-health",
+    "source": {
+      "name": "Openaifoundation.org"
+    },
+    "publishedAt": "2026-09-15T16:35:49Z"
+  },
+  {
     "title": "Which million-dollar math problem could AI solve next?",
     "description": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next",
     "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
@@ -70,41 +106,5 @@
       "name": "Collusion.gg"
     },
     "publishedAt": "2026-09-15T08:06:30Z"
-  },
-  {
-    "title": "The Navier-Stokes controversy",
-    "description": "There is no question that AI systems, in addition to producing vast amount of junk known as AI slop, are also capable of solving major problems in mathematics and science. The problem is that the culture in which these private companies operate is very differ…",
-    "url": "https://freethoughtblogs.com/singham/2026/09/14/the-navier-stokes-controversy/",
-    "source": {
-      "name": "Freethoughtblogs.com"
-    },
-    "publishedAt": "2026-09-14T17:34:16Z"
-  },
-  {
-    "title": "AI generates a Navier-Stokes controversy",
-    "description": "There is no question that AI systems, in addition to producing vast amount of junk known as AI slop, are also capable of solving major problems in mathematics and science. The problem is that the culture in which these private companies operate is very differ…",
-    "url": "https://freethoughtblogs.com/singham/2026/09/14/ai-generates-a-navier-stokes-controversy/",
-    "source": {
-      "name": "Freethoughtblogs.com"
-    },
-    "publishedAt": "2026-09-14T17:34:16Z"
-  },
-  {
-    "title": "25 winners of math’s ‘Nobel Prize’ decry the AI invasion of their discipline",
-    "description": "A new declaration from winners of the Fields Medal reflects many mathematicians’ growing alarm over a “severe misalignment” between the tech industry and their field a week after AI toppled one of math’s biggest open problems",
-    "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-09-14T15:00:00Z"
-  },
-  {
-    "title": "‘Slop mathematics’: OpenAI walks away from a Caltech AI maths contest",
-    "description": "OpenAI has pulled its $1m sponsorship of a student-run AI maths event at Caltech. Mathematicians had signed an open letter calling for the event to be scrapped. The next day, 25 Fields Medallists published a separate declaration of their own. Two letters in t…",
-    "url": "https://thenextweb.com/news/openai-withdraws-caltech-mathathon-slop-mathematics-fields-medallists",
-    "source": {
-      "name": "The Next Web"
-    },
-    "publishedAt": "2026-09-14T12:44:01Z"
   }
 ]
