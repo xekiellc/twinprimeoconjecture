@@ -1,5 +1,32 @@
 [
   {
+    "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
+    "description": "Geneva, Switzerland — September 16, 2026 — The Office of Justin Sun today announced the establishment of the Justin Sun Prize, a zero-trust, decentralized academic bounty mechanism based on a “problem list,” with breakthroughs in fundamental disciplines and m…",
+    "url": "http://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
+    "source": {
+      "name": "newsBTC"
+    },
+    "publishedAt": "2026-09-16T10:16:35Z"
+  },
+  {
+    "title": "A Path to a Texas Breakthrough",
+    "description": "James Talarico is deploying his Christian faith in his bid for the Senate. But he’s winning because Texans have been pummeled by inflation and corruption.\nThe post A Path to a Texas Breakthrough appeared first on The American Prospect.",
+    "url": "https://prospect.org/2026/09/16/oct-2026-a-path-to-a-texas-breakthrough/",
+    "source": {
+      "name": "The American Prospect"
+    },
+    "publishedAt": "2026-09-16T09:30:00Z"
+  },
+  {
+    "title": "“The world is right to be afraid”: Sam Altman on AI power at Dreamforce",
+    "description": "OpenAI chief executive Sam Altman said the public is right to fear that a few AI companies could gain too much power. He spoke on Tuesday at Salesforce’s Dreamforce conference in San Francisco. Salesforce has published the conversation, led by its chief execu…",
+    "url": "https://thenextweb.com/news/sam-altman-dreamforce-world-right-to-be-afraid",
+    "source": {
+      "name": "The Next Web"
+    },
+    "publishedAt": "2026-09-16T03:37:03Z"
+  },
+  {
     "title": "After Math",
     "description": "By Eamon Duede Authors: Silvia De Toffoli (University School for Advanced Studies IUSS Pavia), Eamon Duede (Princeton University and Purdue University) Note: This post was originally shared on Terry Tao’s blog, linked here for further reading. On September 8t…",
     "url": "https://blog.citp.princeton.edu/2026/09/15/after-math/",
@@ -79,32 +106,5 @@
       "name": "Github.io"
     },
     "publishedAt": "2026-09-15T14:40:05Z"
-  },
-  {
-    "title": "AI is breaking our proxies for expertise",
-    "description": "Mathematicians are broadly not anti-AI. They’re more culturally open to using AI as a tool than, say, artists or writers. However, now that more and more…",
-    "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-    "source": {
-      "name": "Seangoedecke.com"
-    },
-    "publishedAt": "2026-09-15T13:41:55Z"
-  },
-  {
-    "title": "Beyond Navier–Stokes: Who Controls Scientific Discovery?",
-    "description": "Is the current furore in mathematics the canary in the coalmine for experimental science and knowledge work? This post was originally published in Vanishing Gradients on September 11, 2026. It’s been updated to address the subsequent declaration by 25 Fields …",
-    "url": "https://www.oreilly.com/radar/beyond-navier-stokes-who-controls-scientific-discovery/#BlogPosting",
-    "source": {
-      "name": "Oreilly.com"
-    },
-    "publishedAt": "2026-09-15T10:55:58Z"
-  },
-  {
-    "title": "Learning on the job is crucial for certain professions but AI threatens to automate it away",
-    "description": "Lawyers and mathematicians have something in common—AI has invaded tasks that exercise the mental faculties of learners. It's wise not to adopt AI blindly in fields where working problems out is at the heart of professional knowledge acquisition.",
-    "url": "https://www.livemint.com/opinion/online-views/learning-on-the-job-crucial-for-some-professions-ai-threatens-automate-it-away-lawyers-mathematicians-11789380656732.html",
-    "source": {
-      "name": "Livemint"
-    },
-    "publishedAt": "2026-09-15T10:30:31Z"
   }
 ]
