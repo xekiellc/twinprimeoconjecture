@@ -1,5 +1,23 @@
 [
   {
+    "title": "Essay: AI Threatens the Internet, Not Humanity",
+    "description": "If you listen to professional AI Safety folks working at OpenAI, Anthropic, or one of the enormous AI think tanks, you’ll hear countless scenarios where AI causes enormous human misery and even extinction (e.g., https://arxiv.org/pdf/2507.09369 or https://x.c…",
+    "url": "https://mathbabe.org/2026/09/16/essay-ai-threatens-the-internet-not-humanity/",
+    "source": {
+      "name": "Mathbabe.org"
+    },
+    "publishedAt": "2026-09-16T14:45:55Z"
+  },
+  {
+    "title": "Terence Tao about AI and mathematics... or code?",
+    "description": "Terence Tao explains in this blog post his views about AI and mathematics.\n\nDoes someone else feel that his words could be applied to code too?",
+    "url": "https://slashdot.org/submission/17350788/terence-tao-about-ai-and-mathematics-or-code",
+    "source": {
+      "name": "Slashdot.org"
+    },
+    "publishedAt": "2026-09-16T12:09:41Z"
+  },
+  {
     "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
     "description": "Geneva, Switzerland — September 16, 2026 — The Office of Justin Sun today announced the establishment of the Justin Sun Prize, a zero-trust, decentralized academic bounty mechanism based on a “problem list,” with breakthroughs in fundamental disciplines and m…",
     "url": "http://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
@@ -88,23 +106,5 @@
       "name": "Openaifoundation.org"
     },
     "publishedAt": "2026-09-15T16:35:49Z"
-  },
-  {
-    "title": "Which million-dollar math problem could AI solve next?",
-    "description": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next",
-    "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-09-15T16:00:00Z"
-  },
-  {
-    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-    "description": "Article URL: https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/\nComments URL: https://news.ycombinator.com/item?id=49713261\nPoints: 4\n# Comments: 0",
-    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-    "source": {
-      "name": "Github.io"
-    },
-    "publishedAt": "2026-09-15T14:40:05Z"
   }
 ]
