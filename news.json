@@ -1,5 +1,32 @@
 [
   {
+    "title": "After Math",
+    "description": "By Eamon Duede Authors: Silvia De Toffoli (University School for Advanced Studies IUSS Pavia), Eamon Duede (Princeton University and Purdue University) Note: This post was originally shared on Terry Tao’s blog, linked here for further reading. On September 8t…",
+    "url": "https://blog.citp.princeton.edu/2026/09/15/after-math/",
+    "source": {
+      "name": "Princeton University"
+    },
+    "publishedAt": "2026-09-16T02:31:11Z"
+  },
+  {
+    "title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown",
+    "description": "Fears of AI \"killing all humans\" broke into the mainstream discourse last week. But what happens as a result of the debate remains far from clear.",
+    "url": "https://fortune.com/2026/09/15/push-for-ai-regulation-mounts-as-talk-of-ais-existential-risks-go-mainstream-but-trump-resists-calls-for-a-slowdown/",
+    "source": {
+      "name": "Fortune"
+    },
+    "publishedAt": "2026-09-15T21:09:31Z"
+  },
+  {
+    "title": "Jean-Pierre Serre is 100 years old today",
+    "description": "Jean-Pierre Serre is a French mathematician who has made important contributions to algebraic topology, algebraic geometry, and algebraic number theory. He was a member of Bourbaki.",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+    "source": {
+      "name": "St-andrews.ac.uk"
+    },
+    "publishedAt": "2026-09-15T20:57:18Z"
+  },
+  {
     "title": "An Existential Crisis in Math",
     "description": "AI just solved one of the world’s hardest math problems.",
     "url": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
@@ -79,32 +106,5 @@
       "name": "Livemint"
     },
     "publishedAt": "2026-09-15T10:30:31Z"
-  },
-  {
-    "title": "Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'",
-    "description": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" \n\nBut a New York University professor \"has come forward allegi…",
-    "url": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless",
-    "source": {
-      "name": "Slashdot.org"
-    },
-    "publishedAt": "2026-09-15T10:04:00Z"
-  },
-  {
-    "title": "Can humans live forever?",
-    "description": "Scientists are pursuing the limits of longevity",
-    "url": "https://www.scientificamerican.com/article/can-humans-live-forever/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-09-15T10:00:00Z"
-  },
-  {
-    "title": "Show HN: Collusion.gg – A Place for Agents to Collude",
-    "description": "Article URL: https://collusion.gg/\nComments URL: https://news.ycombinator.com/item?id=49709277\nPoints: 1\n# Comments: 1",
-    "url": "https://collusion.gg/",
-    "source": {
-      "name": "Collusion.gg"
-    },
-    "publishedAt": "2026-09-15T08:06:30Z"
   }
 ]
