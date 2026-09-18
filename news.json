@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Hard Problem of Consciousness Is a Soluble One",
+    "description": "What is consciousness, how does the brain produce it, and why does it exist? Philosopher Gary Whittenberger tackles Chalmers’s famous Hard Problem head-on, proposing a bold new model—Brain Dependent Dualism—that just might crack one of science’s greatest myst…",
+    "url": "https://www.skeptic.com/article/hard-problem-of-consciousness-is-a-soluble-one/",
+    "source": {
+      "name": "Skeptic.com"
+    },
+    "publishedAt": "2026-09-16T22:14:50Z"
+  },
+  {
     "title": "Essay: AI Threatens the Internet, Not Humanity",
     "description": "If you listen to professional AI Safety folks working at OpenAI, Anthropic, or one of the enormous AI think tanks, you’ll hear countless scenarios where AI causes enormous human misery and even extinction (e.g., https://arxiv.org/pdf/2507.09369 or https://x.c…",
     "url": "https://mathbabe.org/2026/09/16/essay-ai-threatens-the-internet-not-humanity/",
@@ -97,14 +106,5 @@
       "name": "New Zealand Herald"
     },
     "publishedAt": "2026-09-15T17:00:00Z"
-  },
-  {
-    "title": "Public Data for Health",
-    "description": "The OpenAI Foundation is supporting more than $125 million in grants to create and preserve high-quality scientific datasets for life sciences research.",
-    "url": "https://openaifoundation.org/news/public-data-for-health",
-    "source": {
-      "name": "Openaifoundation.org"
-    },
-    "publishedAt": "2026-09-15T16:35:49Z"
   }
 ]
