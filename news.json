@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+    "description": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
+    "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+    "source": {
+      "name": "Decrypt"
+    },
+    "publishedAt": "2026-09-17T19:32:22Z"
+  },
+  {
+    "title": "In 1901, divers recovered an ancient geared device from the Greek shipwreck. 125 years later, the Antikythera Mechanism is still revealing secrets about ancient sciences",
+    "description": "In 1901, divers searching a Greek shipwreck found something no one expected: a small, corroded machine packed with gears. It was the Antikythera Mechanism, built more than 2,000 years ago. At first, it looked like an ordinary relic. Then scientists began stud…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-1901-divers-recovered-an-ancient-geared-device-from-the-greek-shipwreck-125-years-later-the-antikythera-mechanism-is-still-revealing-secrets-about-ancient-sciences/articleshow/134311159.cms",
+    "source": {
+      "name": "The Times of India"
+    },
+    "publishedAt": "2026-09-17T16:30:49Z"
+  },
+  {
     "title": "AI Companies Are Destroying Books by the Millions. What Will It Mean for Art?",
     "description": "Tech companies are destroying millions of books after scanning them to feed their Large Language Models. What will this mean for artistic practice?",
     "url": "https://www.artnews.com/art-news/news/ai-companies-destroying-books-what-will-this-mean-for-art-1234798445/",
@@ -88,23 +106,5 @@
       "name": "Mathbabe.org"
     },
     "publishedAt": "2026-09-16T14:45:55Z"
-  },
-  {
-    "title": "Terence Tao about AI and mathematics... or code?",
-    "description": "Terence Tao explains in this blog post his views about AI and mathematics.\n\nDoes someone else feel that his words could be applied to code too?",
-    "url": "https://slashdot.org/submission/17350788/terence-tao-about-ai-and-mathematics-or-code",
-    "source": {
-      "name": "Slashdot.org"
-    },
-    "publishedAt": "2026-09-16T12:09:41Z"
-  },
-  {
-    "title": "Justin Sun Establishes the Justin Sun Prize: “My Wealth Came from Mathematics and Will Return to Mathematics”",
-    "description": "Geneva, Switzerland — September 16, 2026 — The Office of Justin Sun today announced the establishment of the Justin Sun Prize, a zero-trust, decentralized academic bounty mechanism based on a “problem list,” with breakthroughs in fundamental disciplines and m…",
-    "url": "http://www.newsbtc.com/news/justin-sun-establishes-the-justin-sun-prize-my-wealth-came-from-mathematics-and-will-return-to-mathematics/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-09-16T10:16:35Z"
   }
 ]
