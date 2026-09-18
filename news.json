@@ -1,5 +1,59 @@
 [
   {
+    "title": "AI Companies Are Destroying Books by the Millions. What Will It Mean for Art?",
+    "description": "Tech companies are destroying millions of books after scanning them to feed their Large Language Models. What will this mean for artistic practice?",
+    "url": "https://www.artnews.com/art-news/news/ai-companies-destroying-books-what-will-this-mean-for-art-1234798445/",
+    "source": {
+      "name": "ARTnews"
+    },
+    "publishedAt": "2026-09-17T15:32:16Z"
+  },
+  {
+    "title": "OpenAI claims substantial progress on second Millennium Prize problem, faces math community pushback",
+    "description": "OpenAI's cautious approach to announcing mathematical breakthroughs highlights the tension between rapid AI advancements and traditional academic scrutiny.\nThe post OpenAI claims substantial progress on second Millennium Prize problem, faces math community pu…",
+    "url": "https://cryptobriefing.com/openai-hodge-conjecture-math-pushback/",
+    "source": {
+      "name": "Crypto Briefing"
+    },
+    "publishedAt": "2026-09-17T15:17:15Z"
+  },
+  {
+    "title": "Why I didn’t sign the Fields medallists’ letter",
+    "description": "[This is a guest post by Timothy Gowers, crossposted from his blog. This blog post was initially written in a different file format and converted using AI. — T.] When I was around 11 I heard for the first time about Fermat’s Last Theorem. I was immediately ca…",
+    "url": "https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-09-17T14:47:07Z"
+  },
+  {
+    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
+    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
+    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-09-17T12:27:16Z"
+  },
+  {
+    "title": "Two Mathematical Revolutions Separated by More than Time",
+    "description": "On the occasion of Bernhard Riemann’s 200th birthday, looking back at how the German genius transformed mathematical practice is informative at a time of enormous upheaval in mathematics due to the rise of AI. Read more\nThe post Two Mathematical Revolutions S…",
+    "url": "https://scilogs.spektrum.de/hlf/two-mathematical-revolutions-separated-by-more-than-time/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-09-17T12:00:00Z"
+  },
+  {
+    "title": "The Fate of the Riemann Hypothesis: Revisited",
+    "description": "Richard Evan Schwartz, Professor at Brown University My short story, The Fate of the Riemann Hypothesis, recently got a lot of attention on social media. Many people liked the story and many people did not. The story precisely expresses my feelings about AI-d…",
+    "url": "https://proofsandprompts.com/2026/09/17/the-fate-of-the-riemann-hypothesis-revisited/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-17T11:00:00Z"
+  },
+  {
     "title": "10 Thursday AM Reads",
     "description": "My morning reads: • Here’s Who Trump Should Blame for the Rate Hike He’s Raging About:He promised lower prices and lower interest rates. His policies delivered renewed inflation and a rate hike. (The Bulwark) • Gas Prices Could Cost Republicans the Midterms: …",
     "url": "https://ritholtz.com/2026/09/10-thursday-am-reads-511/",
@@ -52,59 +106,5 @@
       "name": "newsBTC"
     },
     "publishedAt": "2026-09-16T10:16:35Z"
-  },
-  {
-    "title": "A Path to a Texas Breakthrough",
-    "description": "James Talarico is deploying his Christian faith in his bid for the Senate. But he’s winning because Texans have been pummeled by inflation and corruption.\nThe post A Path to a Texas Breakthrough appeared first on The American Prospect.",
-    "url": "https://prospect.org/2026/09/16/oct-2026-a-path-to-a-texas-breakthrough/",
-    "source": {
-      "name": "The American Prospect"
-    },
-    "publishedAt": "2026-09-16T09:30:00Z"
-  },
-  {
-    "title": "“The world is right to be afraid”: Sam Altman on AI power at Dreamforce",
-    "description": "OpenAI chief executive Sam Altman said the public is right to fear that a few AI companies could gain too much power. He spoke on Tuesday at Salesforce’s Dreamforce conference in San Francisco. Salesforce has published the conversation, led by its chief execu…",
-    "url": "https://thenextweb.com/news/sam-altman-dreamforce-world-right-to-be-afraid",
-    "source": {
-      "name": "The Next Web"
-    },
-    "publishedAt": "2026-09-16T03:37:03Z"
-  },
-  {
-    "title": "After Math",
-    "description": "By Eamon Duede Authors: Silvia De Toffoli (University School for Advanced Studies IUSS Pavia), Eamon Duede (Princeton University and Purdue University) Note: This post was originally shared on Terry Tao’s blog, linked here for further reading. On September 8t…",
-    "url": "https://blog.citp.princeton.edu/2026/09/15/after-math/",
-    "source": {
-      "name": "Princeton University"
-    },
-    "publishedAt": "2026-09-16T02:31:11Z"
-  },
-  {
-    "title": "Push for AI regulation mounts as talk of AI’s ‘existential’ risks go mainstream. But Trump resists calls for a slowdown",
-    "description": "Fears of AI \"killing all humans\" broke into the mainstream discourse last week. But what happens as a result of the debate remains far from clear.",
-    "url": "https://fortune.com/2026/09/15/push-for-ai-regulation-mounts-as-talk-of-ais-existential-risks-go-mainstream-but-trump-resists-calls-for-a-slowdown/",
-    "source": {
-      "name": "Fortune"
-    },
-    "publishedAt": "2026-09-15T21:09:31Z"
-  },
-  {
-    "title": "Jean-Pierre Serre is 100 years old today",
-    "description": "Jean-Pierre Serre is a French mathematician who has made important contributions to algebraic topology, algebraic geometry, and algebraic number theory. He was a member of Bourbaki.",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "source": {
-      "name": "St-andrews.ac.uk"
-    },
-    "publishedAt": "2026-09-15T20:57:18Z"
-  },
-  {
-    "title": "An Existential Crisis in Math",
-    "description": "AI just solved one of the world’s hardest math problems.",
-    "url": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-09-15T18:41:00Z"
   }
 ]
