@@ -1,5 +1,23 @@
 [
   {
+    "title": "10 Thursday AM Reads",
+    "description": "My morning reads: • Here’s Who Trump Should Blame for the Rate Hike He’s Raging About:He promised lower prices and lower interest rates. His policies delivered renewed inflation and a rate hike. (The Bulwark) • Gas Prices Could Cost Republicans the Midterms: …",
+    "url": "https://ritholtz.com/2026/09/10-thursday-am-reads-511/",
+    "source": {
+      "name": "Ritholtz.com"
+    },
+    "publishedAt": "2026-09-17T10:30:08Z"
+  },
+  {
+    "title": "Why I didn’t sign the Fields medallists’ letter",
+    "description": "When I was around 11 I heard for the first time about Fermat’s Last Theorem. I was immediately captivated by the problem statement, as well as by the accompanying story, and made a fairly serious attempt to prove it. And while, unsurprisingly, I failed, I lea…",
+    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-09-17T06:55:55Z"
+  },
+  {
     "title": "The Hard Problem of Consciousness Is a Soluble One",
     "description": "What is consciousness, how does the brain produce it, and why does it exist? Philosopher Gary Whittenberger tackles Chalmers’s famous Hard Problem head-on, proposing a bold new model—Brain Dependent Dualism—that just might crack one of science’s greatest myst…",
     "url": "https://www.skeptic.com/article/hard-problem-of-consciousness-is-a-soluble-one/",
@@ -88,23 +106,5 @@
       "name": "The Atlantic"
     },
     "publishedAt": "2026-09-15T18:41:00Z"
-  },
-  {
-    "title": "The Age of Wonders and Terrors",
-    "description": "Twenty years ago, when the idea of AI taking over the world in our lifetimes still struck most of us as the unconstrained fantasy of those who knew too much science fiction and too little science, many of us would say things like: Look, the part of the story …",
-    "url": "https://scottaaronson.blog/?p=10062",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-09-15T17:09:44Z"
-  },
-  {
-    "title": "How technology has become Christchurch’s competitive advantage",
-    "description": "OPINION: Canterbury's strength lies in linking research, business and talent.",
-    "url": "https://www.nzherald.co.nz/nz/christchurch/technology-is-christchurchs-competitive-advantage/premium/4OSXZ7NI2RGV7HVFHDCXA55YA4/",
-    "source": {
-      "name": "New Zealand Herald"
-    },
-    "publishedAt": "2026-09-15T17:00:00Z"
   }
 ]
