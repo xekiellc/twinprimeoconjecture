@@ -1,5 +1,14 @@
 [
   {
+    "title": "The extinction pitch",
+    "description": "Warnings from researchers at Anthropic and OpenAI that their own products could end humanity distract from the real damage AI is already doing.",
+    "url": "https://africasacountry.com/2026/09/the-extinction-pitch",
+    "source": {
+      "name": "Africasacountry.com"
+    },
+    "publishedAt": "2026-09-18T18:17:26Z"
+  },
+  {
     "title": "I Vibed a Proof of Conway's Conjecture",
     "description": "You can just prove things, apparently.",
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
@@ -97,14 +106,5 @@
       "name": "Crypto Briefing"
     },
     "publishedAt": "2026-09-17T15:17:15Z"
-  },
-  {
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "description": "[This is a guest post by Timothy Gowers, crossposted from his blog. This blog post was initially written in a different file format and converted using AI. — T.] When I was around 11 I heard for the first time about Fermat’s Last Theorem. I was immediately ca…",
-    "url": "https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-09-17T14:47:07Z"
   }
 ]
