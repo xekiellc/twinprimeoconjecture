@@ -1,5 +1,23 @@
 [
   {
+    "title": "Navier-Stokes Problem: What It Is and What AI Found",
+    "description": "The Navier-Stokes problem in plain words: what the famous fluid question asks, what AI says it found, and why it is not official yet.\nFirst appeared on Navier-Stokes Problem: What It Is and What AI Found",
+    "url": "https://blog.sqlauthority.com/2026/09/18/navier-stokes-problem-solved-by-ai/",
+    "source": {
+      "name": "Sqlauthority.com"
+    },
+    "publishedAt": "2026-09-18T01:30:31Z"
+  },
+  {
+    "title": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community",
+    "description": "According to The Information, OpenAI's primary concern is not solving the Hodge Conjecture but announcing they did so without further infuriating mathematicians.",
+    "url": "https://gizmodo.com/openai-reportedly-trying-to-solve-hodge-conjecture-amid-feud-with-math-community-2000813658",
+    "source": {
+      "name": "Gizmodo.com"
+    },
+    "publishedAt": "2026-09-18T00:10:47Z"
+  },
+  {
     "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
     "description": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
     "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
@@ -88,23 +106,5 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-09-17T06:55:55Z"
-  },
-  {
-    "title": "The Hard Problem of Consciousness Is a Soluble One",
-    "description": "What is consciousness, how does the brain produce it, and why does it exist? Philosopher Gary Whittenberger tackles Chalmers’s famous Hard Problem head-on, proposing a bold new model—Brain Dependent Dualism—that just might crack one of science’s greatest myst…",
-    "url": "https://www.skeptic.com/article/hard-problem-of-consciousness-is-a-soluble-one/",
-    "source": {
-      "name": "Skeptic.com"
-    },
-    "publishedAt": "2026-09-16T22:14:50Z"
-  },
-  {
-    "title": "Essay: AI Threatens the Internet, Not Humanity",
-    "description": "If you listen to professional AI Safety folks working at OpenAI, Anthropic, or one of the enormous AI think tanks, you’ll hear countless scenarios where AI causes enormous human misery and even extinction (e.g., https://arxiv.org/pdf/2507.09369 or https://x.c…",
-    "url": "https://mathbabe.org/2026/09/16/essay-ai-threatens-the-internet-not-humanity/",
-    "source": {
-      "name": "Mathbabe.org"
-    },
-    "publishedAt": "2026-09-16T14:45:55Z"
   }
 ]
