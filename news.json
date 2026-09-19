@@ -1,5 +1,14 @@
 [
   {
+    "title": "Liberal Totalitarianism: The Unchanging Freedom of Capital and Its Changing Masks",
+    "description": "Whether it be a tank or a court ruling, liberalism is not the antithesis of totalitarianism, but its most insidious guise — capital always remains free.",
+    "url": "https://ozcanbuze947071.substack.com/p/liberal-totalitarianism-the-unchanging",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-09-18T03:30:12Z"
+  },
+  {
     "title": "Navier-Stokes Problem: What It Is and What AI Found",
     "description": "The Navier-Stokes problem in plain words: what the famous fluid question asks, what AI says it found, and why it is not official yet.\nFirst appeared on Navier-Stokes Problem: What It Is and What AI Found",
     "url": "https://blog.sqlauthority.com/2026/09/18/navier-stokes-problem-solved-by-ai/",
@@ -46,7 +55,7 @@
   },
   {
     "title": "OpenAI claims substantial progress on second Millennium Prize problem, faces math community pushback",
-    "description": "OpenAI's cautious approach to announcing mathematical breakthroughs highlights the tension between rapid AI advancements and traditional academic scrutiny.\nThe post OpenAI claims substantial progress on second Millennium Prize problem, faces math community pu…",
+    "description": "OpenAI's cautious approach to announcing mathematical breakthroughs highlights the tension between rapid AI advancements and traditional academic scrutiny.\nThe post OpenAI claims substantial progress on second Millennium Prize problem, faces math community pu��",
     "url": "https://cryptobriefing.com/openai-hodge-conjecture-math-pushback/",
     "source": {
       "name": "Crypto Briefing"
@@ -97,14 +106,5 @@
       "name": "Ritholtz.com"
     },
     "publishedAt": "2026-09-17T10:30:08Z"
-  },
-  {
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "description": "When I was around 11 I heard for the first time about Fermat’s Last Theorem. I was immediately captivated by the problem statement, as well as by the accompanying story, and made a fairly serious attempt to prove it. And while, unsurprisingly, I failed, I lea…",
-    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-09-17T06:55:55Z"
   }
 ]
