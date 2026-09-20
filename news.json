@@ -1,5 +1,14 @@
 [
   {
+    "title": "If math is more than proof, we need to better celebrate the rest of it",
+    "description": "[This is a guest post by Grant Sanderson. This blog post was initially written in a different file format and converted using AI. — T.] A sentiment echoing throughout the mathematics community right now is that solving problems and generating proofs have alwa…",
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-09-19T05:19:47Z"
+  },
+  {
     "title": "The extinction pitch",
     "description": "Warnings from researchers at Anthropic and OpenAI that their own products could end humanity distract from the real damage AI is already doing.",
     "url": "https://africasacountry.com/2026/09/the-extinction-pitch",
@@ -97,14 +106,5 @@
       "name": "ARTnews"
     },
     "publishedAt": "2026-09-17T15:32:16Z"
-  },
-  {
-    "title": "OpenAI claims substantial progress on second Millennium Prize problem, faces math community pushback",
-    "description": "OpenAI's cautious approach to announcing mathematical breakthroughs highlights the tension between rapid AI advancements and traditional academic scrutiny.\nThe post OpenAI claims substantial progress on second Millennium Prize problem, faces math community pu…",
-    "url": "https://cryptobriefing.com/openai-hodge-conjecture-math-pushback/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-09-17T15:17:15Z"
   }
 ]
