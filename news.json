@@ -1,5 +1,14 @@
 [
   {
+    "title": "UTF-8000: Unlimited UTF-8",
+    "description": "Unlimited UTF-8!",
+    "url": "https://utf-8000.jb2170.com",
+    "source": {
+      "name": "Jb2170.com"
+    },
+    "publishedAt": "2026-09-20T05:15:00Z"
+  },
+  {
     "title": "Opo, red socks and the Wahs: Why NZ needs another feel-good obsession - Glenn Dwight",
     "description": "OPINION: Could the Warriors become the next unlikely symbol of national unity?",
     "url": "https://www.nzherald.co.nz/the-country/news/opo-red-socks-and-the-wahs-why-nz-needs-another-feel-good-obsession-glenn-dwight/premium/XIDZGEOE7BBPNGASMR6WGSXVJE/",
@@ -97,14 +106,5 @@
       "name": "Sqlauthority.com"
     },
     "publishedAt": "2026-09-18T01:30:31Z"
-  },
-  {
-    "title": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community",
-    "description": "According to The Information, OpenAI's primary concern is not solving the Hodge Conjecture but announcing they did so without further infuriating mathematicians.",
-    "url": "https://gizmodo.com/openai-reportedly-trying-to-solve-hodge-conjecture-amid-feud-with-math-community-2000813658",
-    "source": {
-      "name": "Gizmodo.com"
-    },
-    "publishedAt": "2026-09-18T00:10:47Z"
   }
 ]
