@@ -1,5 +1,23 @@
 [
   {
+    "title": "History and Future of Fluid Dynamics",
+    "description": "Saksham Sharma, Postdoc at Caltech It is as if there existed, for what seems like millennia, tracing back to the very origins of mathematics and of other arts and sciences, a sort of “conspiracy of silence” surrounding these “unspeakable labors” which precede…",
+    "url": "https://proofsandprompts.com/2026/09/20/history-and-future-of-fluid-dynamics/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-20T14:00:00Z"
+  },
+  {
+    "title": "What Is Humanity’s Place in the Cosmos?",
+    "description": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena.",
+    "url": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
+    "source": {
+      "name": "The Atlantic"
+    },
+    "publishedAt": "2026-09-20T13:00:00Z"
+  },
+  {
     "title": "UTF-8000: Unlimited UTF-8",
     "description": "Unlimited UTF-8!",
     "url": "https://utf-8000.jb2170.com",
@@ -88,23 +106,5 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-09-18T11:00:00Z"
-  },
-  {
-    "title": "Liberal Totalitarianism: The Unchanging Freedom of Capital and Its Changing Masks",
-    "description": "Whether it be a tank or a court ruling, liberalism is not the antithesis of totalitarianism, but its most insidious guise — capital always remains free.",
-    "url": "https://ozcanbuze947071.substack.com/p/liberal-totalitarianism-the-unchanging",
-    "source": {
-      "name": "Substack.com"
-    },
-    "publishedAt": "2026-09-18T03:30:12Z"
-  },
-  {
-    "title": "Navier-Stokes Problem: What It Is and What AI Found",
-    "description": "The Navier-Stokes problem in plain words: what the famous fluid question asks, what AI says it found, and why it is not official yet.\nFirst appeared on Navier-Stokes Problem: What It Is and What AI Found",
-    "url": "https://blog.sqlauthority.com/2026/09/18/navier-stokes-problem-solved-by-ai/",
-    "source": {
-      "name": "Sqlauthority.com"
-    },
-    "publishedAt": "2026-09-18T01:30:31Z"
   }
 ]
