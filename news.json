@@ -1,5 +1,14 @@
 [
   {
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
+    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-21T16:00:00Z"
+  },
+  {
     "title": "I Vibed a Proof of Conway's Conjecture",
     "description": "You can just prove things, apparently.",
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
@@ -7,15 +16,6 @@
       "name": "Overreacted.io"
     },
     "publishedAt": "2026-09-18T14:36:10Z"
-  },
-  {
-    "title": "Two responses to “A Severe Misalignment of AI in Mathematics”",
-    "description": "Note from P&P: On 11 September 2026, 25 Fields Medallists co-authored the declaration “A Severe Misalignment of AI in Mathematics“, which at the time of posting has over 7000 signatures. Below are are two separate and independent submissions we received, resp…",
-    "url": "https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-09-18T14:00:00Z"
   },
   {
     "title": "Navier-Stokes Problem: What It Is and What AI Found",
@@ -27,13 +27,13 @@
     "publishedAt": "2026-09-18T01:30:31Z"
   },
   {
-    "title": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community",
-    "description": "According to The Information, OpenAI's primary concern is not solving the Hodge Conjecture but announcing they did so without further infuriating mathematicians.",
-    "url": "https://gizmodo.com/openai-reportedly-trying-to-solve-hodge-conjecture-amid-feud-with-math-community-2000813658",
+    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
+    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
+    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
     "source": {
-      "name": "Gizmodo.com"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-09-18T00:10:47Z"
+    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
