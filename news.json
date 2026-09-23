@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
+    "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one “inverse Galois problem”",
+    "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-22T11:00:00Z"
+  },
+  {
     "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
     "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
     "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
@@ -7,15 +16,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-21T16:00:00Z"
-  },
-  {
-    "title": "I Vibed a Proof of Conway's Conjecture",
-    "description": "You can just prove things, apparently.",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "source": {
-      "name": "Overreacted.io"
-    },
-    "publishedAt": "2026-09-18T14:36:10Z"
   },
   {
     "title": "Navier-Stokes Problem: What It Is and What AI Found",
