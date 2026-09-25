@@ -9,6 +9,15 @@
     "publishedAt": "2026-09-22T11:00:00Z"
   },
   {
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
+    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-21T16:00:00Z"
+  },
+  {
     "title": "Two responses to “A Severe Misalignment of AI in Mathematics”",
     "description": "Note from P&P: On 11 September 2026, 25 Fields Medallists co-authored the declaration “A Severe Misalignment of AI in Mathematics“, which at the time of posting has over 7000 signatures. Below are are two separate and independent submissions we received, resp…",
     "url": "https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics/",
@@ -61,15 +70,6 @@
       "name": "St-andrews.ac.uk"
     },
     "publishedAt": "2026-09-15T20:57:18Z"
-  },
-  {
-    "title": "An Existential Crisis in Math",
-    "description": "AI just solved one of the world’s hardest math problems.",
-    "url": "https://www.theatlantic.com/technology/2026/09/math-crisis-openai-millennium-prize/688631/",
-    "source": {
-      "name": "The Atlantic"
-    },
-    "publishedAt": "2026-09-15T18:41:00Z"
   },
   {
     "title": "Which million-dollar math problem could AI solve next?",
