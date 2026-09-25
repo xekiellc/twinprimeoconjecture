@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
+    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
+    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
+    "source": {
+      "name": "Futurism"
+    },
+    "publishedAt": "2026-09-23T14:17:31Z"
+  },
+  {
     "title": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
     "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one “inverse Galois problem”",
     "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
@@ -16,15 +25,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-21T16:00:00Z"
-  },
-  {
-    "title": "Navier-Stokes Problem: What It Is and What AI Found",
-    "description": "The Navier-Stokes problem in plain words: what the famous fluid question asks, what AI says it found, and why it is not official yet.\nFirst appeared on Navier-Stokes Problem: What It Is and What AI Found",
-    "url": "https://blog.sqlauthority.com/2026/09/18/navier-stokes-problem-solved-by-ai/",
-    "source": {
-      "name": "Sqlauthority.com"
-    },
-    "publishedAt": "2026-09-18T01:30:31Z"
   },
   {
     "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
