@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
+    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
+    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
+    "source": {
+      "name": "Futurism"
+    },
+    "publishedAt": "2026-09-23T14:17:31Z"
+  },
+  {
     "title": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
     "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one “inverse Galois problem”",
     "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
@@ -16,15 +25,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-21T16:00:00Z"
-  },
-  {
-    "title": "Two responses to “A Severe Misalignment of AI in Mathematics”",
-    "description": "Note from P&P: On 11 September 2026, 25 Fields Medallists co-authored the declaration “A Severe Misalignment of AI in Mathematics“, which at the time of posting has over 7000 signatures. Below are are two separate and independent submissions we received, resp…",
-    "url": "https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-09-18T14:00:00Z"
   },
   {
     "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
