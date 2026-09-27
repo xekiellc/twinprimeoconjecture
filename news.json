@@ -18,15 +18,6 @@
     "publishedAt": "2026-09-21T16:00:00Z"
   },
   {
-    "title": "Two responses to “A Severe Misalignment of AI in Mathematics”",
-    "description": "Note from P&P: On 11 September 2026, 25 Fields Medallists co-authored the declaration “A Severe Misalignment of AI in Mathematics“, which at the time of posting has over 7000 signatures. Below are are two separate and independent submissions we received, resp…",
-    "url": "https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-09-18T14:00:00Z"
-  },
-  {
     "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
     "description": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
     "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
@@ -34,6 +25,15 @@
       "name": "Decrypt"
     },
     "publishedAt": "2026-09-17T19:32:22Z"
+  },
+  {
+    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
+    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
+    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
