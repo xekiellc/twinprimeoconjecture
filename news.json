@@ -1,5 +1,32 @@
 [
   {
+    "title": "What should I ask Terence Tao?",
+    "description": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?\nThe post What should I ask Terence Tao? appeared first on Marginal REVOLUTION.\n \nComments\n1- Did the current progress of AI mathemati…",
+    "url": "https://biztoc.com/x/5734efa7acd171f0",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-09-26T18:35:37Z"
+  },
+  {
+    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+    "description": "Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions - stormj-UH/spivak-lean",
+    "url": "https://github.com/stormj-UH/spivak-lean",
+    "source": {
+      "name": "Github.com"
+    },
+    "publishedAt": "2026-09-26T17:00:23Z"
+  },
+  {
+    "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
+    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
+    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
+    "source": {
+      "name": "Futurism"
+    },
+    "publishedAt": "2026-09-23T14:17:31Z"
+  },
+  {
     "title": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
     "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one “inverse Galois problem”",
     "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
@@ -27,15 +54,6 @@
     "publishedAt": "2026-09-18T14:00:00Z"
   },
   {
-    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
-    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
-    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-09-17T12:27:16Z"
-  },
-  {
     "title": "Two Mathematical Revolutions Separated by More than Time",
     "description": "On the occasion of Bernhard Riemann’s 200th birthday, looking back at how the German genius transformed mathematical practice is informative at a time of enormous upheaval in mathematics due to the rise of AI. Read more\nThe post Two Mathematical Revolutions S…",
     "url": "https://scilogs.spektrum.de/hlf/two-mathematical-revolutions-separated-by-more-than-time/",
@@ -52,15 +70,6 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-09-17T11:00:00Z"
-  },
-  {
-    "title": "Terence Tao about AI and mathematics... or code?",
-    "description": "Terence Tao explains in this blog post his views about AI and mathematics.\n\nDoes someone else feel that his words could be applied to code too?",
-    "url": "https://slashdot.org/submission/17350788/terence-tao-about-ai-and-mathematics-or-code",
-    "source": {
-      "name": "Slashdot.org"
-    },
-    "publishedAt": "2026-09-16T12:09:41Z"
   },
   {
     "title": "Jean-Pierre Serre is 100 years old today",
@@ -97,14 +106,5 @@
       "name": "CNBC"
     },
     "publishedAt": "2026-09-09T08:34:55Z"
-  },
-  {
-    "title": "Why Navier-Stokes remains one of mathematics’ toughest problems — Institute",
-    "description": "The Clay Mathematics Institute has described the Navier-Stokes equation as one of seven exceptionally difficult mathematical problems that have resisted solution for many years, with fundamental questions about the behaviour of fluids still awaiting proof. Th…",
-    "url": "https://punchng.com/why-navier-stokes-remains-one-of-mathematics-toughest-problems-institute/",
-    "source": {
-      "name": "The Punch"
-    },
-    "publishedAt": "2026-09-08T21:22:46Z"
   }
 ]
