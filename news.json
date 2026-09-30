@@ -1,5 +1,14 @@
 [
   {
+    "title": "Can AI truly prove anything?",
+    "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
+    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-29T11:00:00Z"
+  },
+  {
     "title": "OpenAI keeps bulldozing mathematicians",
     "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
@@ -97,14 +106,5 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-15T16:00:00Z"
-  },
-  {
-    "title": "Anthropic 'formalizes' Fermat's Last Theorem like never before using Claude — but it still took 11 days to write out",
-    "description": "Anthropic says Claude formalized Andrew Wiles’ proof of Fermat’s Last Theorem in 11 days, producing 13 million lines of Lean code.",
-    "url": "https://www.techradar.com/pro/anthropic-formalizes-fermats-last-theorem-like-never-before-using-claude-but-it-still-took-11-days-to-write-out",
-    "source": {
-      "name": "TechRadar"
-    },
-    "publishedAt": "2026-09-13T15:15:00Z"
   }
 ]
