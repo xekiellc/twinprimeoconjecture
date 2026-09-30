@@ -9,15 +9,6 @@
     "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-09-28T16:56:26Z"
-  },
-  {
     "title": "What should I ask Terence Tao?",
     "description": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?\nThe post What should I ask Terence Tao? appeared first on Marginal REVOLUTION.\n \nComments\n1- Did the current progress of AI mathemati…",
     "url": "https://biztoc.com/x/5734efa7acd171f0",
@@ -34,6 +25,15 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-09-26T17:00:23Z"
+  },
+  {
+    "title": "Anthropic’s Claude solves nine-loop amplitude challenge in theoretical physics",
+    "description": "Anthropic's AI breakthrough in complex physics calculations could revolutionize computational methods, enhancing precision in scientific research.\nThe post Anthropic’s Claude solves nine-loop amplitude challenge in theoretical physics appeared first on Crypto…",
+    "url": "https://cryptobriefing.com/anthropic-claude-nine-loop-amplitude-physics/",
+    "source": {
+      "name": "Crypto Briefing"
+    },
+    "publishedAt": "2026-09-25T20:48:14Z"
   },
   {
     "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
