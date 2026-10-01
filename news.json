@@ -1,5 +1,14 @@
 [
   {
+    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
+    "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
+    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
+    "source": {
+      "name": "Kdnuggets.com"
+    },
+    "publishedAt": "2026-09-30T14:00:26Z"
+  },
+  {
     "title": "No Shortcuts in the Travelling Salesperson Problem",
     "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
     "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
@@ -18,13 +27,13 @@
     "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "title": "What should I ask Terence Tao?",
+    "description": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?\nThe post What should I ask Terence Tao? appeared first on Marginal REVOLUTION.\n \nComments\n1- Did the current progress of AI mathemati…",
+    "url": "https://biztoc.com/x/5734efa7acd171f0",
     "source": {
-      "name": "The Verge"
+      "name": "Biztoc.com"
     },
-    "publishedAt": "2026-09-28T16:56:26Z"
+    "publishedAt": "2026-09-26T18:35:37Z"
   },
   {
     "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
@@ -37,7 +46,7 @@
   },
   {
     "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
-    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
+    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI��s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
     "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
     "source": {
       "name": "Futurism"
@@ -52,15 +61,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-21T16:00:00Z"
-  },
-  {
-    "title": "OpenAI’s Noam Brown reveals how AI agents solved a Millennium Prize Problem in 88 hours",
-    "description": "AI's rapid problem-solving hints at transformative potential in research, yet human intuition remains crucial for guiding meaningful innovation.\nThe post OpenAI’s Noam Brown reveals how AI agents solved a Millennium Prize Problem in 88 hours appeared first on…",
-    "url": "https://cryptobriefing.com/openai-noam-brown-ai-agents-agi/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-09-19T12:04:15Z"
   },
   {
     "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
