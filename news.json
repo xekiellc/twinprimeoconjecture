@@ -1,5 +1,14 @@
 [
   {
+    "title": "No Shortcuts in the Travelling Salesperson Problem",
+    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
+    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-09-30T12:00:00Z"
+  },
+  {
     "title": "Can AI truly prove anything?",
     "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
     "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
@@ -16,15 +25,6 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-09-28T16:56:26Z"
-  },
-  {
-    "title": "What should I ask Terence Tao?",
-    "description": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?\nThe post What should I ask Terence Tao? appeared first on Marginal REVOLUTION.\n \nComments\n1- Did the current progress of AI mathemati…",
-    "url": "https://biztoc.com/x/5734efa7acd171f0",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-09-26T18:35:37Z"
   },
   {
     "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
