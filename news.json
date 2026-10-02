@@ -9,15 +9,6 @@
     "publishedAt": "2026-09-30T14:00:26Z"
   },
   {
-    "title": "No Shortcuts in the Travelling Salesperson Problem",
-    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
-    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-09-30T12:00:00Z"
-  },
-  {
     "title": "Can AI truly prove anything?",
     "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
     "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
@@ -43,6 +34,15 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-09-26T17:00:23Z"
+  },
+  {
+    "title": "Dear conferences, journals, and hiring committees: don’t wait for everyone else",
+    "description": "Amit Harlev, PhD student at the Cornell Center for Applied Mathematics In the last half year there has been a massive shift in the “Math and AI” discourse, primarily driven by changes in AI capabilities. In almost no time at all the collective opinion went fr…",
+    "url": "https://proofsandprompts.com/2026/09/25/dear-conferences-journals-and-hiring-committees-dont-wait-for-everyone-else/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-25T11:00:00Z"
   },
   {
     "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
