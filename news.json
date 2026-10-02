@@ -9,15 +9,6 @@
     "publishedAt": "2026-09-30T14:00:26Z"
   },
   {
-    "title": "No Shortcuts in the Travelling Salesperson Problem",
-    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
-    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-09-30T12:00:00Z"
-  },
-  {
     "title": "Can AI truly prove anything?",
     "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
     "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
@@ -45,6 +36,15 @@
     "publishedAt": "2026-09-26T17:00:23Z"
   },
   {
+    "title": "Dear conferences, journals, and hiring committees: don’t wait for everyone else",
+    "description": "Amit Harlev, PhD student at the Cornell Center for Applied Mathematics In the last half year there has been a massive shift in the “Math and AI” discourse, primarily driven by changes in AI capabilities. In almost no time at all the collective opinion went fr…",
+    "url": "https://proofsandprompts.com/2026/09/25/dear-conferences-journals-and-hiring-committees-dont-wait-for-everyone-else/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-25T11:00:00Z"
+  },
+  {
     "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
     "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
     "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
@@ -61,6 +61,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-09-21T16:00:00Z"
+  },
+  {
+    "title": "History and Future of Fluid Dynamics",
+    "description": "Saksham Sharma, Postdoc at Caltech It is as if there existed, for what seems like millennia, tracing back to the very origins of mathematics and of other arts and sciences, a sort of “conspiracy of silence” surrounding these “unspeakable labors” which precede…",
+    "url": "https://proofsandprompts.com/2026/09/20/history-and-future-of-fluid-dynamics/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-09-20T14:00:00Z"
   },
   {
     "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
@@ -88,15 +97,6 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-09-17T11:00:00Z"
-  },
-  {
-    "title": "Jean-Pierre Serre is 100 years old today",
-    "description": "Jean-Pierre Serre is a French mathematician who has made important contributions to algebraic topology, algebraic geometry, and algebraic number theory. He was a member of Bourbaki.",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "source": {
-      "name": "St-andrews.ac.uk"
-    },
-    "publishedAt": "2026-09-15T20:57:18Z"
   },
   {
     "title": "Which million-dollar math problem could AI solve next?",
