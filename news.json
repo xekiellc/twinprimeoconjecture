@@ -1,14 +1,5 @@
 [
   {
-    "title": "In The Wake Of The Latest Unprecedented AI Proofs, What Now For Mathematics And Mathematicians?",
-    "description": "As arguments rage about the possible or real threats of AI, there is one domain that AI has already turned on its head, and in the space of just the last few weeks: mathematics. The first hint of what was coming arrived in May, when OpenAI announced that one …",
-    "url": "http://www.techdirt.com/2026/09/30/in-the-wake-of-the-latest-unprecedented-ai-proofs-what-now-for-mathematics-and-mathematicians/",
-    "source": {
-      "name": "Techdirt"
-    },
-    "publishedAt": "2026-09-30T20:04:00Z"
-  },
-  {
     "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
     "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
     "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
@@ -16,6 +7,15 @@
       "name": "Kdnuggets.com"
     },
     "publishedAt": "2026-09-30T14:00:26Z"
+  },
+  {
+    "title": "No Shortcuts in the Travelling Salesperson Problem",
+    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
+    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-09-30T12:00:00Z"
   },
   {
     "title": "Can AI truly prove anything?",
@@ -27,13 +27,13 @@
     "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "title": "What should I ask Terence Tao?",
+    "description": "Yes, I will be doing a Conversation with him. And he has a new book coming out Six Math Essentials. So what should I ask him?\nThe post What should I ask Terence Tao? appeared first on Marginal REVOLUTION.\n \nComments\n1- Did the current progress of AI mathemati…",
+    "url": "https://biztoc.com/x/5734efa7acd171f0",
     "source": {
-      "name": "The Verge"
+      "name": "Biztoc.com"
     },
-    "publishedAt": "2026-09-28T16:56:26Z"
+    "publishedAt": "2026-09-26T18:35:37Z"
   },
   {
     "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
@@ -63,13 +63,13 @@
     "publishedAt": "2026-09-21T16:00:00Z"
   },
   {
-    "title": "History and Future of Fluid Dynamics",
-    "description": "Saksham Sharma, Postdoc at Caltech It is as if there existed, for what seems like millennia, tracing back to the very origins of mathematics and of other arts and sciences, a sort of “conspiracy of silence” surrounding these “unspeakable labors” which precede…",
-    "url": "https://proofsandprompts.com/2026/09/20/history-and-future-of-fluid-dynamics/",
+    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
+    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
+    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
     "source": {
-      "name": "Proofsandprompts.com"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-09-20T14:00:00Z"
+    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
