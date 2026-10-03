@@ -1,5 +1,14 @@
 [
   {
+    "title": "247A, Notes 2: The Hardy–Littlewood maximal function and applications",
+    "description": "— 1. The Hardy-Littlewood maximal inequality — We work in Euclidean space with Lebesgue measure; we write instead of for the Lebesgue measure of a set . For any and let denote the open ball of radius centred at . Thus for instance . For any , we use to denote…",
+    "url": "https://terrytao.wordpress.com/2026/10/02/247a-notes-2-the-hardy-littlewood-maximal-function-and-applications/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-02T14:52:25Z"
+  },
+  {
     "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
     "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
     "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems/",
@@ -43,15 +52,6 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-09-26T17:00:23Z"
-  },
-  {
-    "title": "Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible",
-    "description": "\"The paper is not written for humans.\"\nThe post Mathematicians Can’t Make Sense of How OpenAI’s Agents Solved One of the Toughest Math Problems Because the AI’s “Proof” Is Borderline Incomprehensible appeared first on Futurism.",
-    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
-    "source": {
-      "name": "Futurism"
-    },
-    "publishedAt": "2026-09-23T14:17:31Z"
   },
   {
     "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
