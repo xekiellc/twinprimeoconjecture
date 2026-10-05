@@ -63,6 +63,15 @@
     "publishedAt": "2026-09-26T17:00:23Z"
   },
   {
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
+    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-09-21T16:00:00Z"
+  },
+  {
     "title": "I Vibed a Proof of Conway's Conjecture",
     "description": "You can just prove things, apparently.",
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
@@ -70,15 +79,6 @@
       "name": "Overreacted.io"
     },
     "publishedAt": "2026-09-18T14:36:10Z"
-  },
-  {
-    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
-    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
-    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
