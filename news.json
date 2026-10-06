@@ -1,5 +1,23 @@
 [
   {
+    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
+    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
+    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
+    "source": {
+      "name": "newsBTC"
+    },
+    "publishedAt": "2026-10-05T18:00:32Z"
+  },
+  {
+    "title": "247A, Notes 2: The Hardy–Littlewood maximal function and applications",
+    "description": "— 1. The Hardy-Littlewood maximal inequality — We work in Euclidean space with Lebesgue measure; we write instead of for the Lebesgue measure of a set . For any and let denote the open ball of radius centred at . Thus for instance . For any , we use to denote…",
+    "url": "https://terrytao.wordpress.com/2026/10/02/247a-notes-2-the-hardy-littlewood-maximal-function-and-applications/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-02T14:52:25Z"
+  },
+  {
     "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
     "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
     "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems/",
@@ -54,15 +72,6 @@
     "publishedAt": "2026-09-26T17:00:23Z"
   },
   {
-    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-    "description": "OpenAI’s proof seems eligible for a $1-million prize—but only by using a controversial loophole",
-    "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-09-21T16:00:00Z"
-  },
-  {
     "title": "I Vibed a Proof of Conway's Conjecture",
     "description": "You can just prove things, apparently.",
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
@@ -70,15 +79,6 @@
       "name": "Overreacted.io"
     },
     "publishedAt": "2026-09-18T14:36:10Z"
-  },
-  {
-    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
-    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
-    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
