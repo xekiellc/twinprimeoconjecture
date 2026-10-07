@@ -9,6 +9,15 @@
     "publishedAt": "2026-10-05T18:00:32Z"
   },
   {
+    "title": "247A, Notes 2: The Hardy–Littlewood maximal function and applications",
+    "description": "— 1. The Hardy-Littlewood maximal inequality — We work in Euclidean space with Lebesgue measure; we write instead of for the Lebesgue measure of a set . For any and let denote the open ball of radius centred at . Thus for instance . For any , we use to denote…",
+    "url": "https://terrytao.wordpress.com/2026/10/02/247a-notes-2-the-hardy-littlewood-maximal-function-and-applications/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-02T14:52:25Z"
+  },
+  {
     "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
     "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
     "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems/",
@@ -43,15 +52,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-09-30T12:00:00Z"
-  },
-  {
-    "title": "Can AI truly prove anything?",
-    "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
-    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
     "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
