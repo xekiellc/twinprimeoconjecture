@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
+    "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+    "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-10-06T22:19:00Z"
+  },
+  {
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "description": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "source": {
+      "name": "Wired"
+    },
+    "publishedAt": "2026-10-06T17:28:33Z"
+  },
+  {
     "title": "AIAS+ 2026 Brings Leading Scientists to San Francisco to Explore How AI Is Changing Scientific Discovery",
     "description": "Chen Institute symposium Nov. 5–7 will feature newly named 2026 Nobel Laureate Karl Deisseroth alongside Terence Tao, Jeffrey Ullman, James Collin, Zhijian \"James\" Chen, Yejin Choi, Daphne Koller and other leaders exploring how AI can accelerate scientific di…",
     "url": "https://www.prnewswire.com/news-releases/aias-2026-brings-leading-scientists-to-san-francisco-to-explore-how-ai-is-changing-scientific-discovery-302900043.html",
@@ -9,22 +27,13 @@
     "publishedAt": "2026-10-06T16:07:00Z"
   },
   {
-    "title": "Changes to the Erdős problems web site",
-    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
-    "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
+    "title": "All the drama around AI’s takeover of mathematics",
+    "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famou…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
     "source": {
-      "name": "Wordpress.com"
+      "name": "The Verge"
     },
-    "publishedAt": "2026-10-06T14:37:30Z"
-  },
-  {
-    "title": "247A, Notes 2: The Hardy–Littlewood maximal function and applications",
-    "description": "— 1. The Hardy-Littlewood maximal inequality — We work in Euclidean space with Lebesgue measure; we write instead of for the Lebesgue measure of a set . For any and let denote the open ball of radius centred at . Thus for instance . For any , we use to denote…",
-    "url": "https://terrytao.wordpress.com/2026/10/02/247a-notes-2-the-hardy-littlewood-maximal-function-and-applications/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-02T14:52:25Z"
+    "publishedAt": "2026-10-05T19:28:59Z"
   },
   {
     "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
@@ -45,40 +54,40 @@
     "publishedAt": "2026-10-02T10:00:00Z"
   },
   {
-    "title": "What Does the Fourth Dimension Actually Look Like?",
-    "description": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
-    "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+    "title": "In The Wake Of The Latest Unprecedented AI Proofs, What Now For Mathematics And Mathematicians?",
+    "description": "As arguments rage about the possible or real threats of AI, there is one domain that AI has already turned on its head, and in the space of just the last few weeks: mathematics. The first hint of what was coming arrived in May, when OpenAI announced that one …",
+    "url": "http://www.techdirt.com/2026/09/30/in-the-wake-of-the-latest-unprecedented-ai-proofs-what-now-for-mathematics-and-mathematicians/",
     "source": {
-      "name": "Quanta Magazine"
+      "name": "Techdirt"
     },
-    "publishedAt": "2026-10-01T13:20:29Z"
+    "publishedAt": "2026-09-30T20:04:00Z"
   },
   {
-    "title": "No Shortcuts in the Travelling Salesperson Problem",
-    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
-    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
+    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
+    "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
+    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
     "source": {
-      "name": "Spektrum.de"
+      "name": "Kdnuggets.com"
     },
-    "publishedAt": "2026-09-30T12:00:00Z"
+    "publishedAt": "2026-09-30T14:00:26Z"
   },
   {
-    "title": "Can AI truly prove anything?",
-    "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
-    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
     "source": {
-      "name": "Proofsandprompts.com"
+      "name": "The Verge"
     },
-    "publishedAt": "2026-09-29T11:00:00Z"
+    "publishedAt": "2026-09-28T16:56:26Z"
   },
   {
-    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
-    "description": "Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions - stormj-UH/spivak-lean",
-    "url": "https://github.com/stormj-UH/spivak-lean",
+    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
+    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
+    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
     "source": {
-      "name": "Github.com"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-09-26T17:00:23Z"
+    "publishedAt": "2026-09-17T12:27:16Z"
   },
   {
     "title": "Two Mathematical Revolutions Separated by More than Time",
@@ -97,14 +106,5 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-09-17T11:00:00Z"
-  },
-  {
-    "title": "Which million-dollar math problem could AI solve next?",
-    "description": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next",
-    "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-09-15T16:00:00Z"
   }
 ]
