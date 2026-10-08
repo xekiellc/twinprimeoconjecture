@@ -1,5 +1,32 @@
 [
   {
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "description": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+    "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "source": {
+      "name": "Decrypt"
+    },
+    "publishedAt": "2026-10-07T21:46:03Z"
+  },
+  {
+    "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
+    "description": "OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model.  Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathem…",
+    "url": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
+    "source": {
+      "name": "SiliconANGLE News"
+    },
+    "publishedAt": "2026-10-07T20:37:22Z"
+  },
+  {
+    "title": "OpenAI publishes solutions to more than 370 outstanding math challenges. The results divide mathematicians but most agree: math will never be the same",
+    "description": "Some mathematicians celebrated OpenAI's results. Others decried the company's effort as an assault on their field.",
+    "url": "https://fortune.com/2026/10/07/openai-math-controversy-solutions-370-outstanding-challenges-published-criticisms-celebration/",
+    "source": {
+      "name": "Fortune"
+    },
+    "publishedAt": "2026-10-07T19:47:06Z"
+  },
+  {
     "title": "OpenAI Releases 722 AI-Written Math Papers Claiming Hundreds of Breakthroughs, but Experts Urge Caution",
     "description": "OpenAI has published 722 manuscripts from an unreleased AI model, claiming advances on hundreds of mathematical problems that experts say require extensive independent verification.",
     "url": "https://www.ibtimes.com.au/openai-ai-mathematics-manuscripts-verification-1876387",
@@ -25,6 +52,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-06T22:19:00Z"
+  },
+  {
+    "title": "AIAS+ 2026 Brings Leading Scientists to San Francisco to Explore How AI Is Changing Scientific Discovery",
+    "description": "Chen Institute symposium Nov. 5–7 will feature newly named 2026 Nobel Laureate Karl Deisseroth alongside Terence Tao, Jeffrey Ullman, James Collin, Zhijian \"James\" Chen, Yejin Choi, Daphne Koller and other leaders exploring how AI can accelerate scientific di…",
+    "url": "https://www.prnewswire.com/news-releases/aias-2026-brings-leading-scientists-to-san-francisco-to-explore-how-ai-is-changing-scientific-discovery-302900043.html",
+    "source": {
+      "name": "PRNewswire"
+    },
+    "publishedAt": "2026-10-06T16:07:00Z"
   },
   {
     "title": "Changes to the Erdős problems web site",
@@ -54,13 +90,13 @@
     "publishedAt": "2026-10-05T18:00:32Z"
   },
   {
-    "title": "On classical solutions and singularity formation in incompressible fluids",
-    "description": "[This is a guest post by Diego Córdoba and Luis Martínez-Zoroa. This blog post was initially written in a different file format and converted using AI. — T.] Euler formulated the equations for an inviscid incompressible fluid more than 250 years ago. Publishe…",
-    "url": "https://terrytao.wordpress.com/2026/10/04/on-classical-solutions-and-singularity-formation-in-incompressible-fluids/",
+    "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
+    "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
+    "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems/",
     "source": {
-      "name": "Wordpress.com"
+      "name": "Crypto Briefing"
     },
-    "publishedAt": "2026-10-04T15:25:28Z"
+    "publishedAt": "2026-10-02T10:36:33Z"
   },
   {
     "title": "Mathematicians Name 50 of the Highest-Stakes Problems in Math",
@@ -70,41 +106,5 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-02T10:00:00Z"
-  },
-  {
-    "title": "What Does the Fourth Dimension Actually Look Like?",
-    "description": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
-    "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-10-01T13:20:29Z"
-  },
-  {
-    "title": "No Shortcuts in the Travelling Salesperson Problem",
-    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
-    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-09-30T12:00:00Z"
-  },
-  {
-    "title": "Can AI truly prove anything?",
-    "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
-    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-09-29T11:00:00Z"
-  },
-  {
-    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
-    "description": "Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions - stormj-UH/spivak-lean",
-    "url": "https://github.com/stormj-UH/spivak-lean",
-    "source": {
-      "name": "Github.com"
-    },
-    "publishedAt": "2026-09-26T17:00:23Z"
   }
 ]
