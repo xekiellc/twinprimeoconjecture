@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
+    "description": "The firm used unreleased models to tackle hundreds of high-profile problems.",
+    "url": "https://www.nature.com/articles/d41586-026-03196-8",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-10-07T00:00:00Z"
+  },
+  {
     "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
     "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
     "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
@@ -7,15 +16,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-06T22:19:00Z"
-  },
-  {
-    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-    "description": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "source": {
-      "name": "Wired"
-    },
-    "publishedAt": "2026-10-06T17:28:33Z"
   },
   {
     "title": "AIAS+ 2026 Brings Leading Scientists to San Francisco to Explore How AI Is Changing Scientific Discovery",
@@ -27,6 +27,15 @@
     "publishedAt": "2026-10-06T16:07:00Z"
   },
   {
+    "title": "Changes to the Erdős problems web site",
+    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
+    "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-06T14:37:30Z"
+  },
+  {
     "title": "All the drama around AI’s takeover of mathematics",
     "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famou…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
@@ -36,13 +45,13 @@
     "publishedAt": "2026-10-05T19:28:59Z"
   },
   {
-    "title": "Google’s Gemini agents find new proofs for five unsolved math problems",
-    "description": "AI-driven breakthroughs in unsolved math problems could revolutionize fields like combinatorics and quantum optics, enhancing AI's role in research.\nThe post Google’s Gemini agents find new proofs for five unsolved math problems appeared first on Crypto Brief…",
-    "url": "https://cryptobriefing.com/google-gemini-proofs-unsolved-math-problems/",
+    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
+    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
+    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
     "source": {
-      "name": "Crypto Briefing"
+      "name": "newsBTC"
     },
-    "publishedAt": "2026-10-02T10:36:33Z"
+    "publishedAt": "2026-10-05T18:00:32Z"
   },
   {
     "title": "Mathematicians Name 50 of the Highest-Stakes Problems in Math",
@@ -54,31 +63,22 @@
     "publishedAt": "2026-10-02T10:00:00Z"
   },
   {
-    "title": "In The Wake Of The Latest Unprecedented AI Proofs, What Now For Mathematics And Mathematicians?",
-    "description": "As arguments rage about the possible or real threats of AI, there is one domain that AI has already turned on its head, and in the space of just the last few weeks: mathematics. The first hint of what was coming arrived in May, when OpenAI announced that one …",
-    "url": "http://www.techdirt.com/2026/09/30/in-the-wake-of-the-latest-unprecedented-ai-proofs-what-now-for-mathematics-and-mathematicians/",
+    "title": "Can AI truly prove anything?",
+    "description": "Stepan Nesterov, PhD student at Stanford University About a hundred years ago, David Hilbert gave a rigorous definition of a mathematical proof: Definition. A mathematical proof is a sequence of formal statements A1,…,AnA_1, \\ldots, A_n such that every statem…",
+    "url": "https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/",
     "source": {
-      "name": "Techdirt"
+      "name": "Proofsandprompts.com"
     },
-    "publishedAt": "2026-09-30T20:04:00Z"
+    "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
-    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
-    "description": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
-    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
+    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+    "description": "Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions - stormj-UH/spivak-lean",
+    "url": "https://github.com/stormj-UH/spivak-lean",
     "source": {
-      "name": "Kdnuggets.com"
+      "name": "Github.com"
     },
-    "publishedAt": "2026-09-30T14:00:26Z"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-09-28T16:56:26Z"
+    "publishedAt": "2026-09-26T17:00:23Z"
   },
   {
     "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
