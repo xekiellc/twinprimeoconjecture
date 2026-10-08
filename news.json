@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI Releases 722 AI-Written Math Papers Claiming Hundreds of Breakthroughs, but Experts Urge Caution",
+    "description": "OpenAI has published 722 manuscripts from an unreleased AI model, claiming advances on hundreds of mathematical problems that experts say require extensive independent verification.",
+    "url": "https://www.ibtimes.com.au/openai-ai-mathematics-manuscripts-verification-1876387",
+    "source": {
+      "name": "Ibtimes.com.au"
+    },
+    "publishedAt": "2026-10-07T09:00:42Z"
+  },
+  {
     "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
     "description": "The firm used unreleased models to tackle hundreds of high-profile problems.",
     "url": "https://www.nature.com/articles/d41586-026-03196-8",
@@ -90,21 +99,12 @@
     "publishedAt": "2026-09-29T11:00:00Z"
   },
   {
-    "title": "OpenAI may have solved the Navier-Stokes equation — but mathematics is more than $1 million trophy hunts",
-    "description": "Silicon Valley may end mathematical trophy hunting by making sport of it. But the modern mathematical landscape is so much broader than that.",
-    "url": "https://theconversation.com/openai-may-have-solved-the-navier-stokes-equation-but-mathematics-is-more-than-1-million-trophy-hunts-291963",
+    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+    "description": "Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions - stormj-UH/spivak-lean",
+    "url": "https://github.com/stormj-UH/spivak-lean",
     "source": {
-      "name": "The Conversation Africa"
+      "name": "Github.com"
     },
-    "publishedAt": "2026-09-17T12:27:16Z"
-  },
-  {
-    "title": "Two Mathematical Revolutions Separated by More than Time",
-    "description": "On the occasion of Bernhard Riemann’s 200th birthday, looking back at how the German genius transformed mathematical practice is informative at a time of enormous upheaval in mathematics due to the rise of AI. Read more\nThe post Two Mathematical Revolutions S…",
-    "url": "https://scilogs.spektrum.de/hlf/two-mathematical-revolutions-separated-by-more-than-time/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-09-17T12:00:00Z"
+    "publishedAt": "2026-09-26T17:00:23Z"
   }
 ]
