@@ -1,5 +1,14 @@
 [
   {
+    "title": "The most exciting claims from OpenAI’s heap of new proofs",
+    "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
+    "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-10-08T19:30:00Z"
+  },
+  {
     "title": "100+ reactions to 100+ solutions",
     "description": "“We are all grappling with the announcement of 6 October. We think that it is useful to have a snapshot of the community's gut feeling today, and this is what you see below. We will keep it open for another week, and you are welcome to send us further short r…",
     "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
@@ -25,6 +34,15 @@
       "name": "Slashdot.org"
     },
     "publishedAt": "2026-10-08T07:00:00Z"
+  },
+  {
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "description": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+    "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "source": {
+      "name": "Decrypt"
+    },
+    "publishedAt": "2026-10-07T21:46:03Z"
   },
   {
     "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
@@ -72,15 +90,6 @@
     "publishedAt": "2026-10-06T14:37:30Z"
   },
   {
-    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
-    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
-    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-05T18:00:32Z"
-  },
-  {
     "title": "Mathematicians Name 50 of the Highest-Stakes Problems in Math",
     "description": "Mathematicians have a new bucket list of open questions to chase",
     "url": "https://www.scientificamerican.com/article/mathematicians-name-50-of-the-highest-stakes-problems-in-math/",
@@ -88,15 +97,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-02T10:00:00Z"
-  },
-  {
-    "title": "What Does the Fourth Dimension Actually Look Like?",
-    "description": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
-    "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-10-01T13:20:29Z"
   },
   {
     "title": "No Shortcuts in the Travelling Salesperson Problem",
