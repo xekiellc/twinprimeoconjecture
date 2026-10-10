@@ -1,5 +1,14 @@
 [
   {
+    "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
+    "description": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
+    "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+    "source": {
+      "name": "The Conversation Africa"
+    },
+    "publishedAt": "2026-10-09T03:25:51Z"
+  },
+  {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
     "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
     "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
@@ -7,15 +16,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-08T19:30:00Z"
-  },
-  {
-    "title": "100+ reactions to 100+ solutions",
-    "description": "“We are all grappling with the announcement of 6 October. We think that it is useful to have a snapshot of the community's gut feeling today, and this is what you see below. We will keep it open for another week, and you are welcome to send us further short r…",
-    "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-10-08T15:22:23Z"
   },
   {
     "title": "Mathematicians are combing through OpenAI’s AI-generated results on over 300 problems",
@@ -81,6 +81,15 @@
     "publishedAt": "2026-10-07T00:00:00Z"
   },
   {
+    "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
+    "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+    "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-10-06T22:19:00Z"
+  },
+  {
     "title": "Changes to the Erdős problems web site",
     "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
     "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
@@ -97,14 +106,5 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-02T10:00:00Z"
-  },
-  {
-    "title": "No Shortcuts in the Travelling Salesperson Problem",
-    "description": "Shayan Oveis Gharan discusses the ‘polynomial paradigm’ and how he has used it as powerful algebraic machinery to make progress on hard combinatorial optimisation conundrums, most notably the classic metric travelling salesperson problem. Read more\nThe post N…",
-    "url": "https://scilogs.spektrum.de/hlf/no-shortcuts-in-the-travelling-salesperson-problem/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-09-30T12:00:00Z"
   }
 ]
