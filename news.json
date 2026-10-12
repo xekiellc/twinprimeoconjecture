@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
+    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
+    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
+    "source": {
+      "name": "Online-tech-tips.com"
+    },
+    "publishedAt": "2026-10-11T04:53:09Z"
+  },
+  {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
     "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
@@ -16,6 +25,15 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-09T16:35:03Z"
+  },
+  {
+    "title": "OpenAI Published Full or Partial Solutions to 372 Math Problems, With Much of the Work Still Awaiting Independent Verification",
+    "description": "OpenAI’s proposed answers to 372 long-standing math problems span 722 papers, leaving mathematicians with a vast amount of work to check. Announced on October 6, the release includes complete and partial solutions, many still awaiting independent verification.",
+    "url": "https://thoughtcatalog.com/jeremy-london/2026/10/openai-published-full-or-partial-solutions-to-372-math-problems-with-much-of-the-work-still-awaiting-independent-verification/",
+    "source": {
+      "name": "Thoughtcatalog.com"
+    },
+    "publishedAt": "2026-10-09T12:30:54Z"
   },
   {
     "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
@@ -81,6 +99,15 @@
     "publishedAt": "2026-10-07T19:47:06Z"
   },
   {
+    "title": "The Mathocalypse",
+    "description": "Last night my 9-year-old son was taunting my wife, complexity theorist Dana Moshkovitz, as follows: “mommy, I heard you got cooked! I heard that a robot solved the math problem you worked on for your whole career! OOF!” While my son was being a brat, he also …",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "source": {
+      "name": "Scottaaronson.blog"
+    },
+    "publishedAt": "2026-10-07T18:57:26Z"
+  },
+  {
     "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
     "description": "The firm used unreleased models to tackle hundreds of high-profile problems.",
     "url": "https://www.nature.com/articles/d41586-026-03196-8",
@@ -88,6 +115,15 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-10-07T00:00:00Z"
+  },
+  {
+    "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
+    "description": "A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag",
+    "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-10-06T22:19:00Z"
   },
   {
     "title": "Changes to the Erdős problems web site",
