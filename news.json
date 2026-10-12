@@ -1,14 +1,5 @@
 [
   {
-    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
-    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
-    "source": {
-      "name": "Online-tech-tips.com"
-    },
-    "publishedAt": "2026-10-11T04:53:09Z"
-  },
-  {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
     "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
@@ -61,6 +52,15 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-10-08T15:22:23Z"
+  },
+  {
+    "title": "What should we tell our students?",
+    "description": "[This is a guest post by Álvaro Lozano-Robledo. This blog post was initially written in a different file format and converted using AI. — T.] TL;DR: Keep calm and carry on studying math. I would like to give Terry my heartfelt thanks for giving me the opportu…",
+    "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-08T14:43:35Z"
   },
   {
     "title": "Mathematicians are combing through OpenAI’s AI-generated results on over 300 problems",
