@@ -1,5 +1,14 @@
 [
   {
+    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
+    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
+    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
+    "source": {
+      "name": "Online-tech-tips.com"
+    },
+    "publishedAt": "2026-10-11T04:53:09Z"
+  },
+  {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
     "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
@@ -7,15 +16,6 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-09T19:11:12Z"
-  },
-  {
-    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
-    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-09T16:35:03Z"
   },
   {
     "title": "OpenAI Published Full or Partial Solutions to 372 Math Problems, With Much of the Work Still Awaiting Independent Verification",
@@ -52,15 +52,6 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-10-08T15:22:23Z"
-  },
-  {
-    "title": "What should we tell our students?",
-    "description": "[This is a guest post by Álvaro Lozano-Robledo. This blog post was initially written in a different file format and converted using AI. — T.] TL;DR: Keep calm and carry on studying math. I would like to give Terry my heartfelt thanks for giving me the opportu…",
-    "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-08T14:43:35Z"
   },
   {
     "title": "Mathematicians are combing through OpenAI’s AI-generated results on over 300 problems",
@@ -127,7 +118,7 @@
   },
   {
     "title": "Changes to the Erdős problems web site",
-    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. �� T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
+    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
     "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
     "source": {
       "name": "Wordpress.com"
@@ -135,12 +126,12 @@
     "publishedAt": "2026-10-06T14:37:30Z"
   },
   {
-    "title": "Mathematicians Name 50 of the Highest-Stakes Problems in Math",
-    "description": "Mathematicians have a new bucket list of open questions to chase",
-    "url": "https://www.scientificamerican.com/article/mathematicians-name-50-of-the-highest-stakes-problems-in-math/",
+    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
+    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
+    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
     "source": {
-      "name": "Scientific American"
+      "name": "newsBTC"
     },
-    "publishedAt": "2026-10-02T10:00:00Z"
+    "publishedAt": "2026-10-05T18:00:32Z"
   }
 ]
