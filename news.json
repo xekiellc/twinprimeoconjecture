@@ -18,6 +18,15 @@
     "publishedAt": "2026-10-09T19:11:12Z"
   },
   {
+    "title": "The AI 'mathpocalypse': Artificial intelligence systems crack hundreds of unsolved problems, sparking fears that mathematicians could become obsolete",
+    "description": "OpenAI announced that an unreleased artificial intelligence (AI) has cracked hundreds of unsolved problems, sparking a crisis in the mathematics world.",
+    "url": "https://www.dailymail.com/sciencetech/article-16195709/AI-Mathpocalypse-mathematician-obsolete-fears.html",
+    "source": {
+      "name": "Dailymail.com"
+    },
+    "publishedAt": "2026-10-09T11:27:10Z"
+  },
+  {
     "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
     "description": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
     "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
@@ -25,15 +34,6 @@
       "name": "The Conversation Africa"
     },
     "publishedAt": "2026-10-09T03:25:51Z"
-  },
-  {
-    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
-    "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
-    "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
-    "source": {
-      "name": "Retractionwatch.com"
-    },
-    "publishedAt": "2026-10-08T22:20:59Z"
   },
   {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
