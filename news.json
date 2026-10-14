@@ -27,6 +27,15 @@
     "publishedAt": "2026-10-09T03:25:51Z"
   },
   {
+    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
+    "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
+    "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+    "source": {
+      "name": "Retractionwatch.com"
+    },
+    "publishedAt": "2026-10-08T22:20:59Z"
+  },
+  {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
     "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
     "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
@@ -61,15 +70,6 @@
       "name": "SiliconANGLE News"
     },
     "publishedAt": "2026-10-07T20:37:22Z"
-  },
-  {
-    "title": "OpenAI publishes solutions to more than 370 outstanding math challenges. The results divide mathematicians but most agree: math will never be the same",
-    "description": "Some mathematicians celebrated OpenAI's results. Others decried the company's effort as an assault on their field.",
-    "url": "https://fortune.com/2026/10/07/openai-math-controversy-solutions-370-outstanding-challenges-published-criticisms-celebration/",
-    "source": {
-      "name": "Fortune"
-    },
-    "publishedAt": "2026-10-07T19:47:06Z"
   },
   {
     "title": "The Mathocalypse",
