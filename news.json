@@ -1,12 +1,12 @@
 [
   {
-    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
-    "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
-    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+    "title": "The Dialectical Theorem",
+    "description": "We consider the future of mathematics as a profession in a world where artificial intelligence may surpass human mathematicians in essentially every technical task. Through an informal dialogue, we explore why human mathematical expertise might nevertheless r…",
+    "url": "https://proofsandprompts.com/2026/10/14/the-dialectical-theorem/",
     "source": {
-      "name": "TechRadar"
+      "name": "Proofsandprompts.com"
     },
-    "publishedAt": "2026-10-12T19:05:00Z"
+    "publishedAt": "2026-10-14T09:00:00Z"
   },
   {
     "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
@@ -45,15 +45,6 @@
     "publishedAt": "2026-10-09T03:25:51Z"
   },
   {
-    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
-    "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
-    "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
-    "source": {
-      "name": "Retractionwatch.com"
-    },
-    "publishedAt": "2026-10-08T22:20:59Z"
-  },
-  {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
     "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
     "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
@@ -70,15 +61,6 @@
       "name": "Proofsandprompts.com"
     },
     "publishedAt": "2026-10-08T15:22:23Z"
-  },
-  {
-    "title": "Mathematicians are combing through OpenAI’s AI-generated results on over 300 problems",
-    "description": "Mathematicians are reviewing 722 manuscripts from OpenAI's unreleased AI model, covering 372 math problems with Lean proof verification.\nThe post Mathematicians are combing through OpenAI’s AI-generated results on over 300 problems appeared first on Crypto Br…",
-    "url": "https://cryptobriefing.com/openai-ai-math-results-mathematicians-review/",
-    "source": {
-      "name": "Crypto Briefing"
-    },
-    "publishedAt": "2026-10-08T14:04:03Z"
   },
   {
     "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
@@ -106,5 +88,23 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-10-07T00:00:00Z"
+  },
+  {
+    "title": "Changes to the Erdős problems web site",
+    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
+    "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-06T14:37:30Z"
+  },
+  {
+    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
+    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
+    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
+    "source": {
+      "name": "newsBTC"
+    },
+    "publishedAt": "2026-10-05T18:00:32Z"
   }
 ]
