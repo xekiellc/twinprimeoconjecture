@@ -45,6 +45,15 @@
     "publishedAt": "2026-10-09T03:25:51Z"
   },
   {
+    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
+    "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
+    "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+    "source": {
+      "name": "Retractionwatch.com"
+    },
+    "publishedAt": "2026-10-08T22:20:59Z"
+  },
+  {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
     "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
     "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
@@ -72,6 +81,15 @@
     "publishedAt": "2026-10-07T20:37:22Z"
   },
   {
+    "title": "OpenAI publishes solutions to more than 370 outstanding math challenges. The results divide mathematicians but most agree: math will never be the same",
+    "description": "Some mathematicians celebrated OpenAI's results. Others decried the company's effort as an assault on their field.",
+    "url": "https://fortune.com/2026/10/07/openai-math-controversy-solutions-370-outstanding-challenges-published-criticisms-celebration/",
+    "source": {
+      "name": "Fortune"
+    },
+    "publishedAt": "2026-10-07T19:47:06Z"
+  },
+  {
     "title": "The Mathocalypse",
     "description": "Last night my 9-year-old son was taunting my wife, complexity theorist Dana Moshkovitz, as follows: “mommy, I heard you got cooked! I heard that a robot solved the math problem you worked on for your whole career! OOF!” While my son was being a brat, he also …",
     "url": "https://scottaaronson.blog/?p=10169",
@@ -88,23 +106,5 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-10-07T00:00:00Z"
-  },
-  {
-    "title": "Changes to the Erdős problems web site",
-    "description": "[This is a guest post by Thomas Bloom, crossposted from the Erdős problems forum. This blog post was initially written in a different file format and converted using AI. — T.] AI is changing everything, for better and/or worse, and the rate of change is dizzy…",
-    "url": "https://terrytao.wordpress.com/2026/10/06/changes-to-the-erdos-problems-web-site/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-06T14:37:30Z"
-  },
-  {
-    "title": "Justin Sun Prize’s New Round Honors Human–AI Collaboration on Erdős Problems",
-    "description": "Geneva, Switzerland — October 5, 2026 — The Office of Justin Sun today announced the newest recipients of the Justin Sun Prize: independent researcher Wouter van Doorn, mathematics Ph.D. student Quanyu Tang, and mathematics researcher Yanyang Li from Nanjing’…",
-    "url": "http://www.newsbtc.com/news/justin-sun-prizes-new-round-honors-human-ai-collaboration-on-erdos-problems/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-05T18:00:32Z"
   }
 ]
