@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Dialectical Theorem",
+    "description": "We consider the future of mathematics as a profession in a world where artificial intelligence may surpass human mathematicians in essentially every technical task. Through an informal dialogue, we explore why human mathematical expertise might nevertheless r…",
+    "url": "https://proofsandprompts.com/2026/10/14/the-dialectical-theorem/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-10-14T09:00:00Z"
+  },
+  {
     "title": "Faster Fourier Transforms",
     "description": "The OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit.",
     "url": "https://www.argmin.net/p/faster-fourier-transforms",
@@ -7,15 +16,6 @@
       "name": "Argmin.net"
     },
     "publishedAt": "2026-10-12T14:01:02Z"
-  },
-  {
-    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
-    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
-    "source": {
-      "name": "Online-tech-tips.com"
-    },
-    "publishedAt": "2026-10-11T04:53:09Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
