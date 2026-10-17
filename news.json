@@ -9,15 +9,6 @@
     "publishedAt": "2026-10-14T09:00:00Z"
   },
   {
-    "title": "Faster Fourier Transforms",
-    "description": "The OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit.",
-    "url": "https://www.argmin.net/p/faster-fourier-transforms",
-    "source": {
-      "name": "Argmin.net"
-    },
-    "publishedAt": "2026-10-12T14:01:02Z"
-  },
-  {
     "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
     "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
     "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
@@ -61,6 +52,15 @@
       "name": "The Conversation Africa"
     },
     "publishedAt": "2026-10-09T03:25:51Z"
+  },
+  {
+    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems",
+    "description": "Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors.  On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported p…",
+    "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+    "source": {
+      "name": "Retractionwatch.com"
+    },
+    "publishedAt": "2026-10-08T22:20:59Z"
   },
   {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
