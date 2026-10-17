@@ -36,6 +36,15 @@
     "publishedAt": "2026-10-09T19:11:12Z"
   },
   {
+    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-09T16:35:03Z"
+  },
+  {
     "title": "The AI 'mathpocalypse': Artificial intelligence systems crack hundreds of unsolved problems, sparking fears that mathematicians could become obsolete",
     "description": "OpenAI announced that an unreleased artificial intelligence (AI) has cracked hundreds of unsolved problems, sparking a crisis in the mathematics world.",
     "url": "https://www.dailymail.com/sciencetech/article-16195709/AI-Mathpocalypse-mathematician-obsolete-fears.html",
@@ -79,15 +88,6 @@
       "name": "SiliconANGLE News"
     },
     "publishedAt": "2026-10-07T20:37:22Z"
-  },
-  {
-    "title": "The Mathocalypse",
-    "description": "Last night my 9-year-old son was taunting my wife, complexity theorist Dana Moshkovitz, as follows: “mommy, I heard you got cooked! I heard that a robot solved the math problem you worked on for your whole career! OOF!” While my son was being a brat, he also …",
-    "url": "https://scottaaronson.blog/?p=10169",
-    "source": {
-      "name": "Scottaaronson.blog"
-    },
-    "publishedAt": "2026-10-07T18:57:26Z"
   },
   {
     "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
