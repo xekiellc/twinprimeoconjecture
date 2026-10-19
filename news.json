@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Dialectical Theorem",
+    "description": "We consider the future of mathematics as a profession in a world where artificial intelligence may surpass human mathematicians in essentially every technical task. Through an informal dialogue, we explore why human mathematical expertise might nevertheless r…",
+    "url": "https://proofsandprompts.com/2026/10/14/the-dialectical-theorem/",
+    "source": {
+      "name": "Proofsandprompts.com"
+    },
+    "publishedAt": "2026-10-14T09:00:00Z"
+  },
+  {
     "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
     "description": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the AI-driven work",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
@@ -18,13 +27,13 @@
     "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
-    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
-    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
+    "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+    "description": "",
+    "url": "https://blueberrywren.dev/blog/primes/",
     "source": {
-      "name": "Online-tech-tips.com"
+      "name": "Blueberrywren.dev"
     },
-    "publishedAt": "2026-10-11T04:53:09Z"
+    "publishedAt": "2026-10-12T05:47:01Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
@@ -36,6 +45,15 @@
     "publishedAt": "2026-10-09T19:11:12Z"
   },
   {
+    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-09T16:35:03Z"
+  },
+  {
     "title": "OpenAI Published Full or Partial Solutions to 372 Math Problems, With Much of the Work Still Awaiting Independent Verification",
     "description": "OpenAI’s proposed answers to 372 long-standing math problems span 722 papers, leaving mathematicians with a vast amount of work to check. Announced on October 6, the release includes complete and partial solutions, many still awaiting independent verification.",
     "url": "https://thoughtcatalog.com/jeremy-london/2026/10/openai-published-full-or-partial-solutions-to-372-math-problems-with-much-of-the-work-still-awaiting-independent-verification/",
@@ -43,24 +61,6 @@
       "name": "Thoughtcatalog.com"
     },
     "publishedAt": "2026-10-09T12:30:54Z"
-  },
-  {
-    "title": "The AI 'mathpocalypse': Artificial intelligence systems crack hundreds of unsolved problems, sparking fears that mathematicians could become obsolete",
-    "description": "OpenAI announced that an unreleased artificial intelligence (AI) has cracked hundreds of unsolved problems, sparking a crisis in the mathematics world.",
-    "url": "https://www.dailymail.com/sciencetech/article-16195709/AI-Mathpocalypse-mathematician-obsolete-fears.html",
-    "source": {
-      "name": "Dailymail.com"
-    },
-    "publishedAt": "2026-10-09T11:27:10Z"
-  },
-  {
-    "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
-    "description": "OpenAI released 722 new AI-generated mathematical papers at once – three have been retracted, and mathematicians are coming to grips with the rest.",
-    "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-10-09T03:25:51Z"
   },
   {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
