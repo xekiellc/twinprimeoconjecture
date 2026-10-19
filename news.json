@@ -1,14 +1,5 @@
 [
   {
-    "title": "The Dialectical Theorem",
-    "description": "We consider the future of mathematics as a profession in a world where artificial intelligence may surpass human mathematicians in essentially every technical task. Through an informal dialogue, we explore why human mathematical expertise might nevertheless r…",
-    "url": "https://proofsandprompts.com/2026/10/14/the-dialectical-theorem/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-10-14T09:00:00Z"
-  },
-  {
     "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
     "description": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the AI-driven work",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
@@ -16,6 +7,15 @@
       "name": "Tom's Hardware UK"
     },
     "publishedAt": "2026-10-13T12:30:00Z"
+  },
+  {
+    "title": "A Visual Intro to Complex Numbers",
+    "description": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\nComments URL: https://news.ycombinator.com/item?id=50070287\nPoints: 5\n# Comments: 0",
+    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+    "source": {
+      "name": "Substack.com"
+    },
+    "publishedAt": "2026-10-13T12:00:04Z"
   },
   {
     "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
@@ -27,13 +27,13 @@
     "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
-    "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-    "description": "",
-    "url": "https://blueberrywren.dev/blog/primes/",
+    "title": "AI’s mathematical abilities are disconcerting",
+    "description": "AI, according to one of the best mathematicians, will destroy human understanding and creativity",
+    "url": "https://www.thehindubusinessline.com/opinion/ais-mathematical-abilities-are-disconcerting/article71564897.ece",
     "source": {
-      "name": "Blueberrywren.dev"
+      "name": "BusinessLine"
     },
-    "publishedAt": "2026-10-12T05:47:01Z"
+    "publishedAt": "2026-10-11T14:28:10Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
