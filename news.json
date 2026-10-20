@@ -1,5 +1,14 @@
 [
   {
+    "title": "A sketch of the proof of non-existence of Siegel zeroes",
+    "description": "For a given prime , the Legendre symbol is defined as follows: if is a quadratic residue modulo , then ; if is a quadratic non-residue modulo , then ; and if divides , then . Let be an integer that is not a perfect square. (One could require to be a fundament…",
+    "url": "https://terrytao.wordpress.com/2026/10/19/a-sketch-of-the-proof-of-non-existence-of-siegel-zeroes/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-19T18:27:19Z"
+  },
+  {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
     "description": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
@@ -34,15 +43,6 @@
       "name": "Tom's Hardware UK"
     },
     "publishedAt": "2026-10-13T12:30:00Z"
-  },
-  {
-    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
-    "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
-    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
-    "source": {
-      "name": "TechRadar"
-    },
-    "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
     "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
