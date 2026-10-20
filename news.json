@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+    "description": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+    "source": {
+      "name": "Quanta Magazine"
+    },
+    "publishedAt": "2026-10-19T15:40:26Z"
+  },
+  {
     "title": "Math's 'romantic era' is over, UCLA prodigy says",
     "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
     "url": "https://biztoc.com/x/b6ddce040e1c9548",
@@ -27,15 +36,6 @@
     "publishedAt": "2026-10-13T12:30:00Z"
   },
   {
-    "title": "A Visual Intro to Complex Numbers",
-    "description": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\nComments URL: https://news.ycombinator.com/item?id=50070287\nPoints: 5\n# Comments: 0",
-    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
-    "source": {
-      "name": "Substack.com"
-    },
-    "publishedAt": "2026-10-13T12:00:04Z"
-  },
-  {
     "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
     "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
     "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
@@ -45,13 +45,13 @@
     "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
-    "title": "AI’s mathematical abilities are disconcerting",
-    "description": "AI, according to one of the best mathematicians, will destroy human understanding and creativity",
-    "url": "https://www.thehindubusinessline.com/opinion/ais-mathematical-abilities-are-disconcerting/article71564897.ece",
+    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
+    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
+    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
     "source": {
-      "name": "BusinessLine"
+      "name": "Online-tech-tips.com"
     },
-    "publishedAt": "2026-10-11T14:28:10Z"
+    "publishedAt": "2026-10-11T04:53:09Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
@@ -63,13 +63,13 @@
     "publishedAt": "2026-10-09T19:11:12Z"
   },
   {
-    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
-    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "title": "The AI 'mathpocalypse': Artificial intelligence systems crack hundreds of unsolved problems, sparking fears that mathematicians could become obsolete",
+    "description": "OpenAI announced that an unreleased artificial intelligence (AI) has cracked hundreds of unsolved problems, sparking a crisis in the mathematics world.",
+    "url": "https://www.dailymail.com/sciencetech/article-16195709/AI-Mathpocalypse-mathematician-obsolete-fears.html",
     "source": {
-      "name": "Wordpress.com"
+      "name": "Dailymail.com"
     },
-    "publishedAt": "2026-10-09T16:35:03Z"
+    "publishedAt": "2026-10-09T11:27:10Z"
   },
   {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
