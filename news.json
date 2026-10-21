@@ -45,6 +45,15 @@
     "publishedAt": "2026-10-13T12:30:00Z"
   },
   {
+    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+    "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
+    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
+    "source": {
+      "name": "TechRadar"
+    },
+    "publishedAt": "2026-10-12T19:05:00Z"
+  },
+  {
     "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
     "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
     "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
@@ -61,15 +70,6 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-09T19:11:12Z"
-  },
-  {
-    "title": "The AI 'mathpocalypse': Artificial intelligence systems crack hundreds of unsolved problems, sparking fears that mathematicians could become obsolete",
-    "description": "OpenAI announced that an unreleased artificial intelligence (AI) has cracked hundreds of unsolved problems, sparking a crisis in the mathematics world.",
-    "url": "https://www.dailymail.com/sciencetech/article-16195709/AI-Mathpocalypse-mathematician-obsolete-fears.html",
-    "source": {
-      "name": "Dailymail.com"
-    },
-    "publishedAt": "2026-10-09T11:27:10Z"
   },
   {
     "title": "The most exciting claims from OpenAI’s heap of new proofs",
