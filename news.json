@@ -1,30 +1,12 @@
 [
   {
-    "title": "Why we probably live in a quantum multiverse",
-    "description": "The once-fringe quantum Many Worlds theory now seems much more likely",
-    "url": "https://www.scientificamerican.com/article/why-we-probably-live-in-a-quantum-multiverse/",
+    "title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
+    "description": "In the spirit of my recent “Math 2.0” talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
+    "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
     "source": {
-      "name": "Scientific American"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-10-20T10:00:00Z"
-  },
-  {
-    "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-    "description": "Of all the forms of tech debt, decoherence is the worst. It compounds exponentially with a system's rate of change, and AI is now producing it faster than ever, leading us deeper and deeper into the abyss...",
-    "url": "https://maevyn.codes/decoherence",
-    "source": {
-      "name": "Maevyn.codes"
-    },
-    "publishedAt": "2026-10-20T05:47:01Z"
-  },
-  {
-    "title": "BioOra cuts ribbon on Christchurch CAR-T facility, plans for first patient in 2028",
-    "description": "National says it would invest $25m in BioOra if re-elected.",
-    "url": "https://www.nzherald.co.nz/nz/bioora-cuts-ribbon-on-christchurch-car-t-facility-plans-for-first-patient-in-2028/SW2NTTQRVNDXNBT4GADFR45XVE/",
-    "source": {
-      "name": "New Zealand Herald"
-    },
-    "publishedAt": "2026-10-20T04:20:06Z"
+    "publishedAt": "2026-10-20T15:35:00Z"
   },
   {
     "title": "A sketch of the proof of non-existence of Siegel zeroes",
@@ -45,15 +27,6 @@
     "publishedAt": "2026-10-19T15:40:26Z"
   },
   {
-    "title": "Maxwell: A new kind of model that sits between code and hardware",
-    "description": "Maxwell improves code while it runs, adapting to hardware and data. Every improvement is formally proven equivalent to the original code.",
-    "url": "https://heymaxwell.ai/",
-    "source": {
-      "name": "Heymaxwell.ai"
-    },
-    "publishedAt": "2026-10-19T13:47:56Z"
-  },
-  {
     "title": "Math's 'romantic era' is over, UCLA prodigy says",
     "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
     "url": "https://biztoc.com/x/b6ddce040e1c9548",
@@ -72,39 +45,66 @@
     "publishedAt": "2026-10-19T09:27:01Z"
   },
   {
-    "title": "Even sampling from a quantum spin glass may not require a quantum computer (a video abstract, for a change)",
-    "description": "First, why a video? I am part of a generation that was raised on a nourishing diet of science communication videos on YouTube. The likes of MinutePhysics, Veritasium, VSauce, Crash Course, TED-Ed, Physics Girl, 3Blue1Brown — you name it, these … Continue read…",
-    "url": "https://quantumfrontiers.com/2026/10/19/even-sampling-from-a-quantum-spin-glass-may-not-require-a-quantum-computer-a-video-abstract-for-a-change/",
+    "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
+    "description": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the AI-driven work",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
     "source": {
-      "name": "Quantumfrontiers.com"
+      "name": "Tom's Hardware UK"
     },
-    "publishedAt": "2026-10-19T09:08:28Z"
+    "publishedAt": "2026-10-13T12:30:00Z"
   },
   {
-    "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-    "description": "[This is a guest post by Francesco Maggi. This blog post was initially written in a different file format and converted using AI. — T.] Large language models (LLMs) and the research systems built around them (and commonly known as “artificial intelligence”) h…",
-    "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
+    "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
+    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
     "source": {
-      "name": "Wordpress.com"
+      "name": "TechRadar"
     },
-    "publishedAt": "2026-10-18T14:59:49Z"
+    "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
-    "title": "Letter to a prospective student",
-    "description": "It’s been a long summer here at Caltech, in part due to a super El Niño event which hit late but hard, with temperatures creeping up to the 100s in the first week of October. But in the history books … Continue reading →",
-    "url": "https://quantumfrontiers.com/2026/10/17/letter-to-a-prospective-student/",
+    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
+    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
+    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
     "source": {
-      "name": "Quantumfrontiers.com"
+      "name": "Online-tech-tips.com"
     },
-    "publishedAt": "2026-10-18T03:41:17Z"
+    "publishedAt": "2026-10-11T04:53:09Z"
   },
   {
-    "title": "Why Math Dumped OpenAI",
-    "description": "Honest people cannot \"embrace change\" when that change is a lie.",
-    "url": "https://raymyers.org/post/math-dumped-openai/",
+    "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+    "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
     "source": {
-      "name": "Raymyers.org"
+      "name": "The Verge"
     },
-    "publishedAt": "2026-10-17T06:19:44Z"
+    "publishedAt": "2026-10-09T19:11:12Z"
+  },
+  {
+    "title": "The most exciting claims from OpenAI’s heap of new proofs",
+    "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
+    "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-10-08T19:30:00Z"
+  },
+  {
+    "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
+    "description": "OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model.  Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathem…",
+    "url": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
+    "source": {
+      "name": "SiliconANGLE News"
+    },
+    "publishedAt": "2026-10-07T20:37:22Z"
+  },
+  {
+    "title": "OpenAI posts 700 maths preprints online: mathematicians are up in arms",
+    "description": "The firm used unreleased models to tackle hundreds of high-profile problems.",
+    "url": "https://www.nature.com/articles/d41586-026-03196-8",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-10-07T00:00:00Z"
   }
 ]
