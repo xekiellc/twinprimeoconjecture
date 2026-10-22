@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Quasi-Riemann Hypothesis",
+    "description": "What is the quasi-Riemann hypothesis, and what does it imply?",
+    "url": "https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html",
+    "source": {
+      "name": "Utexas.edu"
+    },
+    "publishedAt": "2026-10-21T20:21:43Z"
+  },
+  {
     "title": "Remind Me: What’s the Enormous Theorem?",
     "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
     "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
@@ -18,8 +27,17 @@
     "publishedAt": "2026-10-21T10:18:32Z"
   },
   {
+    "title": "Simple and critical zeros of the Riemann zeta-function",
+    "description": "[This is a guest post by Caroline Turnage-Butterbaugh. This blog post was initially written in a different file format and converted using AI. — T.] Evidence in favor of the Riemann Hypothesis comes in many flavors. OpenAI’s proof of the quasi-Riemann Hypothe…",
+    "url": "https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-20T20:13:30Z"
+  },
+  {
     "title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
-    "description": "In the spirit of my recent “Math 2.0” talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
+    "description": "In the spirit of my recent “Math 2.0�� talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
     "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
     "source": {
       "name": "Wordpress.com"
@@ -52,24 +70,6 @@
       "name": "Biztoc.com"
     },
     "publishedAt": "2026-10-19T09:37:01Z"
-  },
-  {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao earned his doctorate in mathematics when he was 20. He says AI tools are upending his field.",
-    "url": "https://www.businessinsider.com/math-ai-tools-openai-terence-tao-ucla-2026-10#article",
-    "source": {
-      "name": "Business Insider"
-    },
-    "publishedAt": "2026-10-19T09:27:01Z"
-  },
-  {
-    "title": "AI causes uproar in mathematics as experts warn against sharing research with LLMs after OpenAI shares 722 manuscripts and proofs",
-    "description": "Last week, OpenAI shared over 400 results for longstanding mathematical formulas that have troubled humans for decades; now researchers say it could take years for humans to validate and prove all the AI-driven work",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
-    "source": {
-      "name": "Tom's Hardware UK"
-    },
-    "publishedAt": "2026-10-13T12:30:00Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
