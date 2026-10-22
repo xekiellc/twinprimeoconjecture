@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Quasi-Riemann Hypothesis",
+    "description": "A well-known company recently dropped a proof of the ‘quasi-Riemann hypothesis’ as part of their theorem dump. Maksym Radziwiłł of New York University said the implications are “staggering”, continuing: In a sense, the vast majority of consequences of RH alre…",
+    "url": "https://johncarlosbaez.wordpress.com/2026/10/21/the-quasi-riemann-hypothesis/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-21T10:18:32Z"
+  },
+  {
     "title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
     "description": "In the spirit of my recent “Math 2.0” talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
     "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
@@ -61,15 +70,6 @@
       "name": "TechRadar"
     },
     "publishedAt": "2026-10-12T19:05:00Z"
-  },
-  {
-    "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-    "description": "The OpenAI math solutions release dropped 722 AI-written manuscripts in Oct 2026. Here's what's verified, what's shaky, and what it means for ChatGPT users.\nThe post OpenAI Math Release: What’s Real in the 722 AI Manuscripts first appeared on Online Tech Tips.",
-    "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/#article",
-    "source": {
-      "name": "Online-tech-tips.com"
-    },
-    "publishedAt": "2026-10-11T04:53:09Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
