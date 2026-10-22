@@ -1,5 +1,14 @@
 [
   {
+    "title": "Remind Me: What’s the Enormous Theorem?",
+    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
+    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-10-21T12:00:00Z"
+  },
+  {
     "title": "The Quasi-Riemann Hypothesis",
     "description": "A well-known company recently dropped a proof of the ‘quasi-Riemann hypothesis’ as part of their theorem dump. Maksym Radziwiłł of New York University said the implications are “staggering”, continuing: In a sense, the vast majority of consequences of RH alre…",
     "url": "https://johncarlosbaez.wordpress.com/2026/10/21/the-quasi-riemann-hypothesis/",
@@ -61,15 +70,6 @@
       "name": "Tom's Hardware UK"
     },
     "publishedAt": "2026-10-13T12:30:00Z"
-  },
-  {
-    "title": "Has OpenAI started the 'mathpocalypse'? Experts say AI's solving of iconic math problems may cause huge issues in the long run",
-    "description": "Solutions or partial solutions to 372 outstanding math problems that have challenged human mathematicians for years have been published by OpenAI, leading to a call for AI developers to focus on human understanding",
-    "url": "https://www.techradar.com/pro/has-openai-started-the-mathpocalypse-experts-say-ais-solving-of-iconic-math-problems-may-cause-huge-issues-in-the-long-run",
-    "source": {
-      "name": "TechRadar"
-    },
-    "publishedAt": "2026-10-12T19:05:00Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
