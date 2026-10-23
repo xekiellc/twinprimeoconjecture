@@ -1,5 +1,14 @@
 [
   {
+    "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+    "description": "As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
+    "url": "https://www.nature.com/articles/d41586-026-03389-1",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-10-22T00:00:00Z"
+  },
+  {
     "title": "The Quasi-Riemann Hypothesis",
     "description": "What is the quasi-Riemann hypothesis, and what does it imply?",
     "url": "https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html",
@@ -37,7 +46,7 @@
   },
   {
     "title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
-    "description": "In the spirit of my recent “Math 2.0�� talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
+    "description": "In the spirit of my recent “Math 2.0” talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around exc…",
     "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
     "source": {
       "name": "Wordpress.com"
@@ -61,15 +70,6 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-10-19T15:40:26Z"
-  },
-  {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
-    "url": "https://biztoc.com/x/b6ddce040e1c9548",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-10-19T09:37:01Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
