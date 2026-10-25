@@ -1,5 +1,23 @@
 [
   {
+    "title": "Counting Primes",
+    "description": "Since the probability that a number is prime is roughly the number of primes is close to Indeed, if is the number of primes the recently proved quasi-Riemann hypothesis implies for some constants and If the Riemann hypothesis is true, any will do. But here’s …",
+    "url": "https://johncarlosbaez.wordpress.com/2026/10/24/counting-primes/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-24T19:02:44Z"
+  },
+  {
+    "title": "Counting Primes",
+    "description": "The sign of li(x) - pi(x) changes infinitely many times, according to Littlewood. Can we graph this?",
+    "url": "https://golem.ph.utexas.edu/category/2026/10/counting_primes.html",
+    "source": {
+      "name": "Utexas.edu"
+    },
+    "publishedAt": "2026-10-24T16:53:45Z"
+  },
+  {
     "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
     "description": "As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
     "url": "https://www.nature.com/articles/d41586-026-03389-1",
@@ -16,6 +34,15 @@
       "name": "Utexas.edu"
     },
     "publishedAt": "2026-10-21T20:21:43Z"
+  },
+  {
+    "title": "Remind Me: What’s the Enormous Theorem?",
+    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
+    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-10-21T12:00:00Z"
   },
   {
     "title": "The Quasi-Riemann Hypothesis",
@@ -45,15 +72,6 @@
     "publishedAt": "2026-10-20T15:35:00Z"
   },
   {
-    "title": "Who will become the new mathematicians of Math 2.0?",
-    "description": "“I am mathematics PhD student. Up until recently, I fully intended to pursue a career in academic research. I deeply love mathematics, and I entered graduate school because of this. However I have made the decision to leave academia once I finish my doctorate…",
-    "url": "https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/",
-    "source": {
-      "name": "Proofsandprompts.com"
-    },
-    "publishedAt": "2026-10-20T14:00:00Z"
-  },
-  {
     "title": "A sketch of the proof of non-existence of Siegel zeroes",
     "description": "For a given prime , the Legendre symbol is defined as follows: if is a quadratic residue modulo , then ; if is a quadratic non-residue modulo , then ; and if divides , then . Let be an integer that is not a perfect square. (One could require to be a fundament…",
     "url": "https://terrytao.wordpress.com/2026/10/19/a-sketch-of-the-proof-of-non-existence-of-siegel-zeroes/",
@@ -72,39 +90,21 @@
     "publishedAt": "2026-10-19T15:40:26Z"
   },
   {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
-    "url": "https://biztoc.com/x/b6ddce040e1c9548",
+    "title": "A Visual Intro to Complex Numbers",
+    "description": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\nComments URL: https://news.ycombinator.com/item?id=50070287\nPoints: 5\n# Comments: 0",
+    "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
     "source": {
-      "name": "Biztoc.com"
+      "name": "Substack.com"
     },
-    "publishedAt": "2026-10-19T09:37:01Z"
+    "publishedAt": "2026-10-13T12:00:04Z"
   },
   {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao earned his doctorate in mathematics when he was 20. He says AI tools are upending his field.",
-    "url": "https://www.businessinsider.com/math-ai-tools-openai-terence-tao-ucla-2026-10#article",
+    "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+    "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
     "source": {
-      "name": "Business Insider"
+      "name": "The Verge"
     },
-    "publishedAt": "2026-10-19T09:27:01Z"
-  },
-  {
-    "title": "The most exciting claims from OpenAI’s heap of new proofs",
-    "description": "Scientists have called out several math and computer science results as the most significant in the company’s overwhelming new deluge of achievements",
-    "url": "https://www.scientificamerican.com/article/the-most-exciting-claims-from-openais-heap-of-new-proofs/",
-    "source": {
-      "name": "Scientific American"
-    },
-    "publishedAt": "2026-10-08T19:30:00Z"
-  },
-  {
-    "title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
-    "description": "OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model.  Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed explanations of mathem…",
-    "url": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
-    "source": {
-      "name": "SiliconANGLE News"
-    },
-    "publishedAt": "2026-10-07T20:37:22Z"
+    "publishedAt": "2026-10-09T19:11:12Z"
   }
 ]
