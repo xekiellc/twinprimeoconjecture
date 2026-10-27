@@ -1,5 +1,14 @@
 [
   {
+    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
+    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
+    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-10-25T11:23:21Z"
+  },
+  {
     "title": "Counting Primes",
     "description": "Since the probability that a number is prime is roughly the number of primes is close to Indeed, if is the number of primes the recently proved quasi-Riemann hypothesis implies for some constants and If the Riemann hypothesis is true, any will do. But here’s …",
     "url": "https://johncarlosbaez.wordpress.com/2026/10/24/counting-primes/",
@@ -72,15 +81,6 @@
     "publishedAt": "2026-10-20T15:35:00Z"
   },
   {
-    "title": "A sketch of the proof of non-existence of Siegel zeroes",
-    "description": "For a given prime , the Legendre symbol is defined as follows: if is a quadratic residue modulo , then ; if is a quadratic non-residue modulo , then ; and if divides , then . Let be an integer that is not a perfect square. (One could require to be a fundament…",
-    "url": "https://terrytao.wordpress.com/2026/10/19/a-sketch-of-the-proof-of-non-existence-of-siegel-zeroes/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-19T18:27:19Z"
-  },
-  {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
     "description": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
@@ -90,15 +90,6 @@
     "publishedAt": "2026-10-19T15:40:26Z"
   },
   {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
-    "url": "https://biztoc.com/x/b6ddce040e1c9548",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-10-19T09:37:01Z"
-  },
-  {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
     "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
@@ -106,5 +97,14 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-09T19:11:12Z"
+  },
+  {
+    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
+    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-09T16:35:03Z"
   }
 ]
