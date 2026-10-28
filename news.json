@@ -1,5 +1,14 @@
 [
   {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "source": {
+      "name": "The Verge"
+    },
+    "publishedAt": "2026-10-27T20:51:04Z"
+  },
+  {
     "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
     "description": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
     "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
@@ -7,15 +16,6 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-27T14:30:00Z"
-  },
-  {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-26T16:32:36Z"
   },
   {
     "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
@@ -63,6 +63,15 @@
     "publishedAt": "2026-10-21T20:21:43Z"
   },
   {
+    "title": "Remind Me: What’s the Enormous Theorem?",
+    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
+    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-10-21T12:00:00Z"
+  },
+  {
     "title": "The Quasi-Riemann Hypothesis",
     "description": "A well-known company recently dropped a proof of the ‘quasi-Riemann hypothesis’ as part of their theorem dump. Maksym Radziwiłł of New York University said the implications are “staggering”, continuing: In a sense, the vast majority of consequences of RH alre…",
     "url": "https://johncarlosbaez.wordpress.com/2026/10/21/the-quasi-riemann-hypothesis/",
@@ -88,15 +97,6 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-10-19T15:40:26Z"
-  },
-  {
-    "title": "Math's 'romantic era' is over, UCLA prodigy says",
-    "description": "Terence Tao, a UCLA math professor who earned a doctorate at age 20, said that math is entering a new, less \"heroic\" age.\nJesse Grant/Getty Images\nTerence Tao, now a UCLA professor, earned his doctorate in mathematics at 20.\nThe prodigy said his work is chang…",
-    "url": "https://biztoc.com/x/b6ddce040e1c9548",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-10-19T09:37:01Z"
   },
   {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
