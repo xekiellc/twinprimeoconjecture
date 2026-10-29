@@ -1,5 +1,14 @@
 [
   {
+    "title": "The quasi-Riemann hypothesis",
+    "description": "Just a short note that Maksym Radziwill will be giving a hybrid talk on the quasi-Riemann hypothesis at Courant tomorrow.",
+    "url": "https://terrytao.wordpress.com/2026/10/27/the-quasi-riemann-hypothesis/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-27T22:12:50Z"
+  },
+  {
     "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
     "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -70,15 +79,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-10-21T12:00:00Z"
-  },
-  {
-    "title": "The Quasi-Riemann Hypothesis",
-    "description": "A well-known company recently dropped a proof of the ‘quasi-Riemann hypothesis’ as part of their theorem dump. Maksym Radziwiłł of New York University said the implications are “staggering”, continuing: In a sense, the vast majority of consequences of RH alre…",
-    "url": "https://johncarlosbaez.wordpress.com/2026/10/21/the-quasi-riemann-hypothesis/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-21T10:18:32Z"
   },
   {
     "title": "Simple and critical zeros of the Riemann zeta-function",
