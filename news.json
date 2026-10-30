@@ -1,5 +1,14 @@
 [
   {
+    "title": "Is Math a Canary in the AI Coal Mine? (with Bryna Kra)",
+    "description": "AI is solving major math problems and upending the field. Could other fields be next?",
+    "url": "https://www.kqed.org/news/12106682/is-math-a-canary-in-the-ai-coal-mine-with-bryna-kra",
+    "source": {
+      "name": "KQED"
+    },
+    "publishedAt": "2026-10-28T10:00:00Z"
+  },
+  {
     "title": "The quasi-Riemann hypothesis",
     "description": "Just a short note that Maksym Radziwill will be giving a hybrid talk on the quasi-Riemann hypothesis at Courant tomorrow.",
     "url": "https://terrytao.wordpress.com/2026/10/27/the-quasi-riemann-hypothesis/",
@@ -79,15 +88,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-10-21T12:00:00Z"
-  },
-  {
-    "title": "Simple and critical zeros of the Riemann zeta-function",
-    "description": "[This is a guest post by Caroline Turnage-Butterbaugh. This blog post was initially written in a different file format and converted using AI. — T.] Evidence in favor of the Riemann Hypothesis comes in many flavors. OpenAI’s proof of the quasi-Riemann Hypothe…",
-    "url": "https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-20T20:13:30Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
