@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "source": {
+      "name": "Thedataexchange.media"
+    },
+    "publishedAt": "2026-10-29T15:29:48Z"
+  },
+  {
     "title": "Is Math a Canary in the AI Coal Mine? (with Bryna Kra)",
     "description": "AI is solving major math problems and upending the field. Could other fields be next?",
     "url": "https://www.kqed.org/news/12106682/is-math-a-canary-in-the-ai-coal-mine-with-bryna-kra",
@@ -97,14 +106,5 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-09T19:11:12Z"
-  },
-  {
-    "title": "What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI",
-    "description": "[This is a guest post by Thomas Hales. This blog post was initially written in a different file format and converted using AI. — T.] Mathematicians have been weighing in on what they value about mathematics. For me, what matters is the consistency of math and…",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-09T16:35:03Z"
   }
 ]
