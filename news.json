@@ -1,12 +1,12 @@
 [
   {
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
-    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "title": "Collaborative retreat: New developments in the theory of zeta functions",
+    "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
+    "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
     "source": {
-      "name": "Thedataexchange.media"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-10-29T15:29:48Z"
+    "publishedAt": "2026-10-30T15:02:45Z"
   },
   {
     "title": "Is Math a Canary in the AI Coal Mine? (with Bryna Kra)",
@@ -27,15 +27,6 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-10-27T20:51:04Z"
-  },
-  {
     "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
     "description": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
     "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
@@ -43,6 +34,24 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-27T14:30:00Z"
+  },
+  {
+    "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
+    "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, …",
+    "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework",
+    "source": {
+      "name": "Slashdot.org"
+    },
+    "publishedAt": "2026-10-25T23:08:00Z"
+  },
+  {
+    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
+    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
+    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-10-25T11:23:21Z"
   },
   {
     "title": "Counting Primes",
@@ -70,15 +79,6 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-10-22T00:00:00Z"
-  },
-  {
-    "title": "The Quasi-Riemann Hypothesis",
-    "description": "What is the quasi-Riemann hypothesis, and what does it imply?",
-    "url": "https://golem.ph.utexas.edu/category/2026/10/the_quasiriemann_hypothesis.html",
-    "source": {
-      "name": "Utexas.edu"
-    },
-    "publishedAt": "2026-10-21T20:21:43Z"
   },
   {
     "title": "Remind Me: What’s the Enormous Theorem?",
