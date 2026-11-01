@@ -27,6 +27,15 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "source": {
+      "name": "The Verge"
+    },
+    "publishedAt": "2026-10-27T20:51:04Z"
+  },
+  {
     "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
     "description": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
     "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
@@ -79,15 +88,6 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-10-21T12:00:00Z"
-  },
-  {
-    "title": "Add ‘post-AI’ encryption to your to-do list",
-    "description": "OpenAI’s trove of 400+ math results suggests traditional encryption may be at risk.",
-    "url": "https://www.defenseone.com/technology/2026/10/add-post-ai-encryption-your-do-list/416722/",
-    "source": {
-      "name": "Defense One"
-    },
-    "publishedAt": "2026-10-21T05:30:19Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
