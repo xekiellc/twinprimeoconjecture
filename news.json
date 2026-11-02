@@ -27,15 +27,6 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-10-27T20:51:04Z"
-  },
-  {
     "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
     "description": "The results resolve major problems in math, physics and computer science. But like other recent AI-generated “slop drops,” the releases are already controversial",
     "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
@@ -43,6 +34,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-10-27T14:30:00Z"
+  },
+  {
+    "title": "247A, Notes 3: Singular integral operators",
+    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
+    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
