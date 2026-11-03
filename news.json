@@ -1,14 +1,5 @@
 [
   {
-    "title": "The Year Math Changed Forever",
-    "description": "A.I. is solving problems that stumped the field for decades, Rivka Galchen writes. Mathematicians look to Terence Tao for guidance on their altered world.",
-    "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
-    "source": {
-      "name": "The New Yorker"
-    },
-    "publishedAt": "2026-11-01T11:00:00Z"
-  },
-  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -106,5 +97,14 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-10-19T15:40:26Z"
+  },
+  {
+    "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+    "description": "",
+    "url": "https://blueberrywren.dev/blog/primes/",
+    "source": {
+      "name": "Blueberrywren.dev"
+    },
+    "publishedAt": "2026-10-12T05:47:01Z"
   }
 ]
