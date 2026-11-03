@@ -18,6 +18,15 @@
     "publishedAt": "2026-10-30T15:02:45Z"
   },
   {
+    "title": "Galactus the Devourer",
+    "description": "On efficient algorithms, the exponential time hypothesis, and losing the plot.",
+    "url": "https://www.argmin.net/p/galactus-the-devourer",
+    "source": {
+      "name": "Argmin.net"
+    },
+    "publishedAt": "2026-10-30T14:34:09Z"
+  },
+  {
     "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
     "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
     "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
@@ -45,13 +54,13 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "title": "247A, Notes 3: Singular integral operators",
+    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
+    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
     "source": {
-      "name": "The Verge"
+      "name": "Wordpress.com"
     },
-    "publishedAt": "2026-10-27T20:51:04Z"
+    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Counting Primes",
@@ -97,14 +106,5 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-10-19T15:40:26Z"
-  },
-  {
-    "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-    "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-10-09T19:11:12Z"
   }
 ]
