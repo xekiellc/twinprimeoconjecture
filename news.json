@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Year Math Changed Forever",
+    "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
+    "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
+    "source": {
+      "name": "Longreads.com"
+    },
+    "publishedAt": "2026-11-03T17:38:41Z"
+  },
+  {
+    "title": "An AI Breakthrough Just Solved An 80-Year-Old Math Problem — And Proved Humans Wrong",
+    "description": "AI companies have plenty to gain from claims of scientific breakthroughs. With this math result, the evidence deserves more attention than the publicity.",
+    "url": "https://www.bgr.com/2294343/ai-breakthrough-solves-80-year-old-math-problem/",
+    "source": {
+      "name": "BGR"
+    },
+    "publishedAt": "2026-11-03T16:17:00Z"
+  },
+  {
+    "title": "The Year Math Changed Forever",
+    "description": "A.I. is solving problems that stumped the field for decades, Rivka Galchen writes. Mathematicians look to Terence Tao for guidance on their altered world.",
+    "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
+    "source": {
+      "name": "The New Yorker"
+    },
+    "publishedAt": "2026-11-01T11:00:00Z"
+  },
+  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -7,15 +34,6 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-30T15:02:45Z"
-  },
-  {
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
-    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "source": {
-      "name": "Thedataexchange.media"
-    },
-    "publishedAt": "2026-10-29T15:29:48Z"
   },
   {
     "title": "Is Math a Canary in the AI Coal Mine? (with Bryna Kra)",
@@ -34,24 +52,6 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-27T22:12:50Z"
-  },
-  {
-    "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
-    "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, …",
-    "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework",
-    "source": {
-      "name": "Slashdot.org"
-    },
-    "publishedAt": "2026-10-25T23:08:00Z"
-  },
-  {
-    "title": "247A, Notes 3: Singular integral operators",
-    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
-    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
@@ -88,15 +88,6 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-10-22T00:00:00Z"
-  },
-  {
-    "title": "Remind Me: What’s the Enormous Theorem?",
-    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
-    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
-    "source": {
-      "name": "Spektrum.de"
-    },
-    "publishedAt": "2026-10-21T12:00:00Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
