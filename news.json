@@ -36,15 +36,6 @@
     "publishedAt": "2026-10-30T15:02:45Z"
   },
   {
-    "title": "Is Math a Canary in the AI Coal Mine? (with Bryna Kra)",
-    "description": "AI is solving major math problems and upending the field. Could other fields be next?",
-    "url": "https://www.kqed.org/news/12106682/is-math-a-canary-in-the-ai-coal-mine-with-bryna-kra",
-    "source": {
-      "name": "KQED"
-    },
-    "publishedAt": "2026-10-28T10:00:00Z"
-  },
-  {
     "title": "The quasi-Riemann hypothesis",
     "description": "Just a short note that Maksym Radziwill will be giving a hybrid talk on the quasi-Riemann hypothesis at Courant tomorrow.",
     "url": "https://terrytao.wordpress.com/2026/10/27/the-quasi-riemann-hypothesis/",
@@ -52,6 +43,24 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-27T22:12:50Z"
+  },
+  {
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
+    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
+    "source": {
+      "name": "newsBTC"
+    },
+    "publishedAt": "2026-10-26T16:32:36Z"
+  },
+  {
+    "title": "247A, Notes 3: Singular integral operators",
+    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
+    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
