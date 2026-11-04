@@ -9,15 +9,6 @@
     "publishedAt": "2026-10-30T15:02:45Z"
   },
   {
-    "title": "Galactus the Devourer",
-    "description": "On efficient algorithms, the exponential time hypothesis, and losing the plot.",
-    "url": "https://www.argmin.net/p/galactus-the-devourer",
-    "source": {
-      "name": "Argmin.net"
-    },
-    "publishedAt": "2026-10-30T14:34:09Z"
-  },
-  {
     "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
     "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
     "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
@@ -45,6 +36,15 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
+    "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
+    "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, …",
+    "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework",
+    "source": {
+      "name": "Slashdot.org"
+    },
+    "publishedAt": "2026-10-25T23:08:00Z"
+  },
+  {
     "title": "247A, Notes 3: Singular integral operators",
     "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
     "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
@@ -52,6 +52,15 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-25T21:18:42Z"
+  },
+  {
+    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
+    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
+    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-10-25T11:23:21Z"
   },
   {
     "title": "Counting Primes",
@@ -97,14 +106,5 @@
       "name": "Quanta Magazine"
     },
     "publishedAt": "2026-10-19T15:40:26Z"
-  },
-  {
-    "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-    "description": "",
-    "url": "https://blueberrywren.dev/blog/primes/",
-    "source": {
-      "name": "Blueberrywren.dev"
-    },
-    "publishedAt": "2026-10-12T05:47:01Z"
   }
 ]
