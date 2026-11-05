@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-03T16:17:00Z"
   },
   {
+    "title": "The Year Math Changed Forever",
+    "description": "A.I. is solving problems that stumped the field for decades, Rivka Galchen writes. Mathematicians look to Terence Tao for guidance on their altered world.",
+    "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
+    "source": {
+      "name": "The New Yorker"
+    },
+    "publishedAt": "2026-11-01T11:00:00Z"
+  },
+  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -27,15 +36,6 @@
     "publishedAt": "2026-10-30T15:02:45Z"
   },
   {
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "description": "Leo de Moura on Formal Proofs, AI Agents, and the End of “Trust Me” Code. Subscribe: Apple • Spotify • … More",
-    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "source": {
-      "name": "Thedataexchange.media"
-    },
-    "publishedAt": "2026-10-29T15:29:48Z"
-  },
-  {
     "title": "The quasi-Riemann hypothesis",
     "description": "Just a short note that Maksym Radziwill will be giving a hybrid talk on the quasi-Riemann hypothesis at Courant tomorrow.",
     "url": "https://terrytao.wordpress.com/2026/10/27/the-quasi-riemann-hypothesis/",
@@ -43,6 +43,15 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-27T22:12:50Z"
+  },
+  {
+    "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
+    "description": "From the student newspaper at the University of California, Berkeley:\n\n\nRichard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, …",
+    "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework",
+    "source": {
+      "name": "Slashdot.org"
+    },
+    "publishedAt": "2026-10-25T23:08:00Z"
   },
   {
     "title": "247A, Notes 3: Singular integral operators",
@@ -79,15 +88,6 @@
       "name": "Utexas.edu"
     },
     "publishedAt": "2026-10-24T16:53:45Z"
-  },
-  {
-    "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-    "description": "As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
-    "url": "https://www.nature.com/articles/d41586-026-03389-1",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-10-22T00:00:00Z"
   },
   {
     "title": "Remind Me: What’s the Enormous Theorem?",
