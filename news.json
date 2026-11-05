@@ -1,5 +1,14 @@
 [
   {
+    "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
+    "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
+    "url": "https://github.com/djuk8/beacon/",
+    "source": {
+      "name": "Github.com"
+    },
+    "publishedAt": "2026-11-04T22:43:54Z"
+  },
+  {
     "title": "The Year Math Changed Forever",
     "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
     "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
@@ -7,15 +16,6 @@
       "name": "Longreads.com"
     },
     "publishedAt": "2026-11-03T17:38:41Z"
-  },
-  {
-    "title": "An AI Breakthrough Just Solved An 80-Year-Old Math Problem — And Proved Humans Wrong",
-    "description": "AI companies have plenty to gain from claims of scientific breakthroughs. With this math result, the evidence deserves more attention than the publicity.",
-    "url": "https://www.bgr.com/2294343/ai-breakthrough-solves-80-year-old-math-problem/",
-    "source": {
-      "name": "BGR"
-    },
-    "publishedAt": "2026-11-03T16:17:00Z"
   },
   {
     "title": "The Year Math Changed Forever",
@@ -90,13 +90,13 @@
     "publishedAt": "2026-10-24T16:53:45Z"
   },
   {
-    "title": "Remind Me: What’s the Enormous Theorem?",
-    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
-    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
+    "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+    "description": "As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
+    "url": "https://www.nature.com/articles/d41586-026-03389-1",
     "source": {
-      "name": "Spektrum.de"
+      "name": "Nature.com"
     },
-    "publishedAt": "2026-10-21T12:00:00Z"
+    "publishedAt": "2026-10-22T00:00:00Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
