@@ -54,6 +54,15 @@
     "publishedAt": "2026-10-26T16:32:36Z"
   },
   {
+    "title": "CVE-2026-72714: Rocq universe checking state desynchronised after module close (0 = 1 demonstrated) — 0-day",
+    "description": "Posted by Jonathan Brossard on Oct 251. Summary\n==========\n\nA soundness bug in the Rocq (formerly Coq) kernel allows construction\nof a checked proof of False — and by extension, any proposition,\nincluding 0 = 1 — without axioms, plugins, or unsafe flags. Prin…",
+    "url": "https://seclists.org/oss-sec/2026/q4/384",
+    "source": {
+      "name": "Seclists.org"
+    },
+    "publishedAt": "2026-10-26T00:21:58Z"
+  },
+  {
     "title": "247A, Notes 3: Singular integral operators",
     "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
     "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
@@ -88,15 +97,6 @@
       "name": "Utexas.edu"
     },
     "publishedAt": "2026-10-24T16:53:45Z"
-  },
-  {
-    "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-    "description": "As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
-    "url": "https://www.nature.com/articles/d41586-026-03389-1",
-    "source": {
-      "name": "Nature.com"
-    },
-    "publishedAt": "2026-10-22T00:00:00Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
