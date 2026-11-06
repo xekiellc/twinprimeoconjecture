@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-04T22:43:54Z"
   },
   {
+    "title": "The Year Math Changed Forever",
+    "description": "A.I. is solving problems that stumped the field for decades, Rivka Galchen writes. Mathematicians look to Terence Tao for guidance on their altered world.",
+    "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
+    "source": {
+      "name": "The New Yorker"
+    },
+    "publishedAt": "2026-11-01T11:00:00Z"
+  },
+  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -43,15 +52,6 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-27T20:51:04Z"
-  },
-  {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-26T16:32:36Z"
   },
   {
     "title": "CVE-2026-72714: Rocq universe checking state desynchronised after module close (0 = 1 demonstrated) — 0-day",
