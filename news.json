@@ -9,13 +9,13 @@
     "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
-    "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
-    "description": "Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.",
-    "url": "https://www.nature.com/articles/d41586-026-03622-x",
+    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
+    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "source": {
-      "name": "Nature.com"
+      "name": "TechCrunch"
     },
-    "publishedAt": "2026-11-06T00:00:00Z"
+    "publishedAt": "2026-11-05T16:27:24Z"
   },
   {
     "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
@@ -25,24 +25,6 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-11-04T22:43:54Z"
-  },
-  {
-    "title": "The Year Math Changed Forever",
-    "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
-    "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
-    "source": {
-      "name": "Longreads.com"
-    },
-    "publishedAt": "2026-11-03T17:38:41Z"
-  },
-  {
-    "title": "The Year Math Changed Forever",
-    "description": "A.I. is solving problems that stumped the field for decades, Rivka Galchen writes. Mathematicians look to Terence Tao for guidance on their altered world.",
-    "url": "https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever",
-    "source": {
-      "name": "The New Yorker"
-    },
-    "publishedAt": "2026-11-01T11:00:00Z"
   },
   {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
@@ -63,13 +45,22 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
+    "title": "CVE-2026-72714: Rocq universe checking state desynchronised after module close (0 = 1 demonstrated) — 0-day",
+    "description": "Posted by Jonathan Brossard on Oct 251. Summary\n==========\n\nA soundness bug in the Rocq (formerly Coq) kernel allows construction\nof a checked proof of False — and by extension, any proposition,\nincluding 0 = 1 — without axioms, plugins, or unsafe flags. Prin…",
+    "url": "https://seclists.org/oss-sec/2026/q4/384",
     "source": {
-      "name": "newsBTC"
+      "name": "Seclists.org"
     },
-    "publishedAt": "2026-10-26T16:32:36Z"
+    "publishedAt": "2026-10-26T00:21:58Z"
+  },
+  {
+    "title": "247A, Notes 3: Singular integral operators",
+    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
+    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
@@ -97,6 +88,15 @@
       "name": "Utexas.edu"
     },
     "publishedAt": "2026-10-24T16:53:45Z"
+  },
+  {
+    "title": "Remind Me: What’s the Enormous Theorem?",
+    "description": "In his Laureate Lecture at the 13th Heidelberg Laureate Forum, 1994 Fields Medallist Efim Zelmanov described the classification of finite simple groups, known colloquially as the enormous theorem – a triumph of collective human ingenuity that could become unf…",
+    "url": "https://scilogs.spektrum.de/hlf/remind-me-whats-the-enormous-theorem/",
+    "source": {
+      "name": "Spektrum.de"
+    },
+    "publishedAt": "2026-10-21T12:00:00Z"
   },
   {
     "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
