@@ -27,15 +27,6 @@
     "publishedAt": "2026-11-04T22:43:54Z"
   },
   {
-    "title": "An AI Breakthrough Just Solved An 80-Year-Old Math Problem — And Proved Humans Wrong",
-    "description": "AI companies have plenty to gain from claims of scientific breakthroughs. With this math result, the evidence deserves more attention than the publicity.",
-    "url": "https://www.bgr.com/2294343/ai-breakthrough-solves-80-year-old-math-problem/",
-    "source": {
-      "name": "BGR"
-    },
-    "publishedAt": "2026-11-03T16:17:00Z"
-  },
-  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -54,22 +45,31 @@
     "publishedAt": "2026-10-27T22:12:50Z"
   },
   {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
+    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
     "source": {
-      "name": "The Verge"
+      "name": "newsBTC"
     },
-    "publishedAt": "2026-10-27T20:51:04Z"
+    "publishedAt": "2026-10-26T16:32:36Z"
   },
   {
-    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
-    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
-    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
+    "title": "CVE-2026-72714: Rocq universe checking state desynchronised after module close (0 = 1 demonstrated) — 0-day",
+    "description": "Posted by Jonathan Brossard on Oct 251. Summary\n==========\n\nA soundness bug in the Rocq (formerly Coq) kernel allows construction\nof a checked proof of False — and by extension, any proposition,\nincluding 0 = 1 — without axioms, plugins, or unsafe flags. Prin…",
+    "url": "https://seclists.org/oss-sec/2026/q4/384",
     "source": {
-      "name": "Biztoc.com"
+      "name": "Seclists.org"
     },
-    "publishedAt": "2026-10-25T11:23:21Z"
+    "publishedAt": "2026-10-26T00:21:58Z"
+  },
+  {
+    "title": "247A, Notes 3: Singular integral operators",
+    "description": "— 1. The Hilbert transform — In this set of notes we begin the theory of singular integral operators – operators which are almost integral operators, except that their kernel just barely fails to be integrable near the diagonal . (This is in contrast to, say,…",
+    "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
+    "source": {
+      "name": "Wordpress.com"
+    },
+    "publishedAt": "2026-10-25T21:18:42Z"
   },
   {
     "title": "Counting Primes",
