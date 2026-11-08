@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
+    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
+    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": {
+      "name": "TechCrunch"
+    },
+    "publishedAt": "2026-11-05T16:27:24Z"
+  },
+  {
     "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
     "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
     "url": "https://github.com/djuk8/beacon/",
@@ -61,15 +70,6 @@
       "name": "The Verge"
     },
     "publishedAt": "2026-10-27T20:51:04Z"
-  },
-  {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-26T16:32:36Z"
   },
   {
     "title": "Counting Primes",
