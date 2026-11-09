@@ -1,5 +1,14 @@
 [
   {
+    "title": "Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof",
+    "description": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 &amp; automatic spectral gap on the compact cons...",
+    "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
+    "source": {
+      "name": "Github.com"
+    },
+    "publishedAt": "2026-11-08T17:56:19Z"
+  },
+  {
     "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
     "description": "An unreleased Anthropic model helped solve a longstanding problem in quantum computing — another major math problem solved with AI.",
     "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11#article",
@@ -18,15 +27,6 @@
     "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
-    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
-    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source": {
-      "name": "TechCrunch"
-    },
-    "publishedAt": "2026-11-05T16:27:24Z"
-  },
-  {
     "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
     "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
     "url": "https://github.com/djuk8/beacon/",
@@ -34,15 +34,6 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-11-04T22:43:54Z"
-  },
-  {
-    "title": "An AI Breakthrough Just Solved An 80-Year-Old Math Problem — And Proved Humans Wrong",
-    "description": "AI companies have plenty to gain from claims of scientific breakthroughs. With this math result, the evidence deserves more attention than the publicity.",
-    "url": "https://www.bgr.com/2294343/ai-breakthrough-solves-80-year-old-math-problem/",
-    "source": {
-      "name": "BGR"
-    },
-    "publishedAt": "2026-11-03T16:17:00Z"
   },
   {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
@@ -72,6 +63,24 @@
     "publishedAt": "2026-10-27T20:51:04Z"
   },
   {
+    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
+    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
+    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
+    "source": {
+      "name": "newsBTC"
+    },
+    "publishedAt": "2026-10-26T16:32:36Z"
+  },
+  {
+    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
+    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
+    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-10-25T11:23:21Z"
+  },
+  {
     "title": "Counting Primes",
     "description": "Since the probability that a number is prime is roughly the number of primes is close to Indeed, if is the number of primes the recently proved quasi-Riemann hypothesis implies for some constants and If the Riemann hypothesis is true, any will do. But here’s …",
     "url": "https://johncarlosbaez.wordpress.com/2026/10/24/counting-primes/",
@@ -97,14 +106,5 @@
       "name": "Spektrum.de"
     },
     "publishedAt": "2026-10-21T12:00:00Z"
-  },
-  {
-    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "description": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
-    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-    "source": {
-      "name": "Quanta Magazine"
-    },
-    "publishedAt": "2026-10-19T15:40:26Z"
   }
 ]
