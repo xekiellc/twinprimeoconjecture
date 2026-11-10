@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI has transformed maths — this is how we got here",
+    "description": "The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians.",
+    "url": "https://www.nature.com/articles/d41586-026-03627-6",
+    "source": {
+      "name": "Nature.com"
+    },
+    "publishedAt": "2026-11-09T00:00:00Z"
+  },
+  {
     "title": "Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof",
     "description": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 &amp; automatic spectral gap on the compact cons...",
     "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
@@ -27,6 +36,15 @@
     "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
+    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
+    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": {
+      "name": "TechCrunch"
+    },
+    "publishedAt": "2026-11-05T16:27:24Z"
+  },
+  {
     "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
     "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
     "url": "https://github.com/djuk8/beacon/",
@@ -34,6 +52,15 @@
       "name": "Github.com"
     },
     "publishedAt": "2026-11-04T22:43:54Z"
+  },
+  {
+    "title": "The Year Math Changed Forever",
+    "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
+    "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
+    "source": {
+      "name": "Longreads.com"
+    },
+    "publishedAt": "2026-11-03T17:38:41Z"
   },
   {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
@@ -52,33 +79,6 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-27T22:12:50Z"
-  },
-  {
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "source": {
-      "name": "The Verge"
-    },
-    "publishedAt": "2026-10-27T20:51:04Z"
-  },
-  {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-26T16:32:36Z"
-  },
-  {
-    "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic w..",
-    "description": "If tech bros don’t understand why Terence Tao, probably the world’s leading mathematician, is horrified that OpenAI published the answers to 722 unsolved maths problems, they should think about Douglas Adams.\nIn Adams’s book The Hitchhiker’s Guide to the Gala…",
-    "url": "https://biztoc.com/x/6e3f203c4ba66c8b",
-    "source": {
-      "name": "Biztoc.com"
-    },
-    "publishedAt": "2026-10-25T11:23:21Z"
   },
   {
     "title": "Counting Primes",
