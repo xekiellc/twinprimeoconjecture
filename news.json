@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nov. 18th Special Talk: Dorian Goldfeld",
+    "description": "Title: The Quasi Riemann Hypothesis Speaker: Dorian Goldfeld Date, Time, Location: Wednesday, Nov. 18 @4:30 PM – 5:30 PM in Math Hall 520 Abstract: Dorian will give a talk on the recent AI advance and generalizations.",
+    "url": "https://www.math.columbia.edu/2026/11/11/nov-18th-special-talk-dorian-goldfeld/",
+    "source": {
+      "name": "Columbia.edu"
+    },
+    "publishedAt": "2026-11-11T14:16:31Z"
+  },
+  {
+    "title": "OpenAI’s ‘shepherds’ affirm blockbuster physics result",
+    "description": "The company’s appointed team of experts has verified and released the groundbreaking AI-generated proof, which validates bedrock assumptions of the Standard Model of particle physics",
+    "url": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
+    "source": {
+      "name": "Scientific American"
+    },
+    "publishedAt": "2026-11-11T12:30:00Z"
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": {
+      "name": "Anthropic.com"
+    },
+    "publishedAt": "2026-11-09T18:56:29Z"
+  },
+  {
     "title": "AI has transformed maths — this is how we got here",
     "description": "The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians.",
     "url": "https://www.nature.com/articles/d41586-026-03627-6",
@@ -25,15 +52,6 @@
       "name": "Business Insider"
     },
     "publishedAt": "2026-11-07T00:49:10Z"
-  },
-  {
-    "title": "AI could transform mathematics, but humans will still need to be in the loop",
-    "description": "AI solutions to longstanding maths problems have sent shockwaves through the mathematics community.",
-    "url": "https://theconversation.com/ai-could-transform-mathematics-but-humans-will-still-need-to-be-in-the-loop-294982",
-    "source": {
-      "name": "The Conversation Africa"
-    },
-    "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
     "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
@@ -70,24 +88,6 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-27T22:12:50Z"
-  },
-  {
-    "title": "Justin Sun Prize Partners With MathDB, Led by Caltech Professor Tony Yue Yu, on 50-Problem Pilot",
-    "description": "Geneva, Switzerland — October 26, 2026 — The Office of Justin Sun today announced a pilot program for the Justin Sun Prize in collaboration with MathDB, a mathematical research platform developed by Caltech Professor Tony Yue Yu and his team.    The Justin Su…",
-    "url": "https://www.newsbtc.com/news/justin-sun-prize-partners-with-mathdb-led-by-caltech-professor-tony-yue-yu-on-50-problem-pilot/",
-    "source": {
-      "name": "newsBTC"
-    },
-    "publishedAt": "2026-10-26T16:32:36Z"
-  },
-  {
-    "title": "CVE-2026-72714: Rocq universe checking state desynchronised after module close (0 = 1 demonstrated) — 0-day",
-    "description": "Posted by Jonathan Brossard on Oct 251. Summary\n==========\n\nA soundness bug in the Rocq (formerly Coq) kernel allows construction\nof a checked proof of False — and by extension, any proposition,\nincluding 0 = 1 — without axioms, plugins, or unsafe flags. Prin…",
-    "url": "https://seclists.org/oss-sec/2026/q4/384",
-    "source": {
-      "name": "Seclists.org"
-    },
-    "publishedAt": "2026-10-26T00:21:58Z"
   },
   {
     "title": "Counting Primes",
