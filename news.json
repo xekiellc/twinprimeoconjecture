@@ -18,6 +18,15 @@
     "publishedAt": "2026-11-11T12:30:00Z"
   },
   {
+    "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "description": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie be…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "source": {
+      "name": "Science Daily"
+    },
+    "publishedAt": "2026-11-10T00:42:52Z"
+  },
+  {
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -45,26 +54,17 @@
     "publishedAt": "2026-11-08T17:56:19Z"
   },
   {
-    "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
-    "description": "An unreleased Anthropic model helped solve a longstanding problem in quantum computing — another major math problem solved with AI.",
-    "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11#article",
+    "title": "AI could transform mathematics, but humans will still need to be in the loop",
+    "description": "AI solutions to longstanding maths problems have sent shockwaves through the mathematics community.",
+    "url": "https://theconversation.com/ai-could-transform-mathematics-but-humans-will-still-need-to-be-in-the-loop-294982",
     "source": {
-      "name": "Business Insider"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-11-07T00:49:10Z"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
-    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source": {
-      "name": "TechCrunch"
-    },
-    "publishedAt": "2026-11-05T16:27:24Z"
+    "publishedAt": "2026-11-06T13:22:49Z"
   },
   {
     "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
-    "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
+    "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec��",
     "url": "https://github.com/djuk8/beacon/",
     "source": {
       "name": "Github.com"
