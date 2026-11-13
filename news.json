@@ -1,5 +1,14 @@
 [
   {
+    "title": "My excellent Conversation with Terence Tao",
+    "description": "Here is the audio, video, and transcript. Here is part of the episode summary:\nTyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into …",
+    "url": "https://biztoc.com/x/3db41f0ae958cdb4",
+    "source": {
+      "name": "Biztoc.com"
+    },
+    "publishedAt": "2026-11-12T06:02:55Z"
+  },
+  {
     "title": "Nov. 18th Special Talk: Dorian Goldfeld",
     "description": "Title: The Quasi Riemann Hypothesis Speaker: Dorian Goldfeld Date, Time, Location: Wednesday, Nov. 18 @4:30 PM – 5:30 PM in Math Hall 520 Abstract: Dorian will give a talk on the recent AI advance and generalizations.",
     "url": "https://www.math.columbia.edu/2026/11/11/nov-18th-special-talk-dorian-goldfeld/",
@@ -18,24 +27,6 @@
     "publishedAt": "2026-11-11T12:30:00Z"
   },
   {
-    "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-    "description": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie be…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-    "source": {
-      "name": "Science Daily"
-    },
-    "publishedAt": "2026-11-10T00:42:52Z"
-  },
-  {
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "description": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "source": {
-      "name": "Anthropic.com"
-    },
-    "publishedAt": "2026-11-09T18:56:29Z"
-  },
-  {
     "title": "AI has transformed maths — this is how we got here",
     "description": "The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians.",
     "url": "https://www.nature.com/articles/d41586-026-03627-6",
@@ -43,15 +34,6 @@
       "name": "Nature.com"
     },
     "publishedAt": "2026-11-09T00:00:00Z"
-  },
-  {
-    "title": "Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof",
-    "description": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 &amp; automatic spectral gap on the compact cons...",
-    "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
-    "source": {
-      "name": "Github.com"
-    },
-    "publishedAt": "2026-11-08T17:56:19Z"
   },
   {
     "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
@@ -63,13 +45,31 @@
     "publishedAt": "2026-11-07T00:49:10Z"
   },
   {
-    "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
-    "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you prec…",
-    "url": "https://github.com/djuk8/beacon/",
+    "title": "AI could transform mathematics, but humans will still need to be in the loop",
+    "description": "AI solutions to longstanding maths problems have sent shockwaves through the mathematics community.",
+    "url": "https://theconversation.com/ai-could-transform-mathematics-but-humans-will-still-need-to-be-in-the-loop-294982",
     "source": {
-      "name": "Github.com"
+      "name": "The Conversation Africa"
     },
-    "publishedAt": "2026-11-04T22:43:54Z"
+    "publishedAt": "2026-11-06T13:22:49Z"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics | TechCrunch",
+    "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": {
+      "name": "TechCrunch"
+    },
+    "publishedAt": "2026-11-05T16:27:24Z"
+  },
+  {
+    "title": "The Year Math Changed Forever",
+    "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
+    "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
+    "source": {
+      "name": "Longreads.com"
+    },
+    "publishedAt": "2026-11-03T17:38:41Z"
   },
   {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
