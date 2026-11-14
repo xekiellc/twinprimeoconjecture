@@ -1,5 +1,14 @@
 [
   {
+    "title": "Show HN: Zero-axiom Lean 4 proof of Yang–Mills R^4 defect via Peano arithmetic",
+    "description": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 &amp; automatic spectral gap on the compact cons...",
+    "url": "https://github.com/Dr-Logvinovich/round-square",
+    "source": {
+      "name": "Github.com"
+    },
+    "publishedAt": "2026-11-13T06:47:13Z"
+  },
+  {
     "title": "My excellent Conversation with Terence Tao",
     "description": "Here is the audio, video, and transcript. Here is part of the episode summary:\nTyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s incompleteness theorem, before moving into …",
     "url": "https://biztoc.com/x/3db41f0ae958cdb4",
@@ -25,6 +34,15 @@
       "name": "Scientific American"
     },
     "publishedAt": "2026-11-11T12:30:00Z"
+  },
+  {
+    "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "description": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie be…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "source": {
+      "name": "Science Daily"
+    },
+    "publishedAt": "2026-11-10T00:42:52Z"
   },
   {
     "title": "AI has transformed maths — this is how we got here",
@@ -81,15 +99,6 @@
     "publishedAt": "2026-11-04T22:43:54Z"
   },
   {
-    "title": "The Year Math Changed Forever",
-    "description": "\"A.I. is solving problems that stumped the field for decades. Mathematicians look to Terence Tao for guidance on their altered world.\"",
-    "url": "https://longreads.com/2026/11/03/terence-tao-navier-stokes-ai-math-millenium-prize/",
-    "source": {
-      "name": "Longreads.com"
-    },
-    "publishedAt": "2026-11-03T17:38:41Z"
-  },
-  {
     "title": "Collaborative retreat: New developments in the theory of zeta functions",
     "description": "Edgar Assing, Valentin Blomer, and Farrell Brumley are organizing an event at the Hausdorff Center in Bonn on Jan 11-15 to discuss recent developments regarding the Riemann zeta function and allied functions. From the announcement: “This includes in particula…",
     "url": "https://terrytao.wordpress.com/2026/10/30/collaborative-retreat-new-developments-in-the-theory-of-zeta-functions/",
@@ -97,14 +106,5 @@
       "name": "Wordpress.com"
     },
     "publishedAt": "2026-10-30T15:02:45Z"
-  },
-  {
-    "title": "Counting Primes",
-    "description": "Since the probability that a number is prime is roughly the number of primes is close to Indeed, if is the number of primes the recently proved quasi-Riemann hypothesis implies for some constants and If the Riemann hypothesis is true, any will do. But here’s …",
-    "url": "https://johncarlosbaez.wordpress.com/2026/10/24/counting-primes/",
-    "source": {
-      "name": "Wordpress.com"
-    },
-    "publishedAt": "2026-10-24T19:02:44Z"
   }
 ]
